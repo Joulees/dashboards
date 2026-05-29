@@ -29,7 +29,7 @@ OUT_FILE = os.path.join(ROOT, "docs", "data", "snapshot.json")
 
 FMP_KEY = os.environ.get("FMP_API_KEY", "").strip()
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-FMP_BASE = "https://financialmodelingprep.com/api/v3"
+FMP_BASE = "https://financialmodelingprep.com/stable"
 ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5")
 
 TODAY = dt.date.today()
@@ -65,30 +65,31 @@ def fmp(path, **params):
     return http_get_json(f"{FMP_BASE}/{path}?{parse.urlencode(params)}")
 
 
-# ----------------------------- FMP-Abrufe -----------------------------
+# ----------------------------- FMP-Abrufe (stable API) -----------------------------
 def get_prices(symbol):
-    """Taegliche Schlusskurse (aelteste zuerst) + Waehrung."""
-    data = fmp(f"historical-price-full/{parse.quote(symbol)}",
-               serietype="line", timeseries=HORIZON_DAYS)
-    if not data or "historical" not in data:
+    """Taegliche Schlusskurse (aelteste zuerst). Stable: /historical-price-eod/full"""
+    frm = (TODAY - dt.timedelta(days=HORIZON_DAYS * 2)).isoformat()  # genug fuer ~95 Handelstage
+    to = TODAY.isoformat()
+    data = fmp("historical-price-eod/full", symbol=symbol, **{"from": frm, "to": to})
+    if not isinstance(data, list) or not data:
         return None
-    hist = data["historical"]
-    closes = [float(h["close"]) for h in reversed(hist) if h.get("close") is not None]
+    # Eintraege haben 'date' und 'close'; nach Datum aufsteigend sortieren
+    rows = [d for d in data if d.get("close") is not None and d.get("date")]
+    rows.sort(key=lambda d: d["date"])
+    closes = [float(d["close"]) for d in rows][-HORIZON_DAYS:]
     return {"closes": closes} if len(closes) >= 20 else None
 
 
 def get_currency(symbol):
-    q = fmp(f"quote/{parse.quote(symbol)}")
-    if isinstance(q, list) and q:
-        # FMP liefert keine Waehrung im quote; aus Profil holen
-        prof = fmp(f"profile/{parse.quote(symbol)}")
-        if isinstance(prof, list) and prof:
-            return prof[0].get("currency", "") or ""
+    prof = fmp("profile", symbol=symbol)
+    if isinstance(prof, list) and prof:
+        return prof[0].get("currency", "") or ""
     return ""
 
 
 def get_news(symbol):
-    data = fmp("stock_news", tickers=symbol, limit=12)
+    """Stable: /news/stock?symbols=SYM — Felder: publishedDate, title, text, site, url"""
+    data = fmp("news/stock", symbols=symbol, limit=12)
     if not isinstance(data, list):
         return []
     cutoff = TODAY - dt.timedelta(days=NEWS_LOOKBACK_DAYS)
@@ -105,7 +106,7 @@ def get_news(symbol):
             "date": date_str,
             "title": (n.get("title") or "").strip(),
             "summary": (n.get("text") or "").strip()[:400],
-            "source": n.get("site") or "",
+            "source": n.get("site") or n.get("publisher") or "",
             "url": n.get("url") or "",
             "category": "Sonstiges",
         })
@@ -113,10 +114,10 @@ def get_news(symbol):
 
 
 def get_events(symbol):
-    """Kommende Earnings-Termine (FMP earning_calendar je Symbol)."""
+    """Kommende Earnings-Termine. Stable: /earnings-calendar?symbol=SYM&from&to"""
     frm = TODAY.isoformat()
     to = (TODAY + dt.timedelta(days=EVENT_HORIZON_DAYS)).isoformat()
-    data = fmp("earning_calendar", symbol=symbol, **{"from": frm, "to": to})
+    data = fmp("earnings-calendar", symbol=symbol, **{"from": frm, "to": to})
     out = []
     if isinstance(data, list):
         for e in data:
@@ -304,6 +305,13 @@ def main():
 
     print(f"\nFertig: {len(snapshot['news'])} News, {len(snapshot['events'])} Events "
           f"-> {os.path.relpath(OUT_FILE, ROOT)}")
+
+    have_tech = sum(1 for e in snapshot["companies"].values() if e.get("tech"))
+    print(f"Kursdaten vorhanden fuer {have_tech} Titel.")
+    if len(snapshot["news"]) == 0 and have_tech == 0:
+        print("HINWEIS: Es kamen keinerlei Daten zurueck. Pruefe (1) ob FMP_API_KEY gueltig ist "
+              "und (2) ob dein FMP-Plan die Endpunkte abdeckt. News/Earnings koennen je nach Plan "
+              "eingeschraenkt sein; Kurse sind im Free-Plan i.d.R. verfuegbar.")
 
 
 if __name__ == "__main__":
