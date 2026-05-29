@@ -40,6 +40,49 @@ HORIZON_DAYS = 95           # Kurshistorie (Tage)
 NEWS_LOOKBACK_DAYS = 21     # nur News der letzten N Tage
 EVENT_HORIZON_DAYS = 100    # kommende Events bis N Tage
 
+# Seriöse Quellen: Pressemitteilungs-Verteiler + Wirtschaftsjournalismus.
+# Abgleich case-insensitiv NUR gegen den Quellennamen (nicht die URL).
+PR_WIRES = (
+    "globenewswire", "businesswire", "business wire", "prnewswire", "pr newswire",
+    "newswire", "eqs-news", "eqs news", "dgap", "investegate", "regulatory news service",
+    "presseportal", "globe newswire",
+)
+SOURCE_WHITELIST = PR_WIRES + (
+    "financial times", "ft.com", "wall street journal", "wsj", "reuters", "bloomberg",
+    "handelsblatt", "börsen-zeitung", "boersen-zeitung", "the economist", "economist",
+    "cnbc", "marketwatch", "barron", "forbes", "fortune", "nikkei", "financial post",
+    "globe and mail", "the times", "the guardian", "telegraph", "der standard", "die presse",
+    "frankfurter allgemeine", "süddeutsche", "manager magazin",
+    "wirtschaftswoche", "wirtschafts woche", "nzz", "neue zürcher", "les echos",
+    "il sole 24 ore", "associated press", "ap news",
+)
+# Aktienportale / Boulevard / Konsum-Tech -> ausschliessen (gewinnt gegen Whitelist)
+SOURCE_BLACKLIST = (
+    "boerse", "börse", "finanzen.net", "finanzen.ch", "finanzen.at", "aktionär", "aktionaer",
+    "wallstreet online", "wallstreet-online", "ad hoc", "ad-hoc", "adhoc", "finanznachrichten",
+    "aktiencheck", "marketscreener", "simplywall", "simply wall", "fool", "tipranks",
+    "stocktitan", "stocktwits", "benzinga", "zacks", "investorplace", "gurufocus", "wallmine",
+    "marketbeat", "stockanalysis", "boersengefluester", "4investors", "onvista", "ariva",
+    "investing.com", "reutersconnect", "chip", "netzwelt", "golem", "delamar",
+    "computerbase", "heise", "winfuture", "mydealz", "digital fernsehen",
+)
+
+# Themenfilter: nur Unternehmens-/Finanzentwicklungen zulassen
+FINANCE_KEYWORDS = (
+    "earnings", "results", "ergebnis", "quartal", "halbjahr", "half-year", "full-year",
+    "jahreszahlen", "umsatz", "revenue", "profit", "gewinn", "loss", "verlust", "ebit",
+    "guidance", "ausblick", "prognose", "outlook", "forecast", "trading update",
+    "dividend", "dividende", "buyback", "rückkauf", "rueckkauf", "share", "aktie", "notes",
+    "bond", "anleihe", "refinanz", "rating", "downgrade", "upgrade", "moody", "fitch",
+    "acquisition", "übernahme", "uebernahme", "merger", "fusion", "acquire", "stake",
+    "beteiligung", "divest", "joint venture", "investment decision", "investitionsentscheidung",
+    "ceo", "cfo", "chair", "vorstand", "appoint", "ernennt", "steps down", "rücktritt",
+    "contract", "auftrag", "order", "wins", "launch", "restructur", "restrukturier",
+    "layoff", "stellenabbau", "stellen", "insolven", "profit warning", "gewinnwarnung",
+    "capital markets day", "investor day", "hauptversammlung", "agm", "annual general meeting",
+    "conference", "konferenz", "presents at", "to report", "expansion", "ausbau", "fid",
+)
+
 
 # ----------------------------- HTTP-Helfer -----------------------------
 def http_get_json(url, tries=3, pause=1.5):
@@ -108,14 +151,61 @@ def get_currency(symbol):
 
 
 def _relevant(name, title, summary):
-    """Behalte nur Meldungen, die den Firmennamen wirklich erwähnen."""
+    """Behalte nur Meldungen, die WIRKLICH dieses Unternehmen betreffen:
+    voller Name als Phrase ODER alle markanten Namensbestandteile vorhanden."""
     hay = (title + " " + summary).lower()
     nm = name.lower()
     if nm in hay:
         return True
-    # sonst: laengstes markantes Wort des Namens muss vorkommen
-    words = [w for w in re.split(r"[^a-zA-ZäöüÄÖÜ0-9]+", nm) if len(w) >= 4]
-    return any(w in hay for w in words) if words else False
+    words = [w for w in re.split(r"[^a-zA-ZäöüÄÖÜ0-9]+", nm) if len(w) >= 3]
+    if not words:
+        return False
+    return all(w in hay for w in words)
+
+
+def _source_ok(source):
+    """Nur Pressemitteilungen + serioese Wirtschaftsmedien; Aktienportale/Konsum raus.
+    Abgleich ausschliesslich gegen den Quellennamen."""
+    s = source.lower().strip()
+    if not s:
+        return False
+    if any(b in s for b in SOURCE_BLACKLIST):
+        return False
+    return any(w in s for w in SOURCE_WHITELIST)
+
+
+def _is_pr(source):
+    return any(w in source.lower() for w in PR_WIRES)
+
+
+def _topical(title, summary, source):
+    """Nur Unternehmens-/Finanzentwicklungen. PR-Wires gelten immer als relevant."""
+    if _is_pr(source):
+        return True
+    hay = (title + " " + summary).lower()
+    return any(k in hay for k in FINANCE_KEYWORDS)
+
+
+def _categorize(title, summary, source):
+    hay = (title + " " + summary).lower()
+    groups = [
+        ("Earnings", ("earnings", "results", "ergebnis", "quartal", "halbjahr", "half-year",
+                      "full-year", "jahreszahlen", "umsatz", "revenue", "profit", "gewinn",
+                      "loss", "verlust", "ebit", "q1", "q2", "q3", "q4", "fy")),
+        ("Guidance", ("guidance", "ausblick", "prognose", "outlook", "forecast", "trading update",
+                      "profit warning", "gewinnwarnung", "raises", "cuts", "delays")),
+        ("M&A", ("acquisition", "übernahme", "uebernahme", "merger", "fusion", "acquire", "stake",
+                 "beteiligung", "divest", "joint venture", "investment decision",
+                 "investitionsentscheidung", "expansion", "ausbau", "fid")),
+        ("Conference", ("conference", "konferenz", "capital markets day", "investor day",
+                        "hauptversammlung", "annual general meeting", "agm", "presents at")),
+        ("Rating", ("rating", "downgrade", "upgrade", "moody", "fitch", "creditwatch", "bond",
+                    "anleihe", "notes", "refinanz")),
+    ]
+    for cat, kws in groups:
+        if any(k in hay for k in kws):
+            return cat
+    return "Sonstiges" if _is_pr(source) else "Markt"
 
 
 def _fetch_rss(name, query, lang):
@@ -123,7 +213,7 @@ def _fetch_rss(name, query, lang):
         loc = "&hl=de&gl=DE&ceid=DE:de"
     else:
         loc = "&hl=en-US&gl=US&ceid=US:en"
-    url = "https://news.google.com/rss/search?q=" + parse.quote(query + " when:21d") + loc
+    url = "https://news.google.com/rss/search?q=" + parse.quote(query + " when:30d") + loc
     xml = http_get_text(url)
     if not xml:
         return []
@@ -148,23 +238,32 @@ def _fetch_rss(name, query, lang):
         summary = re.sub(r"<[^>]+>", " ", html_mod.unescape(desc))
         summary = re.sub(r"\s+", " ", summary).strip()[:240]
         title = title.strip()
+        source = source.strip()
         if not _relevant(name, title, summary):
+            continue
+        if not _source_ok(source):
+            continue
+        if not _topical(title, summary, source):
             continue
         out.append({"date": date_iso, "title": title,
                     "summary": summary or title,
-                    "source": source.strip(), "url": link, "category": "Sonstiges"})
+                    "source": source, "url": link,
+                    "category": _categorize(title, summary, source)})
     return out
 
 
 def get_news(name, query=None):
-    """Kostenlose News via Google-News-RSS. Deutsch bevorzugt, Englisch als Ergaenzung."""
+    """Kostenlose News via Google-News-RSS, deutsch + englisch zusammengefuehrt.
+    Gefiltert auf Pressemitteilungen + serioese Wirtschaftsmedien (keine Aktienportale,
+    kein Konsum-/Boulevard-Rauschen), thematisch auf Unternehmens-/Finanzentwicklungen."""
     q = query or f'"{name}"'
-    items = _fetch_rss(name, q, "de")
-    if len(items) < 3:                       # international oft nur englisch abgedeckt
-        seen = {n["title"] for n in items}
-        for n in _fetch_rss(name, q, "en"):
-            if n["title"] not in seen:
-                items.append(n); seen.add(n["title"])
+    items, seen = [], set()
+    for lang in ("de", "en"):
+        for n in _fetch_rss(name, q, lang):
+            key = n["title"].lower()
+            if key not in seen:
+                seen.add(key)
+                items.append(n)
     items.sort(key=lambda n: n["date"], reverse=True)
     return items[:6]
 
