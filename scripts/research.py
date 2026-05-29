@@ -21,6 +21,9 @@ import json
 import time
 import math
 import datetime as dt
+import html as html_mod
+import re
+from xml.etree import ElementTree as ET
 from urllib import request, parse, error
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -60,6 +63,21 @@ def http_get_json(url, tries=3, pause=1.5):
     return None
 
 
+def http_get_text(url, tries=2, pause=1.0):
+    """GET mit Text-Antwort (fuer RSS/XML)."""
+    for attempt in range(tries):
+        try:
+            req = request.Request(url, headers={"User-Agent": "Mozilla/5.0 research-dashboard/1.0"})
+            with request.urlopen(req, timeout=30) as resp:
+                return resp.read().decode("utf-8", "replace")
+        except Exception as e:
+            if attempt == tries - 1:
+                print(f"   RSS-Fehler bei {url.split('?')[0]}: {e}")
+                return None
+            time.sleep(pause)
+    return None
+
+
 def fmp(path, **params):
     params["apikey"] = FMP_KEY
     return http_get_json(f"{FMP_BASE}/{path}?{parse.urlencode(params)}")
@@ -67,17 +85,19 @@ def fmp(path, **params):
 
 # ----------------------------- FMP-Abrufe (stable API) -----------------------------
 def get_prices(symbol):
-    """Taegliche Schlusskurse (aelteste zuerst). Stable: /historical-price-eod/full"""
-    frm = (TODAY - dt.timedelta(days=HORIZON_DAYS * 2)).isoformat()  # genug fuer ~95 Handelstage
+    """Taegliche Schlusskurse (aelteste zuerst). Erst 'full', bei Sperre 'light'."""
+    frm = (TODAY - dt.timedelta(days=HORIZON_DAYS * 2)).isoformat()
     to = TODAY.isoformat()
-    data = fmp("historical-price-eod/full", symbol=symbol, **{"from": frm, "to": to})
-    if not isinstance(data, list) or not data:
-        return None
-    # Eintraege haben 'date' und 'close'; nach Datum aufsteigend sortieren
-    rows = [d for d in data if d.get("close") is not None and d.get("date")]
-    rows.sort(key=lambda d: d["date"])
-    closes = [float(d["close"]) for d in rows][-HORIZON_DAYS:]
-    return {"closes": closes} if len(closes) >= 20 else None
+    for path, field in (("historical-price-eod/full", "close"),
+                        ("historical-price-eod/light", "price")):
+        data = fmp(path, symbol=symbol, **{"from": frm, "to": to})
+        if isinstance(data, list) and data:
+            rows = [d for d in data if d.get(field) is not None and d.get("date")]
+            rows.sort(key=lambda d: d["date"])
+            closes = [float(d[field]) for d in rows][-HORIZON_DAYS:]
+            if len(closes) >= 20:
+                return {"closes": closes}
+    return None
 
 
 def get_currency(symbol):
@@ -87,30 +107,66 @@ def get_currency(symbol):
     return ""
 
 
-def get_news(symbol):
-    """Stable: /news/stock?symbols=SYM — Felder: publishedDate, title, text, site, url"""
-    data = fmp("news/stock", symbols=symbol, limit=12)
-    if not isinstance(data, list):
+def _relevant(name, title, summary):
+    """Behalte nur Meldungen, die den Firmennamen wirklich erwähnen."""
+    hay = (title + " " + summary).lower()
+    nm = name.lower()
+    if nm in hay:
+        return True
+    # sonst: laengstes markantes Wort des Namens muss vorkommen
+    words = [w for w in re.split(r"[^a-zA-ZäöüÄÖÜ0-9]+", nm) if len(w) >= 4]
+    return any(w in hay for w in words) if words else False
+
+
+def _fetch_rss(name, query, lang):
+    if lang == "de":
+        loc = "&hl=de&gl=DE&ceid=DE:de"
+    else:
+        loc = "&hl=en-US&gl=US&ceid=US:en"
+    url = "https://news.google.com/rss/search?q=" + parse.quote(query + " when:21d") + loc
+    xml = http_get_text(url)
+    if not xml:
         return []
-    cutoff = TODAY - dt.timedelta(days=NEWS_LOOKBACK_DAYS)
+    try:
+        root = ET.fromstring(xml)
+    except ET.ParseError:
+        return []
+    from email.utils import parsedate_to_datetime
     out = []
-    for n in data:
-        date_str = (n.get("publishedDate") or "")[:10]
+    for item in root.iter("item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        pub = (item.findtext("pubDate") or "").strip()
+        desc = item.findtext("description") or ""
         try:
-            d = dt.date.fromisoformat(date_str)
-        except ValueError:
+            date_iso = parsedate_to_datetime(pub).date().isoformat()
+        except Exception:
+            date_iso = TODAY.isoformat()
+        source = ""
+        if " - " in title:
+            title, source = title.rsplit(" - ", 1)
+        summary = re.sub(r"<[^>]+>", " ", html_mod.unescape(desc))
+        summary = re.sub(r"\s+", " ", summary).strip()[:240]
+        title = title.strip()
+        if not _relevant(name, title, summary):
             continue
-        if d < cutoff:
-            continue
-        out.append({
-            "date": date_str,
-            "title": (n.get("title") or "").strip(),
-            "summary": (n.get("text") or "").strip()[:400],
-            "source": n.get("site") or n.get("publisher") or "",
-            "url": n.get("url") or "",
-            "category": "Sonstiges",
-        })
-    return out[:6]
+        out.append({"date": date_iso, "title": title,
+                    "summary": summary or title,
+                    "source": source.strip(), "url": link, "category": "Sonstiges"})
+    return out
+
+
+def get_news(name, query=None):
+    """Kostenlose News via Google-News-RSS. Deutsch bevorzugt, Englisch als Ergaenzung."""
+    q = query or f'"{name}"'
+    items = _fetch_rss(name, q, "de")
+    if len(items) < 3:                       # international oft nur englisch abgedeckt
+        seen = {n["title"] for n in items}
+        for n in _fetch_rss(name, q, "en"):
+            if n["title"] not in seen:
+                items.append(n); seen.add(n["title"])
+    items.sort(key=lambda n: n["date"], reverse=True)
+    return items[:6]
 
 
 def get_events(symbol):
@@ -274,24 +330,24 @@ def main():
         entry = {"news": [], "events": [], "tech": None,
                  "profile": {"businessModel": "", "differentiation": ""}}
 
+        # News: kostenlos via Google-News-RSS — fuer ALLE Titel, auch ohne Symbol
+        raw_news = get_news(name, c.get("newsQuery"))
+        raw_news = summarize_news(name, raw_news)
+        for n in raw_news:
+            n.update({"companyId": cid, "company": name,
+                      "asset": c["asset"], "status": c["status"]})
+        entry["news"] = raw_news
+        snapshot["news"].extend(raw_news)
+
+        # Kurse + Events: nur bei vorhandenem FMP-Symbol
         if sym:
             prices = get_prices(sym)
             if prices and not c.get("noChart"):
                 entry["tech"] = compute_ta(prices["closes"], get_currency(sym))
-
-            raw_news = get_news(sym)
-            raw_news = summarize_news(name, raw_news)
-            for n in raw_news:
-                n.update({"companyId": cid, "company": name,
-                          "asset": c["asset"], "status": c["status"]})
-            entry["news"] = raw_news
-            snapshot["news"].extend(raw_news)
-
             for e in get_events(sym):
                 e.update({"companyId": cid, "company": name})
                 entry["events"].append(e)
                 snapshot["events"].append(e)
-
             time.sleep(0.3)   # FMP schonen
 
         snapshot["companies"][str(cid)] = entry
