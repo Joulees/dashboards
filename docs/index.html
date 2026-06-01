@@ -62,6 +62,8 @@ function App(){
   const [loadErr,setLoadErr]=useState("");
   const [fAsset,setFAsset]=useState("Alle");
   const [fStatus,setFStatus]=useState("Alle");
+  const [fCompany,setFCompany]=useState("Alle");
+  const [fTime,setFTime]=useState("Alle");
   const [selId,setSelId]=useState(null);
 
   const loadAll = useCallback(async ()=>{
@@ -91,13 +93,30 @@ function App(){
   const companyById=useMemo(()=>Object.fromEntries(universe.map(c=>[c.id,c])),[universe]);
   const inFilter=(a,s)=>(fAsset==="Alle"||a===fAsset)&&(fStatus==="Alle"||s===fStatus);
 
-  const visNews=useMemo(()=> (snap.news||[]).filter(n=>{
-    const c=companyById[n.companyId]; if(!c) return false; return inFilter(c.asset,c.status);
-  }),[snap,fAsset,fStatus,companyById]);
+  // Zeitstempel des juengsten Updates -> markiert die "neuen" Meldungen
+  const latestStamp=useMemo(()=>{
+    let m=""; (snap.news||[]).forEach(n=>{ if(n.firstSeen&&n.firstSeen>m) m=n.firstSeen; });
+    return m;
+  },[snap]);
+
+  const visNews=useMemo(()=>{
+    const now=Date.now();
+    const cut = fTime==="Heute" ? 1 : fTime==="Woche" ? 7 : null;
+    return (snap.news||[]).filter(n=>{
+      const c=companyById[n.companyId]; if(!c) return false;
+      if(!inFilter(c.asset,c.status)) return false;
+      if(fCompany!=="Alle" && String(n.companyId)!==String(fCompany)) return false;
+      if(cut!=null){
+        const d=new Date(n.date); if(isNaN(d)) return false;
+        if((now-d.getTime())/86400000 > cut) return false;
+      }
+      return true;
+    });
+  },[snap,fAsset,fStatus,fCompany,fTime,companyById]);
 
   const visEvents=useMemo(()=>{ const t=todayISO();
-    return (snap.events||[]).filter(e=>{ const c=companyById[e.companyId]; const okF=c?inFilter(c.asset,c.status):true; return okF && (!e.date||e.date>=t); });
-  },[snap,fAsset,fStatus,companyById]);
+    return (snap.events||[]).filter(e=>{ const c=companyById[e.companyId]; const okF=c?inFilter(c.asset,c.status):true; const okC=fCompany==="Alle"||String(e.companyId)===String(fCompany); return okF && okC && (!e.date||e.date>=t); });
+  },[snap,fAsset,fStatus,fCompany,companyById]);
 
   const openCompany=useCallback((id)=>{ setSelId(id); setPage("company"); },[]);
 
@@ -108,6 +127,7 @@ function App(){
         <div className="rd-brand"><span className="k">Research Dashboard</span><span className="n">Coverage Desk</span></div>
         <nav className="rd-nav">
           <button className={page==="home"?"on":""} onClick={()=>setPage("home")}>Newsflow</button>
+          <button className={page==="calendar"?"on":""} onClick={()=>setPage("calendar")}>Kalender</button>
           <button className={page==="markets"?"on":""} onClick={()=>setPage("markets")}>Märkte</button>
           <button className={page==="company"?"on":""} onClick={()=>setPage("company")}>Unternehmen</button>
           <button className={page==="tech"?"on":""} onClick={()=>setPage("tech")}>Technik</button>
@@ -116,7 +136,8 @@ function App(){
       </div></div>
 
       <div className="rd-wrap">
-        {page==="home" && <HomePage {...{snap,visNews,visEvents,fAsset,setFAsset,fStatus,setFStatus,loading,loadErr,loadAll,companyById,openCompany}}/>}
+        {page==="home" && <HomePage {...{snap,visNews,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,fTime,setFTime,universe,loading,loadErr,loadAll,companyById,openCompany}}/>}
+        {page==="calendar" && <CalendarPage {...{visEvents,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,universe,snap}}/>}
         {page==="markets" && <MarketsPage universe={universe} onOpen={openCompany}/>}
         {page==="company" && <CompanyDetail {...{universe,selId,setSelId,snap}}/>}
         {page==="tech" && <TechPage universe={universe} snap={snap} onOpen={openCompany}/>}
@@ -130,53 +151,57 @@ function App(){
   );
 }
 
-/* ---------------- HOME ---------------- */
-function HomePage({snap,visNews,visEvents,fAsset,setFAsset,fStatus,setFStatus,loading,loadErr,loadAll,companyById,openCompany}){
+/* ---------------- HOME (Newsflow) ---------------- */
+function HomePage({snap,visNews,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,fTime,setFTime,universe,loading,loadErr,loadAll,companyById,openCompany}){
+  const newCount=visNews.filter(n=>n.firstSeen && n.firstSeen===latestStamp).length;
+  const sortedCos=[...universe].sort((a,b)=>a.name.localeCompare(b.name));
   return (
     <div className="fade">
       <div className="rd-h">
         <div>
-          <h1>Newsflow & Kalender</h1>
-          <p>Meldungen, Earnings, Konferenzen und IR-Termine über das gesamte Universum. Klicke eine Meldung für Details und Quelle.</p>
+          <h1>Newsflow</h1>
+          <p>Pressemitteilungen, Earnings, Konferenzen und Meldungen seriöser Wirtschaftsmedien. Klicke eine Meldung für Details und Quelle.{newCount>0 && <> <b style={{color:"var(--bond)"}}>{newCount} neu seit dem letzten Update.</b></>}</p>
         </div>
-        <div className="rd-tools">
-          <div className="rd-segs">
-            <div className="rd-seg2">{["Alle","Aktien","Anleihen"].map(a=><button key={a} className={fAsset===a?"on":""} onClick={()=>setFAsset(a)}>{a}</button>)}</div>
-            <div className="rd-seg2">{["Alle","Portfolio","Watchlist"].map(s=><button key={s} className={fStatus===s?"on":""} onClick={()=>setFStatus(s)}>{s}</button>)}</div>
-          </div>
-          <div className="rd-refresh">
-            <span className="rd-stamp">Stand: <b>{snap.generatedAt?fmtTime(snap.generatedAt):"—"}</b></span>
-            <button className="rd-btn sm" onClick={loadAll} disabled={loading}>{loading?"lädt…":"↻ Neu laden"}</button>
-          </div>
+        <div className="rd-refresh">
+          <span className="rd-stamp">Stand: <b>{snap.generatedAt?fmtTime(snap.generatedAt):"—"}</b></span>
+          <button className="rd-btn sm" onClick={loadAll} disabled={loading}>{loading?"lädt…":"↻ Neu laden"}</button>
         </div>
+      </div>
+
+      <div className="rd-filterbar">
+        <div className="rd-seg2">{["Alle","Aktien","Anleihen"].map(a=><button key={a} className={fAsset===a?"on":""} onClick={()=>setFAsset(a)}>{a}</button>)}</div>
+        <div className="rd-seg2">{["Alle","Portfolio","Watchlist"].map(s=><button key={s} className={fStatus===s?"on":""} onClick={()=>setFStatus(s)}>{s}</button>)}</div>
+        <div className="rd-seg2">{[["Alle","Alle"],["Heute","Heute"],["Woche","7 Tage"]].map(([v,l])=><button key={v} className={fTime===v?"on":""} onClick={()=>setFTime(v)}>{l}</button>)}</div>
+        <select className="rd-csel" value={fCompany} onChange={e=>setFCompany(e.target.value)}>
+          <option value="Alle">Alle Unternehmen</option>
+          {sortedCos.map(c=><option key={c.id} value={c.id}>{c.name}</option>)}
+        </select>
+        {(fCompany!=="Alle"||fTime!=="Alle"||fAsset!=="Alle"||fStatus!=="Alle") &&
+          <button className="rd-clear" onClick={()=>{setFAsset("Alle");setFStatus("Alle");setFCompany("Alle");setFTime("Alle");}}>Filter zurücksetzen</button>}
       </div>
 
       {loadErr && <div className="rd-diag-box bad">{loadErr}</div>}
 
-      <div className="rd-grid">
-        <div>
-          <div className="rd-sechead"><h2>Newsflow</h2><span className="c">{visNews.length} Einträge</span></div>
-          <div className="rd-feed">
-            {!loading && visNews.length===0 && <div className="rd-empty">Keine Meldungen für diese Filter im aktuellen Snapshot.</div>}
-            {visNews.map(n=><NewsCard key={n.url||n.companyId+n.title+n.date} n={n} name={companyById[n.companyId]?.name||n.company} onOpen={()=>companyById[n.companyId]&&openCompany(n.companyId)}/>)}
-          </div>
-        </div>
-        <aside>
-          <div className="rd-cal">
-            <h2>Event-Kalender</h2><p className="sub">Bevorstehende Termine der nächsten Monate</p>
-            <CalendarBody events={visEvents}/>
-          </div>
-        </aside>
+      <div className="rd-sechead"><h2>Meldungen</h2><span className="c">{visNews.length} Einträge</span></div>
+      <div className="rd-feed">
+        {!loading && visNews.length===0 && <div className="rd-empty">Keine Meldungen für diese Filter.</div>}
+        {visNews.map(n=>(
+          <NewsCard key={n.url||n.companyId+n.title+n.date}
+            n={n} name={companyById[n.companyId]?.name||n.company}
+            isNew={!!n.firstSeen && n.firstSeen===latestStamp}
+            onOpen={()=>companyById[n.companyId]&&openCompany(n.companyId)}/>
+        ))}
       </div>
     </div>
   );
 }
 
-function NewsCard({n,name,onOpen}){
+function NewsCard({n,name,isNew,onOpen}){
   const [open,setOpen]=useState(false);
   const color=CAT_COLORS[n.category]||CAT_COLORS.Sonstiges;
   return (
-    <div className="rd-news" onClick={()=>setOpen(o=>!o)}>
+    <div className={"rd-news"+(isNew?" is-new":"")} onClick={()=>setOpen(o=>!o)}>
+      {isNew && <span className="rd-newbadge">Neu</span>}
       <div className="row1">
         <span className="rd-cat" style={{background:color}}>{n.category}</span>
         <span className="rd-co rd-link" onClick={e=>{e.stopPropagation(); onOpen&&onOpen();}}>{name||n.company}</span>
@@ -189,8 +214,35 @@ function NewsCard({n,name,onOpen}){
   );
 }
 
+/* ---------------- KALENDER (eigener Tab) ---------------- */
+function CalendarPage({visEvents,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,universe,snap}){
+  const sortedCos=[...universe].sort((a,b)=>a.name.localeCompare(b.name));
+  return (
+    <div className="fade">
+      <div className="rd-h">
+        <div>
+          <h1>Event-Kalender</h1>
+          <p>Bevorstehende IR-Termine (Earnings, Konferenzen, Hauptversammlungen) der nächsten Monate, direkt aus den Investor-Relations-Seiten.</p>
+        </div>
+        <span className="rd-stamp">Stand: <b>{snap.generatedAt?fmtTime(snap.generatedAt):"—"}</b></span>
+      </div>
+      <div className="rd-filterbar">
+        <div className="rd-seg2">{["Alle","Aktien","Anleihen"].map(a=><button key={a} className={fAsset===a?"on":""} onClick={()=>setFAsset(a)}>{a}</button>)}</div>
+        <div className="rd-seg2">{["Alle","Portfolio","Watchlist"].map(s=><button key={s} className={fStatus===s?"on":""} onClick={()=>setFStatus(s)}>{s}</button>)}</div>
+        <select className="rd-csel" value={fCompany} onChange={e=>setFCompany(e.target.value)}>
+          <option value="Alle">Alle Unternehmen</option>
+          {sortedCos.map(c=><option key={c.id} value={c.id}>{c.name}</option>)}
+        </select>
+      </div>
+      <div className="rd-calwide">
+        <CalendarBody events={visEvents}/>
+      </div>
+    </div>
+  );
+}
+
 function CalendarBody({events}){
-  if(!events.length) return <div className="rd-empty" style={{padding:"28px 16px",fontSize:12.5}}>Keine bevorstehenden Events im Snapshot.</div>;
+  if(!events.length) return <div className="rd-empty" style={{fontSize:13}}>Keine bevorstehenden Events. Trage in den Einstellungen die IR-Kalender-URL der Unternehmen ein, damit Termine erscheinen.</div>;
   const groups={};
   events.forEach(e=>{ const d=new Date(e.date); const key=isNaN(d)?"Demnächst":d.toLocaleDateString("de-DE",{month:"long",year:"numeric"}); (groups[key]=groups[key]||[]).push(e); });
   return (<div>{Object.entries(groups).map(([month,evs])=>(
@@ -327,7 +379,7 @@ function TechPage({universe,snap,onOpen}){
 }
 
 /* ---------------- EINSTELLUNGEN ---------------- */
-const blankCo=()=>({id:Date.now(),name:"",symbol:"",asset:"Aktien",status:"Portfolio",competitors:[],markets:"",sector:""});
+const blankCo=()=>({id:Date.now(),name:"",symbol:"",asset:"Aktien",status:"Portfolio",competitors:[],markets:"",sector:"",irCalendarUrl:""});
 function SettingsPage({universe,saveUniverse,reload}){
   const [editing,setEditing]=useState(null);
   const [isNew,setIsNew]=useState(false);
@@ -414,6 +466,7 @@ function EditPanel({editing,setEditing,isNew,onSave,onDelete,onClose}){
         </div>
         <div className="rd-field"><label>Endmärkte</label><textarea value={editing.markets} onChange={e=>set("markets",e.target.value)} placeholder="Sektoren / Kundengruppen / Geografien."/></div>
         <div className="rd-field"><label>Sektor / Markt (für die Märkte-Seite)</label><input value={editing.sector||""} onChange={e=>set("sector",e.target.value)} placeholder="z. B. Banken, Software, Energie"/></div>
+        <div className="rd-field"><label>IR-Kalender-URL (für Events)</label><input value={editing.irCalendarUrl||""} onChange={e=>set("irCalendarUrl",e.target.value)} placeholder="https://… Finanzkalender-Seite des Unternehmens"/></div>
         <div className="rd-actions">
           {!isNew && <button className="rd-del" onClick={()=>{if(confirm(`"${editing.name}" löschen?`))onDelete();}}>Löschen</button>}
           <button className="rd-btn ghost" onClick={onClose}>Abbrechen</button>
@@ -465,8 +518,20 @@ function Style(){ return <style>{`
 .rd-sechead h2{font-family:'Fraunces',serif;font-weight:600;font-size:19px;margin:0;}
 .rd-sechead .c{font-family:'Spline Sans Mono',monospace;font-size:11px;color:var(--ink3);}
 .rd-feed{display:flex;flex-direction:column;gap:10px;}
-.rd-news{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:15px 17px;cursor:pointer;transition:.14s;}
+.rd-news{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:15px 17px;cursor:pointer;transition:.14s;position:relative;}
 .rd-news:hover{border-color:var(--navy);box-shadow:0 8px 26px rgba(22,32,46,.09);transform:translateY(-1px);}
+.rd-news.is-new{border-left:4px solid var(--bond);background:linear-gradient(90deg,rgba(44,110,106,.07),var(--card) 60%);}
+.rd-newbadge{position:absolute;top:13px;right:14px;font-family:'Spline Sans Mono',monospace;font-size:9px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#fff;background:var(--bond);padding:2px 8px;border-radius:999px;}
+.rd-filterbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--line);}
+.rd-csel{font:inherit;font-size:12.5px;color:var(--ink);background:var(--paper2);border:1px solid var(--line);border-radius:9px;padding:7px 11px;cursor:pointer;outline:none;min-width:170px;}
+.rd-csel:focus{border-color:var(--navy);box-shadow:0 0 0 3px rgba(22,49,79,.1);}
+.rd-clear{font:inherit;font-size:12px;color:var(--ink2);background:transparent;border:none;cursor:pointer;text-decoration:underline;padding:6px;}
+.rd-clear:hover{color:var(--watch);}
+.rd-calwide{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 24px;max-width:760px;}
+.rd-calwide .rd-month{font-size:11px;}
+.rd-calwide .rd-ev{padding:11px 0;}
+.rd-calwide .rd-ev .d{width:48px;}
+.rd-calwide .rd-ev .body .t{font-size:13.5px;}
 .rd-news .row1{display:flex;align-items:center;gap:9px;margin-bottom:7px;flex-wrap:wrap;}
 .rd-cat{font-family:'Spline Sans Mono',monospace;font-size:9.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;padding:3px 8px;border-radius:5px;color:#fff;}
 .rd-cat.sm{font-size:8.5px;padding:2px 6px;}
