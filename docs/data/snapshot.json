@@ -1,38 +1,9 @@
 {
- "generatedAt": "2026-05-31T08:09:44+00:00",
+ "generatedAt": "2026-06-01T08:45:40+00:00",
  "companies": {
   "1": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 1,
-     "company": "Metro Bank"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 1,
-     "company": "Metro Bank"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 1,
-     "company": "Metro Bank"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 1,
-     "company": "Metro Bank"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -64,50 +35,9 @@
      "company": "Chapters",
      "asset": "Anleihen",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-14",
-     "title": "Chapters Health System Named as 2026 Best Places to Work in Healthcare by Modern Healthcare",
-     "summary": "Chapters Health System Named as 2026 Best Places to Work in Healthcare by Modern Healthcare PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjVIbi1EYTVvZmsyamdrdDFXelVabWx2dnJJUmxqaGZacUhuNmtqNGJoRERsYlk3T3dmazEzbGdIcFZtZUtuaFdvWmVSenMzRUlXVVdPc21VUENPckhmdVc2cmRhdF9ZR1NMclFuemtjc0drYzdKY0d4X0llbUJDOHVzSHA1NG80MzQ2NXlON2NoT01MWkdWbF9PSkM4eWVQT1JhNmNUSGV0QzI4ekN5Umc3MDJ6aFRXVF9xa0ZyUjlzVFU0RkVFY204RTNvbG1ITnhFMzgwSUFuVGd1QXJ0TA?oc=5",
-     "category": "Sonstiges",
-     "companyId": 2,
-     "company": "Chapters",
-     "asset": "Anleihen",
-     "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 2,
-     "company": "Chapters"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 2,
-     "company": "Chapters"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 2,
-     "company": "Chapters"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 2,
-     "company": "Chapters"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -129,36 +59,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 3,
-     "company": "International Petroleum"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 3,
-     "company": "International Petroleum"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 3,
-     "company": "International Petroleum"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 3,
-     "company": "International Petroleum"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -216,36 +117,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 4,
-     "company": "Borr"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 4,
-     "company": "Borr"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 4,
-     "company": "Borr"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 4,
-     "company": "Borr"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -254,36 +126,7 @@
   },
   "5": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 5,
-     "company": "Mineral Resources"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 5,
-     "company": "Mineral Resources"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 5,
-     "company": "Mineral Resources"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 5,
-     "company": "Mineral Resources"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -353,36 +196,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 6,
-     "company": "Ubisoft"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 6,
-     "company": "Ubisoft"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 6,
-     "company": "Ubisoft"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 6,
-     "company": "Ubisoft"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -391,36 +205,7 @@
   },
   "7": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 7,
-     "company": "Grenke"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 7,
-     "company": "Grenke"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 7,
-     "company": "Grenke"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 7,
-     "company": "Grenke"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -490,36 +275,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 8,
-     "company": "Prosus"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 8,
-     "company": "Prosus"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 8,
-     "company": "Prosus"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 8,
-     "company": "Prosus"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -550,36 +306,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 10,
-     "company": "XPO"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 10,
-     "company": "XPO"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 10,
-     "company": "XPO"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 10,
-     "company": "XPO"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -589,11 +316,11 @@
   "11": {
    "news": [
     {
-     "date": "2026-05-28",
-     "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-     "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3FpVENkbldzYlJkMnlCWk9ma2NaZVFXMXZCU2xOcGRmZEV1bWNzT205WnRVX0tjdVQ3b3N6VkZMZEM3RlB5dGc3R1ExRF9GUkg2OE5PU1RNanV5QnplMFJycUhoUDYySXFsTl9uVUFQYVZ0VHpJZ2FqbWdLQU13MDVsSnZyV0RwMWlET3V5NmNZLTlzRlc5Zk44dlE0UVZTODNFdFBINGNGanM5YmlyaERFN3hHcHR2eHhEeWdSNjYwLUFjSkxpanhjVW9SMEJETXdjWjZ0M3RIQUhzNDYtc1o5U0pMTGQwUFNhTEpycUZKYm8zb2cwYXRTMHVzbkRo?oc=5",
+     "date": "2026-05-29",
+     "title": "GRAPHIC PACKAGING ALERT: Bragar Eagel & Squire, P.C.",
+     "summary": "GRAPHIC PACKAGING ALERT: Bragar Eagel & Squire, P.C. GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQck04Z20wVlFXcHNJMHkzZ2xqb0tCblVZZ0xSTDFMUW5haVFuYS1IYjB6bGh2QXA5N0NSU2NFdEk4eWNZUmliMURfQWFCeDI3U3hDNDREMlJtR2YzaTdITFhieFR0YW1rOVhOVWhBMUF5WHpqZ2NWd2dHUmk5eHc2cnFRVEplRnNHblNZLWpjVHdTbGtodUlOTzBLay1ER1pwVnFDX0t3MFg2WGZzZURtOVc3TjRzYmpwOW1IZVVwSUljeXpyZ0luYldmRVZNTGpiUldhLUo5Nk0yVUROdW93eFZzbWxwejRpZEZXbFYtUnJYaDJkQWZocFhyTGlNUE1sbVh4ZzFzTlRzVF9Oa1dZSXI2Y01KNWVLWEFNb0FfTFd2NUJhTlZqMWktVzB6bEdDTlJZWTgybDlNaUpadUhfSUdtdTJpa2p2d09nM0p1MmwybkFtQmVpaklKaWJYeHpIVXB6NXFDU0hfV3Ux?oc=5",
      "category": "Sonstiges",
      "companyId": 11,
      "company": "Graphic Packaging",
@@ -602,11 +329,11 @@
     },
     {
      "date": "2026-05-28",
-     "title": "REMINDER: Graphic Packaging Holdings Company Investors with Significant Losses Must Act by July 6, 2026",
-     "summary": "REMINDER: Graphic Packaging Holdings Company Investors with Significant Losses Must Act by July 6, 2026 GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUk9wY3ZSd3VIb1pqQjVhWXhRLWpXaUk0d290YVhQZ3FpSzltZWZSRlhpX3NLOGZkRFBObnNLX1RQM0lYSTRyWFZUcW45SkVFU0tzSmFnM2E4bm9makZQZ3JZMWV2aHYtYzE2YUlWa2c5cl9iV0w2cnNVd2VGdXFqNlBkVFBiX1ppcEJVLVgwOU1vQVp6dFJYUWVadldzek1NbWNPMzIwVVc5bEFzRVFMTnhkVnFYclRjUHg5N1FKY3UwOUxCVXplTUJNSWpNTzR4V2s5TnlTNHoxVWNQV2NxZWRlRGlFV1RxU1hnMkNnQWFkQzcyWFFDQmFVbE5DN1loUXdz?oc=5",
-     "category": "Earnings",
+     "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+     "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3FpVENkbldzYlJkMnlCWk9ma2NaZVFXMXZCU2xOcGRmZEV1bWNzT205WnRVX0tjdVQ3b3N6VkZMZEM3RlB5dGc3R1ExRF9GUkg2OE5PU1RNanV5QnplMFJycUhoUDYySXFsTl9uVUFQYVZ0VHpJZ2FqbWdLQU13MDVsSnZyV0RwMWlET3V5NmNZLTlzRlc5Zk44dlE0UVZTODNFdFBINGNGanM5YmlyaERFN3hHcHR2eHhEeWdSNjYwLUFjSkxpanhjVW9SMEJETXdjWjZ0M3RIQUhzNDYtc1o5U0pMTGQwUFNhTEpycUZKYm8zb2cwYXRTMHVzbkRo?oc=5",
+     "category": "Sonstiges",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -661,36 +388,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 11,
-     "company": "Graphic Packaging"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 11,
-     "company": "Graphic Packaging"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 11,
-     "company": "Graphic Packaging"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 11,
-     "company": "Graphic Packaging"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -748,36 +446,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 12,
-     "company": "Post Holdings"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 12,
-     "company": "Post Holdings"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 12,
-     "company": "Post Holdings"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 12,
-     "company": "Post Holdings"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -786,36 +455,7 @@
   },
   "13": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 13,
-     "company": "Da Vita"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 13,
-     "company": "Da Vita"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 13,
-     "company": "Da Vita"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 13,
-     "company": "Da Vita"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -849,36 +489,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 14,
-     "company": "Eurofins Scientific"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 14,
-     "company": "Eurofins Scientific"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 14,
-     "company": "Eurofins Scientific"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 14,
-     "company": "Eurofins Scientific"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -887,6 +498,18 @@
   },
   "15": {
    "news": [
+    {
+     "date": "2026-05-21",
+     "title": "J.P. Morgan Sticks to Their Buy Rating for Brookfield Corporation (BN)",
+     "summary": "J.P. Morgan Sticks to Their Buy Rating for Brookfield Corporation (BN) The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWEUySU1ESFNVQVFKV25TeVVPVHR3VWcyenQ3eU9BXzhtbUV4S1VyaWNGZllIaXZ3akltOEhUdWhHV3VOUmRud1JNcXlnOVJpRDEtcm5OMmY1MlExV0czX2hGeHZUOVByRVllQjFPMVdiSnVXeFlIa0w1a25fcUF3NkpwYmhoRy1PdEFEQm5nTzd3OFl5QVVMc2NNamFkSkp5cEdpM0JzVVJzTVhvMVBPdWxOdk1KbUlIREZfcWZUT0w1azVEMGlDX2o2d05lSWVFUTNLc1k5UUx2cm1FTEl4ek1yMA?oc=5",
+     "category": "Rating",
+     "companyId": 15,
+     "company": "Brookfield Corp",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-05-14",
      "title": "Brookfield Corp. Posts Profit as Firm Continues Insurance Push",
@@ -900,36 +523,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 15,
-     "company": "Brookfield Corp"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 15,
-     "company": "Brookfield Corp"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 15,
-     "company": "Brookfield Corp"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 15,
-     "company": "Brookfield Corp"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -938,36 +532,7 @@
   },
   "16": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 16,
-     "company": "BAWAG"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 16,
-     "company": "BAWAG"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 16,
-     "company": "BAWAG"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 16,
-     "company": "BAWAG"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1011,38 +576,21 @@
      "company": "Kaspi.kz",
      "asset": "Aktien",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-11",
+     "title": "Kaspi.kz (KSPI) Q1 2026 Earnings Transcript",
+     "summary": "Kaspi.kz (KSPI) Q1 2026 Earnings Transcript The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkw0SXR5VTEtWnJNZm5jdlpTWDBNbHZ6NU9UYVI5LVZLcGZUQUR4Z2h4VUtNTUxyRjRoLWFyb0NjQkJWVlNVRmlzdmZlTnl0akVEcU9ZdURoWGp3cnhZZmREUG1aUVA4M0VGd055aDd3QjlnMWRKUDdfZWxyMUljS3hMZ2hxWFNVY2FQZ0lPT0FQZUJwQ0h1Q1h4RWY2MjVpc29NcVEyc0xjWVdZTnllYXN3eGhwME04NE5LRmxjSjZwbzQ?oc=5",
+     "category": "Earnings",
+     "companyId": 17,
+     "company": "Kaspi.kz",
+     "asset": "Aktien",
+     "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 17,
-     "company": "Kaspi.kz"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 17,
-     "company": "Kaspi.kz"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 17,
-     "company": "Kaspi.kz"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 17,
-     "company": "Kaspi.kz"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1051,18 +599,6 @@
   },
   "18": {
    "news": [
-    {
-     "date": "2026-05-27",
-     "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud",
-     "summary": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUDZVajJlNjVmNGZMY0ljLUhJUG9UdHNkVTVRa1dzTnRWaEhQWlFaVHBOMUJacXV6WkQ2MUNnckNHSjNoOXhzQkVuVEMtdG93eU1Xc3FaUTlrSVFDYjlOYUZqelpNLVBkZlVyTlZTQWxXQVVKMUtZNC1OaWFtUHfSAYQBQVVfeXFMT0xIYWt6QTE0RU5Wbk95WHY5eUI3RFk2VzBiOEM1cHRIZGVYc0hkZjlva09qZGhETUUtZVBaNUl5dEExdlViV3JLcXlVX2xXUFY4enpOZE4tR0tzbFBZRmRnTWtnanRkd05VMFRLeEdKZ0lLanR4NzJpZ0VNOV85TU5jS3VY?oc=5",
-     "category": "Earnings",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-05-13",
      "title": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
@@ -1100,36 +636,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 18,
-     "company": "Amazon"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 18,
-     "company": "Amazon"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 18,
-     "company": "Amazon"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 18,
-     "company": "Amazon"
-    }
-   ],
+   "events": [],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -1250,36 +757,7 @@
   },
   "19": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 19,
-     "company": "MTY Food"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 19,
-     "company": "MTY Food"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 19,
-     "company": "MTY Food"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 19,
-     "company": "MTY Food"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1288,6 +766,18 @@
   },
   "20": {
    "news": [
+    {
+     "date": "2026-05-15",
+     "title": "Bill Ackman’s Pershing Square Bets on Microsoft’s AI Ambitions With New Stake",
+     "summary": "Bill Ackman’s Pershing Square Bets on Microsoft’s AI Ambitions With New Stake WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnVaakJ1OWFZeFBQa2VfUHR3akowMnB1M2FJaDJNVC1Gc0tOWkgtYkY1cVk0TDZvVGJQVkZqanJKaWpiNVhUT1hmUHRZSHdVakZ5V3lxbnRkeWZ0Z05FYWVQRE1IR05DeWhJQklocGNQaGJuaXVvREVGNno4M2toOXNNb0VJTEI0bHBHaUlyYXVsZHg5TFhwZl9IejdfRGlaR2VzeVo3VjVLVXc?oc=5",
+     "category": "M&A",
+     "companyId": 20,
+     "company": "Microsoft",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-05-05",
      "title": "Google, Microsoft and xAI Agree to Share Early AI Models With U.S.",
@@ -1301,36 +791,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 20,
-     "company": "Microsoft"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 20,
-     "company": "Microsoft"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 20,
-     "company": "Microsoft"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 20,
-     "company": "Microsoft"
-    }
-   ],
+   "events": [],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -1453,36 +914,7 @@
   },
   "21": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 21,
-     "company": "Reply SpA"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 21,
-     "company": "Reply SpA"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 21,
-     "company": "Reply SpA"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 21,
-     "company": "Reply SpA"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1564,36 +996,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 22,
-     "company": "Meta"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 22,
-     "company": "Meta"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 22,
-     "company": "Meta"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 22,
-     "company": "Meta"
-    }
-   ],
+   "events": [],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -1727,36 +1130,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 23,
-     "company": "Watches of Switzerland"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 23,
-     "company": "Watches of Switzerland"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 23,
-     "company": "Watches of Switzerland"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 23,
-     "company": "Watches of Switzerland"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1765,18 +1139,6 @@
   },
   "24": {
    "news": [
-    {
-     "date": "2026-05-20",
-     "title": "Amcor launches global call for startups for Amcor Lift-Off -- Rigids challenge",
-     "summary": "Amcor launches global call for startups for Amcor Lift-Off -- Rigids challenge PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTnI2djZENjlpbUNEN1B5ZDljTlphNTFZdEViOEhYaDdNdUM0eTZWaU0zTXBxRTFZRVdjMXgyMzJCYjg5SXpqX0JaSm9SWDRSNnBic0FQZVVvR3o4cGNWYkUxVVZtelNsc0JpbGNxdkhMMTk3MmpaR2hQVVRNYVhxYUJpQnlKbG9YOHBlNmxWcWZqelhSVmxnUjZzYVhNUFRwOVZLT200YjZJTkI1OUhMdnR6WU9LbmQ3SHZ5bWw1X0xBakJQVENXdi15Y1Y?oc=5",
-     "category": "Sonstiges",
-     "companyId": 24,
-     "company": "Amcor",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-05-11",
      "title": "Amcor achieves CNAS accreditation in China, speeding customer access to global markets",
@@ -1838,36 +1200,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 24,
-     "company": "Amcor"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 24,
-     "company": "Amcor"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 24,
-     "company": "Amcor"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 24,
-     "company": "Amcor"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1876,36 +1209,7 @@
   },
   "25": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 25,
-     "company": "AerCap Holdings"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 25,
-     "company": "AerCap Holdings"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 25,
-     "company": "AerCap Holdings"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 25,
-     "company": "AerCap Holdings"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1913,50 +1217,8 @@
    }
   },
   "26": {
-   "news": [
-    {
-     "date": "2026-05-26",
-     "title": "OSB GROUP PLC - Transaction in Own Shares",
-     "summary": "OSB GROUP PLC - Transaction in Own Shares GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVEtRmZ4WDZqVjR6QzVIczdiWGV0cHRZcUFEN29feGQtVDBsU3hKOHJSNEROUWdEbXFiQm9HMndGbkFjLVliN2pFLTltU0trUmdxOVFnZ1ptZEhMMi1hR0tURDktejJUazBqdlVvdE5hV2ZXb1kyZDZmUXM4VGdzM2ZwcjJJdHFiSmc0bkcydlhBYXp2UzlxMVk4ckZXWl9Yb292QlBxS3NQYk1hWTJQcg?oc=5",
-     "category": "Sonstiges",
-     "companyId": 26,
-     "company": "OSB Group",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    }
-   ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 26,
-     "company": "OSB Group"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 26,
-     "company": "OSB Group"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 26,
-     "company": "OSB Group"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 26,
-     "company": "OSB Group"
-    }
-   ],
+   "news": [],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1965,36 +1227,7 @@
   },
   "27": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 27,
-     "company": "Linamar Corp"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 27,
-     "company": "Linamar Corp"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 27,
-     "company": "Linamar Corp"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 27,
-     "company": "Linamar Corp"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2003,36 +1236,7 @@
   },
   "28": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 28,
-     "company": "MTU Aero Engines"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 28,
-     "company": "MTU Aero Engines"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 28,
-     "company": "MTU Aero Engines"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 28,
-     "company": "MTU Aero Engines"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2102,36 +1306,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 29,
-     "company": "Vistry"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 29,
-     "company": "Vistry"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 29,
-     "company": "Vistry"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 29,
-     "company": "Vistry"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2177,36 +1352,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 30,
-     "company": "HCA Healthcare"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 30,
-     "company": "HCA Healthcare"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 30,
-     "company": "HCA Healthcare"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 30,
-     "company": "HCA Healthcare"
-    }
-   ],
+   "events": [],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -2329,6 +1475,18 @@
   "31": {
    "news": [
     {
+     "date": "2026-05-31",
+     "title": "UBS Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
+     "summary": "UBS Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcXNiLWs4MWpSdEU5aWRnNkFOMFFQZ1pSb2Vhd0EzS3JScEdzUVFGUnA4SGJqTjEtUXlYTGllZEVzbG81NlBISUtRajR6dktEdVJ2TEZGUVlYSHZLNXJ0TUhiWndMNjV3bjd2YTJ3Z1dxV1JxVVBoSURnMWg0WHctcjlTX2p2VnhjZHdoLWZpY01sNjlMaGdmVFNzQy1XMnJqQnBXMnM1Z1lpRWxLQk9LdV9Ma053ZVRQUXZfajY0RlhyaDg3ZllPZ2lrNTVhSlc1eUhRN3FfN1NxUQ?oc=5",
+     "category": "Rating",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-05-29",
      "title": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong",
      "summary": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong PR Newswire",
@@ -2342,11 +1500,35 @@
     },
     {
      "date": "2026-05-27",
-     "title": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\"",
-     "summary": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\" PR Newswire",
+     "title": "Tencent Announces Three Initiatives to Make Inbound Payments for International Visitors Easier Than Ever During APEC 2026",
+     "summary": "Tencent Announces Three Initiatives to Make Inbound Payments for International Visitors Easier Than Ever During APEC 2026 PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRTB4WVRMTHlud05ycmdWMnFxOUVmYnJ6ckV0eUxHSllzTjdHZjNldlhQcHZZTVk1dGdDT2FkUGYyQ1VBRVlZWi1IMmUxVjBZemVtZER1OXRpTEE5T00tbkNmbHc1dUljelk0cnktWXdWQldfRjBQckdNajluZF9iWVlBeEFDdkJJWEt5YXUxd3UyWjN5RlFoWmtKMWFqajhMVTlCUThYc3k0MHZSYk1jVkhYZGhsbkNFZFdlR2xuaVpOQVBzWVFPMzVYRUxSLVhYWVhSUlMyM21YUlNWZVcwUnhFZVpLalZwTm4wUFdwMXYyYTBRZlE?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQnhXcXpOcVhneXpmRWI5NS0xVm15cHpGQkszT3lKVHFKdE03SHByblM1ODc1cnpQaEtPNEVxbU1DWnFhUjcxS0FKakdFRW0wZlpkUVdXQWNxdmhtN1hCX1pmbm4zUlFyVEhybVh0Nl9oa3JHZXdvcjFMVjlCS1BFVHl5TFA2aHVmLUdURVFhemkxd25XUkhXVkxzUWpXMmtFc3dYdjFwVlI2U0ZNNWxKbkw0ZnkwYnM2dTJQTUFORk9LUWd6VHc3c3FFZzlFTi1yVjBBTS1sTGhKTHZXQUp6ZDVfUjVCc0ZvQS1kTkZZYUlDV1hfb1ozb01MZ2Zmb1BXMzJkblAzSVJGMWhFVVRF?oc=5",
      "category": "Sonstiges",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-17",
+     "title": "J.P. Morgan Sticks to Its Buy Rating for Tencent Holdings (TCTZF)",
+     "summary": "J.P. Morgan Sticks to Its Buy Rating for Tencent Holdings (TCTZF) The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFhYaUNjQlY2TEI1UUJrWnUtYXZlc1I4LVA0MXFRaWg3WU5wamZTOWV3MEdXUHR4WTFtUEZ6aUZEZ0VfaGNDenhLN0JHYkJxTG8yTUZLUWtNekcwczdadlNBX1ZtNkctTEc3elZpV0ItcDJUUDh3eDZKcEJTUkJTSE52b185V1FwUUl5ZWpEcEk5MlY2d2ZDUFhyWE9SUkdWY0pqd1p0RXp0VXlzVEtKQ0xiOUZSM0RTX1VrOVdMbGRPdzIyMUhoZjJUVlpwSGkzMEU0Y01qRk13N1QyNUl0Tg?oc=5",
+     "category": "Rating",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-15",
+     "title": "Citi Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
+     "summary": "Citi Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbTlJS0V3LUxhSFJUd2NPRzVCbHJ6TV9hd0RpZ25vRWw3aW95SnhmNlFoVjQxNndJRVhCQzFmNjk3V3ZrcHFiS295WkdaOWhGZ2h2RnZsYXJjeDJTRUdmZkdUTkgzQk9tNnBYcGtEY2ZmaE1oSGhsaHAxcFl2dG01MHRrMFF6MHV1Mk05ZWxPV0lDa25fbV83M2tUc2Q0WDBYb0dxaWJaN1JzYXY3ODhUUi1idHJjZ0VObWtnMFl4R1NWVUVFQldtVDlMQXhRaWZXYUpUUi1EcjM0MW8?oc=5",
+     "category": "Rating",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -2363,74 +1545,9 @@
      "company": "Tencent",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-14",
-     "title": "Nexon and Tencent Extend Publishing Partnership for Dungeon&Fighter PC in China",
-     "summary": "Nexon and Tencent Extend Publishing Partnership for Dungeon&Fighter PC in China Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTNsTzg2SWlJZk5Zd2lweU1yVGxQNmljanZiZ19QT3hJZEF0d3pBQlJscVVTV1MtRXNnbmtoVGZGXzY0ZnpwanMwdjVZQTdiNzNKY0dGMG56Yy1GV3JsWmZHS3ZGdGRmWFdCdGxCcC1kT3JIVXRIVTNiMkhvYloxS3RHRnZ0Q3N3NEExVHlGMXVLcHBDME5QODhaSS1JaUNWQ0Y2S3NuXzhmazdKM24xVENMWjhWbFEya3h6YVhxMm5saGRXR0NYVXotVThTLU5v?oc=5",
-     "category": "Sonstiges",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-13",
-     "title": "China's Tencent sees boost from gaming, AI demand even as revenue comes in weaker than expected",
-     "summary": "China's Tencent sees boost from gaming, AI demand even as revenue comes in weaker than expected CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUTZic1NLbnZMcDZ5elM2TTVlZUdIdUY4Wlo0QklOeVVnQ2dCemQ2eDVYcEFEX0p4Q29UaGNNQ1J3bHJKeDFqaFJ4X3FhZnY4bkNfYUxUYkV4c1FrMDN0NGxUSERFZFdONXIyZmpZSnMxdXFwXzNmZXBjQTBvNjVhalRBLUJHTk9VU0ZWOTEyRdIBlAFBVV95cUxNZDRoRXVSWjJzeUR1UWxSSHF0eDl1MjlQbzM0UFl1WE1ObmY3RGFqV3hRUmZNNFMtRnVwV1JIS1Q3U2xVcG5tdHR6cmJ4NmxFSjN0YlFzQXFkQ09YSENDUlBBQ0I1Um9xRmRoTy15ZGVuRkIyMHkwVGtGTHB0bDBjLUFVS3B1djJmZlZjUGxPQktuQWFt?oc=5",
-     "category": "Earnings",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-13",
-     "title": "Tencent revenue and profit miss on higher AI investment",
-     "summary": "Tencent revenue and profit miss on higher AI investment Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXBJd0xZalh4eFlXeVg5WkZ4cHpJeFJ3cERlX2hkWHg0dDhqcHowT0NGTHJsTFdzZVgzR3ZaNkphQzNxZnM3d0NQN0VhYjF3V1VzNXp0R2t0VUFGd0xvcXllMEtaRUhRMDJZeS03TUNRd0o2cUhtZmVXZEFZYXJtSmpFZGNMTWttYjZBWkEyQ3c5RWhkV3V1MmY0TVNaWUtWUzl3YWd5N1NMOGljcnpEamRRNU9WQQ?oc=5",
-     "category": "Earnings",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 31,
-     "company": "Tencent"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 31,
-     "company": "Tencent"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 31,
-     "company": "Tencent"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 31,
-     "company": "Tencent"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2453,6 +1570,18 @@
     },
     {
      "date": "2026-05-28",
+     "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
+     "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWJxTk9fUk50dXZ5REJpNjVhckg1UlNSTldDRHR2LUh3Ukdrb1EwdWphWFBqbXlSYkF1MzZiMllBV3NxbmFTbzNQbWdMLTlaeHB5VnlNN1BzWmJPSjZsTTFBM1BqZlNieGhCWGI0a0JyYkNtNGZpby1kdzZpWF9zcVVUQU4yTHVMRzI0YnRwZkc4NVVQWkN1bFNsM3M1Q1AzUmtGZ2ZjQXgyOGo2djRnY3JLNHJzYVpKeENXZTFHQQ?oc=5",
+     "category": "Markt",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-28",
      "title": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half",
      "summary": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half Fortune",
      "source": "Fortune",
@@ -2465,11 +1594,11 @@
     },
     {
      "date": "2026-05-28",
-     "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
-     "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
-     "source": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWJxTk9fUk50dXZ5REJpNjVhckg1UlNSTldDRHR2LUh3Ukdrb1EwdWphWFBqbXlSYkF1MzZiMllBV3NxbmFTbzNQbWdMLTlaeHB5VnlNN1BzWmJPSjZsTTFBM1BqZlNieGhCWGI0a0JyYkNtNGZpby1kdzZpWF9zcVVUQU4yTHVMRzI0YnRwZkc4NVVQWkN1bFNsM3M1Q1AzUmtGZ2ZjQXgyOGo2djRnY3JLNHJzYVpKeENXZTFHQQ?oc=5",
-     "category": "Markt",
+     "title": "Watch Salesforce's Lukewarm Outlook Fuels AI Disruption Fear",
+     "summary": "Watch Salesforce's Lukewarm Outlook Fuels AI Disruption Fear Bloomberg.com",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTW5SMU5zZTNhNHNhYnlIQWlzYlVzMkFIWnZtdVBYTXUxV2taVmxSSEhMTG1IQS1XWEVISDZ2WWVXVG5oeVg4LVFiLXlyTDJmalJHQWphUENBVzUwS3dRY2hJSEhPNWRXMkFndDFLdTVmbkJfNlk0M3pIQTA1Ni1iVU5HMk5oSlBCS2tvaE56T2dZZk5wVmZnc0oyLU5HdDVaU3JQa1BXMktTQzFLOUE?oc=5",
+     "category": "Guidance",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -2498,50 +1627,9 @@
      "company": "Salesforce",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-27",
-     "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
-     "summary": "Salesforce revenue forecast disappoints amid AI disruption fears Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
-     "category": "Earnings",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 32,
-     "company": "Salesforce"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 32,
-     "company": "Salesforce"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 32,
-     "company": "Salesforce"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 32,
-     "company": "Salesforce"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2623,36 +1711,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 33,
-     "company": "goeasy"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 33,
-     "company": "goeasy"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 33,
-     "company": "goeasy"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 33,
-     "company": "goeasy"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2698,6 +1757,18 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-05-26",
+     "title": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation",
+     "summary": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmtJM003cGFmZjkxQmdSYnVCQVZGVkwweXZ3SzYyYXdfakRWQUpMemNMdngwamZWQV9EVUNHNkhwYk5mRUMwWnVnbzVaZkRmSHdlNEI3SThPZS1EekpJYzdTRnNoZWdwUkQ5T3RZSGNjaTRGSmp2SFlkNFlpQTNjX1Q3TWVHX3ZsM0NBMjJPeXpXa3FUM09jdk9YQldSSExnMHlYUnVSbXZYQ1NtMGZtUU5HN0lmMWJFRGFQTWFhV0FheXJBcVJnczNmejRwWVFwbHJWSGZpeE13eXoySmVlN0xxcWdFQkRnWEcwb0NKd1VOWFhwY25DOGYtMXhnWVFobS00?oc=5",
+     "category": "Sonstiges",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-05-20",
      "title": "S&P Global Ratings Maalot Raises Elbit Systems' Long Term Rating to \"ilAAA\" (Local Scale), With a Stable Outlook and Reaffirms Short Term Rating of \"ilA-1+\" (Local Scale)",
      "summary": "S&P Global Ratings Maalot Raises Elbit Systems' Long Term Rating to \"ilAAA\" (Local Scale), With a Stable Outlook and Reaffirms Short Term Rating of \"ilA-1+\" (Local Scale) PR Newswire",
@@ -2720,50 +1791,9 @@
      "company": "S&P Global",
      "asset": "Aktien",
      "status": "Watchlist"
-    },
-    {
-     "date": "2026-05-18",
-     "title": "S&P Global Announces Commencement of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation",
-     "summary": "S&P Global Announces Commencement of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPR2tMc1RMTjRyamxvVHc1SlBiZ2JESGdJT0J3dlp4NnRQQ1hiQXJSb2RoOV9kQ3EyZHZIZklMa1FfZjdyWk9oU2hTX1JlcTZkQWVjelFoWmV0Qk9HTmJ4WFBtOFFzMDJUM3FqTnpKTjY2U1B0TTRBdWZnMzI2ME1xRTNKd0lJVXFXSzdGemtKV2xJVTMtczBidnFhV1JCVnlIM09KWlBDVHAzNkxkQkwtQUhxaWVLbnVQZ2FPd0pzNEhzRVlPNVpKWkNYWVZZeTVxbWFDb1A0cVdGV3J5WEtfNHF5Q2hCaVZUbUZvR3poWnZiNXhLQU9WQ184TnFhQlg5enFpUE9wMmJNbnBaVnZraU5JZ1lBc3du?oc=5",
-     "category": "Rating",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 34,
-     "company": "S&P Global"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 34,
-     "company": "S&P Global"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 34,
-     "company": "S&P Global"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 34,
-     "company": "S&P Global"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2772,36 +1802,7 @@
   },
   "35": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 35,
-     "company": "NewPrinces"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 35,
-     "company": "NewPrinces"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 35,
-     "company": "NewPrinces"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 35,
-     "company": "NewPrinces"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2859,36 +1860,7 @@
      "status": "Watchlist"
     }
    ],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 36,
-     "company": "Adyen"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 36,
-     "company": "Adyen"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 36,
-     "company": "Adyen"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 36,
-     "company": "Adyen"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2897,36 +1869,7 @@
   },
   "37": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-09-04",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 37,
-     "company": "Tronox"
-    },
-    {
-     "date": "2026-09-01",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 37,
-     "company": "Tronox"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 37,
-     "company": "Tronox"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "Earnings / Quartalszahlen",
-     "type": "Earnings",
-     "companyId": 37,
-     "company": "Tronox"
-    }
-   ],
+   "events": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -2935,6 +1878,30 @@
   }
  },
  "news": [
+  {
+   "date": "2026-05-31",
+   "title": "UBS Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
+   "summary": "UBS Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcXNiLWs4MWpSdEU5aWRnNkFOMFFQZ1pSb2Vhd0EzS3JScEdzUVFGUnA4SGJqTjEtUXlYTGllZEVzbG81NlBISUtRajR6dktEdVJ2TEZGUVlYSHZLNXJ0TUhiWndMNjV3bjd2YTJ3Z1dxV1JxVVBoSURnMWg0WHctcjlTX2p2VnhjZHdoLWZpY01sNjlMaGdmVFNzQy1XMnJqQnBXMnM1Z1lpRWxLQk9LdV9Ma053ZVRQUXZfajY0RlhyaDg3ZllPZ2lrNTVhSlc1eUhRN3FfN1NxUQ?oc=5",
+   "category": "Rating",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-29",
+   "title": "GRAPHIC PACKAGING ALERT: Bragar Eagel & Squire, P.C.",
+   "summary": "GRAPHIC PACKAGING ALERT: Bragar Eagel & Squire, P.C. GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQck04Z20wVlFXcHNJMHkzZ2xqb0tCblVZZ0xSTDFMUW5haVFuYS1IYjB6bGh2QXA5N0NSU2NFdEk4eWNZUmliMURfQWFCeDI3U3hDNDREMlJtR2YzaTdITFhieFR0YW1rOVhOVWhBMUF5WHpqZ2NWd2dHUmk5eHc2cnFRVEplRnNHblNZLWpjVHdTbGtodUlOTzBLay1ER1pwVnFDX0t3MFg2WGZzZURtOVc3TjRzYmpwOW1IZVVwSUljeXpyZ0luYldmRVZNTGpiUldhLUo5Nk0yVUROdW93eFZzbWxwejRpZEZXbFYtUnJYaDJkQWZocFhyTGlNUE1sbVh4ZzFzTlRzVF9Oa1dZSXI2Y01KNWVLWEFNb0FfTFd2NUJhTlZqMWktVzB6bEdDTlJZWTgybDlNaUpadUhfSUdtdTJpa2p2d09nM0p1MmwybkFtQmVpaklKaWJYeHpIVXB6NXFDU0hfV3Ux?oc=5",
+   "category": "Sonstiges",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
   {
    "date": "2026-05-29",
    "title": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong",
@@ -2966,18 +1933,6 @@
    "source": "PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3FpVENkbldzYlJkMnlCWk9ma2NaZVFXMXZCU2xOcGRmZEV1bWNzT205WnRVX0tjdVQ3b3N6VkZMZEM3RlB5dGc3R1ExRF9GUkg2OE5PU1RNanV5QnplMFJycUhoUDYySXFsTl9uVUFQYVZ0VHpJZ2FqbWdLQU13MDVsSnZyV0RwMWlET3V5NmNZLTlzRlc5Zk44dlE0UVZTODNFdFBINGNGanM5YmlyaERFN3hHcHR2eHhEeWdSNjYwLUFjSkxpanhjVW9SMEJETXdjWjZ0M3RIQUhzNDYtc1o5U0pMTGQwUFNhTEpycUZKYm8zb2cwYXRTMHVzbkRo?oc=5",
    "category": "Sonstiges",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-28",
-   "title": "REMINDER: Graphic Packaging Holdings Company Investors with Significant Losses Must Act by July 6, 2026",
-   "summary": "REMINDER: Graphic Packaging Holdings Company Investors with Significant Losses Must Act by July 6, 2026 GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUk9wY3ZSd3VIb1pqQjVhWXhRLWpXaUk0d290YVhQZ3FpSzltZWZSRlhpX3NLOGZkRFBObnNLX1RQM0lYSTRyWFZUcW45SkVFU0tzSmFnM2E4bm9makZQZ3JZMWV2aHYtYzE2YUlWa2c5cl9iV0w2cnNVd2VGdXFqNlBkVFBiX1ppcEJVLVgwOU1vQVp6dFJYUWVadldzek1NbWNPMzIwVVc5bEFzRVFMTnhkVnFYclRjUHg5N1FKY3UwOUxCVXplTUJNSWpNTzR4V2s5TnlTNHoxVWNQV2NxZWRlRGlFV1RxU1hnMkNnQWFkQzcyWFFDQmFVbE5DN1loUXdz?oc=5",
-   "category": "Earnings",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3021,6 +1976,18 @@
   },
   {
    "date": "2026-05-28",
+   "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
+   "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWJxTk9fUk50dXZ5REJpNjVhckg1UlNSTldDRHR2LUh3Ukdrb1EwdWphWFBqbXlSYkF1MzZiMllBV3NxbmFTbzNQbWdMLTlaeHB5VnlNN1BzWmJPSjZsTTFBM1BqZlNieGhCWGI0a0JyYkNtNGZpby1kdzZpWF9zcVVUQU4yTHVMRzI0YnRwZkc4NVVQWkN1bFNsM3M1Q1AzUmtGZ2ZjQXgyOGo2djRnY3JLNHJzYVpKeENXZTFHQQ?oc=5",
+   "category": "Markt",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-28",
    "title": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half",
    "summary": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half Fortune",
    "source": "Fortune",
@@ -3033,11 +2000,11 @@
   },
   {
    "date": "2026-05-28",
-   "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
-   "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
-   "source": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWJxTk9fUk50dXZ5REJpNjVhckg1UlNSTldDRHR2LUh3Ukdrb1EwdWphWFBqbXlSYkF1MzZiMllBV3NxbmFTbzNQbWdMLTlaeHB5VnlNN1BzWmJPSjZsTTFBM1BqZlNieGhCWGI0a0JyYkNtNGZpby1kdzZpWF9zcVVUQU4yTHVMRzI0YnRwZkc4NVVQWkN1bFNsM3M1Q1AzUmtGZ2ZjQXgyOGo2djRnY3JLNHJzYVpKeENXZTFHQQ?oc=5",
-   "category": "Markt",
+   "title": "Watch Salesforce's Lukewarm Outlook Fuels AI Disruption Fear",
+   "summary": "Watch Salesforce's Lukewarm Outlook Fuels AI Disruption Fear Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTW5SMU5zZTNhNHNhYnlIQWlzYlVzMkFIWnZtdVBYTXUxV2taVmxSSEhMTG1IQS1XWEVISDZ2WWVXVG5oeVg4LVFiLXlyTDJmalJHQWphUENBVzUwS3dRY2hJSEhPNWRXMkFndDFLdTVmbkJfNlk0M3pIQTA1Ni1iVU5HMk5oSlBCS2tvaE56T2dZZk5wVmZnc0oyLU5HdDVaU3JQa1BXMktTQzFLOUE?oc=5",
+   "category": "Guidance",
    "companyId": 32,
    "company": "Salesforce",
    "asset": "Aktien",
@@ -3093,18 +2060,6 @@
   },
   {
    "date": "2026-05-27",
-   "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud",
-   "summary": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUDZVajJlNjVmNGZMY0ljLUhJUG9UdHNkVTVRa1dzTnRWaEhQWlFaVHBOMUJacXV6WkQ2MUNnckNHSjNoOXhzQkVuVEMtdG93eU1Xc3FaUTlrSVFDYjlOYUZqelpNLVBkZlVyTlZTQWxXQVVKMUtZNC1OaWFtUHfSAYQBQVVfeXFMT0xIYWt6QTE0RU5Wbk95WHY5eUI3RFk2VzBiOEM1cHRIZGVYc0hkZjlva09qZGhETUUtZVBaNUl5dEExdlViV3JLcXlVX2xXUFY4enpOZE4tR0tzbFBZRmRnTWtnanRkd05VMFRLeEdKZ0lLanR4NzJpZ0VNOV85TU5jS3VY?oc=5",
-   "category": "Earnings",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-27",
    "title": "Meta Stock Jumps Nearly 4% As It Launches Premium Facebook, Instagram Subscriptions",
    "summary": "Meta Stock Jumps Nearly 4% As It Launches Premium Facebook, Instagram Subscriptions Forbes",
    "source": "Forbes",
@@ -3141,10 +2096,10 @@
   },
   {
    "date": "2026-05-27",
-   "title": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\"",
-   "summary": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\" PR Newswire",
+   "title": "Tencent Announces Three Initiatives to Make Inbound Payments for International Visitors Easier Than Ever During APEC 2026",
+   "summary": "Tencent Announces Three Initiatives to Make Inbound Payments for International Visitors Easier Than Ever During APEC 2026 PR Newswire",
    "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRTB4WVRMTHlud05ycmdWMnFxOUVmYnJ6ckV0eUxHSllzTjdHZjNldlhQcHZZTVk1dGdDT2FkUGYyQ1VBRVlZWi1IMmUxVjBZemVtZER1OXRpTEE5T00tbkNmbHc1dUljelk0cnktWXdWQldfRjBQckdNajluZF9iWVlBeEFDdkJJWEt5YXUxd3UyWjN5RlFoWmtKMWFqajhMVTlCUThYc3k0MHZSYk1jVkhYZGhsbkNFZFdlR2xuaVpOQVBzWVFPMzVYRUxSLVhYWVhSUlMyM21YUlNWZVcwUnhFZVpLalZwTm4wUFdwMXYyYTBRZlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQnhXcXpOcVhneXpmRWI5NS0xVm15cHpGQkszT3lKVHFKdE03SHByblM1ODc1cnpQaEtPNEVxbU1DWnFhUjcxS0FKakdFRW0wZlpkUVdXQWNxdmhtN1hCX1pmbm4zUlFyVEhybVh0Nl9oa3JHZXdvcjFMVjlCS1BFVHl5TFA2aHVmLUdURVFhemkxd25XUkhXVkxzUWpXMmtFc3dYdjFwVlI2U0ZNNWxKbkw0ZnkwYnM2dTJQTUFORk9LUWd6VHc3c3FFZzlFTi1yVjBBTS1sTGhKTHZXQUp6ZDVfUjVCc0ZvQS1kTkZZYUlDV1hfb1ozb01MZ2Zmb1BXMzJkblAzSVJGMWhFVVRF?oc=5",
    "category": "Sonstiges",
    "companyId": 31,
    "company": "Tencent",
@@ -3169,18 +2124,6 @@
    "summary": "Salesforce beats on earnings and revenue but full-year guidance comes in light CNBC",
    "source": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTcta0duTkxlTnA1RUk4aGpMdjIxTGN0WlJmcVNGYmZqV1dfd3ZBRTZnQkVRVnVwTXBnQTZKdklCcURKXzlMdW1RSmVFUjFwUVlMYmFmX1pPX0o3TDdQRUtOckpITVlPa1RIR2VYSzJ0XzZkMGNkdGlhSnhIckFRRNIBhgFBVV95cUxPeS11ODJfajlNNnMtbU4yUHRyelY5a2VTM3d1Z0IzckliX0F0M1hWazd0VlBwSy1fdWszS3ZHNjMyMDJVVGgxR0RMZTBDVVRaYnVTc1BiaktiaHpneXhpRFNHREt0T052YUtBdmNFMi1XRFdjYmZNWlJnUHhXVklaZzM1OVJyUQ?oc=5",
-   "category": "Earnings",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-27",
-   "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
-   "summary": "Salesforce revenue forecast disappoints amid AI disruption fears Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
    "category": "Earnings",
    "companyId": 32,
    "company": "Salesforce",
@@ -3249,15 +2192,15 @@
   },
   {
    "date": "2026-05-26",
-   "title": "OSB GROUP PLC - Transaction in Own Shares",
-   "summary": "OSB GROUP PLC - Transaction in Own Shares GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVEtRmZ4WDZqVjR6QzVIczdiWGV0cHRZcUFEN29feGQtVDBsU3hKOHJSNEROUWdEbXFiQm9HMndGbkFjLVliN2pFLTltU0trUmdxOVFnZ1ptZEhMMi1hR0tURDktejJUazBqdlVvdE5hV2ZXb1kyZDZmUXM4VGdzM2ZwcjJJdHFiSmc0bkcydlhBYXp2UzlxMVk4ckZXWl9Yb292QlBxS3NQYk1hWTJQcg?oc=5",
+   "title": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation",
+   "summary": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmtJM003cGFmZjkxQmdSYnVCQVZGVkwweXZ3SzYyYXdfakRWQUpMemNMdngwamZWQV9EVUNHNkhwYk5mRUMwWnVnbzVaZkRmSHdlNEI3SThPZS1EekpJYzdTRnNoZWdwUkQ5T3RZSGNjaTRGSmp2SFlkNFlpQTNjX1Q3TWVHX3ZsM0NBMjJPeXpXa3FUM09jdk9YQldSSExnMHlYUnVSbXZYQ1NtMGZtUU5HN0lmMWJFRGFQTWFhV0FheXJBcVJnczNmejRwWVFwbHJWSGZpeE13eXoySmVlN0xxcWdFQkRnWEcwb0NKd1VOWFhwY25DOGYtMXhnWVFobS00?oc=5",
    "category": "Sonstiges",
-   "companyId": 26,
-   "company": "OSB Group",
+   "companyId": 34,
+   "company": "S&P Global",
    "asset": "Aktien",
-   "status": "Portfolio"
+   "status": "Watchlist"
   },
   {
    "date": "2026-05-25",
@@ -3357,6 +2300,18 @@
   },
   {
    "date": "2026-05-21",
+   "title": "J.P. Morgan Sticks to Their Buy Rating for Brookfield Corporation (BN)",
+   "summary": "J.P. Morgan Sticks to Their Buy Rating for Brookfield Corporation (BN) The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWEUySU1ESFNVQVFKV25TeVVPVHR3VWcyenQ3eU9BXzhtbUV4S1VyaWNGZllIaXZ3akltOEhUdWhHV3VOUmRud1JNcXlnOVJpRDEtcm5OMmY1MlExV0czX2hGeHZUOVByRVllQjFPMVdiSnVXeFlIa0w1a25fcUF3NkpwYmhoRy1PdEFEQm5nTzd3OFl5QVVMc2NNamFkSkp5cEdpM0JzVVJzTVhvMVBPdWxOdk1KbUlIREZfcWZUT0w1azVEMGlDX2o2d05lSWVFUTNLc1k5UUx2cm1FTEl4ek1yMA?oc=5",
+   "category": "Rating",
+   "companyId": 15,
+   "company": "Brookfield Corp",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
    "title": "Kaspi.kz Earnings Call: Growth Surges, Profits Lag",
    "summary": "Kaspi.kz Earnings Call: Growth Surges, Profits Lag The Globe and Mail",
    "source": "The Globe and Mail",
@@ -3424,18 +2379,6 @@
    "category": "Markt",
    "companyId": 22,
    "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-20",
-   "title": "Amcor launches global call for startups for Amcor Lift-Off -- Rigids challenge",
-   "summary": "Amcor launches global call for startups for Amcor Lift-Off -- Rigids challenge PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTnI2djZENjlpbUNEN1B5ZDljTlphNTFZdEViOEhYaDdNdUM0eTZWaU0zTXBxRTFZRVdjMXgyMzJCYjg5SXpqX0JaSm9SWDRSNnBic0FQZVVvR3o4cGNWYkUxVVZtelNsc0JpbGNxdkhMMTk3MmpaR2hQVVRNYVhxYUJpQnlKbG9YOHBlNmxWcWZqelhSVmxnUjZzYVhNUFRwOVZLT200YjZJTkI1OUhMdnR6WU9LbmQ3SHZ5bWw1X0xBakJQVENXdi15Y1Y?oc=5",
-   "category": "Sonstiges",
-   "companyId": 24,
-   "company": "Amcor",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -3548,16 +2491,16 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-18",
-   "title": "S&P Global Announces Commencement of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation",
-   "summary": "S&P Global Announces Commencement of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPR2tMc1RMTjRyamxvVHc1SlBiZ2JESGdJT0J3dlp4NnRQQ1hiQXJSb2RoOV9kQ3EyZHZIZklMa1FfZjdyWk9oU2hTX1JlcTZkQWVjelFoWmV0Qk9HTmJ4WFBtOFFzMDJUM3FqTnpKTjY2U1B0TTRBdWZnMzI2ME1xRTNKd0lJVXFXSzdGemtKV2xJVTMtczBidnFhV1JCVnlIM09KWlBDVHAzNkxkQkwtQUhxaWVLbnVQZ2FPd0pzNEhzRVlPNVpKWkNYWVZZeTVxbWFDb1A0cVdGV3J5WEtfNHF5Q2hCaVZUbUZvR3poWnZiNXhLQU9WQ184TnFhQlg5enFpUE9wMmJNbnBaVnZraU5JZ1lBc3du?oc=5",
+   "date": "2026-05-17",
+   "title": "J.P. Morgan Sticks to Its Buy Rating for Tencent Holdings (TCTZF)",
+   "summary": "J.P. Morgan Sticks to Its Buy Rating for Tencent Holdings (TCTZF) The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFhYaUNjQlY2TEI1UUJrWnUtYXZlc1I4LVA0MXFRaWg3WU5wamZTOWV3MEdXUHR4WTFtUEZ6aUZEZ0VfaGNDenhLN0JHYkJxTG8yTUZLUWtNekcwczdadlNBX1ZtNkctTEc3elZpV0ItcDJUUDh3eDZKcEJTUkJTSE52b185V1FwUUl5ZWpEcEk5MlY2d2ZDUFhyWE9SUkdWY0pqd1p0RXp0VXlzVEtKQ0xiOUZSM0RTX1VrOVdMbGRPdzIyMUhoZjJUVlpwSGkzMEU0Y01qRk13N1QyNUl0Tg?oc=5",
    "category": "Rating",
-   "companyId": 34,
-   "company": "S&P Global",
+   "companyId": 31,
+   "company": "Tencent",
    "asset": "Aktien",
-   "status": "Watchlist"
+   "status": "Portfolio"
   },
   {
    "date": "2026-05-16",
@@ -3584,15 +2527,27 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-14",
-   "title": "Chapters Health System Named as 2026 Best Places to Work in Healthcare by Modern Healthcare",
-   "summary": "Chapters Health System Named as 2026 Best Places to Work in Healthcare by Modern Healthcare PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjVIbi1EYTVvZmsyamdrdDFXelVabWx2dnJJUmxqaGZacUhuNmtqNGJoRERsYlk3T3dmazEzbGdIcFZtZUtuaFdvWmVSenMzRUlXVVdPc21VUENPckhmdVc2cmRhdF9ZR1NMclFuemtjc0drYzdKY0d4X0llbUJDOHVzSHA1NG80MzQ2NXlON2NoT01MWkdWbF9PSkM4eWVQT1JhNmNUSGV0QzI4ekN5Umc3MDJ6aFRXVF9xa0ZyUjlzVFU0RkVFY204RTNvbG1ITnhFMzgwSUFuVGd1QXJ0TA?oc=5",
-   "category": "Sonstiges",
-   "companyId": 2,
-   "company": "Chapters",
-   "asset": "Anleihen",
+   "date": "2026-05-15",
+   "title": "Bill Ackman’s Pershing Square Bets on Microsoft’s AI Ambitions With New Stake",
+   "summary": "Bill Ackman’s Pershing Square Bets on Microsoft’s AI Ambitions With New Stake WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnVaakJ1OWFZeFBQa2VfUHR3akowMnB1M2FJaDJNVC1Gc0tOWkgtYkY1cVk0TDZvVGJQVkZqanJKaWpiNVhUT1hmUHRZSHdVakZ5V3lxbnRkeWZ0Z05FYWVQRE1IR05DeWhJQklocGNQaGJuaXVvREVGNno4M2toOXNNb0VJTEI0bHBHaUlyYXVsZHg5TFhwZl9IejdfRGlaR2VzeVo3VjVLVXc?oc=5",
+   "category": "M&A",
+   "companyId": 20,
+   "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-15",
+   "title": "Citi Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
+   "summary": "Citi Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbTlJS0V3LUxhSFJUd2NPRzVCbHJ6TV9hd0RpZ25vRWw3aW95SnhmNlFoVjQxNndJRVhCQzFmNjk3V3ZrcHFiS295WkdaOWhGZ2h2RnZsYXJjeDJTRUdmZkdUTkgzQk9tNnBYcGtEY2ZmaE1oSGhsaHAxcFl2dG01MHRrMFF6MHV1Mk05ZWxPV0lDa25fbV83M2tUc2Q0WDBYb0dxaWJaN1JzYXY3ODhUUi1idHJjZ0VObWtnMFl4R1NWVUVFQldtVDlMQXhRaWZXYUpUUi1EcjM0MW8?oc=5",
+   "category": "Rating",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -3626,18 +2581,6 @@
    "source": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEMxVEV3RkpDTUpvd0lyREEtejUxNHNUSHEwajdpLUxQMk45NTZzZUlBNzBscmFoU2xiV0FPdDM1MlF1NnRta21SWmI3UkJUWFY4R2xqVlBSQXhsSVdHQWlFcFlEZDl0NnNfckhZYXd5X3F3QnJpSXgtSTkzajI5VU1fdFYwT0dTT2gzQ19QRk1iN1k3WmFuZmhGRTNBcFQ3T0xUSklPdjdSUWVfQ09ON3R3?oc=5",
    "category": "Earnings",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-14",
-   "title": "Nexon and Tencent Extend Publishing Partnership for Dungeon&Fighter PC in China",
-   "summary": "Nexon and Tencent Extend Publishing Partnership for Dungeon&Fighter PC in China Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTNsTzg2SWlJZk5Zd2lweU1yVGxQNmljanZiZ19QT3hJZEF0d3pBQlJscVVTV1MtRXNnbmtoVGZGXzY0ZnpwanMwdjVZQTdiNzNKY0dGMG56Yy1GV3JsWmZHS3ZGdGRmWFdCdGxCcC1kT3JIVXRIVTNiMkhvYloxS3RHRnZ0Q3N3NEExVHlGMXVLcHBDME5QODhaSS1JaUNWQ0Y2S3NuXzhmazdKM24xVENMWjhWbFEya3h6YVhxMm5saGRXR0NYVXotVThTLU5v?oc=5",
-   "category": "Sonstiges",
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
@@ -3700,30 +2643,6 @@
    "category": "Earnings",
    "companyId": 29,
    "company": "Vistry",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-13",
-   "title": "China's Tencent sees boost from gaming, AI demand even as revenue comes in weaker than expected",
-   "summary": "China's Tencent sees boost from gaming, AI demand even as revenue comes in weaker than expected CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUTZic1NLbnZMcDZ5elM2TTVlZUdIdUY4Wlo0QklOeVVnQ2dCemQ2eDVYcEFEX0p4Q29UaGNNQ1J3bHJKeDFqaFJ4X3FhZnY4bkNfYUxUYkV4c1FrMDN0NGxUSERFZFdONXIyZmpZSnMxdXFwXzNmZXBjQTBvNjVhalRBLUJHTk9VU0ZWOTEyRdIBlAFBVV95cUxNZDRoRXVSWjJzeUR1UWxSSHF0eDl1MjlQbzM0UFl1WE1ObmY3RGFqV3hRUmZNNFMtRnVwV1JIS1Q3U2xVcG5tdHR6cmJ4NmxFSjN0YlFzQXFkQ09YSENDUlBBQ0I1Um9xRmRoTy15ZGVuRkIyMHkwVGtGTHB0bDBjLUFVS3B1djJmZlZjUGxPQktuQWFt?oc=5",
-   "category": "Earnings",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-13",
-   "title": "Tencent revenue and profit miss on higher AI investment",
-   "summary": "Tencent revenue and profit miss on higher AI investment Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXBJd0xZalh4eFlXeVg5WkZ4cHpJeFJ3cERlX2hkWHg0dDhqcHowT0NGTHJsTFdzZVgzR3ZaNkphQzNxZnM3d0NQN0VhYjF3V1VzNXp0R2t0VUFGd0xvcXllMEtaRUhRMDJZeS03TUNRd0o2cUhtZmVXZEFZYXJtSmpFZGNMTWttYjZBWkEyQ3c5RWhkV3V1MmY0TVNaWUtWUzl3YWd5N1NMOGljcnpEamRRNU9WQQ?oc=5",
-   "category": "Earnings",
-   "companyId": 31,
-   "company": "Tencent",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -3832,6 +2751,18 @@
    "category": "Sonstiges",
    "companyId": 14,
    "company": "Eurofins Scientific",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-11",
+   "title": "Kaspi.kz (KSPI) Q1 2026 Earnings Transcript",
+   "summary": "Kaspi.kz (KSPI) Q1 2026 Earnings Transcript The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkw0SXR5VTEtWnJNZm5jdlpTWDBNbHZ6NU9UYVI5LVZLcGZUQUR4Z2h4VUtNTUxyRjRoLWFyb0NjQkJWVlNVRmlzdmZlTnl0akVEcU9ZdURoWGp3cnhZZmREUG1aUVA4M0VGd055aDd3QjlnMWRKUDdfZWxyMUljS3hMZ2hxWFNVY2FQZ0lPT0FQZUJwQ0h1Q1h4RWY2MjVpc29NcVEyc0xjWVdZTnllYXN3eGhwME04NE5LRmxjSjZwbzQ?oc=5",
+   "category": "Earnings",
+   "companyId": 17,
+   "company": "Kaspi.kz",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4016,1014 +2947,5 @@
    "status": "Portfolio"
   }
  ],
- "events": [
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 1,
-   "company": "Metro Bank"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 2,
-   "company": "Chapters"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 3,
-   "company": "International Petroleum"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 4,
-   "company": "Borr"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 5,
-   "company": "Mineral Resources"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 6,
-   "company": "Ubisoft"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 7,
-   "company": "Grenke"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 8,
-   "company": "Prosus"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 10,
-   "company": "XPO"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 11,
-   "company": "Graphic Packaging"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 12,
-   "company": "Post Holdings"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 13,
-   "company": "Da Vita"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 14,
-   "company": "Eurofins Scientific"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 15,
-   "company": "Brookfield Corp"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 16,
-   "company": "BAWAG"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 17,
-   "company": "Kaspi.kz"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 18,
-   "company": "Amazon"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 19,
-   "company": "MTY Food"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 20,
-   "company": "Microsoft"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 21,
-   "company": "Reply SpA"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 22,
-   "company": "Meta"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 23,
-   "company": "Watches of Switzerland"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 24,
-   "company": "Amcor"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 25,
-   "company": "AerCap Holdings"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 26,
-   "company": "OSB Group"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 27,
-   "company": "Linamar Corp"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 28,
-   "company": "MTU Aero Engines"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 29,
-   "company": "Vistry"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 30,
-   "company": "HCA Healthcare"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 31,
-   "company": "Tencent"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 32,
-   "company": "Salesforce"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 33,
-   "company": "goeasy"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 34,
-   "company": "S&P Global"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 35,
-   "company": "NewPrinces"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 36,
-   "company": "Adyen"
-  },
-  {
-   "date": "2026-08-26",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 37,
-   "company": "Tronox"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 1,
-   "company": "Metro Bank"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 2,
-   "company": "Chapters"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 3,
-   "company": "International Petroleum"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 4,
-   "company": "Borr"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 5,
-   "company": "Mineral Resources"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 6,
-   "company": "Ubisoft"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 7,
-   "company": "Grenke"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 8,
-   "company": "Prosus"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 10,
-   "company": "XPO"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 11,
-   "company": "Graphic Packaging"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 12,
-   "company": "Post Holdings"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 13,
-   "company": "Da Vita"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 14,
-   "company": "Eurofins Scientific"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 15,
-   "company": "Brookfield Corp"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 16,
-   "company": "BAWAG"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 17,
-   "company": "Kaspi.kz"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 18,
-   "company": "Amazon"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 19,
-   "company": "MTY Food"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 20,
-   "company": "Microsoft"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 21,
-   "company": "Reply SpA"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 22,
-   "company": "Meta"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 23,
-   "company": "Watches of Switzerland"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 24,
-   "company": "Amcor"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 25,
-   "company": "AerCap Holdings"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 26,
-   "company": "OSB Group"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 27,
-   "company": "Linamar Corp"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 28,
-   "company": "MTU Aero Engines"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 29,
-   "company": "Vistry"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 30,
-   "company": "HCA Healthcare"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 31,
-   "company": "Tencent"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 32,
-   "company": "Salesforce"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 33,
-   "company": "goeasy"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 34,
-   "company": "S&P Global"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 35,
-   "company": "NewPrinces"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 36,
-   "company": "Adyen"
-  },
-  {
-   "date": "2026-08-28",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 37,
-   "company": "Tronox"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 1,
-   "company": "Metro Bank"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 2,
-   "company": "Chapters"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 3,
-   "company": "International Petroleum"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 4,
-   "company": "Borr"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 5,
-   "company": "Mineral Resources"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 6,
-   "company": "Ubisoft"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 7,
-   "company": "Grenke"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 8,
-   "company": "Prosus"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 10,
-   "company": "XPO"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 11,
-   "company": "Graphic Packaging"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 12,
-   "company": "Post Holdings"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 13,
-   "company": "Da Vita"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 14,
-   "company": "Eurofins Scientific"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 15,
-   "company": "Brookfield Corp"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 16,
-   "company": "BAWAG"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 17,
-   "company": "Kaspi.kz"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 18,
-   "company": "Amazon"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 19,
-   "company": "MTY Food"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 20,
-   "company": "Microsoft"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 21,
-   "company": "Reply SpA"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 22,
-   "company": "Meta"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 23,
-   "company": "Watches of Switzerland"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 24,
-   "company": "Amcor"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 25,
-   "company": "AerCap Holdings"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 26,
-   "company": "OSB Group"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 27,
-   "company": "Linamar Corp"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 28,
-   "company": "MTU Aero Engines"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 29,
-   "company": "Vistry"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 30,
-   "company": "HCA Healthcare"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 31,
-   "company": "Tencent"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 32,
-   "company": "Salesforce"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 33,
-   "company": "goeasy"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 34,
-   "company": "S&P Global"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 35,
-   "company": "NewPrinces"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 36,
-   "company": "Adyen"
-  },
-  {
-   "date": "2026-09-01",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 37,
-   "company": "Tronox"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 1,
-   "company": "Metro Bank"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 2,
-   "company": "Chapters"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 3,
-   "company": "International Petroleum"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 4,
-   "company": "Borr"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 5,
-   "company": "Mineral Resources"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 6,
-   "company": "Ubisoft"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 7,
-   "company": "Grenke"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 8,
-   "company": "Prosus"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 10,
-   "company": "XPO"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 11,
-   "company": "Graphic Packaging"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 12,
-   "company": "Post Holdings"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 13,
-   "company": "Da Vita"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 14,
-   "company": "Eurofins Scientific"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 15,
-   "company": "Brookfield Corp"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 16,
-   "company": "BAWAG"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 17,
-   "company": "Kaspi.kz"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 18,
-   "company": "Amazon"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 19,
-   "company": "MTY Food"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 20,
-   "company": "Microsoft"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 21,
-   "company": "Reply SpA"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 22,
-   "company": "Meta"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 23,
-   "company": "Watches of Switzerland"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 24,
-   "company": "Amcor"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 25,
-   "company": "AerCap Holdings"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 26,
-   "company": "OSB Group"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 27,
-   "company": "Linamar Corp"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 28,
-   "company": "MTU Aero Engines"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 29,
-   "company": "Vistry"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 30,
-   "company": "HCA Healthcare"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 31,
-   "company": "Tencent"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 32,
-   "company": "Salesforce"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 33,
-   "company": "goeasy"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 34,
-   "company": "S&P Global"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 35,
-   "company": "NewPrinces"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 36,
-   "company": "Adyen"
-  },
-  {
-   "date": "2026-09-04",
-   "title": "Earnings / Quartalszahlen",
-   "type": "Earnings",
-   "companyId": 37,
-   "company": "Tronox"
-  }
- ]
+ "events": []
 }
