@@ -85,18 +85,19 @@ FINANCE_KEYWORDS = (
 
 
 # ----------------------------- HTTP-Helfer -----------------------------
-def http_get_json(url, tries=3, pause=1.5):
-    """GET mit JSON-Antwort, einfache Retries."""
+def http_get_json(url, tries=2, pause=1.0):
+    """GET mit JSON-Antwort, knappe Retries (keine langen Haenger)."""
     for attempt in range(tries):
         try:
             req = request.Request(url, headers={"User-Agent": "research-dashboard/1.0"})
-            with request.urlopen(req, timeout=30) as resp:
+            with request.urlopen(req, timeout=15) as resp:
                 return json.loads(resp.read().decode("utf-8"))
         except error.HTTPError as e:
-            if e.code == 429:                      # rate limit -> warten
-                time.sleep(pause * (attempt + 1) * 2)
+            if e.code == 429 and attempt < tries - 1:   # rate limit -> kurz warten
+                time.sleep(2)
                 continue
-            print(f"   HTTP {e.code} bei {url.split('?')[0]}")
+            if e.code not in (429,):
+                print(f"   HTTP {e.code} bei {url.split('?')[0]}")
             return None
         except Exception as e:
             if attempt == tries - 1:
@@ -106,12 +107,12 @@ def http_get_json(url, tries=3, pause=1.5):
     return None
 
 
-def http_get_text(url, tries=2, pause=1.0):
+def http_get_text(url, tries=2, pause=0.8):
     """GET mit Text-Antwort (fuer RSS/XML)."""
     for attempt in range(tries):
         try:
             req = request.Request(url, headers={"User-Agent": "Mozilla/5.0 research-dashboard/1.0"})
-            with request.urlopen(req, timeout=30) as resp:
+            with request.urlopen(req, timeout=12) as resp:
                 return resp.read().decode("utf-8", "replace")
         except Exception as e:
             if attempt == tries - 1:
@@ -268,18 +269,78 @@ def get_news(name, query=None):
     return items[:6]
 
 
-def get_events(symbol):
-    """Kommende Earnings-Termine. Stable: /earnings-calendar?symbol=SYM&from&to"""
-    frm = TODAY.isoformat()
-    to = (TODAY + dt.timedelta(days=EVENT_HORIZON_DAYS)).isoformat()
-    data = fmp("earnings-calendar", symbol=symbol, **{"from": frm, "to": to})
+def anthropic_text(prompt, max_tokens=1024):
+    """Ruft die Anthropic-API auf und gibt den Text zurueck (oder None)."""
+    if not ANTHROPIC_KEY:
+        return None
+    try:
+        body = json.dumps({
+            "model": ANTHROPIC_MODEL, "max_tokens": max_tokens,
+            "messages": [{"role": "user", "content": prompt}],
+        }).encode("utf-8")
+        req = request.Request(
+            "https://api.anthropic.com/v1/messages", data=body, method="POST",
+            headers={"content-type": "application/json", "x-api-key": ANTHROPIC_KEY,
+                     "anthropic-version": "2023-06-01"})
+        with request.urlopen(req, timeout=45) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        return "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
+    except Exception as e:
+        print(f"   Anthropic-Fehler: {e}")
+        return None
+
+
+def get_ir_events(url, name):
+    """Laedt die IR-Kalenderseite und laesst Claude die kommenden Termine extrahieren.
+    Benoetigt ANTHROPIC_API_KEY. Bei JS-gerenderten Seiten kann das Ergebnis leer sein."""
+    if not url or not ANTHROPIC_KEY:
+        return []
+    html = http_get_text(url)
+    if not html:
+        return []
+    # HTML grob zu Text reduzieren
+    text = re.sub(r"(?is)<(script|style|nav|footer|header)[^>]*>.*?</\1>", " ", html)
+    text = re.sub(r"(?s)<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", html_mod.unescape(text)).strip()
+    # Budget auf den Bereich mit Datumsangaben zentrieren (statt Seitenanfang)
+    if len(text) > 7000:
+        m = re.search(r"(20(2[6-9])|\d{1,2}[./]\d{1,2}[./]20\d{2})", text)
+        if m:
+            start = max(0, m.start() - 600)
+            text = text[start:start + 7000]
+        else:
+            text = text[:7000]
+    horizon = (TODAY + dt.timedelta(days=EVENT_HORIZON_DAYS)).isoformat()
+    prompt = (
+        f'Aus dem folgenden Text der Investor-Relations-/Finanzkalender-Seite von "{name}" '
+        f'extrahiere die KOMMENDEN Termine (heute {TODAY.isoformat()} bis {horizon}). '
+        f'Antworte NUR mit gueltigem JSON-Array, kein Markdown: '
+        f'[{{"date":"YYYY-MM-DD","title":"kurzer Titel","type":"Earnings|Conference|Hauptversammlung|Capital Markets Day|Sonstiges"}}]. '
+        f'Nur Termine mit konkretem Datum, nur in der Zukunft. Wenn keine erkennbar: []. '
+        f'Text: {text}'
+    )
+    raw = anthropic_text(prompt, max_tokens=800)
+    if not raw:
+        return []
+    raw = raw.replace("```json", "").replace("```", "").strip()
+    try:
+        arr = json.loads(raw[raw.index("["): raw.rindex("]") + 1])
+    except Exception:
+        return []
     out = []
-    if isinstance(data, list):
-        for e in data:
-            date_str = (e.get("date") or "")[:10]
-            if date_str >= frm:
-                out.append({"date": date_str, "title": "Earnings / Quartalszahlen", "type": "Earnings"})
-    return out[:4]
+    valid_types = {"Earnings", "Conference", "Hauptversammlung", "Capital Markets Day", "Sonstiges"}
+    for e in arr:
+        d = str(e.get("date", ""))[:10]
+        try:
+            if not (TODAY.isoformat() <= d <= horizon):
+                continue
+        except Exception:
+            continue
+        t = e.get("type", "Sonstiges")
+        out.append({"date": d, "title": str(e.get("title", "Termin"))[:120],
+                    "type": t if t in valid_types else "Sonstiges"})
+    out.sort(key=lambda x: x["date"])
+    return out[:8]
 
 
 # ----------------------------- Technische Analyse -----------------------------
@@ -370,7 +431,6 @@ def compute_ta(closes, currency=""):
 def summarize_news(name, news):
     """Verdichtet Roh-News zu kurzen deutschen Summaries + Kategorie. Optional."""
     if not ANTHROPIC_KEY or not news:
-        # Fallback: gekuerzte Originaltexte ohne KI
         for n in news:
             n["summary"] = (n["summary"] or "")[:220]
         return news
@@ -381,27 +441,20 @@ def summarize_news(name, news):
         f'Markt oder Sonstiges). Antworte NUR als JSON-Array in identischer Reihenfolge: '
         f'[{{"summary":"...","category":"..."}}]. Meldungen: {json.dumps(items, ensure_ascii=False)}'
     )
+    text = anthropic_text(prompt, max_tokens=1024)
+    if not text:
+        for n in news:
+            n["summary"] = (n["summary"] or "")[:220]
+        return news
     try:
-        body = json.dumps({
-            "model": ANTHROPIC_MODEL,
-            "max_tokens": 1024,
-            "messages": [{"role": "user", "content": prompt}],
-        }).encode("utf-8")
-        req = request.Request(
-            "https://api.anthropic.com/v1/messages", data=body, method="POST",
-            headers={"content-type": "application/json", "x-api-key": ANTHROPIC_KEY,
-                     "anthropic-version": "2023-06-01"})
-        with request.urlopen(req, timeout=60) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-        text = "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
         text = text.replace("```json", "").replace("```", "").strip()
         arr = json.loads(text[text.index("["): text.rindex("]") + 1])
+        valid = {"Earnings", "Conference", "Guidance", "M&A", "Rating", "Markt", "Sonstiges"}
         for i, n in enumerate(news):
             if i < len(arr):
                 n["summary"] = arr[i].get("summary", n["summary"])[:300]
                 cat = arr[i].get("category", "Sonstiges")
-                valid = {"Earnings", "Conference", "Guidance", "M&A", "Rating", "Markt", "Sonstiges"}
-                n["category"] = cat if cat in valid else "Sonstiges"
+                n["category"] = cat if cat in valid else n["category"]
     except Exception as e:
         print(f"   Summary-Fallback ({name}): {e}")
         for n in news:
@@ -410,6 +463,34 @@ def summarize_news(name, news):
 
 
 # ----------------------------- Hauptlauf -----------------------------
+def process_company(c):
+    """Sammelt News, Kurse und IR-Events fuer EINEN Titel (thread-sicher, keine globalen Writes)."""
+    cid, name, sym = c["id"], c["name"], c.get("symbol")
+    entry = {"news": [], "events": [], "tech": None,
+             "profile": {"businessModel": "", "differentiation": ""}}
+
+    # News (Google-News-RSS) fuer alle Titel
+    raw_news = summarize_news(name, get_news(name, c.get("newsQuery")))
+    for n in raw_news:
+        n.update({"companyId": cid, "company": name, "asset": c["asset"], "status": c["status"]})
+    entry["news"] = raw_news
+
+    # Kurse via FMP (nur mit Symbol)
+    if sym:
+        prices = get_prices(sym)
+        if prices and not c.get("noChart"):
+            entry["tech"] = compute_ta(prices["closes"], get_currency(sym))
+
+    # Events direkt von der IR-Seite (via Claude)
+    for e in get_ir_events(c.get("irCalendarUrl"), name):
+        e.update({"companyId": cid, "company": name})
+        entry["events"].append(e)
+
+    print(f"   fertig: {name} — {len(entry['news'])} News, {len(entry['events'])} Events,"
+          f" {'Kurs' if entry['tech'] else 'kein Kurs'}")
+    return cid, entry
+
+
 def main():
     if not FMP_KEY:
         print("FEHLER: FMP_API_KEY ist nicht gesetzt. Abbruch.")
@@ -423,33 +504,16 @@ def main():
         "companies": {}, "news": [], "events": [],
     }
 
-    for c in companies:
-        cid, name, sym = c["id"], c["name"], c.get("symbol")
-        print(f"-> {name} ({sym or 'kein Symbol'})")
-        entry = {"news": [], "events": [], "tech": None,
-                 "profile": {"businessModel": "", "differentiation": ""}}
+    # Titel parallel verarbeiten -> deutlich schneller als sequentiell
+    from concurrent.futures import ThreadPoolExecutor
+    print(f"Verarbeite {len(companies)} Titel parallel …")
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        results = list(pool.map(process_company, companies))
 
-        # News: kostenlos via Google-News-RSS — fuer ALLE Titel, auch ohne Symbol
-        raw_news = get_news(name, c.get("newsQuery"))
-        raw_news = summarize_news(name, raw_news)
-        for n in raw_news:
-            n.update({"companyId": cid, "company": name,
-                      "asset": c["asset"], "status": c["status"]})
-        entry["news"] = raw_news
-        snapshot["news"].extend(raw_news)
-
-        # Kurse + Events: nur bei vorhandenem FMP-Symbol
-        if sym:
-            prices = get_prices(sym)
-            if prices and not c.get("noChart"):
-                entry["tech"] = compute_ta(prices["closes"], get_currency(sym))
-            for e in get_events(sym):
-                e.update({"companyId": cid, "company": name})
-                entry["events"].append(e)
-                snapshot["events"].append(e)
-            time.sleep(0.3)   # FMP schonen
-
+    for cid, entry in results:
         snapshot["companies"][str(cid)] = entry
+        snapshot["news"].extend(entry["news"])
+        snapshot["events"].extend(entry["events"])
 
     snapshot["news"].sort(key=lambda n: n.get("date", ""), reverse=True)
     snapshot["events"].sort(key=lambda e: e.get("date", ""))
