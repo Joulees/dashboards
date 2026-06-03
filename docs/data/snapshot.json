@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-02T09:02:02+00:00",
+ "generatedAt": "2026-06-03T09:21:56+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -19,19 +19,6 @@
      "source": "PR Newswire",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmZtNzBKSEZKeF81T2JrLUFGUWNwSkE4ZTJzRDEyb0hhYUNWWHZVOFpfM1h4Q1dBanFoQVVxYmdESk5lU05yN1dfSFFiOUs2bDg1d2dkejZOLXgwYmkxdFJCdm56eXluWHR1aTR5VWVZcEo5eU1FckpPZENJYXNvUGVOYXRqbVdHbHY5NG96c3dDeVNyRWVNWjhYdEpWVk5sRUFJQUxYM2pucU5ZTEU2bW5sRHNBenRXZS00Z3Q5ZTF6MjR1V0hHQlFOcDVoTWs5eWhYSUJ4MA?oc=5",
      "category": "Sonstiges",
-     "companyId": 2,
-     "company": "Chapters",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-14",
-     "title": "Chapters Health System Named as 2026 Best Places to Work in Healthcare by Modern Healthcare",
-     "summary": "Chapters Health System Named as 2026 Best Places to Work in Healthcare by Modern Healthcare PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjVIbi1EYTVvZmsyamdrdDFXelVabWx2dnJJUmxqaGZacUhuNmtqNGJoRERsYlk3T3dmazEzbGdIcFZtZUtuaFdvWmVSenMzRUlXVVdPc21VUENPckhmdVc2cmRhdF9ZR1NMclFuemtjc0drYzdKY0d4X0llbUJDOHVzSHA1NG80MzQ2NXlON2NoT01MWkdWbF9PSkM4eWVQT1JhNmNUSGV0QzI4ekN5Umc3MDJ6aFRXVF9xa0ZyUjlzVFU0RkVFY204RTNvbG1ITnhFMzgwSUFuVGd1QXJ0TA?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-02T09:02:02+00:00",
      "companyId": 2,
      "company": "Chapters",
      "asset": "Anleihen",
@@ -70,30 +57,6 @@
   },
   "4": {
    "news": [
-    {
-     "date": "2026-05-27",
-     "title": "ProFrac, NOV, and Borr Drilling Shares Are Falling, What You Need To Know",
-     "summary": "ProFrac, NOV, and Borr Drilling Shares Are Falling, What You Need To Know The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUEI2MEE2WWVzWTVsYk1FQ19iclVid0YzbUt2bXdnWjV1eHNvQjk3M3VUNXd5VEpabF94UEZkWHpNdDdva1dUWk9yZHlpNkpJUUpzSTRNZ2R2MmhvOUZrbjd3NC1aTGsxRHhtdVJ4TkRSZ0R4cXRCMzRzZnduV0dFWFZVS3JkSVhZd21xYzRzYXRpZ3BmZHlhVkpESDNLQ1Z0OTFQQ29xZklaX3JEM3VIdHlhUW5FaGNzRW9nN055VDJKUFBoWWFrVG80dWV0ZllRVE1zRThONHF2ZnVOc2hzQTRXU0diaVFUamc?oc=5",
-     "category": "Markt",
-     "companyId": 4,
-     "company": "Borr",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-22",
-     "title": "Borr Drilling (BORR) Q1 2026 Earnings Transcript",
-     "summary": "Borr Drilling (BORR) Q1 2026 Earnings Transcript The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWdoOGhuR0p1Tzd6c2piVHVfQmNMU2pkLUp6bENSamtLMEl0ZU5aajVrc201M2dNWDdwZnNYalQxX3Z0eE9tVlNocXFWbDUzbzB2c2Uxa0dyRDlCMzdUODI3UkZHTTN2RzE4Ti1UUjllU2JJYW8xbmFSaHkyTXhLOFZudmNQUTdwdGJIeFRSYWdJTnkzNWxEUHpmOXA4ZkNkb3FHb09ONW1QQ1JHQVdNeHhQRUEtNDVmUl92REw2SENvMWVZRmxqM25sYko?oc=5",
-     "category": "Earnings",
-     "companyId": 4,
-     "company": "Borr",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-05-21",
      "title": "Borr Drilling Q1 Earnings Call Highlights",
@@ -137,6 +100,19 @@
   },
   "6": {
    "news": [
+    {
+     "date": "2026-06-02",
+     "title": "Ubisoft Reveals Rayman Legends Retold, Available on October 1",
+     "summary": "Ubisoft Reveals Rayman Legends Retold, Available on October 1 Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmhKbUVIdTl6UzVpRFFLVTh4cHdWZVFqVTlERmxlNkt5c21EUHhvVG84SEdrcHIxWUhoLTdaVG1pZFpKWXVNckVJZU5pdkFZNEs5YWVTRm05SmV6TU4zS1ZsZURFLTRkekVYSzQxck1laDB0Y29velZyV3JSZjdHUUk3QmZWbDNOM3FoMU1qX3huMUp4NXlEYmVHX3VIcVg1ckQxZERKcDhrYjhnMHVtLXVGS05RbVln?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 6,
+     "company": "Ubisoft",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-05-21",
      "title": "Ubisoft shares fall after Assassin’s Creed maker warns of further losses to come",
@@ -333,6 +309,19 @@
   "11": {
    "news": [
     {
+     "date": "2026-06-02",
+     "title": "GPK Shareholder Alert: Graphic Packaging Holding Company Securities Class Action Lawsuit - Investors With Losses May Contact The Gross Law Firm",
+     "summary": "GPK Shareholder Alert: Graphic Packaging Holding Company Securities Class Action Lawsuit - Investors With Losses May Contact The Gross Law Firm PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPNlZsQ2syR1NoMW14UXZNQjBDam5JZzNDbFZINlRzUk5qclkxU25Pcm45bGV0Y2Ytazh6djRYc2NDTDFPOGRxODVlLTc0alZObEM4QUZ5SWtNNkZTR1JfZXVJU21FbFVFUlVvN05Fa3VOYWlXYWJDY1liWDVSY013eFFGelRzLWpLNE1Oc01jQ25kT3BkMkN0aTc0OWRhLVZhYllvdmQ1cHVpSzAxU0hSOExGQjV2Q2UwZHd4cmNMSjFENUxIODFraENsQWNCTkdtbUJ1dnY0X3N2M1RhcmsxeHZraFoxaVN3ekszY1hMMkw4QlE4cWNOcGVJUlh6U01ZaWxNZzRSY2hUNnc1b214a1BmdDNPajJ3Q0hiOEw4a1FuZ3Fl?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-05-29",
      "title": "GRAPHIC PACKAGING ALERT: Bragar Eagel & Squire, P.C.",
      "summary": "GRAPHIC PACKAGING ALERT: Bragar Eagel & Squire, P.C. GlobeNewswire",
@@ -358,10 +347,10 @@
     },
     {
      "date": "2026-05-28",
-     "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-     "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
+     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
+     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3FpVENkbldzYlJkMnlCWk9ma2NaZVFXMXZCU2xOcGRmZEV1bWNzT205WnRVX0tjdVQ3b3N6VkZMZEM3RlB5dGc3R1ExRF9GUkg2OE5PU1RNanV5QnplMFJycUhoUDYySXFsTl9uVUFQYVZ0VHpJZ2FqbWdLQU13MDVsSnZyV0RwMWlET3V5NmNZLTlzRlc5Zk44dlE0UVZTODNFdFBINGNGanM5YmlyaERFN3hHcHR2eHhEeWdSNjYwLUFjSkxpanhjVW9SMEJETXdjWjZ0M3RIQUhzNDYtc1o5U0pMTGQwUFNhTEpycUZKYm8zb2cwYXRTMHVzbkRo?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWVdYdHdXU2RnT2NPVUNGcEZPTFdMWFItaTFxVG1admg2MGNHLWI4WlZfUDFZRU54SWU3UWJ5YXNncFZjdUZ5V2lqSzBxUlUzLXdmTUp6aFQyWDVtSFBNVm02djNzbEtHMXhONUJNRTY4SUZkZHZTS3RyMjFRN2pmNnlEN3JzQTJ1NkRqYWVhN3p5bG9zaWh6bGNHYU8xa0JtNnowcFNHWWlDZmZXNUpNWjFxYjJ6Z1lDMWtaUU41TVNLTjNQdUk2T1FJMFpsN2lPYk1xaFRxTG9DZmc4Y2c4WjZLejZMNzkxMGxIa1FWcFp0YW05RUcxelQ2QV9XdzUzdkRWRmUwcDcwQQ?oc=5",
      "category": "Sonstiges",
      "companyId": 11,
      "company": "Graphic Packaging",
@@ -370,11 +359,12 @@
     },
     {
      "date": "2026-05-28",
-     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
-     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWVdYdHdXU2RnT2NPVUNGcEZPTFdMWFItaTFxVG1admg2MGNHLWI4WlZfUDFZRU54SWU3UWJ5YXNncFZjdUZ5V2lqSzBxUlUzLXdmTUp6aFQyWDVtSFBNVm02djNzbEtHMXhONUJNRTY4SUZkZHZTS3RyMjFRN2pmNnlEN3JzQTJ1NkRqYWVhN3p5bG9zaWh6bGNHYU8xa0JtNnowcFNHWWlDZmZXNUpNWjFxYjJ6Z1lDMWtaUU41TVNLTjNQdUk2T1FJMFpsN2lPYk1xaFRxTG9DZmc4Y2c4WjZLejZMNzkxMGxIa1FWcFp0YW05RUcxelQ2QV9XdzUzdkRWRmUwcDcwQQ?oc=5",
-     "category": "Sonstiges",
+     "title": "REMINDER: Graphic Packaging Holdings Company Investors with Significant Losses Must Act by July 6, 2026",
+     "summary": "REMINDER: Graphic Packaging Holdings Company Investors with Significant Losses Must Act by July 6, 2026 GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUk9wY3ZSd3VIb1pqQjVhWXhRLWpXaUk0d290YVhQZ3FpSzltZWZSRlhpX3NLOGZkRFBObnNLX1RQM0lYSTRyWFZUcW45SkVFU0tzSmFnM2E4bm9makZQZ3JZMWV2aHYtYzE2YUlWa2c5cl9iV0w2cnNVd2VGdXFqNlBkVFBiX1ppcEJVLVgwOU1vQVp6dFJYUWVadldzek1NbWNPMzIwVVc5bEFzRVFMTnhkVnFYclRjUHg5N1FKY3UwOUxCVXplTUJNSWpNTzR4V2s5TnlTNHoxVWNQV2NxZWRlRGlFV1RxU1hnMkNnQWFkQzcyWFFDQmFVbE5DN1loUXdz?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -387,19 +377,6 @@
      "source": "PR Newswire",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVTRfTWFtb3VCT3dJSS1yMmVzR0dTTFlpbFJOR2hOX0F5dHNaSURjSXN5Y21WVnB6eTVnWGQ4T2dsSE93NXlUbm56UzliNW1SRWtOWWQ1VzhxeHZHR1VlMVpWNG5GT0ZkU2VITWdpUktZNExybWNZVVZOUnItREMtcE1GdWpkZDFsNmJ2aWEwWmgtMWphTnFyczFlaGFXUjhQLW5kZFFEVUUyUnZmNHgwb0pValFoakRm?oc=5",
      "category": "Sonstiges",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-26",
-     "title": "Deadline Alert: Graphic Packaging Holding Company (GPK)",
-     "summary": "Deadline Alert: Graphic Packaging Holding Company (GPK) GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOZWFkcHpwclE3ME82Q3hyNkhNZ0k2a1hid1pDTDNVSEJTVFcwa2c3amZNN0plQjRpUUtKWFdPeUJOQk03TVQxaUVwZXVhaXMwSmFhY2lpTm0xN0gxTjZjaE9sLWM5ellQLU55RXJXNEFTOGdsbnludGlBdnFOS0JPQVdPUUlvMlVfNGRkaUFJTzdrMU1Pb1ppWmdJWUNJSF9Rak9CdHg4cGdJNlZlblRQelh4b3B1RVI3TFk0TGZtLTJXY0dqR1F2alRTY3JqdXRFT2RyZUkwaG5McGoxQnBSTzJnNEE4SFZTenNwT0ZPVzBXQXl1UnRvUTNqMmN3YnpwbXRJSS1UM1FEcERtaDJYM1hYM2NGSTUtTVk0X19BQ2ZZZVZTazlBQUJrcjB2QklSQjRxck5NZ2NBWnE0YlZDRlVMLVdGUjJaMkRGaHVaYk5IUQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-02T09:02:02+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -483,18 +460,6 @@
   "14": {
    "news": [
     {
-     "date": "2026-05-18",
-     "title": "Eurofins Scientific SE: Weekly Report on Share Repurchases From 11th May to 15th May 2026",
-     "summary": "Eurofins Scientific SE: Weekly Report on Share Repurchases From 11th May to 15th May 2026 Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUt2TXhZamFGNFF6VkZuRk9BbE43cVlkNEJLTGRNUWY0VlFkODdmTm01aW1ZemxjV1RpOVNjQl81clNlWXhZR1d2YmtyZXpsQlZYMDQ0Q1hGd21QMEZQa0ViUzNhMkIwSGRpZi1hSkJfNDV3a1dBdUd5SjgwMFEtNEg2REowaEVsNVllaG9zb0xQbFlMM1RUOVlDeE4yS3lkbHlzcjlhdHBJMlpra0R6VjdLWnJERkx2OHFTUmtvejlPX2RZVkkxQWVqV244LXhsdHBwcXdmeEhSSXRoT0E?oc=5",
-     "category": "Sonstiges",
-     "companyId": 14,
-     "company": "Eurofins Scientific",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-05-11",
      "title": "Eurofins Scientific SE: Director/PDMR Shareholding",
      "summary": "Eurofins Scientific SE: Director/PDMR Shareholding Business Wire",
@@ -539,19 +504,6 @@
      "company": "Brookfield Corp",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-14",
-     "title": "Brookfield Corp. to combine with insurance business, reports Q1 profit up",
-     "summary": "Brookfield Corp. to combine with insurance business, reports Q1 profit up The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSVU3OUE1dFpsOG1ISG9nN0dpTVNpZmFhamhHT2lRdlZoR0JOOHU1RXlRbXo2SGZLekkwV09pTkVFSHo1akFzaHRkNjBKSDh6TDE3dVRQY2FVVjV3cF82QW1YZXlLYXdDdmhzZ3B2T2ZneGhCWXZhN3N1V3ozNjhRNnUzSzFNX0ZIQUdKdmNZbHNSWjhMOVVoUDNzLVU3ai1GbkNSWGpDeWRWNzJRcGZpdlFoTTl3cHM4elE?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-01T10:11:26+00:00",
-     "companyId": 15,
-     "company": "Brookfield Corp",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
    "events": [],
@@ -585,36 +537,12 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-05-15",
-     "title": "Kaspi.kz Posts Strong Q1 2026 Revenue Growth While Profits Hold Steady",
-     "summary": "Kaspi.kz Posts Strong Q1 2026 Revenue Growth While Profits Hold Steady The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMDNpRWtlVUtEcE1kRjlreUEzbHlYeWRLNWNxY29fSkFiSWppcUJvc1RVNEU2QmM2Y1pNSUFsa2dXb3J5MTZJMUxIMjZzV3Fhb0F0b0JpN3JlS2lid3d1eG10NWFSNy1GWFJIOElOUDZ5cEota0FBX05yam9OQlREbWhKYWJENnNmVGd6NGlYZ3lCODFEQ1ZHbkwxZEdfZGJGTUlOSHEzXzlWSHl2dDEwUUFiQWRRbU9RYVc1NjRkc2RYY2xYWklyVEdZYmg3SnhRY3RpdzdZMkU5ZmcxOGdhZURQNHhsUQ?oc=5",
-     "category": "Earnings",
-     "companyId": 17,
-     "company": "Kaspi.kz",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-05-12",
      "title": "Kaspi.kz Boosts E-Commerce Growth, Dividends and Liquidity in Strong 1Q 2026",
      "summary": "Kaspi.kz Boosts E-Commerce Growth, Dividends and Liquidity in Strong 1Q 2026 The Globe and Mail",
      "source": "The Globe and Mail",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUXFWaE51OV9qYXFPblhpYTFfY1FzSmtLcG5faWZ5Tkx4WmU1ZnIteVhjZTVpeTA2MVVJM1VpN3pud3kxSVlnYmcyVWE4bklhNHBCT1NfWlNJbll0SlFGRmV0MU84ZFpneFZYWm1nMkM5UUpJOUtYeVpvOUR3RmZySWgtRHl4UE9QR2dsOHdzLXhUWnU0cTJZWGNvTW9JY09SYzhNQ2o1Ml93S2d5Zy0xVXZmYS02alo3d1NrNUxfYUt0SHprY2FnNDhvNHVTVE9WM0NjaGtxQ0tDQTZrcXFjSm4wSG9nNnBqRzVSOU52Z2Y?oc=5",
      "category": "Markt",
-     "companyId": 17,
-     "company": "Kaspi.kz",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-11",
-     "title": "Kaspi.kz (KSPI) Q1 2026 Earnings Transcript",
-     "summary": "Kaspi.kz (KSPI) Q1 2026 Earnings Transcript The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkw0SXR5VTEtWnJNZm5jdlpTWDBNbHZ6NU9UYVI5LVZLcGZUQUR4Z2h4VUtNTUxyRjRoLWFyb0NjQkJWVlNVRmlzdmZlTnl0akVEcU9ZdURoWGp3cnhZZmREUG1aUVA4M0VGd055aDd3QjlnMWRKUDdfZWxyMUljS3hMZ2hxWFNVY2FQZ0lPT0FQZUJwQ0h1Q1h4RWY2MjVpc29NcVEyc0xjWVdZTnllYXN3eGhwME04NE5LRmxjSjZwbzQ?oc=5",
-     "category": "Earnings",
      "companyId": 17,
      "company": "Kaspi.kz",
      "asset": "Aktien",
@@ -655,49 +583,12 @@
      "company": "Amazon",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-13",
-     "title": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
-     "summary": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFNXSF9lUXRHNndhMlNNUlJ1bllXMTlnT1NzaVRiY213ekswZ3FVak5mUnpfZXZtN0QtT0pObDNMQkc3WF90U3BOUnVsZ0ktTjFNR01reThLRUlhTDVvMVhLa3JBUTBPVjJlZjdKYjBGTkxSWVNxSnRubXZTcnJyeUpzMlhjNUxKNnRXcHJaZk1mQUJnNGloQm9oR1dYald2WWxN0gGoAUFVX3lxTFBWRm9VaXREdnlsQzZXT1RjTzdzRzJINXBnZEdITzJRRTdRLUQzWERRM3UxbnFpbWNEUjY5Q3R5TjV5N0lqb0IxeFZDcEFOUjZ5MnFjSzVhMTFqTVVZTzlmZmZkMnQyMHBUaVJkYkhYamZrcEVrcGxkZGlMZGtCbjZNVzJUcGFuWTNaQWU3RkFBcml2S0htcTJGN29ERG9wci0xZ0R1aWQ3Mg?oc=5",
-     "category": "Markt",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-12",
-     "title": "FedEx CEO brushes off Amazon's new logistics service that recently sent shares tumbling",
-     "summary": "FedEx CEO brushes off Amazon's new logistics service that recently sent shares tumbling CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHUxTTFQaWZ1NWJkb3ZDai1mbTAzTXRqZm9XRnZ1eUpMZjJzbjAyb2h4SWc2TXlzT2ExVWxwSGlPY2VrTTdxWlhVMW9EVDRlZUdlSmFfVXJwSnpIRG1GNUZ6a3BSOUsxN3dGeHd6cDVLUFVRVjVCcDFidWM4ZmZfUNIBhgFBVV95cUxQN3VjRVRsVXNwRHZGejNBOE05Y1VBTXpVSDRxeE5PN1pmOU1KUUtZTGJTaDZCREY2bnZ6UHpNWlhSRUJBTWpiWG0yVzh6Qzk2M29aUFZQaGRmejRaQjNqV0wzOWdwelpZTkdySWJuZzltbGJhMVJkZi1NN3pTLTRjZEZDTzRvUQ?oc=5",
-     "category": "Markt",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-04",
-     "title": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses",
-     "summary": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlRuYkxsZmFEZWlmUm84MVpZRi1pMjdEZHk5aDVuRDVJOXdBUUxKSjVycG15eVhBRFhReF9TUEJyLV80XzJqd21sRjN3SW1TOXI5UU9GR3F1LWt0czhmU1g3cFlZeTZxaHJCV1ZNbndmcGVZMnRfR0VydzZGelRwSzJfTURRbWM0TF9SRDhXS2lmbmJwN29XeGZYYk9aRElMQzBKYW42Z2VWYkVCTFV2YVF3TjdmUnJhTzVUTDBfWHNiRWdtVTYwbHJPSFQzUjM3MWVZSzBvMnJVOUtWT3k0UFRYNA?oc=5",
-     "category": "Sonstiges",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
    "events": [],
    "tech": {
     "currency": "USD",
     "closes": [
-     236.65,
      238.18,
      239.12,
      231.0,
@@ -791,20 +682,22 @@
      271.85,
      274.0,
      270.64,
-     261.26
+     261.26,
+     256.52
     ],
-    "price": 261.26,
-    "sma50": 247.72,
+    "price": 256.52,
+    "sma50": 248.74,
     "sma200": null,
-    "rsi": 43,
+    "rsi": 42,
     "macd": "baerisch",
     "high": 274.99,
     "low": 198.79,
-    "score": 0,
+    "score": 1,
     "label": "Neutral",
     "reasons": [
      "Kurs ueber SMA50",
-     "MACD unter Signallinie"
+     "MACD unter Signallinie",
+     "unter unterem Bollinger-Band"
     ]
    },
    "profile": {
@@ -813,7 +706,21 @@
    }
   },
   "19": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-05-21",
+     "title": "MTY Food Group Inc. Announces Results from 2026 Annual General Meeting",
+     "summary": "MTY Food Group Inc. Announces Results from 2026 Annual General Meeting GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdEF5UmJlM1VHaUF6NmtYRzEzT196c2dsM0UtakxtVWZ3OXhyR2VCdFVSMmVpVVdxQVEydmRfeGhacGlQc19tZWNpVkwtVXB5R01KcnVwYjI1QkJCN2NiRV9sRFlnLU9oanNiRG56dlNIY3BOakRYelNKalZNRlZGQmhNNTdhNElrTlRaSjNCME5QbjU4bERrTU5VZTNRZ3FUTDZyV0t1NlFJc3ZHUHNydU8wOW9YVG9fMnhOdTl5dEIzNkI4WWo5LVpvZjRNdEdlemE2Rm96eXo?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 19,
+     "company": "MTY Food",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
    "events": [],
    "tech": null,
    "profile": {
@@ -824,13 +731,13 @@
   "20": {
    "news": [
     {
-     "date": "2026-05-15",
-     "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
-     "summary": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX21IYkVYOVZTNmxxVDBfVWRMVlRyY3J0TnMxOWdQQnRWN180UGVPaVNyYXVRdEZsdWFjOUwxZFhHanBmY0QzQWVLTlUzdEl6eHU5ZTlxT1h4WG9zeTAzWm9GWEFsVDRjWlhTaktxcFRSWS14RU9KbGY1Y1NoOVhGOFJFRnI4NXlQWDZHeTljd3hHTno5bTFDOWdjeUZ0UTTSAaQBQVVfeXFMT0F6SU9xUVY5MWZUQ09hM2JTQWZrRFd2YVpjUHUwNEVzbHNXU1VHenJSbnNyLXJiOGZFNmpJdEdOMkVhUWMySDRzcmlETlRqZkw5MDBoWkloNzR0cG0xdWRGbV9UMWRHODlZc1BDTlpvVDc1RndtcERUS1A4M29aWDdVeWtTSXFFb3drWUhOa3VhNllMZS03RDNHV0U4U1JqbkRwQy0?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-06-01T10:11:26+00:00",
+     "date": "2026-06-02",
+     "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
+     "summary": "Microsoft teases new era of AI-driven devices at annual developer conference Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hudE1XOEVGajhxeFBhMXZBbDRYTHJieG1waXZLRG85S3lNSGFKWnVCQnNLWnd0RmNsZjBGcFoxQlhqR3l5T1A5Ni02UU42SnRZUEJ5WWJMMUJPTWdBVjV2SW5NQ0NUQ25JWURYSEVJdmFTMGlGX2M3VHpWLUs2MG5MeFh4aUJrcjk4OG16OHk3S0tUSW9JUW5jR0JrWU9HRUNJcFpqcVdxVXFmR0wwOEIyODNESk5HWUE?oc=5",
+     "category": "Conference",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
      "companyId": 20,
      "company": "Microsoft",
      "asset": "Aktien",
@@ -841,7 +748,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     459.38,
      456.66,
      459.86,
      454.52,
@@ -935,22 +841,21 @@
      412.67,
      426.99,
      450.24,
-     460.52
+     460.52,
+     441.31
     ],
-    "price": 460.52,
-    "sma50": 404.26,
+    "price": 441.31,
+    "sma50": 405.44,
     "sma200": null,
-    "rsi": 76,
+    "rsi": 66,
     "macd": "bullisch",
     "high": 481.63,
     "low": 356.77,
-    "score": 0,
-    "label": "Neutral",
+    "score": 2,
+    "label": "Bullisch",
     "reasons": [
      "Kurs ueber SMA50",
-     "MACD ueber Signallinie",
-     "RSI ueberkauft (>70)",
-     "ueber oberem Bollinger-Band"
+     "MACD ueber Signallinie"
     ]
    },
    "profile": {
@@ -994,13 +899,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-05-21",
-     "title": "AK legt Beschwerde gegen Google, Meta und Tiktok wegen falscher Gewinnversprechen ein",
-     "summary": "AK legt Beschwerde gegen Google, Meta und Tiktok wegen falscher Gewinnversprechen ein Der Standard",
-     "source": "Der Standard",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSXc0cUdoWXM5WFh3Zk1Qd2l2SmZwX2FvT3gtamhRYUNTaHZTNnhuYl9TT1h5eFliUTlid3UzMWVraC1DeUNVWEN4MlFnY2NsT1ZKa214WG8zVUVsY0NGby1YVUd2aE9TcTV5cXFlekRHcGFRRXN6TjUwS0M4d2pOZ0ZGcDBHNkJiRC14WlVyT3V6T2pOaFZFUUlRTTFNRWJrc1RCSUIwRGJiRHZ3dkptd2dFYmh5VEx6?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-02T09:02:02+00:00",
+     "date": "2026-05-22",
+     "title": "Reddit stock drops almost 6% after Meta launches standalone app for online forums",
+     "summary": "Reddit stock drops almost 6% after Meta launches standalone app for online forums CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjFJN1FUdmJRRHhvc2JqQUJydEJPWEdFQkVEYlNhYmlnbnV3UENlXzdxRkNRVUpYVWlJTTgtdmJyM0xKcHpUTmxGTG5WQ054NGZhc19samlZYjdwUF8tcFdJbzNNbDJEdkd0d2xfV0h1VTNDVTVlOWYyRGs2aEd4aWxqeHJQM21UQ01uMEJB0gGTAUFVX3lxTE5OY3JpLUk3dmxyTnRQN2J4dVdpbGkxeEhxRUppS05JSmtMRDFVSjJoVkZEdUM2Sm82c2tndGpERmh5alhMbHJqLWxNV0VFRXY5U3JHN0R6WXVjR2owdG1lZ2EwR2RQMXdRU0RMZjBCQXRMOWJZZXFiWDBsZEo2bGdkRU5JMUVZYXdPQ0c0MnJsUUpjTQ?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -1019,18 +924,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-05-19",
-     "title": "Trailer: Das Meta-Imperium – Aufstieg und Wandel des Mark Zuckerberg",
-     "summary": "Trailer: Das Meta-Imperium – Aufstieg und Wandel des Mark Zuckerberg ZDF Presseportal",
-     "source": "ZDF Presseportal",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlNhVHowcnZCMl8xOGtVOWh1Vk9VRGVPZG5lSXMtTTRhRzBIaTIxeHp3YXRpQ1FGdEJVZy10U0V5d2F3Zkg3bjg3QWR1MmhzdzhNdmVlak5fbnUyRjRoRU1PMld4UGZfck5ITVJsNlNNUzVzdFZTbTJPSEhJN3FIcWwxSlk3blNrT1U5VXhjTlV3eGh3NkZoMmdWSHhjQk1IOC1z?oc=5",
-     "category": "Sonstiges",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-05-18",
      "title": "Exclusive: Meta lays out details of May 20 restructuring in internal document",
      "summary": "Exclusive: Meta lays out details of May 20 restructuring in internal document Reuters",
@@ -1041,13 +934,25 @@
      "company": "Meta",
      "asset": "Aktien",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-13",
+     "title": "Google, Meta & Co.: US-Tech-Riesen zur Kasse bitten? Telekom gibt Forderung auf",
+     "summary": "Google, Meta & Co.: US-Tech-Riesen zur Kasse bitten? Telekom gibt Forderung auf Handelsblatt",
+     "source": "Handelsblatt",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDZIQmlsempUTlhhRGNLek1ZV3o4ZEVTdFotNDg2RHc1dWRfZ0FqdkpOMlIzdVZySGQtWi04cFlySkFiWlZVN0Z2UTNZZ3E4WDVMUVdoV2ZiUU1lNTg4RmxfLW8zem9mQ1Y5NnlBdmE1aGI5Mzl3U1RfcncxbnhMRWFiZEhReXBtNGRhZGVwRS1kckRqYU5ETkhmbTFTbEJKUGt0dE9naFR1NG9jUldlXzd2cUMwQktMQXBYdUFfYWRwdzhpd2dfb3NvMlVaMks4MHlF?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
     }
    ],
    "events": [],
    "tech": {
     "currency": "USD",
     "closes": [
-     615.52,
      620.8,
      620.25,
      604.12,
@@ -1141,20 +1046,21 @@
      635.26,
      635.29,
      632.51,
-     600.47
+     600.47,
+     597.63
     ],
-    "price": 600.47,
-    "sma50": 618.41,
+    "price": 597.63,
+    "sma50": 618.49,
     "sma200": null,
-    "rsi": 51,
-    "macd": "bullisch",
+    "rsi": 47,
+    "macd": "baerisch",
     "high": 738.31,
     "low": 525.72,
-    "score": 0,
-    "label": "Neutral",
+    "score": -2,
+    "label": "Baerisch",
     "reasons": [
      "Kurs unter SMA50",
-     "MACD ueber Signallinie"
+     "MACD unter Signallinie"
     ]
    },
    "profile": {
@@ -1269,6 +1175,19 @@
   "29": {
    "news": [
     {
+     "date": "2026-06-02",
+     "title": "Vistry appoints Kate Rust as Commercial Director in East Anglia",
+     "summary": "Vistry appoints Kate Rust as Commercial Director in East Anglia Peterborough Telegraph",
+     "source": "Peterborough Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkhUVlNGQTVKOW1oRlQ1RFhxdmY4cHN1Y2Z6MkRNSjFjSVAxMFYwY29NNFc2NVZPenpCV1ZfcXg0UHpSMUkwdmk5OGg0U1JMTU5zTFF3dnF2ZkZCWXgxdnNheEZLRktLU2ptNkNycTZlVDc3UXBVSjZQX1dvV0RGakxrVjlxSkdVVmk0ek1SYm9KekNRNHZSenBmaHVaNF9QYzhQalhlQ0Vvc3JFcmdCQWF6aFpoX0lCanc?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 29,
+     "company": "Vistry",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-05-16",
      "title": "Vistry orders workers to down tools to preserve cash",
      "summary": "Vistry orders workers to down tools to preserve cash The Times",
@@ -1282,10 +1201,10 @@
     },
     {
      "date": "2026-05-13",
-     "title": "Vistry’s shares plunge as discounted house sales erode profit",
-     "summary": "Vistry’s shares plunge as discounted house sales erode profit Financial Times",
-     "source": "Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDYzSVIyVm00SlcyS1dzY1h0TFlxUTRtUl9zR2puYXE2aFJPQ0MyQ1JCVTJuaVVuaHktWS1oX29aQWZPbDlxQWxpOUFrS2ZtV01UOVktTkZ0V0pmLTE0a3VVOEFTamdsNVlhMTY2LVYwQmM4SWt6dWdQQVZxbkNoYXc4blI?oc=5",
+     "title": "UK housebuilder Vistry warns of ‘significantly’ lower profits amid Iran war uncertainty",
+     "summary": "UK housebuilder Vistry warns of ‘significantly’ lower profits amid Iran war uncertainty The Guardian",
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0U0aHpjZllSeEFqdEhlYl9uY0RRb3VZLTVwRjZYeVRJOXNWclZmMTVmMkIwdkNrNzR4Tk1NRFpoX0xhbnA0VU1rSzNNdjRvYUdiakZPeWROZ3Z3WEdlVG91X3psTmFVSlZvZlkzM1ozNVZEYzJkbDBmY2x4T1cxb1pfODF6S1VJMW05eVE5V3RUV1lxaUJDQjUtdFozOU9NRjB2RFdNVzdlbkRMQXVYbW93b1ZhemtDWGE1SQ?oc=5",
      "category": "Earnings",
      "companyId": 29,
      "company": "Vistry",
@@ -1294,10 +1213,10 @@
     },
     {
      "date": "2026-05-13",
-     "title": "UK housebuilder Vistry warns of ‘significantly’ lower profits amid Iran war uncertainty",
-     "summary": "UK housebuilder Vistry warns of ‘significantly’ lower profits amid Iran war uncertainty The Guardian",
-     "source": "The Guardian",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0U0aHpjZllSeEFqdEhlYl9uY0RRb3VZLTVwRjZYeVRJOXNWclZmMTVmMkIwdkNrNzR4Tk1NRFpoX0xhbnA0VU1rSzNNdjRvYUdiakZPeWROZ3Z3WEdlVG91X3psTmFVSlZvZlkzM1ozNVZEYzJkbDBmY2x4T1cxb1pfODF6S1VJMW05eVE5V3RUV1lxaUJDQjUtdFozOU9NRjB2RFdNVzdlbkRMQXVYbW93b1ZhemtDWGE1SQ?oc=5",
+     "title": "Vistry’s shares plunge as discounted house sales erode profit",
+     "summary": "Vistry’s shares plunge as discounted house sales erode profit Financial Times",
+     "source": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDYzSVIyVm00SlcyS1dzY1h0TFlxUTRtUl9zR2puYXE2aFJPQ0MyQ1JCVTJuaVVuaHktWS1oX29aQWZPbDlxQWxpOUFrS2ZtV01UOVktTkZ0V0pmLTE0a3VVOEFTamdsNVlhMTY2LVYwQmM4SWt6dWdQQVZxbkNoYXc4blI?oc=5",
      "category": "Earnings",
      "companyId": 29,
      "company": "Vistry",
@@ -1379,7 +1298,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     478.84,
      483.8,
      469.29,
      464.38,
@@ -1473,15 +1391,16 @@
      392.15,
      384.39,
      378.54,
-     370.96
+     370.96,
+     367.35
     ],
-    "price": 370.96,
-    "sma50": 449.21,
+    "price": 367.35,
+    "sma50": 446.68,
     "sma200": null,
-    "rsi": 13,
+    "rsi": 9,
     "macd": "baerisch",
     "high": 545.13,
-    "low": 370.96,
+    "low": 367.35,
     "score": -1,
     "label": "Neutral",
     "reasons": [
@@ -1524,6 +1443,32 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-06-02",
+     "title": "FirstFT: Tencent moves closer to launching AI agent for WeChat",
+     "summary": "FirstFT: Tencent moves closer to launching AI agent for WeChat Financial Times",
+     "source": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsQ2Jqa3RqVGtWeHUtZTVvUlROMWJkM1VxSHJkSmdkYVB5WmQwWkc5TXE4M21BUGF4V1JSN2N3aXZWVzJBekZGdnZmOFFnaHdBcEdBMlJrN1R4eEdHM3NVT1p6MGtHSmhlZ3pTakF0SEc?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-01",
+     "title": "Tencent Cloud Recognized as a \"Challenger\" in Gartner® Magic Quadrant™ for CPaaS for the Fourth Consecutive Year",
+     "summary": "Tencent Cloud Recognized as a \"Challenger\" in Gartner® Magic Quadrant™ for CPaaS for the Fourth Consecutive Year PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUk5IZWpLekpNaFlNRlJMNW00YW1SeEI4d3Z1RnliTlVWZ1QzQ1dVWnJSYTRxWVQ0SlFGMi1LNm82Y2s2NzRUQVIzbFJreEhIWGsxSlc5MkdhcVhyeW9UbEUzdDJNbnozb21nSUZ5bTUzNi1PbnNicjZWSjdMRHZqSklrM2s4US1Gdmg2cU5uQ1RNMzFBZlhXbTBIN3owbjBtVEdtbzY3emc2LTh2QkFITTZUTTliMDltRnIzVzRnVURfU1RJY3hNa2xIQzlQcERiMXI2LU01WXJmYW5MN2hwbTFEOUN1MTM2R3FoTVVZV0dEbmhvUXlzMVREb2RRdw?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-05-29",
      "title": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong",
      "summary": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong PR Newswire",
@@ -1537,36 +1482,12 @@
     },
     {
      "date": "2026-05-27",
-     "title": "Tencent Announces Three Initiatives to Make Inbound Payments for International Visitors Easier Than Ever During APEC 2026",
-     "summary": "Tencent Announces Three Initiatives to Make Inbound Payments for International Visitors Easier Than Ever During APEC 2026 PR Newswire",
+     "title": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\"",
+     "summary": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\" PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQnhXcXpOcVhneXpmRWI5NS0xVm15cHpGQkszT3lKVHFKdE03SHByblM1ODc1cnpQaEtPNEVxbU1DWnFhUjcxS0FKakdFRW0wZlpkUVdXQWNxdmhtN1hCX1pmbm4zUlFyVEhybVh0Nl9oa3JHZXdvcjFMVjlCS1BFVHl5TFA2aHVmLUdURVFhemkxd25XUkhXVkxzUWpXMmtFc3dYdjFwVlI2U0ZNNWxKbkw0ZnkwYnM2dTJQTUFORk9LUWd6VHc3c3FFZzlFTi1yVjBBTS1sTGhKTHZXQUp6ZDVfUjVCc0ZvQS1kTkZZYUlDV1hfb1ozb01MZ2Zmb1BXMzJkblAzSVJGMWhFVVRF?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRTB4WVRMTHlud05ycmdWMnFxOUVmYnJ6ckV0eUxHSllzTjdHZjNldlhQcHZZTVk1dGdDT2FkUGYyQ1VBRVlZWi1IMmUxVjBZemVtZER1OXRpTEE5T00tbkNmbHc1dUljelk0cnktWXdWQldfRjBQckdNajluZF9iWVlBeEFDdkJJWEt5YXUxd3UyWjN5RlFoWmtKMWFqajhMVTlCUThYc3k0MHZSYk1jVkhYZGhsbkNFZFdlR2xuaVpOQVBzWVFPMzVYRUxSLVhYWVhSUlMyM21YUlNWZVcwUnhFZVpLalZwTm4wUFdwMXYyYTBRZlE?oc=5",
      "category": "Sonstiges",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-14",
-     "title": "Misleading headlines? Barclays' Jiong Shao on Alibaba and Tencent's earnings",
-     "summary": "Misleading headlines? Barclays' Jiong Shao on Alibaba and Tencent's earnings CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEMxVEV3RkpDTUpvd0lyREEtejUxNHNUSHEwajdpLUxQMk45NTZzZUlBNzBscmFoU2xiV0FPdDM1MlF1NnRta21SWmI3UkJUWFY4R2xqVlBSQXhsSVdHQWlFcFlEZDl0NnNfckhZYXd5X3F3QnJpSXgtSTkzajI5VU1fdFYwT0dTT2gzQ19QRk1iN1k3WmFuZmhGRTNBcFQ3T0xUSklPdjdSUWVfQ09ON3R3?oc=5",
-     "category": "Earnings",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-14",
-     "title": "Nexon and Tencent Extend Publishing Partnership for Dungeon&Fighter PC in China",
-     "summary": "Nexon and Tencent Extend Publishing Partnership for Dungeon&Fighter PC in China Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTNsTzg2SWlJZk5Zd2lweU1yVGxQNmljanZiZ19QT3hJZEF0d3pBQlJscVVTV1MtRXNnbmtoVGZGXzY0ZnpwanMwdjVZQTdiNzNKY0dGMG56Yy1GV3JsWmZHS3ZGdGRmWFdCdGxCcC1kT3JIVXRIVTNiMkhvYloxS3RHRnZ0Q3N3NEExVHlGMXVLcHBDME5QODhaSS1JaUNWQ0Y2S3NuXzhmazdKM24xVENMWjhWbFEya3h6YVhxMm5saGRXR0NYVXotVThTLU5v?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-01T09:59:35+00:00",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -1583,37 +1504,12 @@
   "32": {
    "news": [
     {
-     "date": "2026-05-29",
-     "title": "Salesforce CEO Marc Benioff says that the company has almost not hired engineers since last two years, re",
-     "summary": "Salesforce CEO Marc Benioff says that the company has almost not hired engineers since last two years, re The Times of India",
-     "source": "The Times of India",
-     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPYXF4eXNkNDRUd1FZVmFTeWl3aU9POGUzeVhTWHQtUmVtbHRRbjhTYnE0dWdMSHZlZGlHWXppYmszX04xdlVvM21KSXctS0phRmY0dFE5WUplUmtaRjdwZHUySWlnZGczWFBnN3lUanBvc2pIWFFmbU5hbEJpa0JVUEF0alVDNUVhMGF5UXBDYXpGOGxPZS1CalFnRFc2cVJpdEFpTV9hckNfY3BXRW1MS2pnR2M1amFNRE1EaW0wSlJHdTJwd2xBS2FKM0NpMlNFUG9wZjV2TERsUDVkcjVvY0t6SnlkU3hCYXhFVXRySkZHSTFnRmJnallhR1BCYXp4RlVfQ0ZXQllTSW5RR2xDTmI5Ykhtc2oyU0xxRnVLUkpjdmg5SnlGMFJOUHoxRExGZG8xUVlIMlctNUxYUFHSAcMCQVVfeXFMT2RJVmxDRHVzTUU4RHdjWDh1UC1JQmljenY1akNoSU5CMy1LZ0k3b0l2eFZlaEp3VDVGOWpsTWFHcnZXVnZCTVRselJhRzlQQXUzdk82NnNrZmMxOFR4eWFwTjRKVXV3S25XZE05VkM4bDlUcXlYbE9BczVRMVFWSllfVTZqNkZaUzdZbldKWDVlVGhmanlJMHd3QkJXdDNFX1p3SjVQdVFYc2hST2JSaWNhRUhqVzlRMTlGY3FBUHZXOTlweHhLYW1RNzBMakxqMV9qQUJDSVNaWVNhMnBvU2k5bEk0UlBXTGhSaTdkejVrX1JYYldUNVlLa2Q3MnRsM3JDa0FyWWEzV0ROOVF6V3loRFN1dy11Y2JoVmplVWlGYk1taEZ0dWNiSzhKU28tdkl5S3NMU2F4NkFsQVdET0d3cHM?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-06-02T09:02:02+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-05-28",
      "title": "Salesforce Earnings Beat Expectations. The Stock Slides Anyway.",
      "summary": "Salesforce Earnings Beat Expectations. The Stock Slides Anyway. Barron's",
      "source": "Barron's",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVlc3UkgyM1NNVFlsdW5vNkpsem03WElrUngtaHBSckxUcHVLemxMNzRVU1NMZ2FteTYzMnBnR0tXZmhnNEdxZE5zVm03T3doeFNsTlRDTFd0Rl9XdEJGNm1INi1ySkczOG9Ob1pUVkRrOE52ekhJR24zUVlmQQ?oc=5",
      "category": "Earnings",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-28",
-     "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
-     "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
-     "source": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWJxTk9fUk50dXZ5REJpNjVhckg1UlNSTldDRHR2LUh3Ukdrb1EwdWphWFBqbXlSYkF1MzZiMllBV3NxbmFTbzNQbWdMLTlaeHB5VnlNN1BzWmJPSjZsTTFBM1BqZlNieGhCWGI0a0JyYkNtNGZpby1kdzZpWF9zcVVUQU4yTHVMRzI0YnRwZkc4NVVQWkN1bFNsM3M1Q1AzUmtGZ2ZjQXgyOGo2djRnY3JLNHJzYVpKeENXZTFHQQ?oc=5",
-     "category": "Markt",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -1633,12 +1529,11 @@
     },
     {
      "date": "2026-05-28",
-     "title": "Watch Salesforce's Lukewarm Outlook Fuels AI Disruption Fear",
-     "summary": "Watch Salesforce's Lukewarm Outlook Fuels AI Disruption Fear Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTW5SMU5zZTNhNHNhYnlIQWlzYlVzMkFIWnZtdVBYTXUxV2taVmxSSEhMTG1IQS1XWEVISDZ2WWVXVG5oeVg4LVFiLXlyTDJmalJHQWphUENBVzUwS3dRY2hJSEhPNWRXMkFndDFLdTVmbkJfNlk0M3pIQTA1Ni1iVU5HMk5oSlBCS2tvaE56T2dZZk5wVmZnc0oyLU5HdDVaU3JQa1BXMktTQzFLOUE?oc=5",
-     "category": "Guidance",
-     "firstSeen": "2026-06-02T09:02:02+00:00",
+     "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
+     "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWJxTk9fUk50dXZ5REJpNjVhckg1UlNSTldDRHR2LUh3Ukdrb1EwdWphWFBqbXlSYkF1MzZiMllBV3NxbmFTbzNQbWdMLTlaeHB5VnlNN1BzWmJPSjZsTTFBM1BqZlNieGhCWGI0a0JyYkNtNGZpby1kdzZpWF9zcVVUQU4yTHVMRzI0YnRwZkc4NVVQWkN1bFNsM3M1Q1AzUmtGZ2ZjQXgyOGo2djRnY3JLNHJzYVpKeENXZTFHQQ?oc=5",
+     "category": "Markt",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -1655,6 +1550,32 @@
      "company": "Salesforce",
      "asset": "Aktien",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-27",
+     "title": "Salesforce beats on earnings and revenue but full-year guidance comes in light",
+     "summary": "Salesforce beats on earnings and revenue but full-year guidance comes in light CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTcta0duTkxlTnA1RUk4aGpMdjIxTGN0WlJmcVNGYmZqV1dfd3ZBRTZnQkVRVnVwTXBnQTZKdklCcURKXzlMdW1RSmVFUjFwUVlMYmFmX1pPX0o3TDdQRUtOckpITVlPa1RIR2VYSzJ0XzZkMGNkdGlhSnhIckFRRNIBhgFBVV95cUxPeS11ODJfajlNNnMtbU4yUHRyelY5a2VTM3d1Z0IzckliX0F0M1hWazd0VlBwSy1fdWszS3ZHNjMyMDJVVGgxR0RMZTBDVVRaYnVTc1BiaktiaHpneXhpRFNHREt0T052YUtBdmNFMi1XRFdjYmZNWlJnUHhXVklaZzM1OVJyUQ?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-27",
+     "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
+     "summary": "Salesforce revenue forecast disappoints amid AI disruption fears Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
     }
    ],
    "events": [],
@@ -1666,6 +1587,19 @@
   },
   "33": {
    "news": [
+    {
+     "date": "2026-05-16",
+     "title": "goeasy Q1 Earnings Call Highlights",
+     "summary": "goeasy Q1 Earnings Call Highlights The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmJiM0ZLeVkyTjFsM3h6bTBPUHNCLU5nLUNIWF9BYzZaNFA5dWVwcDNmLXREZmlLdUJ5UzQxS3JMMkJvT2x3OXY1SFJNYUxYMlpXeVM2amxqSXVGT0xZbUtTSTNxMjZqX21oeTVUYzNMY0JUdVJ2X3VXZVVWS3d1MGhLUm9jWTI4RDFQekozdDlGMV9WTjFBZk5FZVRDMW1yV2d4bllGTWdPZURneTZxanF1UExsdjRMZEhlbA?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 33,
+     "company": "goeasy",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-05-13",
      "title": "Goeasy's results not 'disastrous' even though troubled lender reports loss",
@@ -1704,11 +1638,12 @@
     },
     {
      "date": "2026-05-13",
-     "title": "Goeasy reports $53M loss in Q1, compared with net gain of $38.7M last year",
-     "summary": "Goeasy reports $53M loss in Q1, compared with net gain of $38.7M last year BNN Bloomberg",
-     "source": "BNN Bloomberg",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEZMREJFd0xNekhMOGxMQXRRMHdGQTRTTnB5dFFGN19pejBRU0l6MV9xUU5wVWlxVy1HLW1VWmhCQkJuYnp0b3lYODJVNVd0ZWg4cFpnVlFWMW5oWmNmR1JLMENSMG9adVJBcEI0VjQyRDlULWdhYS1CaXdKanJHb2JaS3pjUGtLM013b3RNZERmMjNoTGx4MjRITDhsTnhJZU4zVmVlWHh4ZXFDc29kLUdLUVFDckI4a1g0?oc=5",
+     "title": "News of the day: Bank of Canada's worries, Agnico Eagle's mining investment, falling rents, Goeasy results, workplace harassment allegations and more",
+     "summary": "News of the day: Bank of Canada's worries, Agnico Eagle's mining investment, falling rents, Goeasy results, workplace harassment allegations and more Financial Post",
+     "source": "Financial Post",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUlJXUkNzUElnWXZiUDBGSWNLdExvU08ybXhyVmFxRGNtcVdmcGxYcnNHU0NWOTF0THBaQm5NZUtKb3ZlZWY5MlptamVtVjNpdG9YbEdnQTNIclg4OU9iOVpWdjJTSkVYR0tVSVNqV0NhR1F5akVpVjBRODFrTTB3OXZCdjI3Z1gxd1dyYTFnS1Z2NXh1ZVpJYVZCV1BGNDFvQmxrOXd5dlFaYVM5UE1wVnVaTnJ1REdZNEVDcFlHZXp1X2J4RVpWZm1hV3lPemZqRnhuMVpKQjJJVmxISjc3bHdRNGtVUGoyWGRqS2dxd1huU3FjZ254U093NzBHVjdPT0VHXzFxODhubEVFTHRV?oc=5",
      "category": "Earnings",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
      "companyId": 33,
      "company": "goeasy",
      "asset": "Aktien",
@@ -1725,18 +1660,6 @@
      "company": "goeasy",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-11",
-     "title": "Weekly Setup: Constellation Software and Goeasy earnings, plus Trump and Xi set to meet in Beijing",
-     "summary": "Weekly Setup: Constellation Software and Goeasy earnings, plus Trump and Xi set to meet in Beijing The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGdVNzlOenRYc3ZZSERYZXEzd213YnYycEk4aUxvSlo0MnM0MlJWcVRlakZkSGJrd2o1czNxTjZmVkVWcmlIUU9BQ1JfZHpFRUZyTFZXZmVHTEFtNGVmRzQxWElLYTNDbEVEVGl4SmE2aGxfRUdSNlR5UmRQbkRUdzJKVlpwVkR4aUZZSi1aTzFFNUI1UGZ4a3pBSTZuSjIxblk0cV9RaWpnVXB6YWFWMFY1clhfUjdXaUZ1aw?oc=5",
-     "category": "Earnings",
-     "companyId": 33,
-     "company": "goeasy",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
    "events": [],
@@ -1748,6 +1671,19 @@
   },
   "34": {
    "news": [
+    {
+     "date": "2026-06-02",
+     "title": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner",
+     "summary": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXVVWjZ0WEpTTUk3b1lrZTRQdWNxd096YTNYMTZCdEIwZ2tXTzJmdEU3aGFoTjhTM3RLN002bTVZU3pqS1h6c3VpSmR2ZDUwVHJJUl81NGFMNWl1UUhXdlpsWlZ2SzgyeDlVUmoxMjhUOG5mSnVWdkhyaWYzWTJWQi10QUhpc0R4VkZXZFFYZkx1Zm9GZ091LVNEV3Z2bGpSZUpaOXhtLUQxT2dLc21ncW5fdVBOeTBGQThQUHNJNnYzLWRJMVVNRWZZaVRWLV9NNnlNRXpGcG84ZG52ZWVNXw?oc=5",
+     "category": "Conference",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
     {
      "date": "2026-05-28",
      "title": "ION Commodities expands collaboration with S&P Global Energy Platts",
@@ -1785,37 +1721,25 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-05-26",
+     "title": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake",
+     "summary": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzJNZ3d3SnpaUXBKWHNzWlJRY2twRm0wSXE5VHIwN2tSZjFvY2FRMzRqMHFXZ1piRE5kS0FudHFpajRXU3Y3MUYtTVJabTFlcEljX3RaT1g3elN3RmFYUW5qVi1SckhZVnphdFRqNkhscnFLaC1pYjgyZDhUSnlYNDdGOERpWU5INmkwdUdpSVVONlBS?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-06-03T09:21:56+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-05-20",
      "title": "S&P Global Ratings Maalot Raises Elbit Systems' Long Term Rating to \"ilAAA\" (Local Scale), With a Stable Outlook and Reaffirms Short Term Rating of \"ilA-1+\" (Local Scale)",
      "summary": "S&P Global Ratings Maalot Raises Elbit Systems' Long Term Rating to \"ilAAA\" (Local Scale), With a Stable Outlook and Reaffirms Short Term Rating of \"ilA-1+\" (Local Scale) PR Newswire",
      "source": "PR Newswire",
      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQLWNlZkRoRE43ZlphQkZDVFpkeGdVaUozRGQ1YmZTZ0pfc21jaVpaSTQ3X29CTjZhbUNQdUN1UERCWnluUWYwY2NvVDlKaHg2R3ZKb0ZKc1FNU25hbW83T1h2Zkd3UGxVZDIwTUR3aTlmQWxCUmF5eDJSRTN3R3NJQ1NKT29HNjdCMjlGOHptcEV4bXN4SUpjRjdBS0J0ZUw3b2R3N3Z3aF9Idl9OaXJaQTRqUFVWVzVKNWJxaDdyRXlJMHBzNU1paVMwaUhqNThOb1ozak96QVRDTnM5UUxMRDdtM01XVFl5bTRsM2F6UkhfSnltaVdyTGl1NDhsQ2RsN0owajE1SC1sLWp1Zmh4VDZrNDBXeER0aHpEa2lXZkcydFRpV0tTSUg3a2U0Z3F6X3RQdkVsRFBVdw?oc=5",
      "category": "Guidance",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-05-19",
-     "title": "S&P Global Declares Second Quarter Dividend",
-     "summary": "S&P Global Declares Second Quarter Dividend PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjlVSi11QVlBeEtNLTN6Y0pONjZRbG9pNTltNk1OdU95T1BqX21kS2wwUWdUdVVwbUZwUXNreGpnX3BMY1V3Rk5XUjhSUXRGLXNkcWkwM2R4ZE8xN1cxN25YZ1pDeWZWNmhKR3MyRFpvOTNnQmJtZUJTS0hCS1Exa3BkNDJwSDFqYmVjYjZiQUhFNlpKRC1qeE5BOXRQVTg?oc=5",
-     "category": "Sonstiges",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-05-18",
-     "title": "S&P Global Announces Commencement of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation",
-     "summary": "S&P Global Announces Commencement of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPR2tMc1RMTjRyamxvVHc1SlBiZ2JESGdJT0J3dlp4NnRQQ1hiQXJSb2RoOV9kQ3EyZHZIZklMa1FfZjdyWk9oU2hTX1JlcTZkQWVjelFoWmV0Qk9HTmJ4WFBtOFFzMDJUM3FqTnpKTjY2U1B0TTRBdWZnMzI2ME1xRTNKd0lJVXFXSzdGemtKV2xJVTMtczBidnFhV1JCVnlIM09KWlBDVHAzNkxkQkwtQUhxaWVLbnVQZ2FPd0pzNEhzRVlPNVpKWkNYWVZZeTVxbWFDb1A0cVdGV3J5WEtfNHF5Q2hCaVZUbUZvR3poWnZiNXhLQU9WQ184TnFhQlg5enFpUE9wMmJNbnBaVnZraU5JZ1lBc3du?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-06-02T09:02:02+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -1909,6 +1833,58 @@
  "news": [
   {
    "date": "2026-06-02",
+   "title": "Ubisoft Reveals Rayman Legends Retold, Available on October 1",
+   "summary": "Ubisoft Reveals Rayman Legends Retold, Available on October 1 Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmhKbUVIdTl6UzVpRFFLVTh4cHdWZVFqVTlERmxlNkt5c21EUHhvVG84SEdrcHIxWUhoLTdaVG1pZFpKWXVNckVJZU5pdkFZNEs5YWVTRm05SmV6TU4zS1ZsZURFLTRkekVYSzQxck1laDB0Y29velZyV3JSZjdHUUk3QmZWbDNOM3FoMU1qX3huMUp4NXlEYmVHX3VIcVg1ckQxZERKcDhrYjhnMHVtLXVGS05RbVln?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 6,
+   "company": "Ubisoft",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
+   "title": "GPK Shareholder Alert: Graphic Packaging Holding Company Securities Class Action Lawsuit - Investors With Losses May Contact The Gross Law Firm",
+   "summary": "GPK Shareholder Alert: Graphic Packaging Holding Company Securities Class Action Lawsuit - Investors With Losses May Contact The Gross Law Firm PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPNlZsQ2syR1NoMW14UXZNQjBDam5JZzNDbFZINlRzUk5qclkxU25Pcm45bGV0Y2Ytazh6djRYc2NDTDFPOGRxODVlLTc0alZObEM4QUZ5SWtNNkZTR1JfZXVJU21FbFVFUlVvN05Fa3VOYWlXYWJDY1liWDVSY013eFFGelRzLWpLNE1Oc01jQ25kT3BkMkN0aTc0OWRhLVZhYllvdmQ1cHVpSzAxU0hSOExGQjV2Q2UwZHd4cmNMSjFENUxIODFraENsQWNCTkdtbUJ1dnY0X3N2M1RhcmsxeHZraFoxaVN3ekszY1hMMkw4QlE4cWNOcGVJUlh6U01ZaWxNZzRSY2hUNnc1b214a1BmdDNPajJ3Q0hiOEw4a1FuZ3Fl?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
+   "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
+   "summary": "Microsoft teases new era of AI-driven devices at annual developer conference Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hudE1XOEVGajhxeFBhMXZBbDRYTHJieG1waXZLRG85S3lNSGFKWnVCQnNLWnd0RmNsZjBGcFoxQlhqR3l5T1A5Ni02UU42SnRZUEJ5WWJMMUJPTWdBVjV2SW5NQ0NUQ25JWURYSEVJdmFTMGlGX2M3VHpWLUs2MG5MeFh4aUJrcjk4OG16OHk3S0tUSW9JUW5jR0JrWU9HRUNJcFpqcVdxVXFmR0wwOEIyODNESk5HWUE?oc=5",
+   "category": "Conference",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 20,
+   "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
+   "title": "Vistry appoints Kate Rust as Commercial Director in East Anglia",
+   "summary": "Vistry appoints Kate Rust as Commercial Director in East Anglia Peterborough Telegraph",
+   "source": "Peterborough Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkhUVlNGQTVKOW1oRlQ1RFhxdmY4cHN1Y2Z6MkRNSjFjSVAxMFYwY29NNFc2NVZPenpCV1ZfcXg0UHpSMUkwdmk5OGg0U1JMTU5zTFF3dnF2ZkZCWXgxdnNheEZLRktLU2ptNkNycTZlVDc3UXBVSjZQX1dvV0RGakxrVjlxSkdVVmk0ek1SYm9KekNRNHZSenBmaHVaNF9QYzhQalhlQ0Vvc3JFcmdCQWF6aFpoX0lCanc?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 29,
+   "company": "Vistry",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
    "title": "Tencent moves closer to launching AI agent for China’s most-used app",
    "summary": "Tencent moves closer to launching AI agent for China’s most-used app Financial Times",
    "source": "Financial Times",
@@ -1932,6 +1908,32 @@
    "company": "Tencent",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
+   "title": "FirstFT: Tencent moves closer to launching AI agent for WeChat",
+   "summary": "FirstFT: Tencent moves closer to launching AI agent for WeChat Financial Times",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsQ2Jqa3RqVGtWeHUtZTVvUlROMWJkM1VxSHJkSmdkYVB5WmQwWkc5TXE4M21BUGF4V1JSN2N3aXZWVzJBekZGdnZmOFFnaHdBcEdBMlJrN1R4eEdHM3NVT1p6MGtHSmhlZ3pTakF0SEc?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
+   "title": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner",
+   "summary": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXVVWjZ0WEpTTUk3b1lrZTRQdWNxd096YTNYMTZCdEIwZ2tXTzJmdEU3aGFoTjhTM3RLN002bTVZU3pqS1h6c3VpSmR2ZDUwVHJJUl81NGFMNWl1UUhXdlpsWlZ2SzgyeDlVUmoxMjhUOG5mSnVWdkhyaWYzWTJWQi10QUhpc0R4VkZXZFFYZkx1Zm9GZ091LVNEV3Z2bGpSZUpaOXhtLUQxT2dLc21ncW5fdVBOeTBGQThQUHNJNnYzLWRJMVVNRWZZaVRWLV9NNnlNRXpGcG84ZG52ZWVNXw?oc=5",
+   "category": "Conference",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-01",
@@ -1960,6 +1962,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-01",
+   "title": "Tencent Cloud Recognized as a \"Challenger\" in Gartner® Magic Quadrant™ for CPaaS for the Fourth Consecutive Year",
+   "summary": "Tencent Cloud Recognized as a \"Challenger\" in Gartner® Magic Quadrant™ for CPaaS for the Fourth Consecutive Year PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUk5IZWpLekpNaFlNRlJMNW00YW1SeEI4d3Z1RnliTlVWZ1QzQ1dVWnJSYTRxWVQ0SlFGMi1LNm82Y2s2NzRUQVIzbFJreEhIWGsxSlc5MkdhcVhyeW9UbEUzdDJNbnozb21nSUZ5bTUzNi1PbnNicjZWSjdMRHZqSklrM2s4US1Gdmg2cU5uQ1RNMzFBZlhXbTBIN3owbjBtVEdtbzY3emc2LTh2QkFITTZUTTliMDltRnIzVzRnVURfU1RJY3hNa2xIQzlQcERiMXI2LU01WXJmYW5MN2hwbTFEOUN1MTM2R3FoTVVZV0dEbmhvUXlzMVREb2RRdw?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-05-29",
    "title": "GRAPHIC PACKAGING ALERT: Bragar Eagel & Squire, P.C.",
    "summary": "GRAPHIC PACKAGING ALERT: Bragar Eagel & Squire, P.C. GlobeNewswire",
@@ -1980,19 +1995,6 @@
    "category": "Sonstiges",
    "companyId": 31,
    "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-29",
-   "title": "Salesforce CEO Marc Benioff says that the company has almost not hired engineers since last two years, re",
-   "summary": "Salesforce CEO Marc Benioff says that the company has almost not hired engineers since last two years, re The Times of India",
-   "source": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPYXF4eXNkNDRUd1FZVmFTeWl3aU9POGUzeVhTWHQtUmVtbHRRbjhTYnE0dWdMSHZlZGlHWXppYmszX04xdlVvM21KSXctS0phRmY0dFE5WUplUmtaRjdwZHUySWlnZGczWFBnN3lUanBvc2pIWFFmbU5hbEJpa0JVUEF0alVDNUVhMGF5UXBDYXpGOGxPZS1CalFnRFc2cVJpdEFpTV9hckNfY3BXRW1MS2pnR2M1amFNRE1EaW0wSlJHdTJwd2xBS2FKM0NpMlNFUG9wZjV2TERsUDVkcjVvY0t6SnlkU3hCYXhFVXRySkZHSTFnRmJnallhR1BCYXp4RlVfQ0ZXQllTSW5RR2xDTmI5Ykhtc2oyU0xxRnVLUkpjdmg5SnlGMFJOUHoxRExGZG8xUVlIMlctNUxYUFHSAcMCQVVfeXFMT2RJVmxDRHVzTUU4RHdjWDh1UC1JQmljenY1akNoSU5CMy1LZ0k3b0l2eFZlaEp3VDVGOWpsTWFHcnZXVnZCTVRselJhRzlQQXUzdk82NnNrZmMxOFR4eWFwTjRKVXV3S25XZE05VkM4bDlUcXlYbE9BczVRMVFWSllfVTZqNkZaUzdZbldKWDVlVGhmanlJMHd3QkJXdDNFX1p3SjVQdVFYc2hST2JSaWNhRUhqVzlRMTlGY3FBUHZXOTlweHhLYW1RNzBMakxqMV9qQUJDSVNaWVNhMnBvU2k5bEk0UlBXTGhSaTdkejVrX1JYYldUNVlLa2Q3MnRsM3JDa0FyWWEzV0ROOVF6V3loRFN1dy11Y2JoVmplVWlGYk1taEZ0dWNiSzhKU28tdkl5S3NMU2F4NkFsQVdET0d3cHM?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-06-02T09:02:02+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -2022,10 +2024,10 @@
   },
   {
    "date": "2026-05-28",
-   "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-   "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
+   "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
+   "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
    "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3FpVENkbldzYlJkMnlCWk9ma2NaZVFXMXZCU2xOcGRmZEV1bWNzT205WnRVX0tjdVQ3b3N6VkZMZEM3RlB5dGc3R1ExRF9GUkg2OE5PU1RNanV5QnplMFJycUhoUDYySXFsTl9uVUFQYVZ0VHpJZ2FqbWdLQU13MDVsSnZyV0RwMWlET3V5NmNZLTlzRlc5Zk44dlE0UVZTODNFdFBINGNGanM5YmlyaERFN3hHcHR2eHhEeWdSNjYwLUFjSkxpanhjVW9SMEJETXdjWjZ0M3RIQUhzNDYtc1o5U0pMTGQwUFNhTEpycUZKYm8zb2cwYXRTMHVzbkRo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWVdYdHdXU2RnT2NPVUNGcEZPTFdMWFItaTFxVG1admg2MGNHLWI4WlZfUDFZRU54SWU3UWJ5YXNncFZjdUZ5V2lqSzBxUlUzLXdmTUp6aFQyWDVtSFBNVm02djNzbEtHMXhONUJNRTY4SUZkZHZTS3RyMjFRN2pmNnlEN3JzQTJ1NkRqYWVhN3p5bG9zaWh6bGNHYU8xa0JtNnowcFNHWWlDZmZXNUpNWjFxYjJ6Z1lDMWtaUU41TVNLTjNQdUk2T1FJMFpsN2lPYk1xaFRxTG9DZmc4Y2c4WjZLejZMNzkxMGxIa1FWcFp0YW05RUcxelQ2QV9XdzUzdkRWRmUwcDcwQQ?oc=5",
    "category": "Sonstiges",
    "companyId": 11,
    "company": "Graphic Packaging",
@@ -2034,11 +2036,12 @@
   },
   {
    "date": "2026-05-28",
-   "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
-   "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWVdYdHdXU2RnT2NPVUNGcEZPTFdMWFItaTFxVG1admg2MGNHLWI4WlZfUDFZRU54SWU3UWJ5YXNncFZjdUZ5V2lqSzBxUlUzLXdmTUp6aFQyWDVtSFBNVm02djNzbEtHMXhONUJNRTY4SUZkZHZTS3RyMjFRN2pmNnlEN3JzQTJ1NkRqYWVhN3p5bG9zaWh6bGNHYU8xa0JtNnowcFNHWWlDZmZXNUpNWjFxYjJ6Z1lDMWtaUU41TVNLTjNQdUk2T1FJMFpsN2lPYk1xaFRxTG9DZmc4Y2c4WjZLejZMNzkxMGxIa1FWcFp0YW05RUcxelQ2QV9XdzUzdkRWRmUwcDcwQQ?oc=5",
-   "category": "Sonstiges",
+   "title": "REMINDER: Graphic Packaging Holdings Company Investors with Significant Losses Must Act by July 6, 2026",
+   "summary": "REMINDER: Graphic Packaging Holdings Company Investors with Significant Losses Must Act by July 6, 2026 GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUk9wY3ZSd3VIb1pqQjVhWXhRLWpXaUk0d290YVhQZ3FpSzltZWZSRlhpX3NLOGZkRFBObnNLX1RQM0lYSTRyWFZUcW45SkVFU0tzSmFnM2E4bm9makZQZ3JZMWV2aHYtYzE2YUlWa2c5cl9iV0w2cnNVd2VGdXFqNlBkVFBiX1ppcEJVLVgwOU1vQVp6dFJYUWVadldzek1NbWNPMzIwVVc5bEFzRVFMTnhkVnFYclRjUHg5N1FKY3UwOUxCVXplTUJNSWpNTzR4V2s5TnlTNHoxVWNQV2NxZWRlRGlFV1RxU1hnMkNnQWFkQzcyWFFDQmFVbE5DN1loUXdz?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -2058,18 +2061,6 @@
   },
   {
    "date": "2026-05-28",
-   "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
-   "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
-   "source": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWJxTk9fUk50dXZ5REJpNjVhckg1UlNSTldDRHR2LUh3Ukdrb1EwdWphWFBqbXlSYkF1MzZiMllBV3NxbmFTbzNQbWdMLTlaeHB5VnlNN1BzWmJPSjZsTTFBM1BqZlNieGhCWGI0a0JyYkNtNGZpby1kdzZpWF9zcVVUQU4yTHVMRzI0YnRwZkc4NVVQWkN1bFNsM3M1Q1AzUmtGZ2ZjQXgyOGo2djRnY3JLNHJzYVpKeENXZTFHQQ?oc=5",
-   "category": "Markt",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-28",
    "title": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half",
    "summary": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half Fortune",
    "source": "Fortune",
@@ -2082,12 +2073,11 @@
   },
   {
    "date": "2026-05-28",
-   "title": "Watch Salesforce's Lukewarm Outlook Fuels AI Disruption Fear",
-   "summary": "Watch Salesforce's Lukewarm Outlook Fuels AI Disruption Fear Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTW5SMU5zZTNhNHNhYnlIQWlzYlVzMkFIWnZtdVBYTXUxV2taVmxSSEhMTG1IQS1XWEVISDZ2WWVXVG5oeVg4LVFiLXlyTDJmalJHQWphUENBVzUwS3dRY2hJSEhPNWRXMkFndDFLdTVmbkJfNlk0M3pIQTA1Ni1iVU5HMk5oSlBCS2tvaE56T2dZZk5wVmZnc0oyLU5HdDVaU3JQa1BXMktTQzFLOUE?oc=5",
-   "category": "Guidance",
-   "firstSeen": "2026-06-02T09:02:02+00:00",
+   "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
+   "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWJxTk9fUk50dXZ5REJpNjVhckg1UlNSTldDRHR2LUh3Ukdrb1EwdWphWFBqbXlSYkF1MzZiMllBV3NxbmFTbzNQbWdMLTlaeHB5VnlNN1BzWmJPSjZsTTFBM1BqZlNieGhCWGI0a0JyYkNtNGZpby1kdzZpWF9zcVVUQU4yTHVMRzI0YnRwZkc4NVVQWkN1bFNsM3M1Q1AzUmtGZ2ZjQXgyOGo2djRnY3JLNHJzYVpKeENXZTFHQQ?oc=5",
+   "category": "Markt",
    "companyId": 32,
    "company": "Salesforce",
    "asset": "Aktien",
@@ -2116,18 +2106,6 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-05-27",
-   "title": "ProFrac, NOV, and Borr Drilling Shares Are Falling, What You Need To Know",
-   "summary": "ProFrac, NOV, and Borr Drilling Shares Are Falling, What You Need To Know The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUEI2MEE2WWVzWTVsYk1FQ19iclVid0YzbUt2bXdnWjV1eHNvQjk3M3VUNXd5VEpabF94UEZkWHpNdDdva1dUWk9yZHlpNkpJUUpzSTRNZ2R2MmhvOUZrbjd3NC1aTGsxRHhtdVJ4TkRSZ0R4cXRCMzRzZnduV0dFWFZVS3JkSVhZd21xYzRzYXRpZ3BmZHlhVkpESDNLQ1Z0OTFQQ29xZklaX3JEM3VIdHlhUW5FaGNzRW9nN055VDJKUFBoWWFrVG80dWV0ZllRVE1zRThONHF2ZnVOc2hzQTRXU0diaVFUamc?oc=5",
-   "category": "Markt",
-   "companyId": 4,
-   "company": "Borr",
-   "asset": "Anleihen",
-   "status": "Portfolio"
   },
   {
    "date": "2026-05-27",
@@ -2192,11 +2170,12 @@
   },
   {
    "date": "2026-05-27",
-   "title": "Tencent Announces Three Initiatives to Make Inbound Payments for International Visitors Easier Than Ever During APEC 2026",
-   "summary": "Tencent Announces Three Initiatives to Make Inbound Payments for International Visitors Easier Than Ever During APEC 2026 PR Newswire",
+   "title": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\"",
+   "summary": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\" PR Newswire",
    "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQnhXcXpOcVhneXpmRWI5NS0xVm15cHpGQkszT3lKVHFKdE03SHByblM1ODc1cnpQaEtPNEVxbU1DWnFhUjcxS0FKakdFRW0wZlpkUVdXQWNxdmhtN1hCX1pmbm4zUlFyVEhybVh0Nl9oa3JHZXdvcjFMVjlCS1BFVHl5TFA2aHVmLUdURVFhemkxd25XUkhXVkxzUWpXMmtFc3dYdjFwVlI2U0ZNNWxKbkw0ZnkwYnM2dTJQTUFORk9LUWd6VHc3c3FFZzlFTi1yVjBBTS1sTGhKTHZXQUp6ZDVfUjVCc0ZvQS1kTkZZYUlDV1hfb1ozb01MZ2Zmb1BXMzJkblAzSVJGMWhFVVRF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRTB4WVRMTHlud05ycmdWMnFxOUVmYnJ6ckV0eUxHSllzTjdHZjNldlhQcHZZTVk1dGdDT2FkUGYyQ1VBRVlZWi1IMmUxVjBZemVtZER1OXRpTEE5T00tbkNmbHc1dUljelk0cnktWXdWQldfRjBQckdNajluZF9iWVlBeEFDdkJJWEt5YXUxd3UyWjN5RlFoWmtKMWFqajhMVTlCUThYc3k0MHZSYk1jVkhYZGhsbkNFZFdlR2xuaVpOQVBzWVFPMzVYRUxSLVhYWVhSUlMyM21YUlNWZVcwUnhFZVpLalZwTm4wUFdwMXYyYTBRZlE?oc=5",
    "category": "Sonstiges",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
@@ -2209,6 +2188,32 @@
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeks0UVVsN1ljWTV0Sm5tcGFzTG9GTElzeUFtNnhCSlVVc1o1QTViVlJ1YWtRQ3dVd0FOUWRjTmdleUtBWm9HR0d1bi1jdHdmZ0VMM25kNGxwMzBvT0V4dWJCSGVNd3FpcS02RnZHOUtzRERPNDhTek5talhBSGZhRHYxZTB6ZFN1RDF5V2NTZVBsVHh0ZzBESDBOcjJHNVlEUkphVnY5NEtGOHNBUDE2ZHpyQQ?oc=5",
    "category": "Earnings",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-27",
+   "title": "Salesforce beats on earnings and revenue but full-year guidance comes in light",
+   "summary": "Salesforce beats on earnings and revenue but full-year guidance comes in light CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTcta0duTkxlTnA1RUk4aGpMdjIxTGN0WlJmcVNGYmZqV1dfd3ZBRTZnQkVRVnVwTXBnQTZKdklCcURKXzlMdW1RSmVFUjFwUVlMYmFmX1pPX0o3TDdQRUtOckpITVlPa1RIR2VYSzJ0XzZkMGNkdGlhSnhIckFRRNIBhgFBVV95cUxPeS11ODJfajlNNnMtbU4yUHRyelY5a2VTM3d1Z0IzckliX0F0M1hWazd0VlBwSy1fdWszS3ZHNjMyMDJVVGgxR0RMZTBDVVRaYnVTc1BiaktiaHpneXhpRFNHREt0T052YUtBdmNFMi1XRFdjYmZNWlJnUHhXVklaZzM1OVJyUQ?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-27",
+   "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
+   "summary": "Salesforce revenue forecast disappoints amid AI disruption fears Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
    "companyId": 32,
    "company": "Salesforce",
    "asset": "Aktien",
@@ -2252,24 +2257,24 @@
   },
   {
    "date": "2026-05-26",
-   "title": "Deadline Alert: Graphic Packaging Holding Company (GPK)",
-   "summary": "Deadline Alert: Graphic Packaging Holding Company (GPK) GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOZWFkcHpwclE3ME82Q3hyNkhNZ0k2a1hid1pDTDNVSEJTVFcwa2c3amZNN0plQjRpUUtKWFdPeUJOQk03TVQxaUVwZXVhaXMwSmFhY2lpTm0xN0gxTjZjaE9sLWM5ellQLU55RXJXNEFTOGdsbnludGlBdnFOS0JPQVdPUUlvMlVfNGRkaUFJTzdrMU1Pb1ppWmdJWUNJSF9Rak9CdHg4cGdJNlZlblRQelh4b3B1RVI3TFk0TGZtLTJXY0dqR1F2alRTY3JqdXRFT2RyZUkwaG5McGoxQnBSTzJnNEE4SFZTenNwT0ZPVzBXQXl1UnRvUTNqMmN3YnpwbXRJSS1UM1FEcERtaDJYM1hYM2NGSTUtTVk0X19BQ2ZZZVZTazlBQUJrcjB2QklSQjRxck5NZ2NBWnE0YlZDRlVMLVdGUjJaMkRGaHVaYk5IUQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-02T09:02:02+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-26",
    "title": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation",
    "summary": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation PR Newswire",
    "source": "PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmtJM003cGFmZjkxQmdSYnVCQVZGVkwweXZ3SzYyYXdfakRWQUpMemNMdngwamZWQV9EVUNHNkhwYk5mRUMwWnVnbzVaZkRmSHdlNEI3SThPZS1EekpJYzdTRnNoZWdwUkQ5T3RZSGNjaTRGSmp2SFlkNFlpQTNjX1Q3TWVHX3ZsM0NBMjJPeXpXa3FUM09jdk9YQldSSExnMHlYUnVSbXZYQ1NtMGZtUU5HN0lmMWJFRGFQTWFhV0FheXJBcVJnczNmejRwWVFwbHJWSGZpeE13eXoySmVlN0xxcWdFQkRnWEcwb0NKd1VOWFhwY25DOGYtMXhnWVFobS00?oc=5",
    "category": "Sonstiges",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
+   "date": "2026-05-26",
+   "title": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake",
+   "summary": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzJNZ3d3SnpaUXBKWHNzWlJRY2twRm0wSXE5VHIwN2tSZjFvY2FRMzRqMHFXZ1piRE5kS0FudHFpajRXU3Y3MUYtTVJabTFlcEljX3RaT1g3elN3RmFYUW5qVi1SckhZVnphdFRqNkhscnFLaC1pYjgyZDhUSnlYNDdGOERpWU5INmkwdUdpSVVONlBS?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
    "companyId": 34,
    "company": "S&P Global",
    "asset": "Aktien",
@@ -2289,14 +2294,15 @@
   },
   {
    "date": "2026-05-22",
-   "title": "Borr Drilling (BORR) Q1 2026 Earnings Transcript",
-   "summary": "Borr Drilling (BORR) Q1 2026 Earnings Transcript The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWdoOGhuR0p1Tzd6c2piVHVfQmNMU2pkLUp6bENSamtLMEl0ZU5aajVrc201M2dNWDdwZnNYalQxX3Z0eE9tVlNocXFWbDUzbzB2c2Uxa0dyRDlCMzdUODI3UkZHTTN2RzE4Ti1UUjllU2JJYW8xbmFSaHkyTXhLOFZudmNQUTdwdGJIeFRSYWdJTnkzNWxEUHpmOXA4ZkNkb3FHb09ONW1QQ1JHQVdNeHhQRUEtNDVmUl92REw2SENvMWVZRmxqM25sYko?oc=5",
-   "category": "Earnings",
-   "companyId": 4,
-   "company": "Borr",
-   "asset": "Anleihen",
+   "title": "Reddit stock drops almost 6% after Meta launches standalone app for online forums",
+   "summary": "Reddit stock drops almost 6% after Meta launches standalone app for online forums CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjFJN1FUdmJRRHhvc2JqQUJydEJPWEdFQkVEYlNhYmlnbnV3UENlXzdxRkNRVUpYVWlJTTgtdmJyM0xKcHpUTmxGTG5WQ054NGZhc19samlZYjdwUF8tcFdJbzNNbDJEdkd0d2xfV0h1VTNDVTVlOWYyRGs2aEd4aWxqeHJQM21UQ01uMEJB0gGTAUFVX3lxTE5OY3JpLUk3dmxyTnRQN2J4dVdpbGkxeEhxRUppS05JSmtMRDFVSjJoVkZEdUM2Sm82c2tndGpERmh5alhMbHJqLWxNV0VFRXY5U3JHN0R6WXVjR2owdG1lZ2EwR2RQMXdRU0RMZjBCQXRMOWJZZXFiWDBsZEo2bGdkRU5JMUVZYXdPQ0c0MnJsUUpjTQ?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -2397,14 +2403,14 @@
   },
   {
    "date": "2026-05-21",
-   "title": "AK legt Beschwerde gegen Google, Meta und Tiktok wegen falscher Gewinnversprechen ein",
-   "summary": "AK legt Beschwerde gegen Google, Meta und Tiktok wegen falscher Gewinnversprechen ein Der Standard",
-   "source": "Der Standard",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSXc0cUdoWXM5WFh3Zk1Qd2l2SmZwX2FvT3gtamhRYUNTaHZTNnhuYl9TT1h5eFliUTlid3UzMWVraC1DeUNVWEN4MlFnY2NsT1ZKa214WG8zVUVsY0NGby1YVUd2aE9TcTV5cXFlekRHcGFRRXN6TjUwS0M4d2pOZ0ZGcDBHNkJiRC14WlVyT3V6T2pOaFZFUUlRTTFNRWJrc1RCSUIwRGJiRHZ3dkptd2dFYmh5VEx6?oc=5",
+   "title": "MTY Food Group Inc. Announces Results from 2026 Annual General Meeting",
+   "summary": "MTY Food Group Inc. Announces Results from 2026 Annual General Meeting GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdEF5UmJlM1VHaUF6NmtYRzEzT196c2dsM0UtakxtVWZ3OXhyR2VCdFVSMmVpVVdxQVEydmRfeGhacGlQc19tZWNpVkwtVXB5R01KcnVwYjI1QkJCN2NiRV9sRFlnLU9oanNiRG56dlNIY3BOakRYelNKalZNRlZGQmhNNTdhNElrTlRaSjNCME5QbjU4bERrTU5VZTNRZ3FUTDZyV0t1NlFJc3ZHUHNydU8wOW9YVG9fMnhOdTl5dEIzNkI4WWo5LVpvZjRNdEdlemE2Rm96eXo?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-06-02T09:02:02+00:00",
-   "companyId": 22,
-   "company": "Meta",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 19,
+   "company": "MTY Food",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -2483,18 +2489,6 @@
   },
   {
    "date": "2026-05-19",
-   "title": "Trailer: Das Meta-Imperium – Aufstieg und Wandel des Mark Zuckerberg",
-   "summary": "Trailer: Das Meta-Imperium – Aufstieg und Wandel des Mark Zuckerberg ZDF Presseportal",
-   "source": "ZDF Presseportal",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlNhVHowcnZCMl8xOGtVOWh1Vk9VRGVPZG5lSXMtTTRhRzBIaTIxeHp3YXRpQ1FGdEJVZy10U0V5d2F3Zkg3bjg3QWR1MmhzdzhNdmVlak5fbnUyRjRoRU1PMld4UGZfck5ITVJsNlNNUzVzdFZTbTJPSEhJN3FIcWwxSlk3blNrT1U5VXhjTlV3eGh3NkZoMmdWSHhjQk1IOC1z?oc=5",
-   "category": "Sonstiges",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-19",
    "title": "HCA Healthcare Colleagues Volunteer More Than 41,800 Hours During Annual Days of Service Initiative",
    "summary": "HCA Healthcare Colleagues Volunteer More Than 41,800 Hours During Annual Days of Service Initiative Business Wire",
    "source": "Business Wire",
@@ -2504,18 +2498,6 @@
    "company": "HCA Healthcare",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-19",
-   "title": "S&P Global Declares Second Quarter Dividend",
-   "summary": "S&P Global Declares Second Quarter Dividend PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjlVSi11QVlBeEtNLTN6Y0pONjZRbG9pNTltNk1OdU95T1BqX21kS2wwUWdUdVVwbUZwUXNreGpnX3BMY1V3Rk5XUjhSUXRGLXNkcWkwM2R4ZE8xN1cxN25YZ1pDeWZWNmhKR3MyRFpvOTNnQmJtZUJTS0hCS1Exa3BkNDJwSDFqYmVjYjZiQUhFNlpKRC1qeE5BOXRQVTg?oc=5",
-   "category": "Sonstiges",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   },
   {
    "date": "2026-05-18",
@@ -2531,18 +2513,6 @@
   },
   {
    "date": "2026-05-18",
-   "title": "Eurofins Scientific SE: Weekly Report on Share Repurchases From 11th May to 15th May 2026",
-   "summary": "Eurofins Scientific SE: Weekly Report on Share Repurchases From 11th May to 15th May 2026 Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUt2TXhZamFGNFF6VkZuRk9BbE43cVlkNEJLTGRNUWY0VlFkODdmTm01aW1ZemxjV1RpOVNjQl81clNlWXhZR1d2YmtyZXpsQlZYMDQ0Q1hGd21QMEZQa0ViUzNhMkIwSGRpZi1hSkJfNDV3a1dBdUd5SjgwMFEtNEg2REowaEVsNVllaG9zb0xQbFlMM1RUOVlDeE4yS3lkbHlzcjlhdHBJMlpra0R6VjdLWnJERkx2OHFTUmtvejlPX2RZVkkxQWVqV244LXhsdHBwcXdmeEhSSXRoT0E?oc=5",
-   "category": "Sonstiges",
-   "companyId": 14,
-   "company": "Eurofins Scientific",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-18",
    "title": "Exclusive: Meta lays out details of May 20 restructuring in internal document",
    "summary": "Exclusive: Meta lays out details of May 20 restructuring in internal document Reuters",
    "source": "Reuters",
@@ -2552,19 +2522,6 @@
    "company": "Meta",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-18",
-   "title": "S&P Global Announces Commencement of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation",
-   "summary": "S&P Global Announces Commencement of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPR2tMc1RMTjRyamxvVHc1SlBiZ2JESGdJT0J3dlp4NnRQQ1hiQXJSb2RoOV9kQ3EyZHZIZklMa1FfZjdyWk9oU2hTX1JlcTZkQWVjelFoWmV0Qk9HTmJ4WFBtOFFzMDJUM3FqTnpKTjY2U1B0TTRBdWZnMzI2ME1xRTNKd0lJVXFXSzdGemtKV2xJVTMtczBidnFhV1JCVnlIM09KWlBDVHAzNkxkQkwtQUhxaWVLbnVQZ2FPd0pzNEhzRVlPNVpKWkNYWVZZeTVxbWFDb1A0cVdGV3J5WEtfNHF5Q2hCaVZUbUZvR3poWnZiNXhLQU9WQ184TnFhQlg5enFpUE9wMmJNbnBaVnZraU5JZ1lBc3du?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-06-02T09:02:02+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   },
   {
    "date": "2026-05-16",
@@ -2579,41 +2536,16 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-15",
-   "title": "Kaspi.kz Posts Strong Q1 2026 Revenue Growth While Profits Hold Steady",
-   "summary": "Kaspi.kz Posts Strong Q1 2026 Revenue Growth While Profits Hold Steady The Globe and Mail",
+   "date": "2026-05-16",
+   "title": "goeasy Q1 Earnings Call Highlights",
+   "summary": "goeasy Q1 Earnings Call Highlights The Globe and Mail",
    "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMDNpRWtlVUtEcE1kRjlreUEzbHlYeWRLNWNxY29fSkFiSWppcUJvc1RVNEU2QmM2Y1pNSUFsa2dXb3J5MTZJMUxIMjZzV3Fhb0F0b0JpN3JlS2lid3d1eG10NWFSNy1GWFJIOElOUDZ5cEota0FBX05yam9OQlREbWhKYWJENnNmVGd6NGlYZ3lCODFEQ1ZHbkwxZEdfZGJGTUlOSHEzXzlWSHl2dDEwUUFiQWRRbU9RYVc1NjRkc2RYY2xYWklyVEdZYmg3SnhRY3RpdzdZMkU5ZmcxOGdhZURQNHhsUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmJiM0ZLeVkyTjFsM3h6bTBPUHNCLU5nLUNIWF9BYzZaNFA5dWVwcDNmLXREZmlLdUJ5UzQxS3JMMkJvT2x3OXY1SFJNYUxYMlpXeVM2amxqSXVGT0xZbUtTSTNxMjZqX21oeTVUYzNMY0JUdVJ2X3VXZVVWS3d1MGhLUm9jWTI4RDFQekozdDlGMV9WTjFBZk5FZVRDMW1yV2d4bllGTWdPZURneTZxanF1UExsdjRMZEhlbA?oc=5",
    "category": "Earnings",
-   "companyId": 17,
-   "company": "Kaspi.kz",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 33,
+   "company": "goeasy",
    "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-15",
-   "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
-   "summary": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX21IYkVYOVZTNmxxVDBfVWRMVlRyY3J0TnMxOWdQQnRWN180UGVPaVNyYXVRdEZsdWFjOUwxZFhHanBmY0QzQWVLTlUzdEl6eHU5ZTlxT1h4WG9zeTAzWm9GWEFsVDRjWlhTaktxcFRSWS14RU9KbGY1Y1NoOVhGOFJFRnI4NXlQWDZHeTljd3hHTno5bTFDOWdjeUZ0UTTSAaQBQVVfeXFMT0F6SU9xUVY5MWZUQ09hM2JTQWZrRFd2YVpjUHUwNEVzbHNXU1VHenJSbnNyLXJiOGZFNmpJdEdOMkVhUWMySDRzcmlETlRqZkw5MDBoWkloNzR0cG0xdWRGbV9UMWRHODlZc1BDTlpvVDc1RndtcERUS1A4M29aWDdVeWtTSXFFb3drWUhOa3VhNllMZS03RDNHV0U4U1JqbkRwQy0?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-06-01T10:11:26+00:00",
-   "companyId": 20,
-   "company": "Microsoft",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-14",
-   "title": "Chapters Health System Named as 2026 Best Places to Work in Healthcare by Modern Healthcare",
-   "summary": "Chapters Health System Named as 2026 Best Places to Work in Healthcare by Modern Healthcare PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjVIbi1EYTVvZmsyamdrdDFXelVabWx2dnJJUmxqaGZacUhuNmtqNGJoRERsYlk3T3dmazEzbGdIcFZtZUtuaFdvWmVSenMzRUlXVVdPc21VUENPckhmdVc2cmRhdF9ZR1NMclFuemtjc0drYzdKY0d4X0llbUJDOHVzSHA1NG80MzQ2NXlON2NoT01MWkdWbF9PSkM4eWVQT1JhNmNUSGV0QzI4ekN5Umc3MDJ6aFRXVF9xa0ZyUjlzVFU0RkVFY204RTNvbG1ITnhFMzgwSUFuVGd1QXJ0TA?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-02T09:02:02+00:00",
-   "companyId": 2,
-   "company": "Chapters",
-   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -2623,19 +2555,6 @@
    "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeDJpZHBWQmZtdUR6cUFxLVFJdDl2LXE2dG1Zb19BeTNWaVAtSmZMMllCOU5kVnF1eEZUd1pzcVNyeXNnUGxMbGtsZ3JUeFdoc01fdGFablpQNVZSLV9tOXNjVU9mOXQ5U29KUlZET2ZiUzUyMlZvWlJISkhueFcxNzRBWVhTV2dHY3ZScmNfWlBuSU1zTWlicDZKRUNpVXZfMWdwU3FQdzEtUUFnMHVRVDN3?oc=5",
    "category": "Earnings",
-   "companyId": 15,
-   "company": "Brookfield Corp",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-14",
-   "title": "Brookfield Corp. to combine with insurance business, reports Q1 profit up",
-   "summary": "Brookfield Corp. to combine with insurance business, reports Q1 profit up The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSVU3OUE1dFpsOG1ISG9nN0dpTVNpZmFhamhHT2lRdlZoR0JOOHU1RXlRbXo2SGZLekkwV09pTkVFSHo1akFzaHRkNjBKSDh6TDE3dVRQY2FVVjV3cF82QW1YZXlLYXdDdmhzZ3B2T2ZneGhCWXZhN3N1V3ozNjhRNnUzSzFNX0ZIQUdKdmNZbHNSWjhMOVVoUDNzLVU3ai1GbkNSWGpDeWRWNzJRcGZpdlFoTTl3cHM4elE?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-01T10:11:26+00:00",
    "companyId": 15,
    "company": "Brookfield Corp",
    "asset": "Aktien",
@@ -2654,51 +2573,15 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-14",
-   "title": "Misleading headlines? Barclays' Jiong Shao on Alibaba and Tencent's earnings",
-   "summary": "Misleading headlines? Barclays' Jiong Shao on Alibaba and Tencent's earnings CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEMxVEV3RkpDTUpvd0lyREEtejUxNHNUSHEwajdpLUxQMk45NTZzZUlBNzBscmFoU2xiV0FPdDM1MlF1NnRta21SWmI3UkJUWFY4R2xqVlBSQXhsSVdHQWlFcFlEZDl0NnNfckhZYXd5X3F3QnJpSXgtSTkzajI5VU1fdFYwT0dTT2gzQ19QRk1iN1k3WmFuZmhGRTNBcFQ3T0xUSklPdjdSUWVfQ09ON3R3?oc=5",
-   "category": "Earnings",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-14",
-   "title": "Nexon and Tencent Extend Publishing Partnership for Dungeon&Fighter PC in China",
-   "summary": "Nexon and Tencent Extend Publishing Partnership for Dungeon&Fighter PC in China Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTNsTzg2SWlJZk5Zd2lweU1yVGxQNmljanZiZ19QT3hJZEF0d3pBQlJscVVTV1MtRXNnbmtoVGZGXzY0ZnpwanMwdjVZQTdiNzNKY0dGMG56Yy1GV3JsWmZHS3ZGdGRmWFdCdGxCcC1kT3JIVXRIVTNiMkhvYloxS3RHRnZ0Q3N3NEExVHlGMXVLcHBDME5QODhaSS1JaUNWQ0Y2S3NuXzhmazdKM24xVENMWjhWbFEya3h6YVhxMm5saGRXR0NYVXotVThTLU5v?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-01T09:59:35+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-05-13",
-   "title": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
-   "summary": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFNXSF9lUXRHNndhMlNNUlJ1bllXMTlnT1NzaVRiY213ekswZ3FVak5mUnpfZXZtN0QtT0pObDNMQkc3WF90U3BOUnVsZ0ktTjFNR01reThLRUlhTDVvMVhLa3JBUTBPVjJlZjdKYjBGTkxSWVNxSnRubXZTcnJyeUpzMlhjNUxKNnRXcHJaZk1mQUJnNGloQm9oR1dYald2WWxN0gGoAUFVX3lxTFBWRm9VaXREdnlsQzZXT1RjTzdzRzJINXBnZEdITzJRRTdRLUQzWERRM3UxbnFpbWNEUjY5Q3R5TjV5N0lqb0IxeFZDcEFOUjZ5MnFjSzVhMTFqTVVZTzlmZmZkMnQyMHBUaVJkYkhYamZrcEVrcGxkZGlMZGtCbjZNVzJUcGFuWTNaQWU3RkFBcml2S0htcTJGN29ERG9wci0xZ0R1aWQ3Mg?oc=5",
+   "title": "Google, Meta & Co.: US-Tech-Riesen zur Kasse bitten? Telekom gibt Forderung auf",
+   "summary": "Google, Meta & Co.: US-Tech-Riesen zur Kasse bitten? Telekom gibt Forderung auf Handelsblatt",
+   "source": "Handelsblatt",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDZIQmlsempUTlhhRGNLek1ZV3o4ZEVTdFotNDg2RHc1dWRfZ0FqdkpOMlIzdVZySGQtWi04cFlySkFiWlZVN0Z2UTNZZ3E4WDVMUVdoV2ZiUU1lNTg4RmxfLW8zem9mQ1Y5NnlBdmE1aGI5Mzl3U1RfcncxbnhMRWFiZEhReXBtNGRhZGVwRS1kckRqYU5ETkhmbTFTbEJKUGt0dE9naFR1NG9jUldlXzd2cUMwQktMQXBYdUFfYWRwdzhpd2dfb3NvMlVaMks4MHlF?oc=5",
    "category": "Markt",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-13",
-   "title": "Vistry’s shares plunge as discounted house sales erode profit",
-   "summary": "Vistry’s shares plunge as discounted house sales erode profit Financial Times",
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDYzSVIyVm00SlcyS1dzY1h0TFlxUTRtUl9zR2puYXE2aFJPQ0MyQ1JCVTJuaVVuaHktWS1oX29aQWZPbDlxQWxpOUFrS2ZtV01UOVktTkZ0V0pmLTE0a3VVOEFTamdsNVlhMTY2LVYwQmM4SWt6dWdQQVZxbkNoYXc4blI?oc=5",
-   "category": "Earnings",
-   "companyId": 29,
-   "company": "Vistry",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 22,
+   "company": "Meta",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -2708,6 +2591,18 @@
    "summary": "UK housebuilder Vistry warns of ‘significantly’ lower profits amid Iran war uncertainty The Guardian",
    "source": "The Guardian",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0U0aHpjZllSeEFqdEhlYl9uY0RRb3VZLTVwRjZYeVRJOXNWclZmMTVmMkIwdkNrNzR4Tk1NRFpoX0xhbnA0VU1rSzNNdjRvYUdiakZPeWROZ3Z3WEdlVG91X3psTmFVSlZvZlkzM1ozNVZEYzJkbDBmY2x4T1cxb1pfODF6S1VJMW05eVE5V3RUV1lxaUJDQjUtdFozOU9NRjB2RFdNVzdlbkRMQXVYbW93b1ZhemtDWGE1SQ?oc=5",
+   "category": "Earnings",
+   "companyId": 29,
+   "company": "Vistry",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-13",
+   "title": "Vistry’s shares plunge as discounted house sales erode profit",
+   "summary": "Vistry’s shares plunge as discounted house sales erode profit Financial Times",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDYzSVIyVm00SlcyS1dzY1h0TFlxUTRtUl9zR2puYXE2aFJPQ0MyQ1JCVTJuaVVuaHktWS1oX29aQWZPbDlxQWxpOUFrS2ZtV01UOVktTkZ0V0pmLTE0a3VVOEFTamdsNVlhMTY2LVYwQmM4SWt6dWdQQVZxbkNoYXc4blI?oc=5",
    "category": "Earnings",
    "companyId": 29,
    "company": "Vistry",
@@ -2776,11 +2671,12 @@
   },
   {
    "date": "2026-05-13",
-   "title": "Goeasy reports $53M loss in Q1, compared with net gain of $38.7M last year",
-   "summary": "Goeasy reports $53M loss in Q1, compared with net gain of $38.7M last year BNN Bloomberg",
-   "source": "BNN Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEZMREJFd0xNekhMOGxMQXRRMHdGQTRTTnB5dFFGN19pejBRU0l6MV9xUU5wVWlxVy1HLW1VWmhCQkJuYnp0b3lYODJVNVd0ZWg4cFpnVlFWMW5oWmNmR1JLMENSMG9adVJBcEI0VjQyRDlULWdhYS1CaXdKanJHb2JaS3pjUGtLM013b3RNZERmMjNoTGx4MjRITDhsTnhJZU4zVmVlWHh4ZXFDc29kLUdLUVFDckI4a1g0?oc=5",
+   "title": "News of the day: Bank of Canada's worries, Agnico Eagle's mining investment, falling rents, Goeasy results, workplace harassment allegations and more",
+   "summary": "News of the day: Bank of Canada's worries, Agnico Eagle's mining investment, falling rents, Goeasy results, workplace harassment allegations and more Financial Post",
+   "source": "Financial Post",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUlJXUkNzUElnWXZiUDBGSWNLdExvU08ybXhyVmFxRGNtcVdmcGxYcnNHU0NWOTF0THBaQm5NZUtKb3ZlZWY5MlptamVtVjNpdG9YbEdnQTNIclg4OU9iOVpWdjJTSkVYR0tVSVNqV0NhR1F5akVpVjBRODFrTTB3OXZCdjI3Z1gxd1dyYTFnS1Z2NXh1ZVpJYVZCV1BGNDFvQmxrOXd5dlFaYVM5UE1wVnVaTnJ1REdZNEVDcFlHZXp1X2J4RVpWZm1hV3lPemZqRnhuMVpKQjJJVmxISjc3bHdRNGtVUGoyWGRqS2dxd1huU3FjZ254U093NzBHVjdPT0VHXzFxODhubEVFTHRV?oc=5",
    "category": "Earnings",
+   "firstSeen": "2026-06-03T09:21:56+00:00",
    "companyId": 33,
    "company": "goeasy",
    "asset": "Aktien",
@@ -2812,18 +2708,6 @@
   },
   {
    "date": "2026-05-12",
-   "title": "FedEx CEO brushes off Amazon's new logistics service that recently sent shares tumbling",
-   "summary": "FedEx CEO brushes off Amazon's new logistics service that recently sent shares tumbling CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHUxTTFQaWZ1NWJkb3ZDai1mbTAzTXRqZm9XRnZ1eUpMZjJzbjAyb2h4SWc2TXlzT2ExVWxwSGlPY2VrTTdxWlhVMW9EVDRlZUdlSmFfVXJwSnpIRG1GNUZ6a3BSOUsxN3dGeHd6cDVLUFVRVjVCcDFidWM4ZmZfUNIBhgFBVV95cUxQN3VjRVRsVXNwRHZGejNBOE05Y1VBTXpVSDRxeE5PN1pmOU1KUUtZTGJTaDZCREY2bnZ6UHpNWlhSRUJBTWpiWG0yVzh6Qzk2M29aUFZQaGRmejRaQjNqV0wzOWdwelpZTkdySWJuZzltbGJhMVJkZi1NN3pTLTRjZEZDTzRvUQ?oc=5",
-   "category": "Markt",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-12",
    "title": "goeasy Ltd. Reports Results for the First Quarter 2026",
    "summary": "goeasy Ltd. Reports Results for the First Quarter 2026 PR Newswire Canada",
    "source": "PR Newswire Canada",
@@ -2843,18 +2727,6 @@
    "category": "Sonstiges",
    "companyId": 14,
    "company": "Eurofins Scientific",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-11",
-   "title": "Kaspi.kz (KSPI) Q1 2026 Earnings Transcript",
-   "summary": "Kaspi.kz (KSPI) Q1 2026 Earnings Transcript The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkw0SXR5VTEtWnJNZm5jdlpTWDBNbHZ6NU9UYVI5LVZLcGZUQUR4Z2h4VUtNTUxyRjRoLWFyb0NjQkJWVlNVRmlzdmZlTnl0akVEcU9ZdURoWGp3cnhZZmREUG1aUVA4M0VGd055aDd3QjlnMWRKUDdfZWxyMUljS3hMZ2hxWFNVY2FQZ0lPT0FQZUJwQ0h1Q1h4RWY2MjVpc29NcVEyc0xjWVdZTnllYXN3eGhwME04NE5LRmxjSjZwbzQ?oc=5",
-   "category": "Earnings",
-   "companyId": 17,
-   "company": "Kaspi.kz",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -2892,18 +2764,6 @@
    "category": "Rating",
    "companyId": 24,
    "company": "Amcor",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-11",
-   "title": "Weekly Setup: Constellation Software and Goeasy earnings, plus Trump and Xi set to meet in Beijing",
-   "summary": "Weekly Setup: Constellation Software and Goeasy earnings, plus Trump and Xi set to meet in Beijing The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGdVNzlOenRYc3ZZSERYZXEzd213YnYycEk4aUxvSlo0MnM0MlJWcVRlakZkSGJrd2o1czNxTjZmVkVWcmlIUU9BQ1JfZHpFRUZyTFZXZmVHTEFtNGVmRzQxWElLYTNDbEVEVGl4SmE2aGxfRUdSNlR5UmRQbkRUdzJKVlpwVkR4aUZZSi1aTzFFNUI1UGZ4a3pBSTZuSjIxblk0cV9RaWpnVXB6YWFWMFY1clhfUjdXaUZ1aw?oc=5",
-   "category": "Earnings",
-   "companyId": 33,
-   "company": "goeasy",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -2989,18 +2849,6 @@
    "category": "M&A",
    "companyId": 24,
    "company": "Amcor",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-04",
-   "title": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses",
-   "summary": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlRuYkxsZmFEZWlmUm84MVpZRi1pMjdEZHk5aDVuRDVJOXdBUUxKSjVycG15eVhBRFhReF9TUEJyLV80XzJqd21sRjN3SW1TOXI5UU9GR3F1LWt0czhmU1g3cFlZeTZxaHJCV1ZNbndmcGVZMnRfR0VydzZGelRwSzJfTURRbWM0TF9SRDhXS2lmbmJwN29XeGZYYk9aRElMQzBKYW42Z2VWYkVCTFV2YVF3TjdmUnJhTzVUTDBfWHNiRWdtVTYwbHJPSFQzUjM3MWVZSzBvMnJVOUtWT3k0UFRYNA?oc=5",
-   "category": "Sonstiges",
-   "companyId": 18,
-   "company": "Amazon",
    "asset": "Aktien",
    "status": "Portfolio"
   }
