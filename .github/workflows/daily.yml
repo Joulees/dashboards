@@ -1,10 +1,14 @@
 name: Taeglicher Research-Refresh
 
-# Laeuft automatisch jeden Tag um 07:00 Wiener Zeit und auf Knopfdruck.
-# Cron in GitHub Actions ist UTC. 05:00 UTC = 07:00 MESZ (Sommer) bzw. 06:00 MEZ (Winter).
+# Laeuft automatisch frueh morgens (ca. 02:00 Ortszeit, mit Backup-Lauf) und auf Knopfdruck.
+# Cron in GitHub Actions ist UTC. Details siehe Zeitplan unten.
 on:
   schedule:
-    - cron: "0 5 * * *"
+    # GitHub-Cron laeuft in UTC (keine Sommer-/Winterzeit). Liechtenstein = UTC+2 (Sommer) / UTC+1 (Winter).
+    # Ziel: ~02:00 Ortszeit. Krumme Minute = weniger Cron-Stau, zweiter Lauf als Ausfallsicherung
+    # (inkrementell, daher fast kostenlos, falls der erste Versuch ausfaellt).
+    - cron: "17 0 * * *"    # 00:17 UTC  = 02:17 Sommerzeit / 01:17 Winterzeit
+    - cron: "17 2 * * *"    # 02:17 UTC  = 04:17 Sommerzeit / 03:17 Winterzeit (Backup)
   workflow_dispatch: {}     # manueller Start ueber den "Run workflow"-Button
 
 permissions:
@@ -20,10 +24,10 @@ jobs:
     timeout-minutes: 15
     steps:
       - name: Repo auschecken
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Python einrichten
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
