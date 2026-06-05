@@ -1,9 +1,10 @@
 {
- "generatedAt": "2026-06-05T06:42:23+00:00",
+ "generatedAt": "2026-06-05T12:36:11+00:00",
  "companies": {
   "1": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -52,6 +53,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -59,22 +61,9 @@
    }
   },
   "3": {
-   "news": [
-    {
-     "date": "2026-05-06",
-     "title": "International Petroleum Corporation Announces 2026 Annual General Meeting Voting Results",
-     "summary": "International Petroleum Corporation Announces 2026 Annual General Meeting Voting Results GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcUhwalRVeFBOTUtlZG9LMl9Yay0zYTc5dk94WE45TlpvMzF1RzctNTBqMXM5WlZPcFJ5NEpBMHpNUjI3amZUZWsxaDFtUTIzbU5yZF9BWlhDQUZ0U2p6MlpCRXJjSnAyXzdTblNFRGJrV2lJT01PSGVmbDRsNTNxSG1lY2l3UnpBN2g4cEhnOTA4RDEwTTFkUlFQQkR3cWY2YU9ta2tiMDhzM1FVR1JxU3pyTVdwdW9EX2J1R2JxM2xVRXpEYkU3clctc1lRWEJjMVRXNnNCOFo4TU43eUdWdjk4TXo3dEdLNlczRnpzMXViQQ?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-04T07:40:25+00:00",
-     "companyId": 3,
-     "company": "International Petroleum",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    }
-   ],
+   "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -82,8 +71,99 @@
    }
   },
   "4": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-05-21",
+     "title": "Borr Drilling shareholders back board, auditor and fee cap at 2026 AGM",
+     "summary": "Borr Drilling shareholders back board, auditor and fee cap at 2026 AGM The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeW5OeEVaWk1lUFlQWkVMS0pVT09yNWk2Z2RZYzg1Y1d4MXpUVFVBeXFJajk3OEhqcWxGR3JEYTZLcXlDQ0FkSWx6TXZJSlpjdzZ6a00taHpJV19nTEVjcXh5c25ieWdlVXJHMkpiZkplVkRqYVI2akVYNEZfZjV1QXQ5ZUVZcXBrNWdHdG5uRDM3WGhwUld2OEcxTFNRckZ5M2VLeTlFcGYzeU5OMXpnMmF0UEJGTnN0cWJ0c0V1Y1VCR0N6U0F6a3FHTkxWb3NOUTB5eDZZM1liSDlrOUh6Q0V3SEdqalNXNV90Tw?oc=5",
+     "category": "Conference",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 4,
+     "company": "Borr",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-21",
+     "title": "Borr Drilling Upgrades Oslo Listing to Main Euronext Oslo Børs Market",
+     "summary": "Borr Drilling Upgrades Oslo Listing to Main Euronext Oslo Børs Market The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVW9mdEdJV0VReThuS1pZMjFKWXpvdHVtRmQwVWJPWF9JdFo2LWl3SThzeWFuaUg2MGdweUpFQWZwZk16bFZWZVljWksyenZFb2hyWlpWT1R1R3JHcHpZOHJFMmNMQmRfdFdlb05oZGN6UTVDc2F6WUFZZU9iWDJ6cHVxMzBscThmbE01cmtURVVrdkZFcEJUQmlfRUpMTjE3TUR6dWMybFdMTnd6OVk0ZTB6VzROekRINGdsQkUtZUxHcHF5TUZ1YVRhT2pGTlhzbTlaZS1DQm1HcTdCc0xJbHlFWi1POGFzajl5bQ?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 4,
+     "company": "Borr",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-21",
+     "title": "Borr Drilling Q1 Earnings Call Highlights",
+     "summary": "Borr Drilling Q1 Earnings Call Highlights The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZm1wUElRekZlcG9Bd2Z6OFMwZGF1UFF4MGpmQktTVlpzLTd3Z0VkSUhvV3ozMG44NkNwYy1pamZjWUxWYzlHdzRRQ1FWY2pKeUdNN2RhRXVfek9aOHcwSF9zclUzSEx3Ukd4UWxPaDdXZ3pXUDFhNUxFejV1T3pPdVI0djNKaXNZRi1CaHJUTDZ1ZHVLOTJudy1IUFRwWXMyLS1Gc2lpVHRPdHlobE93RVdSb1RyRHhGbGdENXlacDVqVUJo?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 4,
+     "company": "Borr",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-18",
+     "title": "Borr Drilling (BORR) Q1 Earnings Report Preview: What To Look For",
+     "summary": "Borr Drilling (BORR) Q1 Earnings Report Preview: What To Look For The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcjMyQ2RoLUxXaklPN2NfRUlsdjNEVUpHTlVfZV9HN0lMTUNFQUFUVUZ0ajlPWW1VZHE5ZFBlZ2dlRm12QklQOU9RdklCNm0wc3o5c3NqT21rT3gxZVM2dTE2YXlmbkxxVnZJOEZONjEtSl9NbloxbDRBSURpZG9jRkdwUTFOYi05Y0lfbnphSjh5N2hDbGdNOVh0ZTd5Wk1qcVFYMHVZNGNmWHRCLUFkb2habkpCRHNXY3FPSWw3eHV6dzRHVGhPWE9WYVFBeTgxZkZCQ09QZmx6X2tuNmRYag?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 4,
+     "company": "Borr",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    }
+   ],
    "events": [],
+   "insider": [
+    {
+     "date": "2026-04-16",
+     "insider": "Troim Tor Olav",
+     "role": "Director",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 500000,
+     "price": 5.58,
+     "value": 2790900,
+     "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026025616/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-03-24",
+     "insider": "Currie Jeffrey",
+     "role": "Director",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 250000,
+     "price": 5.31,
+     "value": 1327500,
+     "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026021241/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-03-24",
+     "insider": "Troim Tor Olav",
+     "role": "Director",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 500000,
+     "price": 5.2,
+     "value": 2597900,
+     "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026021237/",
+     "source": "SEC"
+    }
+   ],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -120,6 +200,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -206,6 +287,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -215,6 +297,7 @@
   "7": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -262,18 +345,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-05-20",
-     "title": "Prosus Steps Up Share Buybacks Under Ongoing Repurchase Programme",
-     "summary": "Prosus Steps Up Share Buybacks Under Ongoing Repurchase Programme The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHl0QVBPaTRmM2RTdDN1MksxbUthSU12V01GSjhnNHNFdHk4Sk40VnlKYjBmZ1dTYmN1cXdMaVdIdmUwRm9wUUJuNUktX2ZlV0h5LWNIakRRb2Z3cTZuOFVBSEdocldGRTRGUzNGNmZwX0FZOHo3Q3BGcFI2Ujc3RThHd0diVWZsazJmV2N1dmF1WU1URXBGUnA0R1BnZkxWNHl3ajI1TG45ZEE5Y3l4UjZQSTJUemlHaS1PR1QzSmwwcmZvT0pZQWxfVEdmZ3E1U3FENTNIQnZCU0VocGhma2VNbnZBdw?oc=5",
-     "category": "Markt",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-05-13",
      "title": "Prosus Ramps Up Share Buybacks With €88 Million Repurchase Tranche",
      "summary": "Prosus Ramps Up Share Buybacks With €88 Million Repurchase Tranche The Globe and Mail",
@@ -298,9 +369,23 @@
      "company": "Prosus",
      "asset": "Anleihen",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-11",
+     "title": "Delivery Hero Shares Jump After Prosus Agrees to Sell Stake for $395 Million",
+     "summary": "Delivery Hero Shares Jump After Prosus Agrees to Sell Stake for $395 Million WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0huVndVUkJsUy0zdUpDeEJlalc1SXZ5emtkVjkzWUNObDd0dVE1aG1EeVRVUGpvR3kzRDJGWWllRkIzcXNJWHdkQUNhQ0NfZHhJYlZ5akxzUzdRYlI4dTBxMUZYZEJkbV9CN2U5Q0pPTzlPR2tXU3dKYVJsdnJzZjdwTEF0RW1mRWM4YndNWTQ4dTdXTnJ5OGMwcUVrZ3cwbkMwT3FFdXVIVTFBaUJJOFZQblBDcnV4YkRmdjBPYVVBcXZq?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 8,
+     "company": "Prosus",
+     "asset": "Anleihen",
+     "status": "Portfolio"
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -310,6 +395,7 @@
   "9": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -357,13 +443,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-05-06",
-     "title": "XPO Recognized as a 2026 VETS Indexes 4 Star Employer for the Fourth Consecutive Year",
-     "summary": "XPO Recognized as a 2026 VETS Indexes 4 Star Employer for the Fourth Consecutive Year GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcDJxOUVzaUFvN1MxVWlaYzJ0c3MtVkJSVWJsWVViYzhNd2pxQm56Ym1fQ3FycVJJcVZyNE9tRkU0VEw1eTQ2ZWtJblM3cHlDYnduV0s2bHhEZGZMeWZWTHRHbDZVTkV5UnlCSkF6UktpclhBNDE1THFYWlVNVzhVZDZtcDV4ZjlabTFwRG1VeTk0bEVackNlUGRGZmpOaE9Qc1B5cnhnNm95TTBkSW5reGk2ZU9YSGpCQTRYOE5tTFhXejNod1pZYUdkemxNc3E3YTNuTFVkckJNbGFFYTFBaU1VYUNWZnFnMURuN2ZR?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-05T06:42:23+00:00",
+     "date": "2026-05-07",
+     "title": "5 Revealing Analyst Questions From XPO’s Q1 Earnings Call",
+     "summary": "5 Revealing Analyst Questions From XPO’s Q1 Earnings Call The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNazUwRmtnMXZYRFZZcnhPbUYydTJIZEF1b1pGc2V2cURqTHpSRlRNYjI2cmxGb2JiRGs1Ukc2eVBUbTRnWFdaN2tJRW41RmlLV0g4ZGI2Z21XMTJmcElxempxc3d2U2VoNks3TlVGMld3RWNkRDZ3ZmVtMENXMkQ5NHJkcnJuUzNUQ0pJcURFaFVEVkNrdEZzeUpucjNkbHdqTnVFbTVPVlNELUVOVmlOV2NxeHRvX1FnaUczQXpkZGJkWVFnWlRNdmY1MnZESERMei1lcGlITQ?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
      "companyId": 10,
      "company": "XPO",
      "asset": "Anleihen",
@@ -371,6 +457,20 @@
     }
    ],
    "events": [],
+   "insider": [
+    {
+     "date": "2026-05-28",
+     "insider": "Landry Allison",
+     "role": "Director",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 2400,
+     "price": 215.61,
+     "value": 517471,
+     "url": "https://www.sec.gov/Archives/edgar/data/1166003/000116600326000066/",
+     "source": "SEC"
+    }
+   ],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -380,6 +480,19 @@
   "11": {
    "news": [
     {
+     "date": "2026-06-05",
+     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
+     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNXd2S3NxY0hKRlBmRENWakx2LW1fNEM4Tk1VcFRna1ZENkMta25FR2tTcGpfNzNuM1NTZ1h2SWFyMnloSWlQRUROS21oZ0RUMUowd1ZyTXVTeXlwVVc1c0VUM0RONVlZQUlRQ01sRmZxSkdMU3NBc3dlU0pyYTBvb0NodTZfV1A2T2JqT2lBX0dVLUFDTVJkU1RHNUlmNUxxaUhkdVc0X2RuN3ZwVjVjTFdfcXFLR3ZiMEJNbHdQUHlXTDdYVll3WnE0Z3VkUHFPdFFodi1jOVNfY2o4bE1QSGhnT25JcUN0NUxYbXVxSHVyTzlyX1pYeDN6ZW5jRE1kOU0wVVFWak5oZw?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-04",
      "title": "SueWallSt Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK",
      "summary": "SueWallSt Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK PR Newswire",
@@ -387,6 +500,19 @@
      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPM2ZUb1dpLWZob1daX0dhVnhlOEE0MF9uWG1rbTVsT014bTUxMU9DRXlrU0hJMmhPV1cwTnAwRTdDclNEd29ZR1RNalg2V2tVWTM4VVBOcTl0bTZ0WXJlVkt4SHVOZlVYN092ckUwSThZY2JCX2dsZnZ1VG96MGlpRU1tX0d3WUUxNnFmVmpaT1piamEzTVl1eUI4OVlYdF9XeGhKVTFlRkpfQldGRDFyZWs5UnVMdVhsQS1CVUtmbUNEYUpuWVpBYXZaSlR1TmN2OWZFZ0V5REwzQ3Jib1Fod2o5ZDlRTl9wa05sMW92YnF1Wml5VFRaT0xqLUxpQm0zMFdHYzZQUWVjazc3SWRZSmlyUm9uWGdicUVZWDRWQ1N5dmdya1FDbmh5cWlVZw?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-05T04:46:23+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-04",
+     "title": "GPK INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Investors Have Opportunity to Lead Class Action Lawsuit!",
+     "summary": "GPK INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Investors Have Opportunity to Lead Class Action Lawsuit! ACCESS Newswire",
+     "source": "ACCESS Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa21jdGJOdk1HUF9WSkVwc0R2dk1DUXF6WUJrRDZndl9Qa0RxQU1rWDFDYlBWUDBURERCYVdQV3UyR2xBMndmNXZLcXlkMGw4Vl9ZeEtOMXc4ckx1VDBETmo0LWYtU2pkRGIwVFhVd0tfSXloRFNPOG1vWlM1ejJQanBmRWRsNFlTWDUzb2g4RnlMSk82azM4VmMxYnJmLXBNOVVJc3BMWG5Cb3BfSXIyQm5Oa2o4R2ZOQXc2Y2VFMThINW9xeTEtdkhvLWJCc19DY3l3UjFMUUE2cEppMmtpb3hKOA?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -430,35 +556,47 @@
      "company": "Graphic Packaging",
      "asset": "Anleihen",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-02",
-     "title": "GPK SHAREHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Shareholders with Losses Have Opportunity to Lead Class Action Lawsuit!",
-     "summary": "GPK SHAREHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Shareholders with Losses Have Opportunity to Lead Class Action Lawsuit! ACCESS Newswire",
-     "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWG5CSW4yMlY1S2E2UmVpYXVLcGJmQUVTdEg2TjJBcFFhMGhoa2xoNWhHNlJIQTRHbnFtd2ZJU3B5RWdhM1BPLWMtYWdoZ3lDaXJKTm9DODFuVkdpOFA1VFd1OGdlUjhYbUJWUk9rb0otbnVyTGZqMTd6US1kc1pNZUpoazdlRndHZG9lZzU5Z0ZtVWRmNHA3UmpMWElJa1M5ZlJKczJGU3ZGZ3lhUUlRRUdxLXE4cjRJNWJSaEtEWlE2Qzd1ZVFYbkFjdTBrUDJzM1dOcXROQ2swemh4b0NqNGR3WXk?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-04T07:40:25+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-01",
-     "title": "Lead Plaintiff Deadlines in Shareholder Class Action Lawsuits Against Graphic Packaging Holding Company (GPK), Immutep Limited (IMMP), and Phreesia, Inc. (PHR) Announced by Holzer & Holzer, LLC",
-     "summary": "Lead Plaintiff Deadlines in Shareholder Class Action Lawsuits Against Graphic Packaging Holding Company (GPK), Immutep Limited (IMMP), and Phreesia, Inc. (PHR) Announced by Holzer & Holzer, LLC GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNTi0teVg4R3pPTEFNUHB0ZnNRMUk2djRlRHdVWWhoU2FEVnRvT0RybTFib0NBRVU3X3NsZzNldklsa2lHcXZDVUhNWEVkekYwc0NHcWJDVjB1d1psMlFzWXVSR2ZJWXVoaFgtcldkUlVodS1obnZGdV9Xd0lpWjRBMUlyUlZHRnNNMTRNQlFaMGFVZVVkZG85ZTJGTk12VEpFR292SHVYalJJSWlSWV9lc2dLTzZCdUI0aTBpQmRXd0JUNEQ4bVJrYlhiZW1zZUhYU2IxUm14TmQwb05UOWVDcUZmTGJTMk96RDVxOTRiT2JZYzBWeUZiUnVEbDNidzVacl9md1FRcmhPaWs2UEpBcXd0c3h0ZVdpT25RbUdtM25uS09McEV6ZWltejBjS25fQVBEV1pSai0xeThya1h0b3R6OVNiYWFXcklBNnphNnVuZjB5ank1a19ZRXF6V3lNdmJCbmMtSFRxYjdL?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-05T04:46:23+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
     }
    ],
    "events": [],
+   "insider": [
+    {
+     "date": "2026-05-20",
+     "insider": "Stafeil Jeffrey",
+     "role": "Director",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 16261,
+     "price": null,
+     "value": null,
+     "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526234664/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-08",
+     "insider": "HAGEMANN ROBERT",
+     "role": "Director",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 14000,
+     "price": 11.0,
+     "value": 153991,
+     "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526216732/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-07",
+     "insider": "Stafeil Jeffrey",
+     "role": "Director",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 17878,
+     "price": 11.19,
+     "value": 200000,
+     "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526216815/",
+     "source": "SEC"
+    }
+   ],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -531,6 +669,20 @@
     }
    ],
    "events": [],
+   "insider": [
+    {
+     "date": "2026-05-13",
+     "insider": "CURL GREGORY L",
+     "role": "Director",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 6186,
+     "price": 105.05,
+     "value": 649839,
+     "url": "https://www.sec.gov/Archives/edgar/data/1530950/000125718626000016/",
+     "source": "SEC"
+    }
+   ],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -540,6 +692,80 @@
   "13": {
    "news": [],
    "events": [],
+   "insider": [
+    {
+     "date": "2026-05-15",
+     "insider": "HEARTY JAMES O",
+     "role": "Chief Compliance Officer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 15000,
+     "price": 193.98,
+     "value": 2909745,
+     "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000069/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-12",
+     "insider": "Maughan David Paul",
+     "role": "Chief Operating Officer, DKC",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 13456,
+     "price": 199.25,
+     "value": 2681161,
+     "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000067/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-11",
+     "insider": "Maughan David Paul",
+     "role": "Chief Operating Officer, DKC",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 7073,
+     "price": 199.15,
+     "value": 1408580,
+     "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000067/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-07",
+     "insider": "ACKERMAN JOEL",
+     "role": "CFO and Treasurer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 51471,
+     "price": 192.1,
+     "value": 9887527,
+     "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000065/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-06",
+     "insider": "HEARTY JAMES O",
+     "role": "Chief Compliance Officer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 2184,
+     "price": 174.87,
+     "value": 381916,
+     "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000064/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-01",
+     "insider": "BERKSHIRE HATHAWAY INC",
+     "role": "10%-Eigner",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 1220376,
+     "price": 149.84,
+     "value": 182864678,
+     "url": "https://www.sec.gov/Archives/edgar/data/927066/000119312526207021/",
+     "source": "SEC"
+    }
+   ],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -575,6 +801,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -609,6 +836,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -645,6 +873,80 @@
     }
    ],
    "events": [],
+   "insider": [
+    {
+     "date": "2026-04-29",
+     "insider": "Anas Abuzaakouk",
+     "role": "Chief Executive Officer",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 21,
+     "price": 147.4,
+     "value": 3095,
+     "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+     "source": "Wiener Börse"
+    },
+    {
+     "date": "2026-04-29",
+     "insider": "Anas Abuzaakouk",
+     "role": "Chief Executive Officer",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 8068,
+     "price": 147.5,
+     "value": 1190030,
+     "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+     "source": "Wiener Börse"
+    },
+    {
+     "date": "2026-04-22",
+     "insider": "Anas Abuzaakouk",
+     "role": "Chief Executive Officer",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 5000,
+     "price": 150.9,
+     "value": 754500,
+     "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+     "source": "Wiener Börse"
+    },
+    {
+     "date": "2026-04-21",
+     "insider": "Anas Abuzaakouk",
+     "role": "Chief Executive Officer",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 10000,
+     "price": 149.0,
+     "value": 1490000,
+     "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+     "source": "Wiener Börse"
+    },
+    {
+     "date": "2026-04-21",
+     "insider": "Anas Abuzaakouk",
+     "role": "Chief Executive Officer",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 10000,
+     "price": 148.0,
+     "value": 1480000,
+     "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+     "source": "Wiener Börse"
+    },
+    {
+     "date": "2026-04-21",
+     "insider": "Anas Abuzaakouk",
+     "role": "Chief Executive Officer",
+     "code": "P",
+     "kind": "Kauf",
+     "shares": 5000,
+     "price": 149.85,
+     "value": 749250,
+     "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+     "source": "Wiener Börse"
+    }
+   ],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -667,6 +969,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -703,6 +1006,188 @@
     }
    ],
    "events": [],
+   "insider": [
+    {
+     "date": "2026-06-01",
+     "insider": "Herrington Douglas J",
+     "role": "CEO Worldwide Amazon Stores",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 1000,
+     "price": 266.19,
+     "value": 266190,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000018/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-22",
+     "insider": "Zapolsky David",
+     "role": "Senior Vice President",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 9270,
+     "price": 268.53,
+     "value": 2489273,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000155797926000006/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Jassy Andrew R",
+     "role": "President and CEO",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 5206,
+     "price": 261.95,
+     "value": 1363726,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Jassy Andrew R",
+     "role": "President and CEO",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 5227,
+     "price": 263.1,
+     "value": 1375238,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Jassy Andrew R",
+     "role": "President and CEO",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 5667,
+     "price": 263.95,
+     "value": 1495784,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Jassy Andrew R",
+     "role": "President and CEO",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 3600,
+     "price": 264.97,
+     "value": 953908,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Jassy Andrew R",
+     "role": "President and CEO",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 300,
+     "price": 265.61,
+     "value": 79684,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Garman Matthew S",
+     "role": "CEO Amazon Web Services",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 4257,
+     "price": 261.93,
+     "value": 1115027,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Garman Matthew S",
+     "role": "CEO Amazon Web Services",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 4554,
+     "price": 263.18,
+     "value": 1198522,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Garman Matthew S",
+     "role": "CEO Amazon Web Services",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 3689,
+     "price": 264.03,
+     "value": 974009,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Garman Matthew S",
+     "role": "CEO Amazon Web Services",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 2534,
+     "price": 264.95,
+     "value": 671374,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Garman Matthew S",
+     "role": "CEO Amazon Web Services",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 433,
+     "price": 265.64,
+     "value": 115022,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Herrington Douglas J",
+     "role": "CEO Worldwide Amazon Stores",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 4200,
+     "price": 261.88,
+     "value": 1099888,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000020/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Herrington Douglas J",
+     "role": "CEO Worldwide Amazon Stores",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 1370,
+     "price": 263.12,
+     "value": 360468,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000020/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-21",
+     "insider": "Herrington Douglas J",
+     "role": "CEO Worldwide Amazon Stores",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 800,
+     "price": 263.85,
+     "value": 211083,
+     "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000020/",
+     "source": "SEC"
+    }
+   ],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -824,6 +1309,7 @@
   "19": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -860,6 +1346,32 @@
     }
    ],
    "events": [],
+   "insider": [
+    {
+     "date": "2026-06-01",
+     "insider": "Althoff Judson",
+     "role": "CEO Microsoft Commercial",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 15500,
+     "price": 460.99,
+     "value": 7145314,
+     "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000083/",
+     "source": "SEC"
+    },
+    {
+     "date": "2026-05-14",
+     "insider": "Coleman Amy",
+     "role": "EVP, Chief Human Resources Off",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 1262,
+     "price": 411.34,
+     "value": 519241,
+     "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000075/",
+     "source": "SEC"
+    }
+   ],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -981,6 +1493,7 @@
   "21": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1039,6 +1552,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-05-19",
+     "title": "Trailer: Das Meta-Imperium – Aufstieg und Wandel des Mark Zuckerberg",
+     "summary": "Trailer: Das Meta-Imperium – Aufstieg und Wandel des Mark Zuckerberg ZDF Presseportal",
+     "source": "ZDF Presseportal",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlNhVHowcnZCMl8xOGtVOWh1Vk9VRGVPZG5lSXMtTTRhRzBIaTIxeHp3YXRpQ1FGdEJVZy10U0V5d2F3Zkg3bjg3QWR1MmhzdzhNdmVlak5fbnUyRjRoRU1PMld4UGZfck5ITVJsNlNNUzVzdFZTbTJPSEhJN3FIcWwxSlk3blNrT1U5VXhjTlV3eGh3NkZoMmdWSHhjQk1IOC1z?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-05-18",
      "title": "Exclusive: Meta lays out details of May 20 restructuring in internal document",
      "summary": "Exclusive: Meta lays out details of May 20 restructuring in internal document Reuters",
@@ -1049,22 +1575,10 @@
      "company": "Meta",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-12",
-     "title": "Exclusive: Meta employees launch protest against mouse-tracking tech at US offices",
-     "summary": "Exclusive: Meta employees launch protest against mouse-tracking tech at US offices Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONEE4SmlFR2VJQ1h0c2lOcDhTUGJ5eTB5NkZZV19GMkdyMGlhczFGZEZxYXhvVTlZMzJtdzFMN0VaZnRwdmJCWFY0UFpUNUtsbTl2ekVBYm8yTHluYWhKMkx0X3JPYXhSZ2hGbEtRcEZCWU9Wb0NheEtFZ2NBYzBkeHVueV9CaDlHaTBGU0RCZER4WmU2OURqbWVMV3dYOXI1Z3RGQkdxSENPak5ROWpJZ0pjVnBOUXZINVRudWcxUmZKX3VlTVB3?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-06-05T04:46:23+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
    "events": [],
+   "insider": [],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -1199,6 +1713,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1233,6 +1748,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1242,6 +1758,7 @@
   "25": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1251,6 +1768,7 @@
   "26": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1260,6 +1778,7 @@
   "27": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1269,6 +1788,7 @@
   "28": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1277,6 +1797,19 @@
   },
   "29": {
    "news": [
+    {
+     "date": "2026-06-02",
+     "title": "Vistry appoints Kate Rust as Commercial Director in East Anglia",
+     "summary": "Vistry appoints Kate Rust as Commercial Director in East Anglia Peterborough Telegraph",
+     "source": "Peterborough Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkhUVlNGQTVKOW1oRlQ1RFhxdmY4cHN1Y2Z6MkRNSjFjSVAxMFYwY29NNFc2NVZPenpCV1ZfcXg0UHpSMUkwdmk5OGg0U1JMTU5zTFF3dnF2ZkZCWXgxdnNheEZLRktLU2ptNkNycTZlVDc3UXBVSjZQX1dvV0RGakxrVjlxSkdVVmk0ek1SYm9KekNRNHZSenBmaHVaNF9QYzhQalhlQ0Vvc3JFcmdCQWF6aFpoX0lCanc?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 29,
+     "company": "Vistry",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-05-16",
      "title": "Vistry orders workers to down tools to preserve cash",
@@ -1339,6 +1872,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1386,6 +1920,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -1508,6 +2043,19 @@
   "31": {
    "news": [
     {
+     "date": "2026-06-03",
+     "title": "Tencent Cloud Partners with UXSoft to Build Smarter Retail Operations for Hung Fook Tong, Hong Kong's Largest Herbal Product Retailer",
+     "summary": "Tencent Cloud Partners with UXSoft to Build Smarter Retail Operations for Hung Fook Tong, Hong Kong's Largest Herbal Product Retailer PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNR3UxZl9xelgtVDJYMGthSGZuMF91NnRCbFlfMTNXR0x0aDVvdjJ5Qk5FS2FiaWszb0g4WDMxVmNiNW9UOEs3b2o5SGZFVEUwUFE0dkZoYjR3cFhRYlE3TFVncEVVaHJSRXBPZUpaTlZua0h3cFZrZDl2YUMtTGhVQ0QwNk1lUV9vYVByM1laSWV3ZnBwTGIzNXhXYlZ6X09nUHFGaVdHODZqd0JweExKR1RfaDV0UnlHMjM1bGlidVlScVJpUFA5eWpHaE1uMFp4Z01keDlrb3FVZ085eHpGN0VPb0kzclY5ZHVzdWhPeXBkRzlqY0hiUG4zZHZUMzRyVkQzZGdQejEwdjFpWmVBeWNieXQybXRHTGtwSg?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-02",
      "title": "Tencent Jumps After Report It’s Set to Launch WeChat AI Agent",
      "summary": "Tencent Jumps After Report It’s Set to Launch WeChat AI Agent Bloomberg.com",
@@ -1560,26 +2108,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-05-29",
-     "title": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong",
-     "summary": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY2JIQmNHTkxjaUVWY3lNLXEyVW9jZ216Umplbk9ITVVUbkhXb2NtOXJPbno2Rlh1eExsVGFib3ZpQVczaXNDaEFxR3hkYmVSaWlXYzZ4eXNuNzNoUmVndUlSbF9uUUFUS1pMQ0lrRC03d1EwVWZ3dEVhdjN2TTByenA0REdWRFgyTHJ4Yk1IR3FpTWNRTE9vM0tUWlROWlhiR0t6SVVkMl95YTlQNG5oZWQ2bnhlNl9EYnA4NWFvVzlnSHZxLWh4YzhnWjBVZHhoNTN1Tk1qcHA1XzlhMXhTNW1aSTNTaDBlWVZkRTY3dXFseFBvWUdrbWdSd3k4bGk2Z240ZkMwTQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-05T06:42:23+00:00",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-27",
-     "title": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\"",
-     "summary": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\" PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRTB4WVRMTHlud05ycmdWMnFxOUVmYnJ6ckV0eUxHSllzTjdHZjNldlhQcHZZTVk1dGdDT2FkUGYyQ1VBRVlZWi1IMmUxVjBZemVtZER1OXRpTEE5T00tbkNmbHc1dUljelk0cnktWXdWQldfRjBQckdNajluZF9iWVlBeEFDdkJJWEt5YXUxd3UyWjN5RlFoWmtKMWFqajhMVTlCUThYc3k0MHZSYk1jVkhYZGhsbkNFZFdlR2xuaVpOQVBzWVFPMzVYRUxSLVhYWVhSUlMyM21YUlNWZVcwUnhFZVpLalZwTm4wUFdwMXYyYTBRZlE?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-05T06:42:23+00:00",
+     "date": "2026-05-31",
+     "title": "UBS Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
+     "summary": "UBS Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0lPNGFicUpVMU1mSjkwTDRFaFJVaGs4a3prZS1GTnR2dXJ2WlpZTnF4clJDMlZCUzhIZW1ON1k3R29hVHVWUTZsZkhza2wwMFQwUVJuMDR1eWtveHM5bkdLLXBLUjhUTHFhZ0lrRC1rRzhEQXY1V0VwRmJ0MGhuZExXa1VCdER0RFJRSENVQXU2VHFDeXhzbEpMWkprV0JoRXhZS1pzc0FDR2twLUtPTFZxeVR6b1hBTVN0S0ZBZi15S0FWMk5EeldMS3NhcEpCQ294Vm5OOURJZw?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -1587,6 +2122,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1672,6 +2208,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1756,6 +2293,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1765,13 +2303,13 @@
   "34": {
    "news": [
     {
-     "date": "2026-06-03",
-     "title": "Snap Inc. Receives Credit Rating Upgrade from S&P Global Ratings",
-     "summary": "Snap Inc. Receives Credit Rating Upgrade from S&P Global Ratings Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkJ5bmhaYmotQWhRRWFwMDhtUjg4M05fMDFzci02OG83Nm9wc21vVldxNFVvSHZPNjViN0ZvX2ZhZXBfUy1vS0lGNDZGSFJwVTRfbGwwYkxNRW5CTmlSZi1EanhBUm1YVlp2b250NHFIX2tCeVFrTFdXOTliMVg1SkRtOWpqOEh1YTR6YmZfd3JSalhrR2hldER1RGJrZ3NtRmJacHVQNy0yN3FySGk5MGZ4b1l2Si03bk95dQ?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-06-04T07:40:25+00:00",
+     "date": "2026-06-04",
+     "title": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis",
+     "summary": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -1815,6 +2353,19 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-05-27",
+     "title": "S&P Global Ratings Wins CLO Rating Agency of the Year at GlobalCapital's U.S. Securitization Awards 2026",
+     "summary": "S&P Global Ratings Wins CLO Rating Agency of the Year at GlobalCapital's U.S. Securitization Awards 2026 PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVzhUOVRONHFvdUpBTW1qcnRQYVhJaDhIb0loTlo0ekQxS1VhTXRrMnowR1g1TTc5aERMeElBSWhpMnRCSENGR054djJIMGFwcTB0amRCdDNyelQyc1JaYjVXVXVBWURjclJVUF9HV2lISGZzRllNYW5LNnlFWTFyNk14aU9GZVBOVkdJOVZubTVLYnc3Z3RoeWlabnFlazJ2aThrQmtJX21zWXFDWDhZd2pzTVNCYkdqcl9XY3lNQU53SnVVaDNsd1ZoUkkyV1hrS3E0RjBzdEN4U2hSQzZWN0Q2c2pWRWMydmtwRQ?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-06-05T12:36:11+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-05-26",
      "title": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation",
      "summary": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation PR Newswire",
@@ -1825,22 +2376,10 @@
      "company": "S&P Global",
      "asset": "Aktien",
      "status": "Watchlist"
-    },
-    {
-     "date": "2026-05-26",
-     "title": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake",
-     "summary": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzJNZ3d3SnpaUXBKWHNzWlJRY2twRm0wSXE5VHIwN2tSZjFvY2FRMzRqMHFXZ1piRE5kS0FudHFpajRXU3Y3MUYtTVJabTFlcEljX3RaT1g3elN3RmFYUW5qVi1SckhZVnphdFRqNkhscnFLaC1pYjgyZDhUSnlYNDdGOERpWU5INmkwdUdpSVVONlBS?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-06-05T04:46:23+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1850,6 +2389,7 @@
   "35": {
    "news": [],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1881,21 +2421,10 @@
      "company": "Adyen",
      "asset": "Aktien",
      "status": "Watchlist"
-    },
-    {
-     "date": "2026-05-06",
-     "title": "Payments firm Adyen defies spending slowdown as revenue holds up",
-     "summary": "Payments firm Adyen defies spending slowdown as revenue holds up Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWhlYUxqMExqRmxxZThoTFlYSmhTWXduSU9TUkxtU2t2MXRLeEdpNjJNa09KdC04NlhsdW1QWV8zRVR5NDBTWEFYd2FiWnFXNFM2aFI0VmNUQjdrWGNPMGJwS3NVZFdZTF91TWEzTl9iYW9VaXpZUURyNHJkaHJDZHFrZWFZMlZLU2RuMHZPcnNHTUZPSDlHNzFVVzJJV0lEN0xJTzZkZVlQWUJubDRJd04zM3RTNldQZERtS0FsTQ?oc=5",
-     "category": "Earnings",
-     "companyId": 36,
-     "company": "Adyen",
-     "asset": "Aktien",
-     "status": "Watchlist"
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1919,6 +2448,7 @@
     }
    ],
    "events": [],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -1927,6 +2457,19 @@
   }
  },
  "news": [
+  {
+   "date": "2026-06-05",
+   "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
+   "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNXd2S3NxY0hKRlBmRENWakx2LW1fNEM4Tk1VcFRna1ZENkMta25FR2tTcGpfNzNuM1NTZ1h2SWFyMnloSWlQRUROS21oZ0RUMUowd1ZyTXVTeXlwVVc1c0VUM0RONVlZQUlRQ01sRmZxSkdMU3NBc3dlU0pyYTBvb0NodTZfV1A2T2JqT2lBX0dVLUFDTVJkU1RHNUlmNUxxaUhkdVc0X2RuN3ZwVjVjTFdfcXFLR3ZiMEJNbHdQUHlXTDdYVll3WnE0Z3VkUHFPdFFodi1jOVNfY2o4bE1QSGhnT25JcUN0NUxYbXVxSHVyTzlyX1pYeDN6ZW5jRE1kOU0wVVFWak5oZw?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
   {
    "date": "2026-06-04",
    "title": "Chapters Health System Named as a 2026 Top Workplace for Nursing",
@@ -1948,6 +2491,19 @@
    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPM2ZUb1dpLWZob1daX0dhVnhlOEE0MF9uWG1rbTVsT014bTUxMU9DRXlrU0hJMmhPV1cwTnAwRTdDclNEd29ZR1RNalg2V2tVWTM4VVBOcTl0bTZ0WXJlVkt4SHVOZlVYN092ckUwSThZY2JCX2dsZnZ1VG96MGlpRU1tX0d3WUUxNnFmVmpaT1piamEzTVl1eUI4OVlYdF9XeGhKVTFlRkpfQldGRDFyZWs5UnVMdVhsQS1CVUtmbUNEYUpuWVpBYXZaSlR1TmN2OWZFZ0V5REwzQ3Jib1Fod2o5ZDlRTl9wa05sMW92YnF1Wml5VFRaT0xqLUxpQm0zMFdHYzZQUWVjazc3SWRZSmlyUm9uWGdicUVZWDRWQ1N5dmdya1FDbmh5cWlVZw?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-06-05T04:46:23+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-04",
+   "title": "GPK INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Investors Have Opportunity to Lead Class Action Lawsuit!",
+   "summary": "GPK INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Investors Have Opportunity to Lead Class Action Lawsuit! ACCESS Newswire",
+   "source": "ACCESS Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa21jdGJOdk1HUF9WSkVwc0R2dk1DUXF6WUJrRDZndl9Qa0RxQU1rWDFDYlBWUDBURERCYVdQV3UyR2xBMndmNXZLcXlkMGw4Vl9ZeEtOMXc4ckx1VDBETmo0LWYtU2pkRGIwVFhVd0tfSXloRFNPOG1vWlM1ejJQanBmRWRsNFlTWDUzb2g4RnlMSk82azM4VmMxYnJmLXBNOVVJc3BMWG5Cb3BfSXIyQm5Oa2o4R2ZOQXc2Y2VFMThINW9xeTEtdkhvLWJCc19DY3l3UjFMUUE2cEppMmtpb3hKOA?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -1978,6 +2534,19 @@
    "company": "BAWAG",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-04",
+   "title": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis",
+   "summary": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-03",
@@ -2046,16 +2615,16 @@
   },
   {
    "date": "2026-06-03",
-   "title": "Snap Inc. Receives Credit Rating Upgrade from S&P Global Ratings",
-   "summary": "Snap Inc. Receives Credit Rating Upgrade from S&P Global Ratings Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkJ5bmhaYmotQWhRRWFwMDhtUjg4M05fMDFzci02OG83Nm9wc21vVldxNFVvSHZPNjViN0ZvX2ZhZXBfUy1vS0lGNDZGSFJwVTRfbGwwYkxNRW5CTmlSZi1EanhBUm1YVlp2b250NHFIX2tCeVFrTFdXOTliMVg1SkRtOWpqOEh1YTR6YmZfd3JSalhrR2hldER1RGJrZ3NtRmJacHVQNy0yN3FySGk5MGZ4b1l2Si03bk95dQ?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-06-04T07:40:25+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
+   "title": "Tencent Cloud Partners with UXSoft to Build Smarter Retail Operations for Hung Fook Tong, Hong Kong's Largest Herbal Product Retailer",
+   "summary": "Tencent Cloud Partners with UXSoft to Build Smarter Retail Operations for Hung Fook Tong, Hong Kong's Largest Herbal Product Retailer PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNR3UxZl9xelgtVDJYMGthSGZuMF91NnRCbFlfMTNXR0x0aDVvdjJ5Qk5FS2FiaWszb0g4WDMxVmNiNW9UOEs3b2o5SGZFVEUwUFE0dkZoYjR3cFhRYlE3TFVncEVVaHJSRXBPZUpaTlZua0h3cFZrZDl2YUMtTGhVQ0QwNk1lUV9vYVByM1laSWV3ZnBwTGIzNXhXYlZ6X09nUHFGaVdHODZqd0JweExKR1RfaDV0UnlHMjM1bGlidVlScVJpUFA5eWpHaE1uMFp4Z01keDlrb3FVZ085eHpGN0VPb0kzclY5ZHVzdWhPeXBkRzlqY0hiUG4zZHZUMzRyVkQzZGdQejEwdjFpWmVBeWNieXQybXRHTGtwSg?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 31,
+   "company": "Tencent",
    "asset": "Aktien",
-   "status": "Watchlist"
+   "status": "Portfolio"
   },
   {
    "date": "2026-06-02",
@@ -2085,19 +2654,6 @@
   },
   {
    "date": "2026-06-02",
-   "title": "GPK SHAREHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Shareholders with Losses Have Opportunity to Lead Class Action Lawsuit!",
-   "summary": "GPK SHAREHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Shareholders with Losses Have Opportunity to Lead Class Action Lawsuit! ACCESS Newswire",
-   "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWG5CSW4yMlY1S2E2UmVpYXVLcGJmQUVTdEg2TjJBcFFhMGhoa2xoNWhHNlJIQTRHbnFtd2ZJU3B5RWdhM1BPLWMtYWdoZ3lDaXJKTm9DODFuVkdpOFA1VFd1OGdlUjhYbUJWUk9rb0otbnVyTGZqMTd6US1kc1pNZUpoazdlRndHZG9lZzU5Z0ZtVWRmNHA3UmpMWElJa1M5ZlJKczJGU3ZGZ3lhUUlRRUdxLXE4cjRJNWJSaEtEWlE2Qzd1ZVFYbkFjdTBrUDJzM1dOcXROQ2swemh4b0NqNGR3WXk?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-04T07:40:25+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-02",
    "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
    "summary": "Microsoft teases new era of AI-driven devices at annual developer conference Reuters",
    "source": "Reuters",
@@ -2106,6 +2662,19 @@
    "firstSeen": "2026-06-03T09:21:56+00:00",
    "companyId": 20,
    "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
+   "title": "Vistry appoints Kate Rust as Commercial Director in East Anglia",
+   "summary": "Vistry appoints Kate Rust as Commercial Director in East Anglia Peterborough Telegraph",
+   "source": "Peterborough Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkhUVlNGQTVKOW1oRlQ1RFhxdmY4cHN1Y2Z6MkRNSjFjSVAxMFYwY29NNFc2NVZPenpCV1ZfcXg0UHpSMUkwdmk5OGg0U1JMTU5zTFF3dnF2ZkZCWXgxdnNheEZLRktLU2ptNkNycTZlVDc3UXBVSjZQX1dvV0RGakxrVjlxSkdVVmk0ek1SYm9KekNRNHZSenBmaHVaNF9QYzhQalhlQ0Vvc3JFcmdCQWF6aFpoX0lCanc?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 29,
+   "company": "Vistry",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -2189,25 +2758,25 @@
   },
   {
    "date": "2026-06-01",
-   "title": "Lead Plaintiff Deadlines in Shareholder Class Action Lawsuits Against Graphic Packaging Holding Company (GPK), Immutep Limited (IMMP), and Phreesia, Inc. (PHR) Announced by Holzer & Holzer, LLC",
-   "summary": "Lead Plaintiff Deadlines in Shareholder Class Action Lawsuits Against Graphic Packaging Holding Company (GPK), Immutep Limited (IMMP), and Phreesia, Inc. (PHR) Announced by Holzer & Holzer, LLC GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNTi0teVg4R3pPTEFNUHB0ZnNRMUk2djRlRHdVWWhoU2FEVnRvT0RybTFib0NBRVU3X3NsZzNldklsa2lHcXZDVUhNWEVkekYwc0NHcWJDVjB1d1psMlFzWXVSR2ZJWXVoaFgtcldkUlVodS1obnZGdV9Xd0lpWjRBMUlyUlZHRnNNMTRNQlFaMGFVZVVkZG85ZTJGTk12VEpFR292SHVYalJJSWlSWV9lc2dLTzZCdUI0aTBpQmRXd0JUNEQ4bVJrYlhiZW1zZUhYU2IxUm14TmQwb05UOWVDcUZmTGJTMk96RDVxOTRiT2JZYzBWeUZiUnVEbDNidzVacl9md1FRcmhPaWs2UEpBcXd0c3h0ZVdpT25RbUdtM25uS09McEV6ZWltejBjS25fQVBEV1pSai0xeThya1h0b3R6OVNiYWFXcklBNnphNnVuZjB5ank1a19ZRXF6V3lNdmJCbmMtSFRxYjdL?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-05T04:46:23+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-01",
    "title": "Tencent Cloud Recognized as a \"Challenger\" in Gartner® Magic Quadrant™ for CPaaS for the Fourth Consecutive Year",
    "summary": "Tencent Cloud Recognized as a \"Challenger\" in Gartner® Magic Quadrant™ for CPaaS for the Fourth Consecutive Year PR Newswire",
    "source": "PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUk5IZWpLekpNaFlNRlJMNW00YW1SeEI4d3Z1RnliTlVWZ1QzQ1dVWnJSYTRxWVQ0SlFGMi1LNm82Y2s2NzRUQVIzbFJreEhIWGsxSlc5MkdhcVhyeW9UbEUzdDJNbnozb21nSUZ5bTUzNi1PbnNicjZWSjdMRHZqSklrM2s4US1Gdmg2cU5uQ1RNMzFBZlhXbTBIN3owbjBtVEdtbzY3emc2LTh2QkFITTZUTTliMDltRnIzVzRnVURfU1RJY3hNa2xIQzlQcERiMXI2LU01WXJmYW5MN2hwbTFEOUN1MTM2R3FoTVVZV0dEbmhvUXlzMVREb2RRdw?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-06-03T09:21:56+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-31",
+   "title": "UBS Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
+   "summary": "UBS Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0lPNGFicUpVMU1mSjkwTDRFaFJVaGs4a3prZS1GTnR2dXJ2WlpZTnF4clJDMlZCUzhIZW1ON1k3R29hVHVWUTZsZkhza2wwMFQwUVJuMDR1eWtveHM5bkdLLXBLUjhUTHFhZ0lrRC1rRzhEQXY1V0VwRmJ0MGhuZExXa1VCdER0RFJRSENVQXU2VHFDeXhzbEpMWkprV0JoRXhZS1pzc0FDR2twLUtPTFZxeVR6b1hBTVN0S0ZBZi15S0FWMk5EeldMS3NhcEpCQ294Vm5OOURJZw?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
@@ -2223,19 +2792,6 @@
    "firstSeen": "2026-06-05T04:46:23+00:00",
    "companyId": 30,
    "company": "HCA Healthcare",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-29",
-   "title": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong",
-   "summary": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY2JIQmNHTkxjaUVWY3lNLXEyVW9jZ216Umplbk9ITVVUbkhXb2NtOXJPbno2Rlh1eExsVGFib3ZpQVczaXNDaEFxR3hkYmVSaWlXYzZ4eXNuNzNoUmVndUlSbF9uUUFUS1pMQ0lrRC03d1EwVWZ3dEVhdjN2TTByenA0REdWRFgyTHJ4Yk1IR3FpTWNRTE9vM0tUWlROWlhiR0t6SVVkMl95YTlQNG5oZWQ2bnhlNl9EYnA4NWFvVzlnSHZxLWh4YzhnWjBVZHhoNTN1Tk1qcHA1XzlhMXhTNW1aSTNTaDBlWVZkRTY3dXFseFBvWUdrbWdSd3k4bGk2Z240ZkMwTQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-05T06:42:23+00:00",
-   "companyId": 31,
-   "company": "Tencent",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -2363,19 +2919,6 @@
   },
   {
    "date": "2026-05-27",
-   "title": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\"",
-   "summary": "Tencent Cloud Named a Leader in Authoritative Sovereign Cloud Report, Recognized as a \"Customer Favorite\" PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRTB4WVRMTHlud05ycmdWMnFxOUVmYnJ6ckV0eUxHSllzTjdHZjNldlhQcHZZTVk1dGdDT2FkUGYyQ1VBRVlZWi1IMmUxVjBZemVtZER1OXRpTEE5T00tbkNmbHc1dUljelk0cnktWXdWQldfRjBQckdNajluZF9iWVlBeEFDdkJJWEt5YXUxd3UyWjN5RlFoWmtKMWFqajhMVTlCUThYc3k0MHZSYk1jVkhYZGhsbkNFZFdlR2xuaVpOQVBzWVFPMzVYRUxSLVhYWVhSUlMyM21YUlNWZVcwUnhFZVpLalZwTm4wUFdwMXYyYTBRZlE?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-05T06:42:23+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-27",
    "title": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts",
    "summary": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts WSJ",
    "source": "WSJ",
@@ -2425,12 +2968,13 @@
    "status": "Watchlist"
   },
   {
-   "date": "2026-05-26",
-   "title": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation",
-   "summary": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation PR Newswire",
+   "date": "2026-05-27",
+   "title": "S&P Global Ratings Wins CLO Rating Agency of the Year at GlobalCapital's U.S. Securitization Awards 2026",
+   "summary": "S&P Global Ratings Wins CLO Rating Agency of the Year at GlobalCapital's U.S. Securitization Awards 2026 PR Newswire",
    "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmtJM003cGFmZjkxQmdSYnVCQVZGVkwweXZ3SzYyYXdfakRWQUpMemNMdngwamZWQV9EVUNHNkhwYk5mRUMwWnVnbzVaZkRmSHdlNEI3SThPZS1EekpJYzdTRnNoZWdwUkQ5T3RZSGNjaTRGSmp2SFlkNFlpQTNjX1Q3TWVHX3ZsM0NBMjJPeXpXa3FUM09jdk9YQldSSExnMHlYUnVSbXZYQ1NtMGZtUU5HN0lmMWJFRGFQTWFhV0FheXJBcVJnczNmejRwWVFwbHJWSGZpeE13eXoySmVlN0xxcWdFQkRnWEcwb0NKd1VOWFhwY25DOGYtMXhnWVFobS00?oc=5",
-   "category": "Sonstiges",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVzhUOVRONHFvdUpBTW1qcnRQYVhJaDhIb0loTlo0ekQxS1VhTXRrMnowR1g1TTc5aERMeElBSWhpMnRCSENGR054djJIMGFwcTB0amRCdDNyelQyc1JaYjVXVXVBWURjclJVUF9HV2lISGZzRllNYW5LNnlFWTFyNk14aU9GZVBOVkdJOVZubTVLYnc3Z3RoeWlabnFlazJ2aThrQmtJX21zWXFDWDhZd2pzTVNCYkdqcl9XY3lNQU53SnVVaDNsd1ZoUkkyV1hrS3E0RjBzdEN4U2hSQzZWN0Q2c2pWRWMydmtwRQ?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
    "companyId": 34,
    "company": "S&P Global",
    "asset": "Aktien",
@@ -2438,12 +2982,11 @@
   },
   {
    "date": "2026-05-26",
-   "title": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake",
-   "summary": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzJNZ3d3SnpaUXBKWHNzWlJRY2twRm0wSXE5VHIwN2tSZjFvY2FRMzRqMHFXZ1piRE5kS0FudHFpajRXU3Y3MUYtTVJabTFlcEljX3RaT1g3elN3RmFYUW5qVi1SckhZVnphdFRqNkhscnFLaC1pYjgyZDhUSnlYNDdGOERpWU5INmkwdUdpSVVONlBS?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-06-05T04:46:23+00:00",
+   "title": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation",
+   "summary": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmtJM003cGFmZjkxQmdSYnVCQVZGVkwweXZ3SzYyYXdfakRWQUpMemNMdngwamZWQV9EVUNHNkhwYk5mRUMwWnVnbzVaZkRmSHdlNEI3SThPZS1EekpJYzdTRnNoZWdwUkQ5T3RZSGNjaTRGSmp2SFlkNFlpQTNjX1Q3TWVHX3ZsM0NBMjJPeXpXa3FUM09jdk9YQldSSExnMHlYUnVSbXZYQ1NtMGZtUU5HN0lmMWJFRGFQTWFhV0FheXJBcVJnczNmejRwWVFwbHJWSGZpeE13eXoySmVlN0xxcWdFQkRnWEcwb0NKd1VOWFhwY25DOGYtMXhnWVFobS00?oc=5",
+   "category": "Sonstiges",
    "companyId": 34,
    "company": "S&P Global",
    "asset": "Aktien",
@@ -2483,6 +3026,45 @@
    "category": "Sonstiges",
    "companyId": 2,
    "company": "Chapters",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "title": "Borr Drilling shareholders back board, auditor and fee cap at 2026 AGM",
+   "summary": "Borr Drilling shareholders back board, auditor and fee cap at 2026 AGM The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeW5OeEVaWk1lUFlQWkVMS0pVT09yNWk2Z2RZYzg1Y1d4MXpUVFVBeXFJajk3OEhqcWxGR3JEYTZLcXlDQ0FkSWx6TXZJSlpjdzZ6a00taHpJV19nTEVjcXh5c25ieWdlVXJHMkpiZkplVkRqYVI2akVYNEZfZjV1QXQ5ZUVZcXBrNWdHdG5uRDM3WGhwUld2OEcxTFNRckZ5M2VLeTlFcGYzeU5OMXpnMmF0UEJGTnN0cWJ0c0V1Y1VCR0N6U0F6a3FHTkxWb3NOUTB5eDZZM1liSDlrOUh6Q0V3SEdqalNXNV90Tw?oc=5",
+   "category": "Conference",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "title": "Borr Drilling Upgrades Oslo Listing to Main Euronext Oslo Børs Market",
+   "summary": "Borr Drilling Upgrades Oslo Listing to Main Euronext Oslo Børs Market The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVW9mdEdJV0VReThuS1pZMjFKWXpvdHVtRmQwVWJPWF9JdFo2LWl3SThzeWFuaUg2MGdweUpFQWZwZk16bFZWZVljWksyenZFb2hyWlpWT1R1R3JHcHpZOHJFMmNMQmRfdFdlb05oZGN6UTVDc2F6WUFZZU9iWDJ6cHVxMzBscThmbE01cmtURVVrdkZFcEJUQmlfRUpMTjE3TUR6dWMybFdMTnd6OVk0ZTB6VzROekRINGdsQkUtZUxHcHF5TUZ1YVRhT2pGTlhzbTlaZS1DQm1HcTdCc0xJbHlFWi1POGFzajl5bQ?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "title": "Borr Drilling Q1 Earnings Call Highlights",
+   "summary": "Borr Drilling Q1 Earnings Call Highlights The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZm1wUElRekZlcG9Bd2Z6OFMwZGF1UFF4MGpmQktTVlpzLTd3Z0VkSUhvV3ozMG44NkNwYy1pamZjWUxWYzlHdzRRQ1FWY2pKeUdNN2RhRXVfek9aOHcwSF9zclUzSEx3Ukd4UWxPaDdXZ3pXUDFhNUxFejV1T3pPdVI0djNKaXNZRi1CaHJUTDZ1ZHVLOTJudy1IUFRwWXMyLS1Gc2lpVHRPdHlobE93RVdSb1RyRHhGbGdENXlacDVqVUJo?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 4,
+   "company": "Borr",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
@@ -2587,18 +3169,6 @@
   },
   {
    "date": "2026-05-20",
-   "title": "Prosus Steps Up Share Buybacks Under Ongoing Repurchase Programme",
-   "summary": "Prosus Steps Up Share Buybacks Under Ongoing Repurchase Programme The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHl0QVBPaTRmM2RTdDN1MksxbUthSU12V01GSjhnNHNFdHk4Sk40VnlKYjBmZ1dTYmN1cXdMaVdIdmUwRm9wUUJuNUktX2ZlV0h5LWNIakRRb2Z3cTZuOFVBSEdocldGRTRGUzNGNmZwX0FZOHo3Q3BGcFI2Ujc3RThHd0diVWZsazJmV2N1dmF1WU1URXBGUnA0R1BnZkxWNHl3ajI1TG45ZEE5Y3l4UjZQSTJUemlHaS1PR1QzSmwwcmZvT0pZQWxfVEdmZ3E1U3FENTNIQnZCU0VocGhma2VNbnZBdw?oc=5",
-   "category": "Markt",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-20",
    "title": "XPO Shareholders Reaffirm Board, Auditor and Pay Policies",
    "summary": "XPO Shareholders Reaffirm Board, Auditor and Pay Policies The Globe and Mail",
    "source": "The Globe and Mail",
@@ -2624,6 +3194,19 @@
   },
   {
    "date": "2026-05-19",
+   "title": "Trailer: Das Meta-Imperium – Aufstieg und Wandel des Mark Zuckerberg",
+   "summary": "Trailer: Das Meta-Imperium – Aufstieg und Wandel des Mark Zuckerberg ZDF Presseportal",
+   "source": "ZDF Presseportal",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlNhVHowcnZCMl8xOGtVOWh1Vk9VRGVPZG5lSXMtTTRhRzBIaTIxeHp3YXRpQ1FGdEJVZy10U0V5d2F3Zkg3bjg3QWR1MmhzdzhNdmVlak5fbnUyRjRoRU1PMld4UGZfck5ITVJsNlNNUzVzdFZTbTJPSEhJN3FIcWwxSlk3blNrT1U5VXhjTlV3eGh3NkZoMmdWSHhjQk1IOC1z?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-19",
    "title": "HCA Healthcare Colleagues Volunteer More Than 41,800 Hours During Annual Days of Service Initiative",
    "summary": "HCA Healthcare Colleagues Volunteer More Than 41,800 Hours During Annual Days of Service Initiative Business Wire",
    "source": "Business Wire",
@@ -2632,6 +3215,19 @@
    "companyId": 30,
    "company": "HCA Healthcare",
    "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-18",
+   "title": "Borr Drilling (BORR) Q1 Earnings Report Preview: What To Look For",
+   "summary": "Borr Drilling (BORR) Q1 Earnings Report Preview: What To Look For The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcjMyQ2RoLUxXaklPN2NfRUlsdjNEVUpHTlVfZV9HN0lMTUNFQUFUVUZ0ajlPWW1VZHE5ZFBlZ2dlRm12QklQOU9RdklCNm0wc3o5c3NqT21rT3gxZVM2dTE2YXlmbkxxVnZJOEZONjEtSl9NbloxbDRBSURpZG9jRkdwUTFOYi05Y0lfbnphSjh5N2hDbGdNOVh0ZTd5Wk1qcVFYMHVZNGNmWHRCLUFkb2habkpCRHNXY3FPSWw3eHV6dzRHVGhPWE9WYVFBeTgxZkZCQ09QZmx6X2tuNmRYag?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -2846,19 +3442,6 @@
   },
   {
    "date": "2026-05-12",
-   "title": "Exclusive: Meta employees launch protest against mouse-tracking tech at US offices",
-   "summary": "Exclusive: Meta employees launch protest against mouse-tracking tech at US offices Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONEE4SmlFR2VJQ1h0c2lOcDhTUGJ5eTB5NkZZV19GMkdyMGlhczFGZEZxYXhvVTlZMzJtdzFMN0VaZnRwdmJCWFY0UFpUNUtsbTl2ekVBYm8yTHluYWhKMkx0X3JPYXhSZ2hGbEtRcEZCWU9Wb0NheEtFZ2NBYzBkeHVueV9CaDlHaTBGU0RCZER4WmU2OURqbWVMV3dYOXI1Z3RGQkdxSENPak5ROWpJZ0pjVnBOUXZINVRudWcxUmZKX3VlTVB3?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-06-05T04:46:23+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-12",
    "title": "goeasy Ltd. Reports Results for the First Quarter 2026",
    "summary": "goeasy Ltd. Reports Results for the First Quarter 2026 PR Newswire Canada",
    "source": "PR Newswire Canada",
@@ -2867,6 +3450,19 @@
    "companyId": 33,
    "company": "goeasy",
    "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-11",
+   "title": "Delivery Hero Shares Jump After Prosus Agrees to Sell Stake for $395 Million",
+   "summary": "Delivery Hero Shares Jump After Prosus Agrees to Sell Stake for $395 Million WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0huVndVUkJsUy0zdUpDeEJlalc1SXZ5emtkVjkzWUNObDd0dVE1aG1EeVRVUGpvR3kzRDJGWWllRkIzcXNJWHdkQUNhQ0NfZHhJYlZ5akxzUzdRYlI4dTBxMUZYZEJkbV9CN2U5Q0pPTzlPR2tXU3dKYVJsdnJzZjdwTEF0RW1mRWM4YndNWTQ4dTdXTnJ5OGMwcUVrZ3cwbkMwT3FFdXVIVTFBaUJJOFZQblBDcnV4YkRmdjBPYVVBcXZq?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -2970,6 +3566,19 @@
   },
   {
    "date": "2026-05-07",
+   "title": "5 Revealing Analyst Questions From XPO’s Q1 Earnings Call",
+   "summary": "5 Revealing Analyst Questions From XPO’s Q1 Earnings Call The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNazUwRmtnMXZYRFZZcnhPbUYydTJIZEF1b1pGc2V2cURqTHpSRlRNYjI2cmxGb2JiRGs1Ukc2eVBUbTRnWFdaN2tJRW41RmlLV0g4ZGI2Z21XMTJmcElxempxc3d2U2VoNks3TlVGMld3RWNkRDZ3ZmVtMENXMkQ5NHJkcnJuUzNUQ0pJcURFaFVEVkNrdEZzeUpucjNkbHdqTnVFbTVPVlNELUVOVmlOV2NxeHRvX1FnaUczQXpkZGJkWVFnWlRNdmY1MnZESERMei1lcGlITQ?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-05T12:36:11+00:00",
+   "companyId": 10,
+   "company": "XPO",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-07",
    "title": "Post Holdings Announces Executive Transition",
    "summary": "Post Holdings Announces Executive Transition PR Newswire",
    "source": "PR Newswire",
@@ -3005,45 +3614,601 @@
    "company": "Tronox",
    "asset": "Anleihen",
    "status": "Watchlist"
-  },
+  }
+ ],
+ "events": [],
+ "insider": [
   {
-   "date": "2026-05-06",
-   "title": "International Petroleum Corporation Announces 2026 Annual General Meeting Voting Results",
-   "summary": "International Petroleum Corporation Announces 2026 Annual General Meeting Voting Results GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcUhwalRVeFBOTUtlZG9LMl9Yay0zYTc5dk94WE45TlpvMzF1RzctNTBqMXM5WlZPcFJ5NEpBMHpNUjI3amZUZWsxaDFtUTIzbU5yZF9BWlhDQUZ0U2p6MlpCRXJjSnAyXzdTblNFRGJrV2lJT01PSGVmbDRsNTNxSG1lY2l3UnpBN2g4cEhnOTA4RDEwTTFkUlFQQkR3cWY2YU9ta2tiMDhzM1FVR1JxU3pyTVdwdW9EX2J1R2JxM2xVRXpEYkU3clctc1lRWEJjMVRXNnNCOFo4TU43eUdWdjk4TXo3dEdLNlczRnpzMXViQQ?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-04T07:40:25+00:00",
-   "companyId": 3,
-   "company": "International Petroleum",
-   "asset": "Anleihen",
+   "date": "2026-06-01",
+   "insider": "Herrington Douglas J",
+   "role": "CEO Worldwide Amazon Stores",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 1000,
+   "price": 266.19,
+   "value": 266190,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000018/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-06",
-   "title": "XPO Recognized as a 2026 VETS Indexes 4 Star Employer for the Fourth Consecutive Year",
-   "summary": "XPO Recognized as a 2026 VETS Indexes 4 Star Employer for the Fourth Consecutive Year GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcDJxOUVzaUFvN1MxVWlaYzJ0c3MtVkJSVWJsWVViYzhNd2pxQm56Ym1fQ3FycVJJcVZyNE9tRkU0VEw1eTQ2ZWtJblM3cHlDYnduV0s2bHhEZGZMeWZWTHRHbDZVTkV5UnlCSkF6UktpclhBNDE1THFYWlVNVzhVZDZtcDV4ZjlabTFwRG1VeTk0bEVackNlUGRGZmpOaE9Qc1B5cnhnNm95TTBkSW5reGk2ZU9YSGpCQTRYOE5tTFhXejNod1pZYUdkemxNc3E3YTNuTFVkckJNbGFFYTFBaU1VYUNWZnFnMURuN2ZR?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-05T06:42:23+00:00",
+   "date": "2026-06-01",
+   "insider": "Althoff Judson",
+   "role": "CEO Microsoft Commercial",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 15500,
+   "price": 460.99,
+   "value": 7145314,
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000083/",
+   "source": "SEC",
+   "companyId": 20,
+   "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-28",
+   "insider": "Landry Allison",
+   "role": "Director",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 2400,
+   "price": 215.61,
+   "value": 517471,
+   "url": "https://www.sec.gov/Archives/edgar/data/1166003/000116600326000066/",
+   "source": "SEC",
    "companyId": 10,
    "company": "XPO",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-06",
-   "title": "Payments firm Adyen defies spending slowdown as revenue holds up",
-   "summary": "Payments firm Adyen defies spending slowdown as revenue holds up Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWhlYUxqMExqRmxxZThoTFlYSmhTWXduSU9TUkxtU2t2MXRLeEdpNjJNa09KdC04NlhsdW1QWV8zRVR5NDBTWEFYd2FiWnFXNFM2aFI0VmNUQjdrWGNPMGJwS3NVZFdZTF91TWEzTl9iYW9VaXpZUURyNHJkaHJDZHFrZWFZMlZLU2RuMHZPcnNHTUZPSDlHNzFVVzJJV0lEN0xJTzZkZVlQWUJubDRJd04zM3RTNldQZERtS0FsTQ?oc=5",
-   "category": "Earnings",
-   "companyId": 36,
-   "company": "Adyen",
+   "date": "2026-05-22",
+   "insider": "Zapolsky David",
+   "role": "Senior Vice President",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 9270,
+   "price": 268.53,
+   "value": 2489273,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000155797926000006/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
    "asset": "Aktien",
-   "status": "Watchlist"
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Jassy Andrew R",
+   "role": "President and CEO",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 5206,
+   "price": 261.95,
+   "value": 1363726,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Jassy Andrew R",
+   "role": "President and CEO",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 5227,
+   "price": 263.1,
+   "value": 1375238,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Jassy Andrew R",
+   "role": "President and CEO",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 5667,
+   "price": 263.95,
+   "value": 1495784,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Jassy Andrew R",
+   "role": "President and CEO",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 3600,
+   "price": 264.97,
+   "value": 953908,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Jassy Andrew R",
+   "role": "President and CEO",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 300,
+   "price": 265.61,
+   "value": 79684,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Garman Matthew S",
+   "role": "CEO Amazon Web Services",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 4257,
+   "price": 261.93,
+   "value": 1115027,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Garman Matthew S",
+   "role": "CEO Amazon Web Services",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 4554,
+   "price": 263.18,
+   "value": 1198522,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Garman Matthew S",
+   "role": "CEO Amazon Web Services",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 3689,
+   "price": 264.03,
+   "value": 974009,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Garman Matthew S",
+   "role": "CEO Amazon Web Services",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 2534,
+   "price": 264.95,
+   "value": 671374,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Garman Matthew S",
+   "role": "CEO Amazon Web Services",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 433,
+   "price": 265.64,
+   "value": 115022,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000008/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Herrington Douglas J",
+   "role": "CEO Worldwide Amazon Stores",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 4200,
+   "price": 261.88,
+   "value": 1099888,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000020/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Herrington Douglas J",
+   "role": "CEO Worldwide Amazon Stores",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 1370,
+   "price": 263.12,
+   "value": 360468,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000020/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "insider": "Herrington Douglas J",
+   "role": "CEO Worldwide Amazon Stores",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 800,
+   "price": 263.85,
+   "value": 211083,
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000020/",
+   "source": "SEC",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-20",
+   "insider": "Stafeil Jeffrey",
+   "role": "Director",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 16261,
+   "price": null,
+   "value": null,
+   "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526234664/",
+   "source": "SEC",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-15",
+   "insider": "HEARTY JAMES O",
+   "role": "Chief Compliance Officer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 15000,
+   "price": 193.98,
+   "value": 2909745,
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000069/",
+   "source": "SEC",
+   "companyId": 13,
+   "company": "Da Vita",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-14",
+   "insider": "Coleman Amy",
+   "role": "EVP, Chief Human Resources Off",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 1262,
+   "price": 411.34,
+   "value": 519241,
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000075/",
+   "source": "SEC",
+   "companyId": 20,
+   "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-13",
+   "insider": "CURL GREGORY L",
+   "role": "Director",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 6186,
+   "price": 105.05,
+   "value": 649839,
+   "url": "https://www.sec.gov/Archives/edgar/data/1530950/000125718626000016/",
+   "source": "SEC",
+   "companyId": 12,
+   "company": "Post Holdings",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-12",
+   "insider": "Maughan David Paul",
+   "role": "Chief Operating Officer, DKC",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 13456,
+   "price": 199.25,
+   "value": 2681161,
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000067/",
+   "source": "SEC",
+   "companyId": 13,
+   "company": "Da Vita",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-11",
+   "insider": "Maughan David Paul",
+   "role": "Chief Operating Officer, DKC",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 7073,
+   "price": 199.15,
+   "value": 1408580,
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000067/",
+   "source": "SEC",
+   "companyId": 13,
+   "company": "Da Vita",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-08",
+   "insider": "HAGEMANN ROBERT",
+   "role": "Director",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 14000,
+   "price": 11.0,
+   "value": 153991,
+   "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526216732/",
+   "source": "SEC",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-07",
+   "insider": "Stafeil Jeffrey",
+   "role": "Director",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 17878,
+   "price": 11.19,
+   "value": 200000,
+   "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526216815/",
+   "source": "SEC",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-07",
+   "insider": "ACKERMAN JOEL",
+   "role": "CFO and Treasurer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 51471,
+   "price": 192.1,
+   "value": 9887527,
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000065/",
+   "source": "SEC",
+   "companyId": 13,
+   "company": "Da Vita",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-06",
+   "insider": "HEARTY JAMES O",
+   "role": "Chief Compliance Officer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 2184,
+   "price": 174.87,
+   "value": 381916,
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000064/",
+   "source": "SEC",
+   "companyId": 13,
+   "company": "Da Vita",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-01",
+   "insider": "BERKSHIRE HATHAWAY INC",
+   "role": "10%-Eigner",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 1220376,
+   "price": 149.84,
+   "value": 182864678,
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000119312526207021/",
+   "source": "SEC",
+   "companyId": 13,
+   "company": "Da Vita",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-04-29",
+   "insider": "Anas Abuzaakouk",
+   "role": "Chief Executive Officer",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 21,
+   "price": 147.4,
+   "value": 3095,
+   "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+   "source": "Wiener Börse",
+   "companyId": 16,
+   "company": "BAWAG",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-04-29",
+   "insider": "Anas Abuzaakouk",
+   "role": "Chief Executive Officer",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 8068,
+   "price": 147.5,
+   "value": 1190030,
+   "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+   "source": "Wiener Börse",
+   "companyId": 16,
+   "company": "BAWAG",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-04-22",
+   "insider": "Anas Abuzaakouk",
+   "role": "Chief Executive Officer",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 5000,
+   "price": 150.9,
+   "value": 754500,
+   "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+   "source": "Wiener Börse",
+   "companyId": 16,
+   "company": "BAWAG",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-04-21",
+   "insider": "Anas Abuzaakouk",
+   "role": "Chief Executive Officer",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 10000,
+   "price": 149.0,
+   "value": 1490000,
+   "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+   "source": "Wiener Börse",
+   "companyId": 16,
+   "company": "BAWAG",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-04-21",
+   "insider": "Anas Abuzaakouk",
+   "role": "Chief Executive Officer",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 10000,
+   "price": 148.0,
+   "value": 1480000,
+   "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+   "source": "Wiener Börse",
+   "companyId": 16,
+   "company": "BAWAG",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-04-21",
+   "insider": "Anas Abuzaakouk",
+   "role": "Chief Executive Officer",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 5000,
+   "price": 149.85,
+   "value": 749250,
+   "url": "https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/directors-dealings-2026.pdf",
+   "source": "Wiener Börse",
+   "companyId": 16,
+   "company": "BAWAG",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-04-16",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 500000,
+   "price": 5.58,
+   "value": 2790900,
+   "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026025616/",
+   "source": "SEC",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-03-24",
+   "insider": "Currie Jeffrey",
+   "role": "Director",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 250000,
+   "price": 5.31,
+   "value": 1327500,
+   "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026021241/",
+   "source": "SEC",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-03-24",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "code": "P",
+   "kind": "Kauf",
+   "shares": 500000,
+   "price": 5.2,
+   "value": 2597900,
+   "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026021237/",
+   "source": "SEC",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
   }
- ],
- "events": []
+ ]
 }
