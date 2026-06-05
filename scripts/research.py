@@ -23,6 +23,7 @@ import math
 import datetime as dt
 import html as html_mod
 import re
+import threading
 from xml.etree import ElementTree as ET
 from urllib import request, parse, error
 
@@ -187,8 +188,15 @@ def _topical(title, summary, source):
     return any(k in hay for k in FINANCE_KEYWORDS)
 
 
+INSIDER_HEADLINE = ("pdmr", "director/pdmr", "directors’ dealings", "directors' dealings",
+                    "managers’ transactions", "managers' transactions", "manager's transaction",
+                    "persons discharging managerial", "directors dealings")
+
+
 def _categorize(title, summary, source):
     hay = (title + " " + summary).lower()
+    if any(k in hay for k in INSIDER_HEADLINE):
+        return "Insider"
     groups = [
         ("Earnings", ("earnings", "results", "ergebnis", "quartal", "halbjahr", "half-year",
                       "full-year", "jahreszahlen", "umsatz", "revenue", "profit", "gewinn",
@@ -343,6 +351,205 @@ def get_ir_events(url, name):
     return out[:8]
 
 
+# ----------------------------- Insider-Transaktionen (SEC EDGAR, US-Titel) -----------------------------
+SEC_UA = os.environ.get("SEC_USER_AGENT", "research-dashboard insider-monitor example@example.com")
+_SEC_MAP = None
+_SEC_LOCK = threading.Lock()
+
+
+def _sec_get(url):
+    try:
+        req = request.Request(url, headers={"User-Agent": SEC_UA})
+        with request.urlopen(req, timeout=15) as resp:
+            return resp.read().decode("utf-8", "replace")
+    except Exception as e:
+        print(f"   SEC-Fehler ({url.rsplit('/', 1)[-1]}): {e}")
+        return None
+
+
+def _sec_cik(symbol):
+    """Ticker -> CIK (nur US-Ticker ohne Boersen-Suffix). None, wenn kein SEC-Filer."""
+    global _SEC_MAP
+    if not symbol or "." in symbol:
+        return None
+    if _SEC_MAP is None:
+        with _SEC_LOCK:
+            if _SEC_MAP is None:
+                raw = _sec_get("https://www.sec.gov/files/company_tickers.json")
+                m = {}
+                if raw:
+                    try:
+                        for v in json.loads(raw).values():
+                            m[v["ticker"].upper()] = str(v["cik_str"]).zfill(10)
+                    except Exception:
+                        pass
+                _SEC_MAP = m
+    return _SEC_MAP.get(symbol.upper())
+
+
+def _parse_form4(xml, cik_plain, accnd):
+    try:
+        root = ET.fromstring(xml)
+    except Exception:
+        return []
+    name = (root.findtext(".//reportingOwner/reportingOwnerId/rptOwnerName") or "").strip()
+    isDir = (root.findtext(".//reportingOwnerRelationship/isDirector") or "0").strip().lower()
+    isTen = (root.findtext(".//reportingOwnerRelationship/isTenPercentOwner") or "0").strip().lower()
+    title = (root.findtext(".//reportingOwnerRelationship/officerTitle") or "").strip()
+    role = title or ("Director" if isDir in ("1", "true") else "") \
+        or ("10%-Eigner" if isTen in ("1", "true") else "") or "Insider"
+    folder = f"https://www.sec.gov/Archives/edgar/data/{cik_plain}/{accnd}/"
+
+    def val(p, tag):
+        e = p.find(tag)
+        if e is None:
+            return ""
+        v = e.find("value")
+        return ((v.text if v is not None else e.text) or "").strip()
+
+    res = []
+    for t in root.findall(".//nonDerivativeTransaction"):
+        code = val(t, "transactionCoding/transactionCode")
+        if code not in ("P", "S"):          # nur Open-Market Kauf (P) / Verkauf (S)
+            continue
+        try:
+            sh = float(val(t, "transactionAmounts/transactionShares") or 0)
+            pr = float(val(t, "transactionAmounts/transactionPricePerShare") or 0)
+        except ValueError:
+            sh, pr = 0.0, 0.0
+        res.append({
+            "date": val(t, "transactionDate")[:10], "insider": name, "role": role,
+            "code": code, "kind": "Kauf" if code == "P" else "Verkauf",
+            "shares": int(sh), "price": round(pr, 2) if pr else None,
+            "value": int(sh * pr) if sh and pr else None, "url": folder, "source": "SEC",
+        })
+    return res
+
+
+def get_insider_tx(symbol, lookback_days=75, max_filings=15):
+    """Juengste Open-Market-Insidertransaktionen aus SEC-Form-4-Filings (nur US-Titel)."""
+    cik = _sec_cik(symbol)
+    if not cik:
+        return []
+    sub = _sec_get(f"https://data.sec.gov/submissions/CIK{cik}.json")
+    if not sub:
+        return []
+    try:
+        rec = json.loads(sub)["filings"]["recent"]
+    except Exception:
+        return []
+    cik_plain = str(int(cik))
+    cutoff = (TODAY - dt.timedelta(days=lookback_days)).isoformat()
+    forms = rec.get("form", []); dates = rec.get("filingDate", [])
+    accs = rec.get("accessionNumber", []); docs = rec.get("primaryDocument", [])
+    out = []; count = 0
+    for i, f in enumerate(forms):
+        if dates[i] < cutoff:               # "recent" ist neueste zuerst
+            break
+        if f != "4":
+            continue
+        if count >= max_filings:
+            break
+        count += 1
+        doc = re.sub(r"^xsl[^/]*/", "", docs[i])     # XSL-Render-Prefix entfernen -> Roh-XML
+        if not doc.lower().endswith(".xml"):
+            continue
+        accnd = accs[i].replace("-", "")
+        xml = _sec_get(f"https://www.sec.gov/Archives/edgar/data/{cik_plain}/{accnd}/{doc}")
+        if xml:
+            out.extend(_parse_form4(xml, cik_plain, accnd))
+        time.sleep(0.12)                     # EDGAR hoeflich behandeln
+    out.sort(key=lambda o: o["date"], reverse=True)
+    return out[:15]
+
+
+# ----------------------------- Insider-Transaktionen (Wiener Boerse PDF, AT-Titel) -----------------------------
+_AT_TEXT = None
+_AT_LOCK = threading.Lock()
+_AT_ROLE_HINTS = ("Chief Executive Officer", "Chief Financial Officer", "Mitglied des Vorstands",
+                  "Vorsitzender des Vorstands", "Vorstand", "Aufsichtsrat", "Director",
+                  "CEO", "CFO", "President")
+
+
+def _at_pdf_text():
+    """Laedt das jaehrliche 'Directors' Dealings'-PDF der Wiener Boerse einmal pro Lauf."""
+    global _AT_TEXT
+    if _AT_TEXT is None:
+        with _AT_LOCK:
+            if _AT_TEXT is None:
+                _AT_TEXT = ""
+                url = ("https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/"
+                       f"directors-dealings-{TODAY.year}.pdf")
+                try:
+                    from pypdf import PdfReader
+                    import io
+                    req = request.Request(url, headers={"User-Agent": "Mozilla/5.0 research-dashboard"})
+                    with request.urlopen(req, timeout=30) as resp:
+                        raw = resp.read()
+                    reader = PdfReader(io.BytesIO(raw))
+                    _AT_TEXT = "\n".join((p.extract_text() or "") for p in reader.pages)
+                except Exception as e:
+                    print(f"   Wiener-Boerse-PDF-Fehler: {e}")
+                    _AT_TEXT = ""
+    return _AT_TEXT
+
+
+def get_austria_insider(isin, lookback_days=150):
+    """Open-Market-Insidertransaktionen (Kauf/Verkauf) aus dem Wiener-Boerse-PDF fuer EINE ISIN."""
+    text = _at_pdf_text()
+    if not text or not isin:
+        return []
+    cutoff = TODAY - dt.timedelta(days=lookback_days)
+    out = []
+    for line in text.splitlines():
+        if isin not in line:
+            continue
+        right = line.split(isin, 1)[1]
+        m = re.search(r"(\d{2}\.\d{2}\.\d{4})", right)
+        if not m:
+            continue
+        place = right[m.end():].strip()
+        if "Außerhalb" in place or "Ausserhalb" in place:   # nur On-Market
+            continue
+        pre = right[:m.start()]
+        kind = "Kauf" if re.search(r"Erwerb|Kauf", pre) else ("Verkauf" if re.search(r"Veräußerung|Verkauf", pre) else None)
+        if not kind:
+            continue
+        pm = re.search(r"(\d{1,3}(?:\.\d{3})*,\d+)", pre)        # Preis (europ. Format)
+        if not pm:
+            continue
+        try:
+            price = float(pm.group(1).replace(".", "").replace(",", "."))
+        except ValueError:
+            continue
+        if price <= 0:
+            continue
+        rest = pre[pm.end():]
+        vm = re.search(r"((?:\d[\d\s]*)?\d)", rest.replace("EUR", " "))   # Volumen (Leerz. als Tausender)
+        try:
+            shares = int(vm.group(1).replace(" ", "")) if vm else 0
+        except ValueError:
+            shares = 0
+        try:
+            d = dt.date(*[int(x) for x in reversed(m.group(1).split("."))])
+        except Exception:
+            continue
+        if d < cutoff:
+            continue
+        left = line.split(isin, 1)[0].strip()
+        role = next((h for h in _AT_ROLE_HINTS if h in left), "Insider")
+        parts = left.split(role) if role in left else [left]
+        name = (parts[0].strip() or (parts[1].strip() if len(parts) > 1 else "")) or " ".join(left.split()[:2])
+        out.append({"date": d.isoformat(), "insider": name or "—", "role": role,
+                    "code": "P" if kind == "Kauf" else "S", "kind": kind,
+                    "shares": shares, "price": round(price, 2),
+                    "value": int(shares * price) if shares else None,
+                    "url": ("https://www.wienerborse.at/uploads/u/cms/files/marktdaten/statistiken/"
+                            f"directors-dealings-{TODAY.year}.pdf"), "source": "Wiener Börse"})
+    out.sort(key=lambda o: o["date"], reverse=True)
+    return out[:15]
+
+
 # ----------------------------- Technische Analyse -----------------------------
 def sma(a, n):
     return sum(a[-n:]) / n if len(a) >= n else None
@@ -453,8 +660,9 @@ def summarize_news(name, news):
         for i, n in enumerate(news):
             if i < len(arr):
                 n["summary"] = arr[i].get("summary", n["summary"])[:300]
-                cat = arr[i].get("category", "Sonstiges")
-                n["category"] = cat if cat in valid else n["category"]
+                if n.get("category") != "Insider":      # Insider-Klassifizierung nicht ueberschreiben
+                    cat = arr[i].get("category", "Sonstiges")
+                    n["category"] = cat if cat in valid else n["category"]
     except Exception as e:
         print(f"   Summary-Fallback ({name}): {e}")
         for n in news:
@@ -473,7 +681,7 @@ def process_company(c, prev_entry=None, run_stamp=None):
     Inkrementell: bereits bekannte News werden 1:1 uebernommen (keine erneute KI-Summary);
     nur WIRKLICH NEUE Meldungen gehen an Claude und werden mit firstSeen=run_stamp markiert."""
     cid, name, sym = c["id"], c["name"], c.get("symbol")
-    entry = {"news": [], "events": [], "tech": None,
+    entry = {"news": [], "events": [], "insider": [], "tech": None,
              "profile": (prev_entry or {}).get("profile", {"businessModel": "", "differentiation": ""})}
 
     # Bekannte News aus dem letzten Snapshot indizieren
@@ -504,13 +712,20 @@ def process_company(c, prev_entry=None, run_stamp=None):
         if prices and not c.get("noChart"):
             entry["tech"] = compute_ta(prices["closes"], get_currency(sym))
 
+    # Insider-Transaktionen — Open-Market Kauf/Verkauf
+    if c.get("atInsiderIsin"):
+        entry["insider"] = get_austria_insider(c["atInsiderIsin"])   # Wiener Boerse (AT-Titel)
+    elif sym:
+        entry["insider"] = get_insider_tx(sym)                       # SEC EDGAR (US-Titel)
+
     # Events direkt von der IR-Seite (via Claude)
     for e in get_ir_events(c.get("irCalendarUrl"), name):
         e.update({"companyId": cid, "company": name})
         entry["events"].append(e)
 
     print(f"   fertig: {name} — {len(alln)} News ({len(fresh)} neu), "
-          f"{len(entry['events'])} Events, {'Kurs' if entry['tech'] else 'kein Kurs'}")
+          f"{len(entry['events'])} Events, {len(entry['insider'])} Insider-Tx, "
+          f"{'Kurs' if entry['tech'] else 'kein Kurs'}")
     return cid, entry
 
 
@@ -531,7 +746,7 @@ def main():
         prev = {}
 
     run_stamp = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
-    snapshot = {"generatedAt": run_stamp, "companies": {}, "news": [], "events": []}
+    snapshot = {"generatedAt": run_stamp, "companies": {}, "news": [], "events": [], "insider": []}
 
     from concurrent.futures import ThreadPoolExecutor
     print(f"Verarbeite {len(companies)} Titel parallel (inkrementell) …")
@@ -544,10 +759,15 @@ def main():
         snapshot["companies"][str(cid)] = entry
         snapshot["news"].extend(entry["news"])
         snapshot["events"].extend(entry["events"])
+        comp = next((c for c in companies if c["id"] == cid), {})
+        for tx in entry.get("insider", []):
+            snapshot["insider"].append({**tx, "companyId": cid, "company": comp.get("name", ""),
+                                        "asset": comp.get("asset", ""), "status": comp.get("status", "")})
         new_count += sum(1 for n in entry["news"] if n.get("firstSeen") == run_stamp)
 
     snapshot["news"].sort(key=lambda n: n.get("date", ""), reverse=True)
     snapshot["events"].sort(key=lambda e: e.get("date", ""))
+    snapshot["insider"].sort(key=lambda x: x.get("date", ""), reverse=True)
 
     os.makedirs(os.path.dirname(OUT_FILE), exist_ok=True)
     with open(OUT_FILE, "w", encoding="utf-8") as f:
