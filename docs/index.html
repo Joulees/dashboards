@@ -25,7 +25,7 @@ const { useState, useEffect, useMemo, useCallback, useRef } = React;
    Lokale Bearbeitungen liegen im localStorage und ueberschreiben companies.json. */
 const LS_UNIVERSE = "rd-universe-override-v1";
 
-const CAT_COLORS = { Earnings:"#2C6E6A", Conference:"#3A5BA0", Guidance:"#9C6B1E", "M&A":"#7A3E8E", Rating:"#9A3B2C", Markt:"#4A6741", Sonstiges:"#46546A" };
+const CAT_COLORS = { Earnings:"#2C6E6A", Conference:"#3A5BA0", Guidance:"#9C6B1E", "M&A":"#7A3E8E", Rating:"#9A3B2C", Markt:"#4A6741", Insider:"#7A3E8E", Sonstiges:"#46546A" };
 const EVENT_COLORS = { Earnings:"#2C6E6A", Conference:"#3A5BA0", Hauptversammlung:"#7A3E8E", "Capital Markets Day":"#9C6B1E", Sonstiges:"#46546A" };
 
 const todayISO = () => new Date().toISOString().slice(0,10);
@@ -131,6 +131,7 @@ function App(){
           <button className={page==="markets"?"on":""} onClick={()=>setPage("markets")}>Märkte</button>
           <button className={page==="company"?"on":""} onClick={()=>setPage("company")}>Unternehmen</button>
           <button className={page==="tech"?"on":""} onClick={()=>setPage("tech")}>Technik</button>
+          <button className={page==="insider"?"on":""} onClick={()=>setPage("insider")}>Insider</button>
           <button className={page==="settings"?"on":""} onClick={()=>setPage("settings")}>⚙ Einstellungen</button>
         </nav>
       </div></div>
@@ -141,6 +142,7 @@ function App(){
         {page==="markets" && <MarketsPage universe={universe} onOpen={openCompany}/>}
         {page==="company" && <CompanyDetail {...{universe,selId,setSelId,snap}}/>}
         {page==="tech" && <TechPage universe={universe} snap={snap} onOpen={openCompany}/>}
+        {page==="insider" && <InsiderPage {...{snap,universe,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,companyById,openCompany}}/>}
         {page==="settings" && <SettingsPage universe={universe} saveUniverse={saveUniverse} reload={loadAll}/>}
       </div>
 
@@ -345,6 +347,15 @@ function CompanyDetail({universe,selId,setSelId,snap}){
               <div className="rd-dd-ev" key={i}><b>{fmtDate(e.date)}</b><span>{e.title}</span><span className="ty" style={{background:EVENT_COLORS[e.type]||EVENT_COLORS.Sonstiges}}>{e.type}</span></div>
             )) : <p className="muted">Keine künftigen Events im Snapshot.</p>}
           </div>
+          <div className="rd-card"><h3>Insider-Transaktionen</h3>
+            {(data.insider&&data.insider.length)? data.insider.slice(0,8).map((t,i)=>(
+              <div className="rd-dd-ins" key={i}>
+                <span className={"rd-ins-kind "+(t.kind==="Kauf"?"buy":"sell")}>{t.kind==="Kauf"?"▲":"▼"}</span>
+                <div className="b"><div className="n">{t.insider} <span className="rd-ins-role">{t.role}</span></div>
+                  <div className="d">{fmtDate(t.date)} · {new Intl.NumberFormat("de-DE").format(t.shares)} Stk{t.price?` @ ${t.price}`:""}</div></div>
+              </div>
+            )) : <p className="muted">{current.symbol&&!String(current.symbol).includes(".")?"Keine Open-Market-Transaktionen im Zeitfenster.":"Keine SEC-Meldepflicht (kein US-Titel)."}</p>}
+          </div>
         </aside>
       </div>
     </div>
@@ -378,6 +389,78 @@ function TechPage({universe,snap,onOpen}){
   );
 }
 
+/* ---------------- INSIDER (SEC Form 4, Open Market) ---------------- */
+function InsiderPage({snap,universe,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,companyById,openCompany}){
+  const [fKind,setFKind]=useState("Alle");
+  const sortedCos=[...universe].sort((a,b)=>a.name.localeCompare(b.name));
+  const rows=(snap.insider||[]).filter(t=>{
+    const c=companyById[t.companyId];
+    if(c && !( (fAsset==="Alle"||c.asset===fAsset) && (fStatus==="Alle"||c.status===fStatus) )) return false;
+    if(fCompany!=="Alle" && String(t.companyId)!==String(fCompany)) return false;
+    if(fKind!=="Alle" && t.kind!==fKind) return false;
+    return true;
+  });
+  const fmtNum=n=>n==null?"—":new Intl.NumberFormat("de-DE").format(n);
+  // Gemeldete PDMR-/Insider-Meldungen aus dem Newsflow (EU/UK etc.), nicht strukturiert parsebar
+  const reported=(snap.news||[]).filter(n=>{
+    if(n.category!=="Insider") return false;
+    const c=companyById[n.companyId];
+    if(c && !((fAsset==="Alle"||c.asset===fAsset)&&(fStatus==="Alle"||c.status===fStatus))) return false;
+    if(fCompany!=="Alle" && String(n.companyId)!==String(fCompany)) return false;
+    return true;
+  });
+  return (
+    <div className="fade">
+      <div className="rd-h">
+        <div>
+          <h1>Insider-Transaktionen</h1>
+          <p>Open-Market-Käufe und -Verkäufe von Vorständen, Direktoren und Großaktionären. Quellen: SEC-Form-4 (US-Titel) und Wiener-Börse-Meldungen (AT-Titel, z. B. BAWAG). Klicke eine Zeile für die Quelle.</p>
+        </div>
+        <span className="rd-stamp">Stand: <b>{snap.generatedAt?fmtTime(snap.generatedAt):"—"}</b></span>
+      </div>
+      <div className="rd-filterbar">
+        <div className="rd-seg2">{["Alle","Kauf","Verkauf"].map(k=><button key={k} className={fKind===k?"on":""} onClick={()=>setFKind(k)}>{k==="Alle"?"Alle":k+"e"}</button>)}</div>
+        <div className="rd-seg2">{["Alle","Portfolio","Watchlist"].map(s=><button key={s} className={fStatus===s?"on":""} onClick={()=>setFStatus(s)}>{s}</button>)}</div>
+        <select className="rd-csel" value={fCompany} onChange={e=>setFCompany(e.target.value)}>
+          <option value="Alle">Alle Unternehmen</option>
+          {sortedCos.map(c=><option key={c.id} value={c.id}>{c.name}</option>)}
+        </select>
+      </div>
+      {rows.length===0 && reported.length===0
+        ? <div className="rd-empty" style={{fontSize:13}}>Keine Insider-Transaktionen im aktuellen Snapshot (für diese Filter). Hinweis: Strukturierte Daten gibt es für US-Titel (SEC) und AT-Titel (Wiener Börse); PDMR-Meldungen anderer Märkte erscheinen unten bzw. im Newsflow.</div>
+        : rows.length===0 ? null
+        : <table className="rd-tech-tbl rd-ins-tbl">
+            <thead><tr><th>Datum</th><th>Unternehmen</th><th>Insider</th><th>Art</th><th>Stück</th><th>Kurs</th><th>Wert</th></tr></thead>
+            <tbody>
+              {rows.map((t,i)=>(
+                <tr key={i} onClick={()=>{ if(t.url) window.open(t.url,"_blank"); }}>
+                  <td className="num">{fmtDate(t.date)}</td>
+                  <td><span className="rd-link" onClick={e=>{e.stopPropagation();openCompany(t.companyId);}}>{t.company}</span></td>
+                  <td><div className="nm" style={{margin:0,fontSize:13}}>{t.insider}</div><span className="rd-ins-role">{t.role}{t.source?` · ${t.source}`:""}</span></td>
+                  <td><span className={"rd-ins-kind "+(t.kind==="Kauf"?"buy":"sell")}>{t.kind==="Kauf"?"▲ Kauf":"▼ Verkauf"}</span></td>
+                  <td className="num">{fmtNum(t.shares)}</td>
+                  <td className="num">{t.price==null?"—":fmtNum(t.price)}</td>
+                  <td className="num">{t.value==null?"—":fmtNum(t.value)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>}
+      {reported.length>0 && <>
+        <div className="rd-sechead" style={{marginTop:30}}><h2>Gemeldete PDMR-/Insider-Meldungen</h2><span className="c">{reported.length} · Details in Quelle</span></div>
+        <p className="rd-rep-hint">Für Nicht-US/-AT-Titel (z. B. Eurofins) lassen sich Stückzahl und Kurs nicht zuverlässig automatisch auslesen — hier die erkannten Meldungen mit Direktlink zur Originalquelle.</p>
+        <div className="rd-feed">
+          {reported.map((n,i)=>(
+            <div className="rd-rep" key={i} onClick={()=>{ if(n.url) window.open(n.url,"_blank"); }}>
+              <span className="rd-co rd-link" onClick={e=>{e.stopPropagation();openCompany(n.companyId);}}>{n.company}</span>
+              <span className="rd-rep-t">{n.title}</span>
+              <span className="rd-rep-meta">{n.source||"—"} · {fmtDate(n.date)} ↗</span>
+            </div>
+          ))}
+        </div>
+      </>}
+    </div>
+  );
+}
 /* ---------------- EINSTELLUNGEN ---------------- */
 const blankCo=()=>({id:Date.now(),name:"",symbol:"",asset:"Aktien",status:"Portfolio",competitors:[],markets:"",sector:"",irCalendarUrl:""});
 function SettingsPage({universe,saveUniverse,reload}){
@@ -619,6 +702,22 @@ function Style(){ return <style>{`
 .rd-tech-tbl .pos{color:var(--bond);font-weight:500;}
 .rd-tech-tbl .neg{color:var(--watch);font-weight:500;}
 @media(max-width:760px){.rd-tech-tbl{font-size:11px;}.rd-tech-tbl th:nth-child(6),.rd-tech-tbl td:nth-child(6),.rd-tech-tbl th:nth-child(7),.rd-tech-tbl td:nth-child(7){display:none;}}
+.rd-ins-kind{font-family:'Spline Sans Mono',monospace;font-size:11px;font-weight:600;white-space:nowrap;}
+.rd-ins-kind.buy{color:var(--bond);}
+.rd-ins-kind.sell{color:var(--watch);}
+.rd-ins-tbl tbody tr:hover{background:#fff;}
+.rd-ins-role{font-size:10.5px;color:var(--ink3);font-family:'Spline Sans Mono',monospace;}
+.rd-dd-ins{display:flex;gap:10px;align-items:flex-start;padding:8px 0;border-bottom:1px solid var(--line);}
+.rd-dd-ins:last-child{border-bottom:none;}
+.rd-dd-ins .rd-ins-kind{font-size:14px;line-height:1.2;}
+.rd-dd-ins .b .n{font-size:12.5px;font-weight:600;}
+.rd-dd-ins .b .d{font-size:11px;color:var(--ink2);font-family:'Spline Sans Mono',monospace;margin-top:2px;}
+.rd-rep-hint{font-size:12px;color:var(--ink3);margin:0 0 12px;line-height:1.5;}
+.rd-rep{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:11px;padding:11px 14px;cursor:pointer;transition:.13s;flex-wrap:wrap;}
+.rd-rep:hover{border-color:var(--navy);box-shadow:0 6px 18px rgba(22,32,46,.08);}
+.rd-rep .rd-co{font-weight:600;font-size:13px;min-width:120px;}
+.rd-rep-t{flex:1;font-size:13px;color:var(--ink);min-width:200px;}
+.rd-rep-meta{font-size:11px;color:var(--ink3);font-family:'Spline Sans Mono',monospace;white-space:nowrap;}
 .rd-su-stats{display:flex;gap:22px;align-items:center;flex-wrap:wrap;margin-bottom:16px;}
 .rd-su-stats>span{font-size:12.5px;color:var(--ink2);font-family:'Spline Sans Mono',monospace;}
 .rd-su-stats>span b{font-family:'Fraunces',serif;font-size:18px;color:var(--ink);margin-right:4px;}
