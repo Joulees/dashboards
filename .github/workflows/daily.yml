@@ -31,6 +31,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Abhaengigkeiten installieren
+        run: pip install -r requirements.txt
+
       - name: Datensammler ausfuehren
         env:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
