@@ -1,3 +1,3 @@
-# Das Research-Skript nutzt ausschliesslich die Python-Standardbibliothek
-# (urllib, json, math, datetime) — es sind KEINE externen Pakete noetig.
-# Diese Datei dient nur der Dokumentation; Python 3.10+ wird vorausgesetzt.
+# Das Research-Skript nutzt die Python-Standardbibliothek plus pypdf
+# (nur fuer das Auslesen des Wiener-Boerse-PDF der Directors' Dealings).
+pypdf>=4.0
