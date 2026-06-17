@@ -2,10 +2,12 @@
 """
 Research Dashboard — taeglicher Datensammler.
 
-Laeuft im GitHub-Actions-Workflow (cron 07:00). Liest data/companies.json,
-holt pro Titel Kurse / News / Earnings-Termine von Financial Modeling Prep (FMP),
-berechnet technische Indikatoren, fasst optional via Anthropic-API zusammen und
-schreibt das Ergebnis nach docs/data/snapshot.json (von GitHub Pages ausgeliefert).
+Laeuft im GitHub-Actions-Workflow (cron). Liest data/companies.json,
+holt pro Titel Kurse (Financial Modeling Prep), News (Google-News-RSS),
+Insider-Transaktionen (SEC/Wiener Boerse) und Earnings-Termine (Yahoo Finance,
+inkl. der hinterlegten Wettbewerber), berechnet technische Indikatoren, fasst
+optional via Anthropic-API zusammen und schreibt das Ergebnis nach
+docs/data/snapshot.json (von GitHub Pages ausgeliefert).
 
 Benoetigte Umgebungsvariablen (als GitHub-Secrets hinterlegen):
   FMP_API_KEY        – Pflicht. Kostenloser Key von financialmodelingprep.com
@@ -24,6 +26,7 @@ import datetime as dt
 import html as html_mod
 import re
 import threading
+import http.cookiejar as cookiejar
 from xml.etree import ElementTree as ET
 from urllib import request, parse, error
 
@@ -152,25 +155,97 @@ def get_currency(symbol):
     return ""
 
 
-def get_earnings_events(symbol, name, days_ahead=EVENT_HORIZON_DAYS):
-    """Kommende Earnings-Termine direkt von FMP — automatisch, OHNE IR-URL und OHNE KI-Tokens.
-    Ein zusaetzlicher, billiger FMP-Aufruf pro Titel (du nutzt FMP ohnehin schon).
-    Zuverlaessig fuer US-Titel; international je nach FMP-Abdeckung (sonst einfach leer:
-    leer ist besser als falsch). Liefert nur Termine von heute bis +days_ahead Tagen."""
-    if not symbol:
+# ----------------------------- Yahoo Finance (Earnings-Termine) -----------------------------
+# Nutzt den (inoffiziellen) Yahoo-Finance-JSON-Endpunkt fuer kommende Earnings.
+# Vorteil ggue. FMP-Free: deckt internationale Boersen ab (.L/.DE/.PA/.AS/.ST/.AX ...).
+# Reines urllib, KEINE Zusatzpakete. Faellt ein Aufruf aus -> leer (leer ist besser als falsch).
+_YA_UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 research-dashboard/1.0"}
+
+
+def yahoo_session():
+    """Holt einmal pro Lauf Cookie + Crumb. Gibt (opener, crumb|None) zurueck."""
+    cj = cookiejar.CookieJar()
+    op = request.build_opener(request.HTTPCookieProcessor(cj))
+
+    def _g(url):
+        req = request.Request(url, headers=_YA_UA)
+        with op.open(req, timeout=15) as r:
+            return r.read().decode("utf-8", "replace")
+
+    try:
+        _g("https://fc.yahoo.com")          # setzt das noetige Cookie
+    except Exception:
+        pass
+    try:
+        crumb = _g("https://query2.finance.yahoo.com/v1/test/getcrumb").strip()
+    except Exception:
+        crumb = None
+    return op, (crumb or None)
+
+
+def _yahoo_get(op, url, tries=2):
+    for attempt in range(tries):
+        try:
+            req = request.Request(url, headers=_YA_UA)
+            with op.open(req, timeout=15) as r:
+                return r.read().decode("utf-8", "replace")
+        except error.HTTPError as e:
+            if e.code == 429 and attempt < tries - 1:    # Rate-Limit -> kurz warten
+                time.sleep(2.0)
+                continue
+            return None
+        except Exception:
+            if attempt == tries - 1:
+                return None
+            time.sleep(0.6)
+    return None
+
+
+def yahoo_next_earnings(op, crumb, symbol):
+    """Kommende Earnings-Termine eines Symbols als ISO-Datums-Liste (kann leer sein)."""
+    if not symbol or not crumb:
         return []
-    data = fmp("earnings", symbol=symbol, limit=16)
-    if not isinstance(data, list):
+    url = (f"https://query2.finance.yahoo.com/v10/finance/quoteSummary/{parse.quote(symbol)}"
+           f"?modules=calendarEvents&crumb={parse.quote(crumb)}")
+    raw = _yahoo_get(op, url)
+    if not raw:
         return []
-    today = TODAY.isoformat()
-    horizon = (TODAY + dt.timedelta(days=days_ahead)).isoformat()
-    out = []
-    for d in data:
-        ds = str(d.get("date", ""))[:10]
-        if today <= ds <= horizon:
-            out.append({"date": ds, "type": "Earnings",
-                        "title": f"{name}: Quartalszahlen", "source": "FMP"})
-    return out
+    try:
+        res = json.loads(raw).get("quoteSummary", {}).get("result") or []
+        if not res:
+            return []
+        dates = res[0].get("calendarEvents", {}).get("earnings", {}).get("earningsDate", [])
+        out = []
+        for d in dates:
+            ts = d.get("raw")
+            if ts:
+                out.append(dt.datetime.utcfromtimestamp(ts).date().isoformat())
+        return sorted(set(out))
+    except Exception:
+        return []
+
+
+def yahoo_resolve_symbol(op, name):
+    """Wettbewerber-Name -> bestes Yahoo-Symbol (oder None). Bevorzugt echte Aktien."""
+    q = re.sub(r"\s*\(.*?\)\s*", " ", name).strip()      # Klammerzusatz weg ("Nu Holdings (Nubank)")
+    if not q:
+        return None
+    url = (f"https://query2.finance.yahoo.com/v1/finance/search?q={parse.quote(q)}"
+           f"&quotesCount=5&newsCount=0")
+    raw = _yahoo_get(op, url)
+    if not raw:
+        return None
+    try:
+        quotes = json.loads(raw).get("quotes", [])
+    except Exception:
+        return None
+    for qd in quotes:
+        if qd.get("quoteType") == "EQUITY" and qd.get("symbol"):
+            return qd["symbol"]
+    for qd in quotes:
+        if qd.get("symbol"):
+            return qd["symbol"]
+    return None
 
 
 def _relevant(name, title, summary):
@@ -698,8 +773,9 @@ def _news_key(n):
 
 
 def _event_key(e):
-    """Stabiler Schluessel fuer Events (ein Termin pro Tag/Typ/Titel)."""
-    return f'{e.get("companyId", "")}|{(e.get("date") or "")[:10]}|{e.get("type", "")}'
+    """Stabiler Schluessel fuer Events (Titel/Tag/Typ/angezeigter Name -> Wettbewerber kollidieren nicht)."""
+    return (f'{e.get("companyId", "")}|{(e.get("date") or "")[:10]}|'
+            f'{e.get("type", "")}|{e.get("company", "")}')
 
 
 def _insider_key(x):
@@ -758,24 +834,16 @@ def process_company(c, prev_entry=None, run_stamp=None):
                           else run_stamp)
     entry["insider"] = ins
 
-    # Events: Earnings AUTOMATISCH via FMP (kein Key/keine KI) + optional IR-Seite (falls URL hinterlegt)
-    raw_events = get_earnings_events(sym, name)
+    # Events: nur optionale IR-Termine von der Unternehmens-IR-Seite (falls URL hinterlegt).
+    # Earnings (eigene Titel + Wettbewerber) holt zentral die Yahoo-Phase in main(); firstSeen
+    # fuer ALLE Events wird ebenfalls dort gesetzt.
     if c.get("irCalendarUrl"):
-        raw_events = raw_events + get_ir_events(c.get("irCalendarUrl"), name)
-    prev_ev = {_event_key({**e, "companyId": cid}): e for e in (prev_entry or {}).get("events", [])}
-    seen = set()
-    for e in raw_events:
-        e.update({"companyId": cid, "company": name})
-        k = _event_key(e)
-        if k in seen:                                    # FMP + IR koennten denselben Termin liefern
-            continue
-        seen.add(k)
-        e["firstSeen"] = (prev_ev[k].get("firstSeen") if (k in prev_ev and prev_ev[k].get("firstSeen"))
-                          else run_stamp)
-        entry["events"].append(e)
+        for e in get_ir_events(c.get("irCalendarUrl"), name):
+            e.update({"companyId": cid, "company": name, "source": "IR-Seite", "peer": False})
+            entry["events"].append(e)
 
     print(f"   fertig: {name} — {len(alln)} News ({len(fresh)} neu), "
-          f"{len(entry['events'])} Events, {len(entry['insider'])} Insider-Tx, "
+          f"{len(entry['insider'])} Insider-Tx, "
           f"{'Kurs' if entry['tech'] else 'kein Kurs'}")
     return cid, entry
 
@@ -788,13 +856,15 @@ def main():
     with open(COMPANIES_FILE, encoding="utf-8") as f:
         companies = json.load(f)
 
-    # Vorherigen Snapshot laden (fuer inkrementelle News -> spart Tokens)
-    prev = {}
+    # Vorherigen Snapshot laden (fuer inkrementelle News + Wettbewerber-Symbol-Cache)
+    prev, prev_peer = {}, {}
     try:
         with open(OUT_FILE, encoding="utf-8") as f:
-            prev = json.load(f).get("companies", {})
+            _prev_full = json.load(f)
+        prev = _prev_full.get("companies", {})
+        prev_peer = _prev_full.get("peerSymbols", {})
     except Exception:
-        prev = {}
+        prev, prev_peer = {}, {}
 
     run_stamp = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     snapshot = {"generatedAt": run_stamp, "companies": {}, "news": [], "events": [], "insider": []}
@@ -804,6 +874,82 @@ def main():
     with ThreadPoolExecutor(max_workers=6) as pool:
         results = list(pool.map(
             lambda c: process_company(c, prev.get(str(c["id"])), run_stamp), companies))
+
+    # ---------- Earnings-Termine via Yahoo: eigene Titel + festgelegte Wettbewerber ----------
+    today_iso = TODAY.isoformat()
+    horizon_iso = (TODAY + dt.timedelta(days=EVENT_HORIZON_DAYS)).isoformat()
+    entries = {cid: entry for cid, entry in results}
+    op, crumb = yahoo_session()
+    if not crumb:
+        print("HINWEIS: Kein Yahoo-Crumb erhalten — Earnings-Termine werden uebersprungen "
+              "(Yahoo evtl. temporaer ratenbegrenzt). Naechster Lauf versucht es erneut.")
+
+    # 1) Wettbewerber-Namen -> Symbole aufloesen (Cache aus dem vorherigen Snapshot weiterverwenden)
+    peer_syms = dict(prev_peer or {})
+    if crumb:
+        new_resolved = 0
+        for c in companies:
+            for nm in (c.get("competitors") or []):
+                if nm and nm not in peer_syms:
+                    sym = yahoo_resolve_symbol(op, nm)
+                    if sym:
+                        peer_syms[nm] = sym
+                        new_resolved += 1
+                    time.sleep(0.25)
+        if new_resolved:
+            print(f"   Wettbewerber-Symbole neu aufgeloest: {new_resolved}")
+
+    # 2) Benoetigte Symbole sammeln (dedupliziert) -> jedes Symbol nur EINMAL abfragen
+    need = {}   # symbol -> Liste von (cid, Anzeigename, is_peer, peer_of)
+    for c in companies:
+        cid, nm, sym = c["id"], c["name"], c.get("symbol")
+        if sym:
+            need.setdefault(sym, []).append((cid, nm, False, None))
+        for pn in (c.get("competitors") or []):
+            psym = peer_syms.get(pn)
+            if psym:
+                need.setdefault(psym, []).append((cid, pn, True, nm))
+
+    # 3) Earnings je Symbol holen (sequentiell + sanftes Pacing -> schont Yahoo)
+    earnings_cache = {}
+    if crumb:
+        for sym in need:
+            earnings_cache[sym] = yahoo_next_earnings(op, crumb, sym)
+            time.sleep(0.25)
+        got = sum(1 for v in earnings_cache.values() if v)
+        print(f"   Earnings abgefragt: {len(need)} Symbole, davon {got} mit Termin.")
+
+    # 4) Events bauen und an die jeweiligen Eintraege haengen
+    for sym, attribs in need.items():
+        for ds in earnings_cache.get(sym, []):
+            if not (today_iso <= ds <= horizon_iso):
+                continue
+            for cid, disp, is_peer, peer_of in attribs:
+                ent = entries.get(cid)
+                if ent is None:
+                    continue
+                ev = {"date": ds, "type": "Earnings",
+                      "title": f"{disp}: Quartalszahlen" + (" (Wettbewerber)" if is_peer else ""),
+                      "company": disp, "companyId": cid,
+                      "source": "Yahoo Finance", "peer": is_peer}
+                if is_peer:
+                    ev["peerOf"] = peer_of
+                ent["events"].append(ev)
+
+    # 5) firstSeen fuer ALLE Events je Titel setzen (inkrementell ggue. Vorlauf) + Dedupe + Sortierung
+    for cid, entry in results:
+        prev_ev = {_event_key(e): e for e in (prev.get(str(cid), {}) or {}).get("events", [])}
+        seen = {}
+        for e in entry["events"]:
+            k = _event_key(e)
+            if k in seen:
+                continue
+            e["firstSeen"] = (prev_ev[k].get("firstSeen") if (k in prev_ev and prev_ev[k].get("firstSeen"))
+                              else run_stamp)
+            seen[k] = e
+        entry["events"] = sorted(seen.values(), key=lambda e: e.get("date", ""))
+
+    snapshot["peerSymbols"] = peer_syms
 
     new_count = 0
     for cid, entry in results:
