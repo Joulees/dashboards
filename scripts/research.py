@@ -152,6 +152,27 @@ def get_currency(symbol):
     return ""
 
 
+def get_earnings_events(symbol, name, days_ahead=EVENT_HORIZON_DAYS):
+    """Kommende Earnings-Termine direkt von FMP — automatisch, OHNE IR-URL und OHNE KI-Tokens.
+    Ein zusaetzlicher, billiger FMP-Aufruf pro Titel (du nutzt FMP ohnehin schon).
+    Zuverlaessig fuer US-Titel; international je nach FMP-Abdeckung (sonst einfach leer:
+    leer ist besser als falsch). Liefert nur Termine von heute bis +days_ahead Tagen."""
+    if not symbol:
+        return []
+    data = fmp("earnings", symbol=symbol, limit=16)
+    if not isinstance(data, list):
+        return []
+    today = TODAY.isoformat()
+    horizon = (TODAY + dt.timedelta(days=days_ahead)).isoformat()
+    out = []
+    for d in data:
+        ds = str(d.get("date", ""))[:10]
+        if today <= ds <= horizon:
+            out.append({"date": ds, "type": "Earnings",
+                        "title": f"{name}: Quartalszahlen", "source": "FMP"})
+    return out
+
+
 def _relevant(name, title, summary):
     """Behalte nur Meldungen, die WIRKLICH dieses Unternehmen betreffen:
     voller Name als Phrase ODER alle markanten Namensbestandteile vorhanden."""
@@ -676,6 +697,16 @@ def _news_key(n):
     return n.get("url") or (str(n.get("companyId", "")) + "|" + n.get("title", ""))
 
 
+def _event_key(e):
+    """Stabiler Schluessel fuer Events (ein Termin pro Tag/Typ/Titel)."""
+    return f'{e.get("companyId", "")}|{(e.get("date") or "")[:10]}|{e.get("type", "")}'
+
+
+def _insider_key(x):
+    """Stabiler Schluessel fuer eine Insider-Transaktion zwischen Laeufen."""
+    return x.get("url") or "|".join(str(x.get(k, "")) for k in ("date", "insider", "shares", "code"))
+
+
 def process_company(c, prev_entry=None, run_stamp=None):
     """Sammelt News, Kurse und IR-Events fuer EINEN Titel.
     Inkrementell: bereits bekannte News werden 1:1 uebernommen (keine erneute KI-Summary);
@@ -714,13 +745,33 @@ def process_company(c, prev_entry=None, run_stamp=None):
 
     # Insider-Transaktionen — Open-Market Kauf/Verkauf
     if c.get("atInsiderIsin"):
-        entry["insider"] = get_austria_insider(c["atInsiderIsin"])   # Wiener Boerse (AT-Titel)
+        ins = get_austria_insider(c["atInsiderIsin"])   # Wiener Boerse (AT-Titel)
     elif sym:
-        entry["insider"] = get_insider_tx(sym)                       # SEC EDGAR (US-Titel)
+        ins = get_insider_tx(sym)                        # SEC EDGAR (US-Titel)
+    else:
+        ins = []
+    # firstSeen: bereits bekannte Transaktionen behalten ihren Stempel, neue bekommen run_stamp
+    prev_ins = {_insider_key(x): x for x in (prev_entry or {}).get("insider", [])}
+    for x in ins:
+        k = _insider_key(x)
+        x["firstSeen"] = (prev_ins[k].get("firstSeen") if (k in prev_ins and prev_ins[k].get("firstSeen"))
+                          else run_stamp)
+    entry["insider"] = ins
 
-    # Events direkt von der IR-Seite (via Claude)
-    for e in get_ir_events(c.get("irCalendarUrl"), name):
+    # Events: Earnings AUTOMATISCH via FMP (kein Key/keine KI) + optional IR-Seite (falls URL hinterlegt)
+    raw_events = get_earnings_events(sym, name)
+    if c.get("irCalendarUrl"):
+        raw_events = raw_events + get_ir_events(c.get("irCalendarUrl"), name)
+    prev_ev = {_event_key({**e, "companyId": cid}): e for e in (prev_entry or {}).get("events", [])}
+    seen = set()
+    for e in raw_events:
         e.update({"companyId": cid, "company": name})
+        k = _event_key(e)
+        if k in seen:                                    # FMP + IR koennten denselben Termin liefern
+            continue
+        seen.add(k)
+        e["firstSeen"] = (prev_ev[k].get("firstSeen") if (k in prev_ev and prev_ev[k].get("firstSeen"))
+                          else run_stamp)
         entry["events"].append(e)
 
     print(f"   fertig: {name} — {len(alln)} News ({len(fresh)} neu), "
@@ -769,12 +820,17 @@ def main():
     snapshot["events"].sort(key=lambda e: e.get("date", ""))
     snapshot["insider"].sort(key=lambda x: x.get("date", ""), reverse=True)
 
+    new_ev = sum(1 for e in snapshot["events"] if e.get("firstSeen") == run_stamp)
+    new_ins = sum(1 for x in snapshot["insider"] if x.get("firstSeen") == run_stamp)
+
     os.makedirs(os.path.dirname(OUT_FILE), exist_ok=True)
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(snapshot, f, ensure_ascii=False, indent=1)
 
-    print(f"\nFertig: {len(snapshot['news'])} News ({new_count} neu in diesem Lauf), "
-          f"{len(snapshot['events'])} Events -> {os.path.relpath(OUT_FILE, ROOT)}")
+    print(f"\nFertig: {len(snapshot['news'])} News ({new_count} neu), "
+          f"{len(snapshot['events'])} Events ({new_ev} neu), "
+          f"{len(snapshot['insider'])} Insider-Tx ({new_ins} neu) "
+          f"-> {os.path.relpath(OUT_FILE, ROOT)}")
 
     have_tech = sum(1 for e in snapshot["companies"].values() if e.get("tech"))
     print(f"Kursdaten vorhanden fuer {have_tech} Titel.")
