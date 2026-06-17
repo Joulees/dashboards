@@ -239,9 +239,9 @@ function CalendarPage({visEvents,latestStamp,fAsset,setFAsset,fStatus,setFStatus
       <div className="rd-h">
         <div>
           <h1>Events</h1>
-          <p>Bevorstehende Earnings-Termine deiner Titel <b>und ihrer hinterlegten Wettbewerber</b> (Quelle: Yahoo Finance), dazu IR-Termine (Hauptversammlung, Capital Markets Day) dort, wo in den Einstellungen eine IR-Kalender-URL hinterlegt ist.</p>
+          <p>Bevorstehende Earnings-Termine deiner Titel <b>und ihrer hinterlegten Wettbewerber</b> (Quelle: Yahoo Finance), dazu IR-Termine (Hauptversammlung, Capital Markets Day) dort, wo in den Einstellungen eine IR-Kalender-URL hinterlegt ist. Die Termine werden <b>wöchentlich (montags)</b> aktualisiert.</p>
         </div>
-        <span className="rd-stamp">Stand: <b>{snap.generatedAt?fmtTime(snap.generatedAt):"—"}</b></span>
+        <span className="rd-stamp">Termine aktualisiert: <b>{snap.eventsRefreshedAt?fmtDate(snap.eventsRefreshedAt):"—"}</b></span>
       </div>
       <div className="rd-filterbar">
         <button className={"rd-newtoggle"+(showPeers?" on":"")} onClick={()=>setShowPeers(v=>!v)} title="Earnings-Termine der in den Einstellungen hinterlegten Wettbewerber ein-/ausblenden">
