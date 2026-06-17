@@ -226,21 +226,27 @@ function NewsCard({n,name,isNew,onOpen}){
 
 /* ---------------- EVENTS (eigener Tab) ---------------- */
 function CalendarPage({visEvents,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,universe,snap}){
+  const [showPeers,setShowPeers]=useState(true);
   const sortedCos=[...universe].sort((a,b)=>a.name.localeCompare(b.name));
   const now=Date.now();
   const isNewEv=e=>!!e.firstSeen && e.firstSeen===latestStamp;
+  const peerCount=visEvents.filter(e=>e.peer).length;
+  const evs=showPeers?visEvents:visEvents.filter(e=>!e.peer);
   // "bevorstehend" = innerhalb der nächsten 14 Tage
-  const soon=visEvents.filter(e=>{ const d=new Date(e.date); if(isNaN(d)) return false; const diff=(d.getTime()-now)/86400000; return diff>=-1 && diff<=14; });
+  const soon=evs.filter(e=>{ const d=new Date(e.date); if(isNaN(d)) return false; const diff=(d.getTime()-now)/86400000; return diff>=-1 && diff<=14; });
   return (
     <div className="fade">
       <div className="rd-h">
         <div>
           <h1>Events</h1>
-          <p>Bevorstehende Termine deiner Titel — Earnings kommen automatisch über FMP, zusätzliche IR-Termine (Hauptversammlung, Capital Markets Day) dort, wo du in den Einstellungen eine IR-Kalender-URL hinterlegt hast.</p>
+          <p>Bevorstehende Earnings-Termine deiner Titel <b>und ihrer hinterlegten Wettbewerber</b> (Quelle: Yahoo Finance), dazu IR-Termine (Hauptversammlung, Capital Markets Day) dort, wo in den Einstellungen eine IR-Kalender-URL hinterlegt ist.</p>
         </div>
         <span className="rd-stamp">Stand: <b>{snap.generatedAt?fmtTime(snap.generatedAt):"—"}</b></span>
       </div>
       <div className="rd-filterbar">
+        <button className={"rd-newtoggle"+(showPeers?" on":"")} onClick={()=>setShowPeers(v=>!v)} title="Earnings-Termine der in den Einstellungen hinterlegten Wettbewerber ein-/ausblenden">
+          <span className="dot"/>Wettbewerber{peerCount>0?` (${peerCount})`:""}
+        </button>
         <div className="rd-seg2">{["Alle","Aktien","Anleihen"].map(a=><button key={a} className={fAsset===a?"on":""} onClick={()=>setFAsset(a)}>{a}</button>)}</div>
         <div className="rd-seg2">{["Alle","Portfolio","Watchlist"].map(s=><button key={s} className={fStatus===s?"on":""} onClick={()=>setFStatus(s)}>{s}</button>)}</div>
         <select className="rd-csel" value={fCompany} onChange={e=>setFCompany(e.target.value)}>
@@ -254,31 +260,31 @@ function CalendarPage({visEvents,latestStamp,fAsset,setFAsset,fStatus,setFStatus
           <div className="rd-soon-head">Nächste 1–2 Wochen<span>{soon.length}</span></div>
           <div className="rd-soon-grid">
             {soon.map((e,i)=>{ const d=new Date(e.date); const color=EVENT_COLORS[e.type]||EVENT_COLORS.Sonstiges; return (
-              <div className="rd-soon-card" key={i}>
+              <div className={"rd-soon-card"+(e.peer?" peer":"")} key={i}>
                 <div className="dt"><b>{isNaN(d)?"—":d.toLocaleDateString("de-DE",{day:"2-digit",month:"short"})}</b><span>{isNaN(d)?"":d.toLocaleDateString("de-DE",{weekday:"long"})}</span></div>
                 <div className="co">{e.company}{isNewEv(e)&&<span className="rd-newbadge stat">Neu</span>}</div>
-                <div className="ty" style={{background:color}}>{e.type}</div>
+                <div className="tags">{e.peer&&<span className="rd-peer">Wettbewerber</span>}<span className="ty" style={{background:color}}>{e.type}</span></div>
               </div>);})}
           </div>
         </div>}
 
       <div className="rd-calwide">
-        <CalendarBody events={visEvents} isNewEv={isNewEv}/>
+        <CalendarBody events={evs} isNewEv={isNewEv}/>
       </div>
     </div>
   );
 }
 
 function CalendarBody({events,isNewEv}){
-  if(!events.length) return <div className="rd-empty" style={{fontSize:13}}>Keine bevorstehenden Events. Earnings-Termine erscheinen automatisch, sobald FMP für einen Titel ein Datum meldet; weitere Termine über die IR-Kalender-URL in den Einstellungen.</div>;
+  if(!events.length) return <div className="rd-empty" style={{fontSize:13}}>Keine bevorstehenden Events. Earnings-Termine erscheinen automatisch, sobald Yahoo Finance für einen Titel (oder Wettbewerber) ein Datum meldet; weitere Termine über die IR-Kalender-URL in den Einstellungen.</div>;
   const groups={};
   events.forEach(e=>{ const d=new Date(e.date); const key=isNaN(d)?"Demnächst":d.toLocaleDateString("de-DE",{month:"long",year:"numeric"}); (groups[key]=groups[key]||[]).push(e); });
   return (<div>{Object.entries(groups).map(([month,evs])=>(
     <div key={month}><div className="rd-month">{month}</div>
       {evs.map((e,i)=>{ const d=new Date(e.date); const color=EVENT_COLORS[e.type]||EVENT_COLORS.Sonstiges; return (
-        <div className="rd-ev" key={i}>
+        <div className={"rd-ev"+(e.peer?" peer":"")} key={i}>
           <div className="d"><b>{isNaN(d)?"—":d.getDate()}</b><span>{isNaN(d)?"":d.toLocaleDateString("de-DE",{weekday:"short"})}</span></div>
-          <div className="body"><div className="t">{e.title}{isNewEv&&isNewEv(e)&&<span className="rd-newbadge stat">Neu</span>}</div><div className="m"><span className="co">{e.company}</span><span className="ty" style={{background:color}}>{e.type}</span></div></div>
+          <div className="body"><div className="t">{e.peer?e.company:e.title}{isNewEv&&isNewEv(e)&&<span className="rd-newbadge stat">Neu</span>}</div><div className="m"><span className="co">{e.peer?`Wettbewerber von ${e.peerOf||""}`:e.company}</span>{e.peer&&<span className="rd-peer">Peer</span>}<span className="ty" style={{background:color}}>{e.type}</span></div></div>
         </div>);})}
     </div>))}</div>);
 }
@@ -650,6 +656,11 @@ function Style(){ return <style>{`
 .rd-soon-card .dt span{font-size:10px;color:var(--ink3);text-transform:capitalize;}
 .rd-soon-card .co{font-size:12.5px;font-weight:600;color:var(--ink);margin:6px 0 7px;}
 .rd-soon-card .ty{display:inline-block;font-size:8.5px;font-family:'Spline Sans Mono',monospace;text-transform:uppercase;letter-spacing:.05em;padding:2px 7px;border-radius:5px;color:#fff;}
+.rd-soon-card .tags{display:flex;gap:5px;align-items:center;flex-wrap:wrap;}
+.rd-soon-card.peer{background:var(--paper2);border-style:dashed;}
+.rd-peer{font-size:8.5px;font-family:'Spline Sans Mono',monospace;text-transform:uppercase;letter-spacing:.05em;padding:1px 6px;border-radius:5px;color:var(--ink2);background:rgba(124,135,152,.16);border:1px solid var(--line);}
+.rd-ev.peer{opacity:.78;}
+.rd-ev.peer .body .t{font-weight:500;}
 .rd-ins-tbl tr.is-new td:first-child{box-shadow:inset 3px 0 0 var(--bond);}
 .rd-filterbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--line);}
 .rd-csel{font:inherit;font-size:12.5px;color:var(--ink);background:var(--paper2);border:1px solid var(--line);border-radius:9px;padding:7px 11px;cursor:pointer;outline:none;min-width:170px;}
