@@ -64,6 +64,7 @@ function App(){
   const [fStatus,setFStatus]=useState("Alle");
   const [fCompany,setFCompany]=useState("Alle");
   const [fTime,setFTime]=useState("Alle");
+  const [fNew,setFNew]=useState(false);
   const [selId,setSelId]=useState(null);
 
   const loadAll = useCallback(async ()=>{
@@ -93,11 +94,14 @@ function App(){
   const companyById=useMemo(()=>Object.fromEntries(universe.map(c=>[c.id,c])),[universe]);
   const inFilter=(a,s)=>(fAsset==="Alle"||a===fAsset)&&(fStatus==="Alle"||s===fStatus);
 
-  // Zeitstempel des juengsten Updates -> markiert die "neuen" Meldungen
-  const latestStamp=useMemo(()=>{
-    let m=""; (snap.news||[]).forEach(n=>{ if(n.firstSeen&&n.firstSeen>m) m=n.firstSeen; });
-    return m;
-  },[snap]);
+  // Grenze fuer "neu": Einträge aus dem juengsten Lauf tragen firstSeen === generatedAt
+  const latestStamp = snap.generatedAt || "";
+
+  // globale Anzahl neuer Einträge je Bereich (für die Tab-Badges, unabhängig von Filtern)
+  const newCounts=useMemo(()=>{
+    const cnt=arr=>(arr||[]).filter(x=>x.firstSeen && x.firstSeen===latestStamp).length;
+    return {news:cnt(snap.news), events:cnt(snap.events), insider:cnt(snap.insider)};
+  },[snap,latestStamp]);
 
   const visNews=useMemo(()=>{
     const now=Date.now();
@@ -106,13 +110,14 @@ function App(){
       const c=companyById[n.companyId]; if(!c) return false;
       if(!inFilter(c.asset,c.status)) return false;
       if(fCompany!=="Alle" && String(n.companyId)!==String(fCompany)) return false;
+      if(fNew && !(n.firstSeen && n.firstSeen===latestStamp)) return false;
       if(cut!=null){
         const d=new Date(n.date); if(isNaN(d)) return false;
         if((now-d.getTime())/86400000 > cut) return false;
       }
       return true;
     });
-  },[snap,fAsset,fStatus,fCompany,fTime,companyById]);
+  },[snap,fAsset,fStatus,fCompany,fTime,fNew,latestStamp,companyById]);
 
   const visEvents=useMemo(()=>{ const t=todayISO();
     return (snap.events||[]).filter(e=>{ const c=companyById[e.companyId]; const okF=c?inFilter(c.asset,c.status):true; const okC=fCompany==="Alle"||String(e.companyId)===String(fCompany); return okF && okC && (!e.date||e.date>=t); });
@@ -126,23 +131,23 @@ function App(){
       <div className="rd-top"><div className="rd-topin">
         <div className="rd-brand"><span className="k">Research Dashboard</span><span className="n">Coverage Desk</span></div>
         <nav className="rd-nav">
-          <button className={page==="home"?"on":""} onClick={()=>setPage("home")}>Newsflow</button>
-          <button className={page==="calendar"?"on":""} onClick={()=>setPage("calendar")}>Kalender</button>
+          <button className={page==="home"?"on":""} onClick={()=>setPage("home")}>Newsflow{newCounts.news>0 && <span className="rd-navbadge">{newCounts.news}</span>}</button>
+          <button className={page==="calendar"?"on":""} onClick={()=>setPage("calendar")}>Events{newCounts.events>0 && <span className="rd-navbadge">{newCounts.events}</span>}</button>
           <button className={page==="markets"?"on":""} onClick={()=>setPage("markets")}>Märkte</button>
           <button className={page==="company"?"on":""} onClick={()=>setPage("company")}>Unternehmen</button>
           <button className={page==="tech"?"on":""} onClick={()=>setPage("tech")}>Technik</button>
-          <button className={page==="insider"?"on":""} onClick={()=>setPage("insider")}>Insider</button>
+          <button className={page==="insider"?"on":""} onClick={()=>setPage("insider")}>Insider{newCounts.insider>0 && <span className="rd-navbadge">{newCounts.insider}</span>}</button>
           <button className={page==="settings"?"on":""} onClick={()=>setPage("settings")}>⚙ Einstellungen</button>
         </nav>
       </div></div>
 
       <div className="rd-wrap">
-        {page==="home" && <HomePage {...{snap,visNews,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,fTime,setFTime,universe,loading,loadErr,loadAll,companyById,openCompany}}/>}
-        {page==="calendar" && <CalendarPage {...{visEvents,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,universe,snap}}/>}
+        {page==="home" && <HomePage {...{snap,visNews,latestStamp,newTotal:newCounts.news,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,fTime,setFTime,fNew,setFNew,universe,loading,loadErr,loadAll,companyById,openCompany}}/>}
+        {page==="calendar" && <CalendarPage {...{visEvents,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,universe,snap}}/>}
         {page==="markets" && <MarketsPage universe={universe} onOpen={openCompany}/>}
         {page==="company" && <CompanyDetail {...{universe,selId,setSelId,snap}}/>}
         {page==="tech" && <TechPage universe={universe} snap={snap} onOpen={openCompany}/>}
-        {page==="insider" && <InsiderPage {...{snap,universe,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,companyById,openCompany}}/>}
+        {page==="insider" && <InsiderPage {...{snap,universe,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,companyById,openCompany}}/>}
         {page==="settings" && <SettingsPage universe={universe} saveUniverse={saveUniverse} reload={loadAll}/>}
       </div>
 
@@ -154,8 +159,8 @@ function App(){
 }
 
 /* ---------------- HOME (Newsflow) ---------------- */
-function HomePage({snap,visNews,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,fTime,setFTime,universe,loading,loadErr,loadAll,companyById,openCompany}){
-  const newCount=visNews.filter(n=>n.firstSeen && n.firstSeen===latestStamp).length;
+function HomePage({snap,visNews,latestStamp,newTotal,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,fTime,setFTime,fNew,setFNew,universe,loading,loadErr,loadAll,companyById,openCompany}){
+  const newCount=newTotal||0;
   const sortedCos=[...universe].sort((a,b)=>a.name.localeCompare(b.name));
   return (
     <div className="fade">
@@ -171,6 +176,9 @@ function HomePage({snap,visNews,latestStamp,fAsset,setFAsset,fStatus,setFStatus,
       </div>
 
       <div className="rd-filterbar">
+        <button className={"rd-newtoggle"+(fNew?" on":"")} onClick={()=>setFNew(v=>!v)} title="Nur Meldungen, die seit dem letzten Update dazugekommen sind">
+          <span className="dot"/>Nur Neue{newCount>0?` (${newCount})`:""}
+        </button>
         <div className="rd-seg2">{["Alle","Aktien","Anleihen"].map(a=><button key={a} className={fAsset===a?"on":""} onClick={()=>setFAsset(a)}>{a}</button>)}</div>
         <div className="rd-seg2">{["Alle","Portfolio","Watchlist"].map(s=><button key={s} className={fStatus===s?"on":""} onClick={()=>setFStatus(s)}>{s}</button>)}</div>
         <div className="rd-seg2">{[["Alle","Alle"],["Heute","Heute"],["Woche","7 Tage"]].map(([v,l])=><button key={v} className={fTime===v?"on":""} onClick={()=>setFTime(v)}>{l}</button>)}</div>
@@ -178,15 +186,15 @@ function HomePage({snap,visNews,latestStamp,fAsset,setFAsset,fStatus,setFStatus,
           <option value="Alle">Alle Unternehmen</option>
           {sortedCos.map(c=><option key={c.id} value={c.id}>{c.name}</option>)}
         </select>
-        {(fCompany!=="Alle"||fTime!=="Alle"||fAsset!=="Alle"||fStatus!=="Alle") &&
-          <button className="rd-clear" onClick={()=>{setFAsset("Alle");setFStatus("Alle");setFCompany("Alle");setFTime("Alle");}}>Filter zurücksetzen</button>}
+        {(fCompany!=="Alle"||fTime!=="Alle"||fAsset!=="Alle"||fStatus!=="Alle"||fNew) &&
+          <button className="rd-clear" onClick={()=>{setFAsset("Alle");setFStatus("Alle");setFCompany("Alle");setFTime("Alle");setFNew(false);}}>Filter zurücksetzen</button>}
       </div>
 
       {loadErr && <div className="rd-diag-box bad">{loadErr}</div>}
 
-      <div className="rd-sechead"><h2>Meldungen</h2><span className="c">{visNews.length} Einträge</span></div>
+      <div className="rd-sechead"><h2>{fNew?"Neue Meldungen":"Meldungen"}</h2><span className="c">{visNews.length} Einträge</span></div>
       <div className="rd-feed">
-        {!loading && visNews.length===0 && <div className="rd-empty">Keine Meldungen für diese Filter.</div>}
+        {!loading && visNews.length===0 && <div className="rd-empty">{fNew?"Seit dem letzten Update sind keine neuen Meldungen dazugekommen.":"Keine Meldungen für diese Filter."}</div>}
         {visNews.map(n=>(
           <NewsCard key={n.url||n.companyId+n.title+n.date}
             n={n} name={companyById[n.companyId]?.name||n.company}
@@ -216,15 +224,19 @@ function NewsCard({n,name,isNew,onOpen}){
   );
 }
 
-/* ---------------- KALENDER (eigener Tab) ---------------- */
-function CalendarPage({visEvents,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,universe,snap}){
+/* ---------------- EVENTS (eigener Tab) ---------------- */
+function CalendarPage({visEvents,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,universe,snap}){
   const sortedCos=[...universe].sort((a,b)=>a.name.localeCompare(b.name));
+  const now=Date.now();
+  const isNewEv=e=>!!e.firstSeen && e.firstSeen===latestStamp;
+  // "bevorstehend" = innerhalb der nächsten 14 Tage
+  const soon=visEvents.filter(e=>{ const d=new Date(e.date); if(isNaN(d)) return false; const diff=(d.getTime()-now)/86400000; return diff>=-1 && diff<=14; });
   return (
     <div className="fade">
       <div className="rd-h">
         <div>
-          <h1>Event-Kalender</h1>
-          <p>Bevorstehende IR-Termine (Earnings, Konferenzen, Hauptversammlungen) der nächsten Monate, direkt aus den Investor-Relations-Seiten.</p>
+          <h1>Events</h1>
+          <p>Bevorstehende Termine deiner Titel — Earnings kommen automatisch über FMP, zusätzliche IR-Termine (Hauptversammlung, Capital Markets Day) dort, wo du in den Einstellungen eine IR-Kalender-URL hinterlegt hast.</p>
         </div>
         <span className="rd-stamp">Stand: <b>{snap.generatedAt?fmtTime(snap.generatedAt):"—"}</b></span>
       </div>
@@ -236,15 +248,29 @@ function CalendarPage({visEvents,fAsset,setFAsset,fStatus,setFStatus,fCompany,se
           {sortedCos.map(c=><option key={c.id} value={c.id}>{c.name}</option>)}
         </select>
       </div>
+
+      {soon.length>0 &&
+        <div className="rd-soon">
+          <div className="rd-soon-head">Nächste 1–2 Wochen<span>{soon.length}</span></div>
+          <div className="rd-soon-grid">
+            {soon.map((e,i)=>{ const d=new Date(e.date); const color=EVENT_COLORS[e.type]||EVENT_COLORS.Sonstiges; return (
+              <div className="rd-soon-card" key={i}>
+                <div className="dt"><b>{isNaN(d)?"—":d.toLocaleDateString("de-DE",{day:"2-digit",month:"short"})}</b><span>{isNaN(d)?"":d.toLocaleDateString("de-DE",{weekday:"long"})}</span></div>
+                <div className="co">{e.company}{isNewEv(e)&&<span className="rd-newbadge stat">Neu</span>}</div>
+                <div className="ty" style={{background:color}}>{e.type}</div>
+              </div>);})}
+          </div>
+        </div>}
+
       <div className="rd-calwide">
-        <CalendarBody events={visEvents}/>
+        <CalendarBody events={visEvents} isNewEv={isNewEv}/>
       </div>
     </div>
   );
 }
 
-function CalendarBody({events}){
-  if(!events.length) return <div className="rd-empty" style={{fontSize:13}}>Keine bevorstehenden Events. Trage in den Einstellungen die IR-Kalender-URL der Unternehmen ein, damit Termine erscheinen.</div>;
+function CalendarBody({events,isNewEv}){
+  if(!events.length) return <div className="rd-empty" style={{fontSize:13}}>Keine bevorstehenden Events. Earnings-Termine erscheinen automatisch, sobald FMP für einen Titel ein Datum meldet; weitere Termine über die IR-Kalender-URL in den Einstellungen.</div>;
   const groups={};
   events.forEach(e=>{ const d=new Date(e.date); const key=isNaN(d)?"Demnächst":d.toLocaleDateString("de-DE",{month:"long",year:"numeric"}); (groups[key]=groups[key]||[]).push(e); });
   return (<div>{Object.entries(groups).map(([month,evs])=>(
@@ -252,7 +278,7 @@ function CalendarBody({events}){
       {evs.map((e,i)=>{ const d=new Date(e.date); const color=EVENT_COLORS[e.type]||EVENT_COLORS.Sonstiges; return (
         <div className="rd-ev" key={i}>
           <div className="d"><b>{isNaN(d)?"—":d.getDate()}</b><span>{isNaN(d)?"":d.toLocaleDateString("de-DE",{weekday:"short"})}</span></div>
-          <div className="body"><div className="t">{e.title}</div><div className="m"><span className="co">{e.company}</span><span className="ty" style={{background:color}}>{e.type}</span></div></div>
+          <div className="body"><div className="t">{e.title}{isNewEv&&isNewEv(e)&&<span className="rd-newbadge stat">Neu</span>}</div><div className="m"><span className="co">{e.company}</span><span className="ty" style={{background:color}}>{e.type}</span></div></div>
         </div>);})}
     </div>))}</div>);
 }
@@ -390,8 +416,9 @@ function TechPage({universe,snap,onOpen}){
 }
 
 /* ---------------- INSIDER (SEC Form 4, Open Market) ---------------- */
-function InsiderPage({snap,universe,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,companyById,openCompany}){
+function InsiderPage({snap,universe,latestStamp,fAsset,setFAsset,fStatus,setFStatus,fCompany,setFCompany,companyById,openCompany}){
   const [fKind,setFKind]=useState("Alle");
+  const isNewIns=t=>!!t.firstSeen && t.firstSeen===latestStamp;
   const sortedCos=[...universe].sort((a,b)=>a.name.localeCompare(b.name));
   const rows=(snap.insider||[]).filter(t=>{
     const c=companyById[t.companyId];
@@ -433,8 +460,8 @@ function InsiderPage({snap,universe,fAsset,setFAsset,fStatus,setFStatus,fCompany
             <thead><tr><th>Datum</th><th>Unternehmen</th><th>Insider</th><th>Art</th><th>Stück</th><th>Kurs</th><th>Wert</th></tr></thead>
             <tbody>
               {rows.map((t,i)=>(
-                <tr key={i} onClick={()=>{ if(t.url) window.open(t.url,"_blank"); }}>
-                  <td className="num">{fmtDate(t.date)}</td>
+                <tr key={i} className={isNewIns(t)?"is-new":""} onClick={()=>{ if(t.url) window.open(t.url,"_blank"); }}>
+                  <td className="num">{fmtDate(t.date)}{isNewIns(t)&&<span className="rd-newbadge stat">Neu</span>}</td>
                   <td><span className="rd-link" onClick={e=>{e.stopPropagation();openCompany(t.companyId);}}>{t.company}</span></td>
                   <td><div className="nm" style={{margin:0,fontSize:13}}>{t.insider}</div><span className="rd-ins-role">{t.role}{t.source?` · ${t.source}`:""}</span></td>
                   <td><span className={"rd-ins-kind "+(t.kind==="Kauf"?"buy":"sell")}>{t.kind==="Kauf"?"▲ Kauf":"▼ Verkauf"}</span></td>
@@ -605,6 +632,25 @@ function Style(){ return <style>{`
 .rd-news:hover{border-color:var(--navy);box-shadow:0 8px 26px rgba(22,32,46,.09);transform:translateY(-1px);}
 .rd-news.is-new{border-left:4px solid var(--bond);background:linear-gradient(90deg,rgba(44,110,106,.07),var(--card) 60%);}
 .rd-newbadge{position:absolute;top:13px;right:14px;font-family:'Spline Sans Mono',monospace;font-size:9px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#fff;background:var(--bond);padding:2px 8px;border-radius:999px;}
+.rd-newbadge.stat{position:static;display:inline-block;margin-left:7px;vertical-align:middle;font-size:8px;padding:1px 6px;}
+.rd-navbadge{display:inline-flex;align-items:center;justify-content:center;min-width:16px;height:16px;margin-left:6px;padding:0 4px;font-family:'Spline Sans Mono',monospace;font-size:9.5px;font-weight:700;line-height:1;color:#fff;background:var(--bond);border-radius:999px;vertical-align:middle;}
+.rd-nav button.on .rd-navbadge{background:var(--gold);}
+.rd-newtoggle{display:inline-flex;align-items:center;gap:7px;font:inherit;font-size:11.5px;font-weight:600;padding:6px 12px;border:1px solid var(--line);background:var(--paper2);color:var(--ink2);border-radius:9px;cursor:pointer;transition:.13s;white-space:nowrap;}
+.rd-newtoggle .dot{width:8px;height:8px;border-radius:999px;border:1.5px solid var(--ink3);transition:.13s;}
+.rd-newtoggle:hover{border-color:var(--bond);color:var(--ink);}
+.rd-newtoggle.on{background:var(--bond);border-color:var(--bond);color:#fff;}
+.rd-newtoggle.on .dot{background:#fff;border-color:#fff;}
+.rd-soon{background:linear-gradient(180deg,rgba(44,110,106,.08),var(--card));border:1px solid var(--line);border-left:4px solid var(--bond);border-radius:14px;padding:16px 20px 18px;margin-bottom:20px;max-width:760px;}
+.rd-soon-head{font-family:'Spline Sans Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--bond);font-weight:600;display:flex;align-items:center;gap:9px;margin-bottom:12px;}
+.rd-soon-head span{background:var(--bond);color:#fff;border-radius:999px;min-width:18px;height:18px;display:inline-flex;align-items:center;justify-content:center;font-size:10px;padding:0 5px;}
+.rd-soon-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;}
+.rd-soon-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:11px 13px;}
+.rd-soon-card .dt{display:flex;align-items:baseline;gap:8px;}
+.rd-soon-card .dt b{font-family:'Fraunces',serif;font-size:16px;font-weight:600;color:var(--ink);}
+.rd-soon-card .dt span{font-size:10px;color:var(--ink3);text-transform:capitalize;}
+.rd-soon-card .co{font-size:12.5px;font-weight:600;color:var(--ink);margin:6px 0 7px;}
+.rd-soon-card .ty{display:inline-block;font-size:8.5px;font-family:'Spline Sans Mono',monospace;text-transform:uppercase;letter-spacing:.05em;padding:2px 7px;border-radius:5px;color:#fff;}
+.rd-ins-tbl tr.is-new td:first-child{box-shadow:inset 3px 0 0 var(--bond);}
 .rd-filterbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--line);}
 .rd-csel{font:inherit;font-size:12.5px;color:var(--ink);background:var(--paper2);border:1px solid var(--line);border-radius:9px;padding:7px 11px;cursor:pointer;outline:none;min-width:170px;}
 .rd-csel:focus{border-color:var(--navy);box-shadow:0 0 0 3px rgba(22,49,79,.1);}
