@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-18T05:02:14+00:00",
+ "generatedAt": "2026-06-18T07:04:40+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -34,6 +34,19 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJmMERKT2hMdlBlU3VlLXAwcHJtREZPU3BhTHp6RWIwRWl3amtjN0RMemh2T0pCeTliX1pyYlNhQVJNZlFkN0tZTFA1REo1bnlSSDA5ZkVXM2xzWS01X2IwekZHV3pGTGE3UzNtTUhrSjNoZkN3dXVYX3dWVHlsOGUwZllNZlRGb2tyZlc2RVpaVEctXzYwN2c1eGpoakRhWGoyZi1TQW9GTkJjQ1pReEh3TzZFUWQzR1J4TA?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-18T05:02:14+00:00",
+     "companyId": 2,
+     "company": "Chapters",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-21",
+     "title": "2025-2026 Tri-M® Music Honor Society National and State Chapters of the Year Announced",
+     "summary": "2025-2026 Tri-M® Music Honor Society National and State Chapters of the Year Announced PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmZtNzBKSEZKeF81T2JrLUFGUWNwSkE4ZTJzRDEyb0hhYUNWWHZVOFpfM1h4Q1dBanFoQVVxYmdESk5lU05yN1dfSFFiOUs2bDg1d2dkejZOLXgwYmkxdFJCdm56eXluWHR1aTR5VWVZcEo5eU1FckpPZENJYXNvUGVOYXRqbVdHbHY5NG96c3dDeVNyRWVNWjhYdEpWVk5sRUFJQUxYM2pucU5ZTEU2bW5sRHNBenRXZS00Z3Q5ZTF6MjR1V0hHQlFOcDVoTWs5eWhYSUJ4MA?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-18T07:04:40+00:00",
      "companyId": 2,
      "company": "Chapters",
      "asset": "Anleihen",
@@ -94,21 +107,7 @@
    }
   },
   "3": {
-   "news": [
-    {
-     "date": "2026-06-15",
-     "title": "International Petroleum Corporation Corporate Update: Blackrod Phase 1 First Oil Achieved",
-     "summary": "International Petroleum Corporation Corporate Update: Blackrod Phase 1 First Oil Achieved GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdWxRRUpzRWF6bHZhWE5tak9nM3I5R2dXUVFYd041VE9UWnNYYWJYck9KUzhTd1R5aVdkc0kyRUV2TTRfZm1lcHNNNWl5OUktZi1BalQyMnlRYzBOdHlDeF9QQmpEOWR3cDVKdjVIeXN1cjRPYld2Y3BORjBtYXVtRnktT2ctYTZvNm5vV3N5ZWJGOHlOYkZZdE1MVGg4aVY4OTBvX3hYU1VKYjFLeWs4R1M3UWMzR05OdnB6cUg1SVVoaFJXRDM0TlhDSHFIeFVKWVR5SWZmNl92UThjYjM2ZlBnUTV3WmxELXoxUUcydXJmQQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-16T05:32:48+00:00",
-     "companyId": 3,
-     "company": "International Petroleum",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    }
-   ],
+   "news": [],
    "events": [
     {
      "date": "2026-07-15",
@@ -721,13 +720,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-15",
-     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
-     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
+     "date": "2026-06-16",
+     "title": "GPK Shareholder Alert: July 6, 2026 Lead Plaintiff Deadline in Graphic Packaging Holding Company Securities Class Action - Contact The Gross Law Firm",
+     "summary": "GPK Shareholder Alert: July 6, 2026 Lead Plaintiff Deadline in Graphic Packaging Holding Company Securities Class Action - Contact The Gross Law Firm PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPclJLUU9SeHlPbjh4eXgxLVpxTm1hQXFvMEVwLURoak10NWpEX3VOeE5TUE9ET3RsNWVWR2Fjc0NRTUItb1VmX1hGdzA2Y1E5ZldGX1d5Zlpic0VicGxUMXBHUERvcUVSRDVVb1FPYkpoUGlXNW1zMlQ2VnJxZjRkRS12ZUNjam1rV1BOYjQ1RG52ekZGQTlXM1AyU3RGLXRZOFpXbmhRbHlxZ0tzQ0dhMU5wcm1MS2xHcDVZSWV2X0tMWGxONVFxemNIbUNDb1NvYVdIN1NQcXRBblZZd0s0YWs1NzRGUmpZaFN4NUhUOVVpaWRPYnNHcWFlTnAxWWhBZjBVWHNyRzZlZw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOYjd6NVEtcWlCNVVpb0p1RmFPeTB1cG9FWlZiZGJOS2NZaXhHaGVVWkNtMW5uOEd3Mm1MXzZLd0s1Y18yTnptTkpNYnByRlFhdXJFd1RJUUdaVWhMSnJXcnh3X19xRmJZZ3lmMElXZGRjX1FDaG5ENkg5Ukt4SWJTZjNEWmxkV0NsNWFBV1JsTUs1N0JPYVZLV2tQYzF4TUtFcndYcEdobDVpcnlTYzNvV29ZRk9QV19BbUI4SGZXU3l3ZjBjdkExWkloWUozV0FBYmhqLXZKU2RUeVdtRWNNTlFTME5CYnpjMFZFckQ3akxKZ0J5bHFiTDg0TEVKZEszc2dtZXFLU0V6blRrODEyd1dsWmxtVnZhUm9fZmxIUXhtRWNUZXl0TVFySQ?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-06-16T05:32:48+00:00",
+     "firstSeen": "2026-06-18T07:04:40+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -735,10 +734,10 @@
     },
     {
      "date": "2026-06-15",
-     "title": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action",
-     "summary": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action ACCESS Newswire",
-     "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV216Zmc3c0FDbTR3b0hySXNySjN1QnJxVVNfNTQ3NW9kcjQ4cEE3N3pLWE1hUWtIUWRWR1VUYXVfbzRaZG1sVXVuM2hSSjMzZUZGRWxvMTIxNlVQMHBjcEhMUGpXYl9BcVlVb25XTm00bGlsVXJhTGR3V0ZSM1l2dVJFd0U1N3IzV0Z1QjU0MDhPSFlLeHhzVVZDT1g0UkFxLWhkNEE3RGRxaUJWVndWRkZFNVZneGRrTF9tYm5kUk5vVFlIQkNEN2tTWG9zTXFRZlZRb3hCQnhKaS1JSVVWc0lfbmo?oc=5",
+     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
+     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPclJLUU9SeHlPbjh4eXgxLVpxTm1hQXFvMEVwLURoak10NWpEX3VOeE5TUE9ET3RsNWVWR2Fjc0NRTUItb1VmX1hGdzA2Y1E5ZldGX1d5Zlpic0VicGxUMXBHUERvcUVSRDVVb1FPYkpoUGlXNW1zMlQ2VnJxZjRkRS12ZUNjam1rV1BOYjQ1RG52ekZGQTlXM1AyU3RGLXRZOFpXbmhRbHlxZ0tzQ0dhMU5wcm1MS2xHcDVZSWV2X0tMWGxONVFxemNIbUNDb1NvYVdIN1NQcXRBblZZd0s0YWs1NzRGUmpZaFN4NUhUOVVpaWRPYnNHcWFlTnAxWWhBZjBVWHNyRzZlZw?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-16T05:32:48+00:00",
      "companyId": 11,
@@ -1440,19 +1439,6 @@
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVXBRUVluS0xHOXVKSEF6M1RZVHVVcWlJb3huc1hCZnZsUVhfeE5oc3NtUzhyQWREeDB6OTlPTnZuMnVYdEVPLWUwV1VHelc0a0h0YVZpbm9HTHZ4ZDR0ZjQxTEJVSjZHcEd2STVQN0rSAXZBVV95cUxNNkU4MlBPZmRVMUtnTTZBMkkyMzFHMGVBQ3Z6VERFTUgtSXU3QndFSlJCUnUyc2VnVl9NdjZ2WTFUTjltazZQZ0I0YzhGenhkVVU4UTBEbnNEbE1MTm1uYnNWVk1KVm53VTl5eFlTSFhfenp2dHpn?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-09T04:34:25+00:00",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-30",
-     "title": "The High-Stakes Hunt for the Next Amazon in the AI Haystack",
-     "summary": "The High-Stakes Hunt for the Next Amazon in the AI Haystack WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmJlTUVuQ3ZnN3NhVDdMZF9xTVpnZVBESjcxRmtLb3lpTHp0ZzZPOVFyWkZRbTlIcUZZQmZ4dXZIWmRSRDZMTzJXTEtrS1MxUzRpMGhMZEVvTktSQldGZmlSVWdpRVJOTjQ2Y1RZeGJycXBhUTJMenNoZXFYMWNGN0RDVFg4Z1VSOElKMDl5TXVCWGtSRVZXZjJWY08?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-06-17T07:26:11+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -2948,18 +2934,6 @@
      "company": "HCA Healthcare",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-05-19",
-     "title": "HCA Healthcare Colleagues Volunteer More Than 41,800 Hours During Annual Days of Service Initiative",
-     "summary": "HCA Healthcare Colleagues Volunteer More Than 41,800 Hours During Annual Days of Service Initiative Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSW8zOHhEay0yaS10TVFHNnF3cXVQZDhPTDIwa2E1UTNLTDNKU2tTUkFJU1BQMDlMVUgyOVJDMDFxTEFGeTNybDJ5cnFncm8xVV9xYWJkUWFrTTVreVNaTXFDbHU4aExzVXJyU3NiNjllTHBVTnVoYnhHdm9uelFPRnl2dURFNEw2bjlld2ZtY1kzQ0pFMkt4bG1HZ2l0NXk2cGVZX0pIdkhFbXRSZUFKTWdGNTNmZTJua3B4MjIwVGpSaVRReDE0WGRDR1pWbkpLd00wOUhqblhKMnFJb2ZfNms1MVhDbmR2QzNz?oc=5",
-     "category": "Sonstiges",
-     "companyId": 30,
-     "company": "HCA Healthcare",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
    "events": [
@@ -3450,19 +3424,6 @@
      "status": "Watchlist"
     },
     {
-     "date": "2026-06-10",
-     "title": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year",
-     "summary": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODFlUmFrb0Q1cXI3SlhNRjFuNlN1VmpiMEh5LU13T3FHdV9SbEV0UmlwaC1IY2hlbjN2WGVyWmVvSVk3ZGJRS2ZtUVFGOV9EeTFwVzR1VjBqSXQtbmhrRkVDaEhLQXhyQmwwMlRQTXllaWRuaEVKejBvNnBfdGdxaFYyYjZ1NHM4b01NMW5SVzRRdmJyRGdrZjU1UHRtcXJXRnhhcTg5emtWTExBVkQzelh6dlVKckhuNnl6OFlIMHAyaXI3MnNidnlycVMzZ1lvWXd4Nnd3UHRVTUhB?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-11T04:58:48+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
      "date": "2026-06-08",
      "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
      "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
@@ -3490,12 +3451,38 @@
     },
     {
      "date": "2026-05-26",
-     "title": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake",
-     "summary": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzJNZ3d3SnpaUXBKWHNzWlJRY2twRm0wSXE5VHIwN2tSZjFvY2FRMzRqMHFXZ1piRE5kS0FudHFpajRXU3Y3MUYtTVJabTFlcEljX3RaT1g3elN3RmFYUW5qVi1SckhZVnphdFRqNkhscnFLaC1pYjgyZDhUSnlYNDdGOERpWU5INmkwdUdpSVVONlBS?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-06-18T05:02:14+00:00",
+     "title": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation",
+     "summary": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmtJM003cGFmZjkxQmdSYnVCQVZGVkwweXZ3SzYyYXdfakRWQUpMemNMdngwamZWQV9EVUNHNkhwYk5mRUMwWnVnbzVaZkRmSHdlNEI3SThPZS1EekpJYzdTRnNoZWdwUkQ5T3RZSGNjaTRGSmp2SFlkNFlpQTNjX1Q3TWVHX3ZsM0NBMjJPeXpXa3FUM09jdk9YQldSSExnMHlYUnVSbXZYQ1NtMGZtUU5HN0lmMWJFRGFQTWFhV0FheXJBcVJnczNmejRwWVFwbHJWSGZpeE13eXoySmVlN0xxcWdFQkRnWEcwb0NKd1VOWFhwY25DOGYtMXhnWVFobS00?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-18T07:04:40+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-05-21",
+     "title": "S&P Global Announces Approval of Separation of Mobility Global",
+     "summary": "S&P Global Announces Approval of Separation of Mobility Global PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkJFTk5iNXBlYXczY3k1M1ZYTF9YeWJScmo5R2JtR0lxM2JjdTBFUG1GdVZxZTF6VG5ZU05aMWFuemhqVXY5UnFsQVAzZUE2VE05ZllGRE5HYkR1ektpWm5TeGE0akJ2NlY1LVNDUUNubWFQaFNSQ3NsblB0SmtRM3UwWFA0RkdNa2lSb29OUm92NXNwN1ozNGRJQjBndmtBS2xBLWV0c3JfNjhMMG45Q0FRc3hqV3ZX?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-18T07:04:40+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-05-20",
+     "title": "S&P Global Ratings Maalot Raises Elbit Systems' Long Term Rating to \"ilAAA\" (Local Scale), With a Stable Outlook and Reaffirms Short Term Rating of \"ilA-1+\" (Local Scale)",
+     "summary": "S&P Global Ratings Maalot Raises Elbit Systems' Long Term Rating to \"ilAAA\" (Local Scale), With a Stable Outlook and Reaffirms Short Term Rating of \"ilA-1+\" (Local Scale) PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQLWNlZkRoRE43ZlphQkZDVFpkeGdVaUozRGQ1YmZTZ0pfc21jaVpaSTQ3X29CTjZhbUNQdUN1UERCWnluUWYwY2NvVDlKaHg2R3ZKb0ZKc1FNU25hbW83T1h2Zkd3UGxVZDIwTUR3aTlmQWxCUmF5eDJSRTN3R3NJQ1NKT29HNjdCMjlGOHptcEV4bXN4SUpjRjdBS0J0ZUw3b2R3N3Z3aF9Idl9OaXJaQTRqUFVWVzVKNWJxaDdyRXlJMHBzNU1paVMwaUhqNThOb1ozak96QVRDTnM5UUxMRDdtM01XVFl5bTRsM2F6UkhfSnltaVdyTGl1NDhsQ2RsN0owajE1SC1sLWp1Zmh4VDZrNDBXeER0aHpEa2lXZkcydFRpV0tTSUg3a2U0Z3F6X3RQdkVsRFBVdw?oc=5",
+     "category": "Guidance",
+     "firstSeen": "2026-06-18T07:04:40+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3777,6 +3764,19 @@
   },
   {
    "date": "2026-06-16",
+   "title": "GPK Shareholder Alert: July 6, 2026 Lead Plaintiff Deadline in Graphic Packaging Holding Company Securities Class Action - Contact The Gross Law Firm",
+   "summary": "GPK Shareholder Alert: July 6, 2026 Lead Plaintiff Deadline in Graphic Packaging Holding Company Securities Class Action - Contact The Gross Law Firm PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOYjd6NVEtcWlCNVVpb0p1RmFPeTB1cG9FWlZiZGJOS2NZaXhHaGVVWkNtMW5uOEd3Mm1MXzZLd0s1Y18yTnptTkpNYnByRlFhdXJFd1RJUUdaVWhMSnJXcnh3X19xRmJZZ3lmMElXZGRjX1FDaG5ENkg5Ukt4SWJTZjNEWmxkV0NsNWFBV1JsTUs1N0JPYVZLV2tQYzF4TUtFcndYcEdobDVpcnlTYzNvV29ZRk9QV19BbUI4SGZXU3l3ZjBjdkExWkloWUozV0FBYmhqLXZKU2RUeVdtRWNNTlFTME5CYnpjMFZFckQ3akxKZ0J5bHFiTDg0TEVKZEszc2dtZXFLU0V6blRrODEyd1dsWmxtVnZhUm9fZmxIUXhtRWNUZXl0TVFySQ?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-18T07:04:40+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-16",
    "title": "Post Holdings (POST) Q2 2026 Earnings Call Transcript",
    "summary": "Post Holdings (POST) Q2 2026 Earnings Call Transcript Fortune",
    "source": "Fortune",
@@ -3803,36 +3803,10 @@
   },
   {
    "date": "2026-06-15",
-   "title": "International Petroleum Corporation Corporate Update: Blackrod Phase 1 First Oil Achieved",
-   "summary": "International Petroleum Corporation Corporate Update: Blackrod Phase 1 First Oil Achieved GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdWxRRUpzRWF6bHZhWE5tak9nM3I5R2dXUVFYd041VE9UWnNYYWJYck9KUzhTd1R5aVdkc0kyRUV2TTRfZm1lcHNNNWl5OUktZi1BalQyMnlRYzBOdHlDeF9QQmpEOWR3cDVKdjVIeXN1cjRPYld2Y3BORjBtYXVtRnktT2ctYTZvNm5vV3N5ZWJGOHlOYkZZdE1MVGg4aVY4OTBvX3hYU1VKYjFLeWs4R1M3UWMzR05OdnB6cUg1SVVoaFJXRDM0TlhDSHFIeFVKWVR5SWZmNl92UThjYjM2ZlBnUTV3WmxELXoxUUcydXJmQQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-16T05:32:48+00:00",
-   "companyId": 3,
-   "company": "International Petroleum",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
    "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
    "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
    "source": "PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPclJLUU9SeHlPbjh4eXgxLVpxTm1hQXFvMEVwLURoak10NWpEX3VOeE5TUE9ET3RsNWVWR2Fjc0NRTUItb1VmX1hGdzA2Y1E5ZldGX1d5Zlpic0VicGxUMXBHUERvcUVSRDVVb1FPYkpoUGlXNW1zMlQ2VnJxZjRkRS12ZUNjam1rV1BOYjQ1RG52ekZGQTlXM1AyU3RGLXRZOFpXbmhRbHlxZ0tzQ0dhMU5wcm1MS2xHcDVZSWV2X0tMWGxONVFxemNIbUNDb1NvYVdIN1NQcXRBblZZd0s0YWs1NzRGUmpZaFN4NUhUOVVpaWRPYnNHcWFlTnAxWWhBZjBVWHNyRzZlZw?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-16T05:32:48+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
-   "title": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action",
-   "summary": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action ACCESS Newswire",
-   "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV216Zmc3c0FDbTR3b0hySXNySjN1QnJxVVNfNTQ3NW9kcjQ4cEE3N3pLWE1hUWtIUWRWR1VUYXVfbzRaZG1sVXVuM2hSSjMzZUZGRWxvMTIxNlVQMHBjcEhMUGpXYl9BcVlVb25XTm00bGlsVXJhTGR3V0ZSM1l2dVJFd0U1N3IzV0Z1QjU0MDhPSFlLeHhzVVZDT1g0UkFxLWhkNEE3RGRxaUJWVndWRkZFNVZneGRrTF9tYm5kUk5vVFlIQkNEN2tTWG9zTXFRZlZRb3hCQnhKaS1JSVVWc0lfbmo?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-06-16T05:32:48+00:00",
    "companyId": 11,
@@ -4034,19 +4008,6 @@
    "company": "Tencent",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-10",
-   "title": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year",
-   "summary": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODFlUmFrb0Q1cXI3SlhNRjFuNlN1VmpiMEh5LU13T3FHdV9SbEV0UmlwaC1IY2hlbjN2WGVyWmVvSVk3ZGJRS2ZtUVFGOV9EeTFwVzR1VjBqSXQtbmhrRkVDaEhLQXhyQmwwMlRQTXllaWRuaEVKejBvNnBfdGdxaFYyYjZ1NHM4b01NMW5SVzRRdmJyRGdrZjU1UHRtcXJXRnhhcTg5emtWTExBVkQzelh6dlVKckhuNnl6OFlIMHAyaXI3MnNidnlycVMzZ1lvWXd4Nnd3UHRVTUhB?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-11T04:58:48+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   },
   {
    "date": "2026-06-09",
@@ -4322,19 +4283,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-30",
-   "title": "The High-Stakes Hunt for the Next Amazon in the AI Haystack",
-   "summary": "The High-Stakes Hunt for the Next Amazon in the AI Haystack WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmJlTUVuQ3ZnN3NhVDdMZF9xTVpnZVBESjcxRmtLb3lpTHp0ZzZPOVFyWkZRbTlIcUZZQmZ4dXZIWmRSRDZMTzJXTEtrS1MxUzRpMGhMZEVvTktSQldGZmlSVWdpRVJOTjQ2Y1RZeGJycXBhUTJMenNoZXFYMWNGN0RDVFg4Z1VSOElKMDl5TXVCWGtSRVZXZjJWY08?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-06-17T07:26:11+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-05-28",
    "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
    "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
@@ -4463,12 +4411,12 @@
   },
   {
    "date": "2026-05-26",
-   "title": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake",
-   "summary": "S&P Global Energy president Dave Ernsberger warns the principle of freedom of maritime flow is at stake CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzJNZ3d3SnpaUXBKWHNzWlJRY2twRm0wSXE5VHIwN2tSZjFvY2FRMzRqMHFXZ1piRE5kS0FudHFpajRXU3Y3MUYtTVJabTFlcEljX3RaT1g3elN3RmFYUW5qVi1SckhZVnphdFRqNkhscnFLaC1pYjgyZDhUSnlYNDdGOERpWU5INmkwdUdpSVVONlBS?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-06-18T05:02:14+00:00",
+   "title": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation",
+   "summary": "S&P Global Announces Leadership Change for Market Intelligence, Evolution of Enterprise Data, Technology & Transformation PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmtJM003cGFmZjkxQmdSYnVCQVZGVkwweXZ3SzYyYXdfakRWQUpMemNMdngwamZWQV9EVUNHNkhwYk5mRUMwWnVnbzVaZkRmSHdlNEI3SThPZS1EekpJYzdTRnNoZWdwUkQ5T3RZSGNjaTRGSmp2SFlkNFlpQTNjX1Q3TWVHX3ZsM0NBMjJPeXpXa3FUM09jdk9YQldSSExnMHlYUnVSbXZYQ1NtMGZtUU5HN0lmMWJFRGFQTWFhV0FheXJBcVJnczNmejRwWVFwbHJWSGZpeE13eXoySmVlN0xxcWdFQkRnWEcwb0NKd1VOWFhwY25DOGYtMXhnWVFobS00?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-18T07:04:40+00:00",
    "companyId": 34,
    "company": "S&P Global",
    "asset": "Aktien",
@@ -4484,6 +4432,19 @@
    "firstSeen": "2026-06-17T13:12:03+00:00",
    "companyId": 8,
    "company": "Prosus",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-21",
+   "title": "2025-2026 Tri-M® Music Honor Society National and State Chapters of the Year Announced",
+   "summary": "2025-2026 Tri-M® Music Honor Society National and State Chapters of the Year Announced PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmZtNzBKSEZKeF81T2JrLUFGUWNwSkE4ZTJzRDEyb0hhYUNWWHZVOFpfM1h4Q1dBanFoQVVxYmdESk5lU05yN1dfSFFiOUs2bDg1d2dkejZOLXgwYmkxdFJCdm56eXluWHR1aTR5VWVZcEo5eU1FckpPZENJYXNvUGVOYXRqbVdHbHY5NG96c3dDeVNyRWVNWjhYdEpWVk5sRUFJQUxYM2pucU5ZTEU2bW5sRHNBenRXZS00Z3Q5ZTF6MjR1V0hHQlFOcDVoTWs5eWhYSUJ4MA?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-18T07:04:40+00:00",
+   "companyId": 2,
+   "company": "Chapters",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
@@ -4525,6 +4486,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-05-21",
+   "title": "S&P Global Announces Approval of Separation of Mobility Global",
+   "summary": "S&P Global Announces Approval of Separation of Mobility Global PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkJFTk5iNXBlYXczY3k1M1ZYTF9YeWJScmo5R2JtR0lxM2JjdTBFUG1GdVZxZTF6VG5ZU05aMWFuemhqVXY5UnFsQVAzZUE2VE05ZllGRE5HYkR1ektpWm5TeGE0akJ2NlY1LVNDUUNubWFQaFNSQ3NsblB0SmtRM3UwWFA0RkdNa2lSb29OUm92NXNwN1ozNGRJQjBndmtBS2xBLWV0c3JfNjhMMG45Q0FRc3hqV3ZX?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-18T07:04:40+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
    "date": "2026-05-20",
    "title": "Ubisoft flags more losses after record hit",
    "summary": "Ubisoft flags more losses after record hit Reuters",
@@ -4550,16 +4524,17 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-19",
-   "title": "HCA Healthcare Colleagues Volunteer More Than 41,800 Hours During Annual Days of Service Initiative",
-   "summary": "HCA Healthcare Colleagues Volunteer More Than 41,800 Hours During Annual Days of Service Initiative Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSW8zOHhEay0yaS10TVFHNnF3cXVQZDhPTDIwa2E1UTNLTDNKU2tTUkFJU1BQMDlMVUgyOVJDMDFxTEFGeTNybDJ5cnFncm8xVV9xYWJkUWFrTTVreVNaTXFDbHU4aExzVXJyU3NiNjllTHBVTnVoYnhHdm9uelFPRnl2dURFNEw2bjlld2ZtY1kzQ0pFMkt4bG1HZ2l0NXk2cGVZX0pIdkhFbXRSZUFKTWdGNTNmZTJua3B4MjIwVGpSaVRReDE0WGRDR1pWbkpLd00wOUhqblhKMnFJb2ZfNms1MVhDbmR2QzNz?oc=5",
-   "category": "Sonstiges",
-   "companyId": 30,
-   "company": "HCA Healthcare",
+   "date": "2026-05-20",
+   "title": "S&P Global Ratings Maalot Raises Elbit Systems' Long Term Rating to \"ilAAA\" (Local Scale), With a Stable Outlook and Reaffirms Short Term Rating of \"ilA-1+\" (Local Scale)",
+   "summary": "S&P Global Ratings Maalot Raises Elbit Systems' Long Term Rating to \"ilAAA\" (Local Scale), With a Stable Outlook and Reaffirms Short Term Rating of \"ilA-1+\" (Local Scale) PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQLWNlZkRoRE43ZlphQkZDVFpkeGdVaUozRGQ1YmZTZ0pfc21jaVpaSTQ3X29CTjZhbUNQdUN1UERCWnluUWYwY2NvVDlKaHg2R3ZKb0ZKc1FNU25hbW83T1h2Zkd3UGxVZDIwTUR3aTlmQWxCUmF5eDJSRTN3R3NJQ1NKT29HNjdCMjlGOHptcEV4bXN4SUpjRjdBS0J0ZUw3b2R3N3Z3aF9Idl9OaXJaQTRqUFVWVzVKNWJxaDdyRXlJMHBzNU1paVMwaUhqNThOb1ozak96QVRDTnM5UUxMRDdtM01XVFl5bTRsM2F6UkhfSnltaVdyTGl1NDhsQ2RsN0owajE1SC1sLWp1Zmh4VDZrNDBXeER0aHpEa2lXZkcydFRpV0tTSUg3a2U0Z3F6X3RQdkVsRFBVdw?oc=5",
+   "category": "Guidance",
+   "firstSeen": "2026-06-18T07:04:40+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
    "asset": "Aktien",
-   "status": "Portfolio"
+   "status": "Watchlist"
   }
  ],
  "events": [
