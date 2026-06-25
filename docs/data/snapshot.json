@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-24T06:15:08+00:00",
+ "generatedAt": "2026-06-25T04:33:56+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -133,6 +133,19 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOXzRvaXdETXFoZmt3NTQ1dWZLTDRpQzRPVVdVWk9wakQ1S2JQYklkdDZnaEc1eldqdXdSNUNBTWhha0MtSHVVeTZOTDlxbVp1UEk4U1VNdEVjWWdacWRJRF9fSEZBY19CRFdBdVVmaGJXWUlSRVZsbWZjZlJXMjNmSXU1eFBYNDJBU281YTk2Rk9BcWhTVDZNX2tsWS11ZWllWDVfUHkzVlF0YXVXSEptU0VJa19HUGluSzQtQWJVdmc2Yms4MU1LSWVUYm53TDVOVzFjd2JDZThWczJpZnI5ZnQ3eUw?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-21T05:18:08+00:00",
+     "companyId": 4,
+     "company": "Borr",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-19",
+     "title": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Borr Drilling Limited (BORR) And Encourages Stockholders to Reach Out",
+     "summary": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Borr Drilling Limited (BORR) And Encourages Stockholders to Reach Out ACCESS Newswire",
+     "source": "ACCESS Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdWZBOWMxOHYwb3poQmN2NFNETGd3VzRTemp1S2F6ZGNUM3J1dWFJY3A4Qk5vUS15RUYydHNTLUk5SjdpVkEzSUlWaDNFX1JPVGVuOTBReVpLMnRJdjBJU3VEOXpXTHRMM24tLXplX3JYVHlnMkluS0xvWVRXQlpYS0pQWWIxUXVGWlJnUVUtYnpyNHoyTHhoak1XaDJjSm11T0NNa3JXelJaTnBBQ2tBOXE3RVFkNUhlRlJfTlQ0TmljeHRRUTV6bG95d1hMQmh5VV9MQzZLR1AtR2w5RE1kdmF4TFg?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
      "companyId": 4,
      "company": "Borr",
      "asset": "Anleihen",
@@ -284,6 +297,32 @@
      "company": "Mineral Resources",
      "asset": "Anleihen",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-29",
+     "title": "Ramaco Resources CEO Randall W. Atkins Appears on CNBC's Morning Call to Discuss Critical Minerals and Energy Market Trends",
+     "summary": "Ramaco Resources CEO Randall W. Atkins Appears on CNBC's Morning Call to Discuss Critical Minerals and Energy Market Trends PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNDMzNThGSVZsSm0xdWhzQkhvSVFHY2E2bEtJVjJIdjFhc3pMaDZ6eC1nTHl2Q2xCdW9tcERnM0s3bF9iLXdHMnQ4clh6NE5wbzk2VDByTWVxNWp2VDc5S1FacHNSYjh4UkZHSVZmVVV0VmlpLUQ3MlBHMVFMcTAtYk5MZXJsOU1uUXFWS2gwb3BUMThxSnhhcVFRVkFoSVEtbW5RWWJHQ282dDNhNVVXZkVSaVBWcHdlZE5zNTJtUnBSc3VGVjVxc2RzeEdCeW1CeGNseThFeXVZVHpMbndwQWRFUUZ5MHhMSFVWSjB1WU5DNlFFNHFHWmgxbWs2MjFjQ0FXRWttVzU?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-26",
+     "title": "Klondike Gold Announces 2026 Diamond Drilling Program Underway to Update and Expand Gold Mineral Resources",
+     "summary": "Klondike Gold Announces 2026 Diamond Drilling Program Underway to Update and Expand Gold Mineral Resources ACCESS Newswire",
+     "source": "ACCESS Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1lpTjhFb2o3bGpEeHJXMnlOS3R0RTZqcWdZMXJVM09BN3hpaVBkclVrdXhyZmVyYUNoWVZnTXhad3ZpOGtYUWdsTjBTbHVvRENpQk1zR2ZtSWo4b2pwUVVVcjdBMHFzRWJ4RU8yZEZVbkNlUmk2SzRJRTQ5ZTlkbUROc3pXZno4eV9tWmdrOFdEa3pSemdPeUEyQmNBS1NQVHdDMmdmWGdzR081Ylh5d0JBQ1ByMkFpNTk1Wjctd01MMTByX3E5Mk9WVkZpS3MtWmhFYzMwZUUyeWdnY1ZLcjNSd3M?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
     }
    ],
    "events": [
@@ -374,6 +413,19 @@
   "8": {
    "news": [
     {
+     "date": "2026-06-24",
+     "title": "Prosus launches ToqanClaw to help businesses build AI tools through conversation",
+     "summary": "Prosus launches ToqanClaw to help businesses build AI tools through conversation Fortune India",
+     "source": "Fortune India",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUVULUxia3RTcjRnYjNjWmtOWUZMLXMwSW1KRWdiaW1WaEIzZEJtUDduUXNRUHZ1ODZXc2kyWGtYOFBacERRR3BWUmRfaEg1aWFzQzhZdzVNM2pXOEVUa3U5OTlPNm8tWGJIc19xajh5b21BeExtZ0pTSEJVNzJBVkhsZThfTGVDb1NTS3R0bG94TTlXSHFGdjlFbUhYNnlOejNWd2FjdHRaN1JfeGRHd0pIaW5fUndJTE1OQjVwS25fRklRM0VRadIB1gFBVV95cUxPS1hhSjVzb3VqRnZTRVg5OXNXc3dJdTEwMXA4OGhMcUFqRTd4OXFtSDBKb0ZFb1BrUTBYcXE2ckxnSGRtRi1HeDU4ODFIeTkzYnNJWHBFY1RMQkV3cE45R2dNd2RXZGxmYzFEZUd1Z2lGbDBUbUh5cHc5YlF5NC16Q3pDdVMxS1lEeldFVWZEVUUzZ09ud3Yzd1VJQ3otUHF0TThBYXA0ODRzYmRuazhCZUlfYUphSW9KeGk0UlBPODBtOW8zakllMF9OR1V0MldIMVF6TlhR?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 8,
+     "company": "Prosus",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-19",
      "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
      "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
@@ -400,19 +452,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-10",
-     "title": "Prosus steps up open-ended share buyback with €107m purchase",
-     "summary": "Prosus steps up open-ended share buyback with €107m purchase The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVRJam03Z0hNal9ESGlpbTJEdWdJZVZVd0lScFlENXBUN1VZbmhhb1dqZl9VWk5vaGFPMlp2T2VhWFBIR2thdnFNb2stUzhHd0ZMOVRkRlBzd1QzRUh3UEk1SkxoX0JrS0pzdmtiY2trUzBGSTFpZG1aV1hCbzhtRXBvRDczUmFSdjNyWDZNV3hKTEZ1MTRLc3FCZlFnOExrOTlYblhJMUFjczZaOGV1Ym0ySEJCMWJabzh2WkFZQV9IaHg2NnVPdHRORFNLWmZEUGhMQnJNUUtIT3JXOFRHWkt3?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-06-17T13:12:03+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-03",
      "title": "Prosus Buys Back €80 Million of Shares in Ongoing Repurchase Programme",
      "summary": "Prosus Buys Back €80 Million of Shares in Ongoing Repurchase Programme The Globe and Mail",
@@ -427,10 +466,10 @@
     },
     {
      "date": "2026-06-01",
-     "title": "Prosus given more time to comply with Delivery Hero stake sale, EU regulators say",
-     "summary": "Prosus given more time to comply with Delivery Hero stake sale, EU regulators say Reuters",
+     "title": "Prosus considering raising Delivery Hero stake in bid to thwart Uber takeover, FT reports",
+     "summary": "Prosus considering raising Delivery Hero stake in bid to thwart Uber takeover, FT reports Reuters",
      "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczNnVHN6NldfREFrenlsQnVNLXNLalZ5VlZ5OHViU3RyTTVjaWwzeVdPaUFheXYyOUN6NTBvckRQSS1aa2g2b1VtQ1FwMDJELXd3bm5SUmlXZ3ZSVEtMVmdoMlpnRERfNG95OHlUeVVUd1czYnk1NEhPV1RfWXhwV2FsQXI0MWtHQ2VwZTJ0OWpTX3FUSnczLTNvYVh5b0pBZzI3WFRxYkhQMUhjUk5vdlVJZjF3ZXd5WVVfMUJrcw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQkFqNmIxTTc3dUIxNGpCdFpsRXA0RVRTX1k3a3M5VmFGeVBWdFAtZDB0Uy1VbkxUTVJVV2ZGenZVTHg0SUt3SzRoVkI1SUFITUg0MjJZVWJNZXhzc3o2UnJwbTU3TXM0ejQxdEZHMldLVEJ6MG42SlRYbHBCblVfblAxdWt1dGFLVFFrbUhNMExfVkM3VndzV0ttMVFpOWRZdVJuSDJrVUNYV3Z3X0Iwa3NNdi1wY0l4MVZn?oc=5",
      "category": "M&A",
      "firstSeen": "2026-06-17T13:12:03+00:00",
      "companyId": 8,
@@ -440,10 +479,10 @@
     },
     {
      "date": "2026-06-01",
-     "title": "Prosus considering raising Delivery Hero stake in bid to thwart Uber takeover, FT reports",
-     "summary": "Prosus considering raising Delivery Hero stake in bid to thwart Uber takeover, FT reports Reuters",
+     "title": "Prosus given more time to comply with Delivery Hero stake sale, EU regulators say",
+     "summary": "Prosus given more time to comply with Delivery Hero stake sale, EU regulators say Reuters",
      "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQkFqNmIxTTc3dUIxNGpCdFpsRXA0RVRTX1k3a3M5VmFGeVBWdFAtZDB0Uy1VbkxUTVJVV2ZGenZVTHg0SUt3SzRoVkI1SUFITUg0MjJZVWJNZXhzc3o2UnJwbTU3TXM0ejQxdEZHMldLVEJ6MG42SlRYbHBCblVfblAxdWt1dGFLVFFrbUhNMExfVkM3VndzV0ttMVFpOWRZdVJuSDJrVUNYV3Z3X0Iwa3NNdi1wY0l4MVZn?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczNnVHN6NldfREFrenlsQnVNLXNLalZ5VlZ5OHViU3RyTTVjaWwzeVdPaUFheXYyOUN6NTBvckRQSS1aa2g2b1VtQ1FwMDJELXd3bm5SUmlXZ3ZSVEtMVmdoMlpnRERfNG95OHlUeVVUd1czYnk1NEhPV1RfWXhwV2FsQXI0MWtHQ2VwZTJ0OWpTX3FUSnczLTNvYVh5b0pBZzI3WFRxYkhQMUhjUk5vdlVJZjF3ZXd5WVVfMUJrcw?oc=5",
      "category": "M&A",
      "firstSeen": "2026-06-17T13:12:03+00:00",
      "companyId": 8,
@@ -670,13 +709,26 @@
   "11": {
    "news": [
     {
-     "date": "2026-06-23",
-     "title": "Deadline Alert: Graphic Packaging Holding Company (GPK)",
-     "summary": "Deadline Alert: Graphic Packaging Holding Company (GPK) GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQU0ZpaFNIZmJVZWxiU1lRUnFNUmlhcGV4d1dILTZsVHI4RGtLUkR3N1I5WjhPSUxVVjJHaDNXem4wVGs2ajRUbjVieTh3NlZhR2huZ29ZaHZXYXZQYzlTVmZjWmFlaEVFYm1xLTJGZTg3UDRma2dsMWNDNkJqYVRUejQwcVpvc1N5TWtmOWNuaklqM0l1SlRFWUJ4ZjdxVlVYeC1aWVpmU3VPQXg1VEM1RFNZajVFLUJfSnpoczQzX094cjNSQ0lrcW81UURQRXB2V1NPbm1NLVM3Qi1FajgxZF91OWlFdkxucG5iWlNUNGJHaFNhZWJKOG1zX3NISVZ3bEJUZVNVaUE4SjRjMW1hVG04Q1RoVERRam5RN09VZS1BalF4T3p4V1R5TWw5YV80MkNicDNTUUU0Rk41UXJxdUxERHRwb0ZkSXZLMWx3aUI2dw?oc=5",
+     "date": "2026-06-24",
+     "title": "GPK Deadline Alert: Levi & Korsinsky Reminds Graphic Packaging Holding Company (GPK) Investors of Securities Class Action Deadline on July 6, 2026",
+     "summary": "GPK Deadline Alert: Levi & Korsinsky Reminds Graphic Packaging Holding Company (GPK) Investors of Securities Class Action Deadline on July 6, 2026 PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOam9PcjZ4WTljdVB4RmZCZEw4V00wUWNmcGgyMjd1aEktOURLT245RGNoX3hvQ2xUTXZjT200UGpKQkh5OUNvQkhtTW5ROC1hcGxDX1A5RnRMX0xDM1pfTmRKSUJlM3FiT2hfcGlYWWFEbU9WLXVvVGJlR1BvZG95empFUUNvNlFOOEMybkJKSXlNamRNSlcyY2VYT1ZZS0U1LWhlVFRHR2I0M3RsVEp2b1V6TnlNcEg3OXU2YXV0WHJ1LUFfTmZGeDVHX0V6Zm5HempvVXJWQjNtQ2lCdkY5c1pCa1R2UW1BZGNsdDFoS0o3c3JXbF84Z1JVVGZtNXc2Q0R1UkZhOTg4aC12NUJfMDdsVEVxdWZCcjdlZ0gyTlNGSHM?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-06-24T04:35:26+00:00",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-24",
+     "title": "Graphic Packaging Holding Company (GPK) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before July 6, 2026",
+     "summary": "Graphic Packaging Holding Company (GPK) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before July 6, 2026 ACCESS Newswire",
+     "source": "ACCESS Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0NxSmM1UXItSXlRa3dWaGd0eTFlQmtPX1EwWmhJWkw5SEkyZW1EeDhRbHJUcVY0Y0sycmpOWDlwR09QLUY0cGUzLUpZaGdGTFJ4TXdXWURNT0E4VWphUHJmaU9aODk1SmhnTEZtbUEyRG5xYTB4cGFqWnZ3SGdfUWMzQ25pa3ZncHpoTFcwT2sybE9lM1pFQ1M5ZE9HS3NOM3gyMUFHaW04dElaVEM4TVJuc1VvUjBTQmhWaktDRzJ6Rmw4emdYbUc4YnJTbVZrcWhCSDVkTXlIdlVmQm9YX19XZFQ?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -697,10 +749,10 @@
     },
     {
      "date": "2026-06-23",
-     "title": "Levi & Korsinsky Notifies Graphic Packaging Holding Company (GPK) Shareholders of Class Action Lawsuit and July 6, 2026 Deadline",
-     "summary": "Levi & Korsinsky Notifies Graphic Packaging Holding Company (GPK) Shareholders of Class Action Lawsuit and July 6, 2026 Deadline ACCESS Newswire",
+     "title": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action",
+     "summary": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action ACCESS Newswire",
      "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUd3SHc4OFA5YVoxZE5FS0RlZ2Z4U3dzSmVQZGpoX3hfQmhENTZWeXJ4Y2VoamVGUWs4VGtGQ1FJMFIyaTNSazQycHJuUmpTS0pTVmNQTk5QRVIxVW1DMjJja0doaHM2VUQ1a0h6RVlzVURNRHdjbk4xSXhzbE92RE9nVzRoWGlXSzFnbXZ2MkNDeURBSE43NGI4S3d6dmpqQWY2RmotTUxWVzV0VjRGb1JUUlVfbjJLZlNjRkxyWVZjLWhLaENfNDZlMGJOYmkydjdMR3pjVmp1eEU3OXR5TlptN0k?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2g2cHVDS0hvdTVVS0dmZHQzemU0MWdSMVZNdUJrbU9HY1htUzdSang2cVU3bGNnemZDQzkxY0RxZGw1SWtjYllfUzM0eFkxUGkyZjMzbHJRdFlkN1oxTDVFMTZPMXM5bzF0d2Nheklsd0piS1Zfc21Cekd5aGdXNzJtem5oa2M4Si12UXc1MWVMZURSTm1xN3lvYUJueGgxLTc0cXI4dWRWMzVuRE5IRDUyQ0xyck9vWXpaeHE5M2lUUjRiTXhRZ1k1VUdzaXczRmJUa2hZSjU3OHZOSjA1T09mUnc?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-24T04:35:26+00:00",
      "companyId": 11,
@@ -710,12 +762,12 @@
     },
     {
      "date": "2026-06-23",
-     "title": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action",
-     "summary": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action ACCESS Newswire",
+     "title": "Shareholders of Graphic Packaging Holding Company (GPK): Protect Your Rights Before July 6, 2026 - Contact Levi & Korsinsky",
+     "summary": "Shareholders of Graphic Packaging Holding Company (GPK): Protect Your Rights Before July 6, 2026 - Contact Levi & Korsinsky ACCESS Newswire",
      "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2g2cHVDS0hvdTVVS0dmZHQzemU0MWdSMVZNdUJrbU9HY1htUzdSang2cVU3bGNnemZDQzkxY0RxZGw1SWtjYllfUzM0eFkxUGkyZjMzbHJRdFlkN1oxTDVFMTZPMXM5bzF0d2Nheklsd0piS1Zfc21Cekd5aGdXNzJtem5oa2M4Si12UXc1MWVMZURSTm1xN3lvYUJueGgxLTc0cXI4dWRWMzVuRE5IRDUyQ0xyck9vWXpaeHE5M2lUUjRiTXhRZ1k1VUdzaXczRmJUa2hZSjU3OHZOSjA1T09mUnc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbU05N0NQS0dVWklVUkpCUm42YU1IeFpZQ2tPNVIxMnNMZE1ZVUJiOE40QWVFVFRORjBqRXRlUk1CNzNiNnlaRGczSVUyU3lfdnI3dlNfY3k4UnN0blRUdnoxa3AwQWN3cEhvNWloZm5SRkhKZzdpWE5aa19sSExtdWlTRHhlOHJFZUJTd3NmaENpVy1SYWM3RFh4Q0hlRlFvWFlnaEpZUGduYVZFcVBpVjdWRDdwSW9fTkN3elI0WmdQRGZZMHNTdzRTSUtfcGVLbDJtZy1DMkdhdFVUODFuYlFHUEU?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-06-24T04:35:26+00:00",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -729,19 +781,6 @@
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM2ZYSVhCZS1QaDJieWQzcDVQSXRkcDBXa1gyTmVuOVVNSEhGcmxIMTloSGVjemJrWXhHV1Nta3V5eG84eEU5VFhaYlVVZk9BTXFCMGNiSE1jWVFUM1Zjdmd5QktlNmFmVnZ2b01BUTFQRzV4Y29pQVVnU29OeTJJTW50VDhlR296UVRQVXg1VXhMeGhITXFNX0M5bzhHYy1KMDVBUW85bnQxbTBPUHdEdVNHbWk2QkZfTTNVVW5uZFlVd0VteHY4WjFoZkhFcEZVWVE5bFliVUNrWVNjb0FRYjFRRnZXbUZCUURZcFZsMlBpalhJNVhrXzc1MGRySE1scG5iRVJwSDhXZw?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-22T07:39:26+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-20",
-     "title": "Join Class Action to Recover Losses from Graphic Packaging Holding Company (GPK) – Contact Levi & Korsinsky Before July 6, 2026",
-     "summary": "Join Class Action to Recover Losses from Graphic Packaging Holding Company (GPK) – Contact Levi & Korsinsky Before July 6, 2026 ACCESS Newswire",
-     "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeDN4SEY0NFdDbGpfdmNnUTR0NjBQSlhCM20ydEU2V1ZBUjllamRtb0ptbTlScDIyWF9aMm80X1FEUWRxN1loWFJGRm5fT2t6NDNCa1haLTAybV9kb0FtNUFaM0NXdnNKSkZmNVB3bTZYYkJqYWdHMHB6VzNycmMybzhvZ2Faano3QndpN0RYSDhTc2tDaGh0YXA5b2JaQy11OXQ5TVV2UGZwWU5xd0NiaHV4Vzk3NmtMaVhCaVVxb01YeWZrY1V4ZmRvWG5oMHI5aG9IM3UwVDNiX2VoWU9UU0poaTI?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-22T05:30:24+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1347,7 +1386,21 @@
    }
   },
   "17": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-06-24",
+     "title": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye",
+     "summary": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU1IVW8xeEJsaC1NTWVQTGw0YjdTVE5oNS1WWkJzTXNPMGlnY2Y5MFlOQ3pkVW1EMElfb0FSRVdCVDJNUWU4Z0ZrREwyMFlXa3B5dzFtc1g2c3cxQmZkYTN2OE01R2FINl9QcTNLcGRUajQ0Tm5RMzlXUXZpWTVuMmhJaXBwZndINDZTVlBhMl8tbjZIcUJCZFQ1bzlJLTNTcGFCUHBzOGdscUlzMl9Fd0ZDcG9lVHZsOGxTTmZHVDhPZ1VsYTRiSUxITDdUbVZUOWhIRFd5UUFHRzduUzVBcEN5M1FQejNXb0E?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 17,
+     "company": "Kaspi.kz",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-08-10",
@@ -1380,6 +1433,19 @@
   },
   "18": {
    "news": [
+    {
+     "date": "2026-06-24",
+     "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
+     "summary": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1BYUk9wNHlqZ1FHelp6YUJ1djE3dGVmOUNZY3c3Zm1rQWxVU191TDlFNERWem9FaEFVd1V2UndNM2k0Q2pMMVVHZkp6ZzBVdGtESlRJbnBwbEVqLVp4cVFQQ2lWNzZoeldoazF2c0Vvcm5TdGR3OW5Bb2FHQlJPdE9tZTJ4enQ5QWZBa01TUDh5Rlp6SUhEOHBjRlV5Ynk4NUE5QWFGbVnSAa4BQVVfeXFMTmFHQXIyc1JFT2tHaG9EamFGeFJ0enVOY0x6aVctSWd3ZElKQklOV01IMTRnWjFDNHk1ajROcThDRTQ5aWNlU3ZCYlhKRVhabWhBenpmakJaZ0lYVjNPNUNZVmtPR3lGTXBXOFBia2FiX2NYNi1tY21BU3FvUEJoLUdySnAxc1JUbUNQdmJoUDhZRFJ0M2p4R255UUZWWGlPS3Z2U2RpNExIOEVMdGZ3?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 18,
+     "company": "Amazon",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-06-18",
      "title": "Amazon investigating engineers who criticized AI data center expansion",
@@ -1663,7 +1729,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     222.69,
      210.32,
      208.72,
      206.96,
@@ -1757,12 +1822,13 @@
      237.5,
      244.39,
      232.79,
-     234.11
+     234.11,
+     234.27
     ],
-    "price": 234.11,
-    "sma50": 257.0,
+    "price": 234.27,
+    "sma50": 256.89,
     "sma200": null,
-    "rsi": 34,
+    "rsi": 37,
     "macd": "baerisch",
     "high": 274.99,
     "low": 198.79,
@@ -1833,7 +1899,21 @@
    }
   },
   "20": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-06-03",
+     "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
+     "summary": "Microsoft teases new era of AI-driven devices at annual developer conference Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hudE1XOEVGajhxeFBhMXZBbDRYTHJieG1waXZLRG85S3lNSGFKWnVCQnNLWnd0RmNsZjBGcFoxQlhqR3l5T1A5Ni02UU42SnRZUEJ5WWJMMUJPTWdBVjV2SW5NQ0NUQ25JWURYSEVJdmFTMGlGX2M3VHpWLUs2MG5MeFh4aUJrcjk4OG16OHk3S0tUSW9JUW5jR0JrWU9HRUNJcFpqcVdxVXFmR0wwOEIyODNESk5HWUE?oc=5",
+     "category": "Conference",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 20,
+     "company": "Microsoft",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-07-29",
@@ -1921,7 +2001,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     393.67,
      401.14,
      413.6,
      413.27,
@@ -2015,12 +2094,13 @@
      378.91,
      379.4,
      367.34,
-     373.94
+     373.94,
+     365.46
     ],
-    "price": 373.94,
-    "sma50": 412.92,
+    "price": 365.46,
+    "sma50": 412.54,
     "sma200": null,
-    "rsi": 17,
+    "rsi": 18,
     "macd": "baerisch",
     "high": 460.52,
     "low": 356.77,
@@ -2323,7 +2403,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     670.21,
      661.46,
      677.22,
      670.72,
@@ -2417,20 +2496,22 @@
      567.58,
      577.22,
      563.85,
-     562.2
+     562.2,
+     557.67
     ],
-    "price": 562.2,
-    "sma50": 619.25,
+    "price": 557.67,
+    "sma50": 617.72,
     "sma200": null,
-    "rsi": 40,
+    "rsi": 30,
     "macd": "baerisch",
     "high": 688.55,
     "low": 525.72,
-    "score": -2,
-    "label": "Baerisch",
+    "score": -1,
+    "label": "Neutral",
     "reasons": [
      "Kurs unter SMA50",
-     "MACD unter Signallinie"
+     "MACD unter Signallinie",
+     "RSI ueberverkauft (<30)"
     ]
    },
    "profile": {
@@ -2848,19 +2929,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-10",
-     "title": "Bernstein Reaffirms Their Hold Rating on HCA Healthcare (HCA)",
-     "summary": "Bernstein Reaffirms Their Hold Rating on HCA Healthcare (HCA) The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUVGMjhzVzAyV2ZaOFlTZEk5YnRuOHltU21yNFlIQmNYNzFoZW9uS1V2X1prV3FFUGJSb2Jla1JsNUdSX1FxTGpva1pvendqWW9kLXZneFJkcmN2aUVabTFPVGFuMzlYQ0RDRldDSDFRZ1E5NWY4TmljQmNoeEhMa0J6NnZTWmRZczRBWndVMWtZVEpyOTZhRjRiNWZSNVlqSXo5WkdMRWtvNEdHbWlYTnZnN3JzdUU2UjJhSHFreDd6RERZQ3FxOTNBRDBlS3NBMW9VcEVyeDBfSUk?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-06-23T04:20:05+00:00",
-     "companyId": 30,
-     "company": "HCA Healthcare",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-05-27",
      "title": "HCA Healthcare Announces Agreement to Acquire The College of Health Care Professions",
      "summary": "HCA Healthcare Announces Agreement to Acquire The College of Health Care Professions Business Wire",
@@ -2911,7 +2979,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     513.76,
      501.69,
      497.54,
      501.91,
@@ -3005,12 +3072,13 @@
      388.16,
      375.17,
      376.99,
-     386.92
+     386.92,
+     387.76
     ],
-    "price": 386.92,
-    "sma50": 416.7,
+    "price": 387.76,
+    "sma50": 414.51,
     "sma200": null,
-    "rsi": 60,
+    "rsi": 63,
     "macd": "bullisch",
     "high": 545.13,
     "low": 361.32,
@@ -3081,19 +3149,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-10",
-     "title": "Tencent raises $4.6bn in dual dollar, yuan bond issuances",
-     "summary": "Tencent raises $4.6bn in dual dollar, yuan bond issuances Nikkei Asia",
-     "source": "Nikkei Asia",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjRoWldvU09OQTE2ZktJSzM2SjZhWjNuVThYeGdhZVpONTJUbDhMQ3VFUzV5UVBJVHpma0pidnJrNlowUXdEM0J1RkNvOWMxTEhQZ3k4OENKMlBaWVRfSHZ3TGpTbTl6aGhnd2pXSTZsekRkX2hjN09yXzlRbEVIdEZZdGJJY0x4NnZVNTFrZ3NLaGFRc1MzVUljM2dkUFV4?oc=5",
-     "category": "Guidance",
-     "firstSeen": "2026-06-24T06:15:08+00:00",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-09",
      "title": "China's Tencent raises $4.66 billion in dual-currency bond deal",
      "summary": "China's Tencent raises $4.66 billion in dual-currency bond deal Reuters",
@@ -3101,6 +3156,19 @@
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTN4MnlqSmxhaHE2ZE5oVW5nejF0MkRrUmZHeThiLWo2ZEkyN05YOEo5c1VxcHM5X09FNnlVTnRYSVlrTEw3UDZuMFlMTW5jRmJGeWtadXJUeUdmVTJtbGZrN2Z0T2ZpckMwSVdGQzNTMzg5MjQ4Ym1ESW5NTW1pNDM3dHRJSmVsWWN4QlFvRjcwc2NnVHd2R19Ieno4LXZiRlFGZFZUU2FMZjVqOUV4M0YxWFBsNFQ0M2gtdTVEYXdDaHZSVUNEMVNtcVJ0cWJ5?oc=5",
      "category": "Guidance",
      "firstSeen": "2026-06-24T04:35:26+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-02",
+     "title": "Tencent moves closer to launching AI agent for China’s most-used app",
+     "summary": "Tencent moves closer to launching AI agent for China’s most-used app Financial Times",
+     "source": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWpQdDEyUk45SnVqaGNVZ2lwdlpfWTRTaDBEQVk4b1hsaEdHbEFFMEE4V3pkVlcwSWJPZmVCM3pVY2pvbjZNTHJ5OXpHR1BYRHFlUlIyN2VSMGdZMlVLNTBoQThqVUNVZThYN0pSUGRtZnpRclUyTmpaZ0ZKeU1ZdHJHNHY?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3185,19 +3253,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-05-28",
-     "title": "Salesforce Earnings Beat Expectations. The Stock Slides Anyway.",
-     "summary": "Salesforce Earnings Beat Expectations. The Stock Slides Anyway. Barron's",
-     "source": "Barron's",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVlc3UkgyM1NNVFlsdW5vNkpsem03WElrUngtaHBSckxUcHVLemxMNzRVU1NMZ2FteTYzMnBnR0tXZmhnNEdxZE5zVm03T3doeFNsTlRDTFd0Rl9XdEJGNm1INi1ySkczOG9Ob1pUVkRrOE52ekhJR24zUVlmQQ?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-24T06:15:08+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-05-27",
      "title": "Salesforce beats on earnings and revenue but full-year guidance comes in light",
      "summary": "Salesforce beats on earnings and revenue but full-year guidance comes in light CNBC",
@@ -3238,12 +3293,25 @@
     },
     {
      "date": "2026-05-27",
-     "title": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts",
-     "summary": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeks0UVVsN1ljWTV0Sm5tcGFzTG9GTElzeUFtNnhCSlVVc1o1QTViVlJ1YWtRQ3dVd0FOUWRjTmdleUtBWm9HR0d1bi1jdHdmZ0VMM25kNGxwMzBvT0V4dWJCSGVNd3FpcS02RnZHOUtzRERPNDhTek5talhBSGZhRHYxZTB6ZFN1RDF5V2NTZVBsVHh0ZzBESDBOcjJHNVlEUkphVnY5NEtGOHNBUDE2ZHpyQQ?oc=5",
+     "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
+     "summary": "Salesforce revenue forecast disappoints amid AI disruption fears Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
      "category": "Earnings",
-     "firstSeen": "2026-06-24T06:15:08+00:00",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-05-27",
+     "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
+     "summary": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift Bloomberg",
+     "source": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVlTNGlLR1dJdm1YSXN3Wk9yOVlVR1J4Q3FwcF80bUhKd2RMcTByTVdQYXloOGpsZ3dNWmtBMWJmaHVsaGU3Uml0Z3FCTnMyalY3dWQ5dWptalRlUzI1N1M5VmdrWTBFQ2JDY21md1lxdUpJUXN0a1ZidXlFSlpWUVh5Q3NJSXE4d0NlM3dEYzRfdmxnRFF0eV9XdlhWMVU1b3JFVVVCZEIxa0V1N01WazJn?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -3361,6 +3429,32 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-06-16",
+     "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+     "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+     "source": "AgNewsWire",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-12",
+     "title": "S&P Global Energy Launches United Nations Global Compact Screening Dataset",
+     "summary": "S&P Global Energy Launches United Nations Global Compact Screening Dataset PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcFhNNlhjRldsSklweENUTWRDckY1VmEzRTZQVlNQTG1hSmxXcklGRnVhNFVwX1RaRzJ4ZXZTZ21LblJYTzgycjQ4LU02TThFRXF4VFV0SXdFVmRScnBtYi1kcXFOQ244dF83MzY5R25pZzVoZ2lrb3ZtaHlZWWZ4R3BSME5HS2NfWnNtX0FrUWxUaEI3SVYtQ21nejZMS2JsU2thTFhjazVPc1VEeXJnakozYmEtZmlfQVR6bzV5T0daYWF4WnZLRA?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-06-10",
      "title": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year",
      "summary": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year PR Newswire",
@@ -3394,32 +3488,6 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-23T06:18:29+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-06-02",
-     "title": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner",
-     "summary": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXVVWjZ0WEpTTUk3b1lrZTRQdWNxd096YTNYMTZCdEIwZ2tXTzJmdEU3aGFoTjhTM3RLN002bTVZU3pqS1h6c3VpSmR2ZDUwVHJJUl81NGFMNWl1UUhXdlpsWlZ2SzgyeDlVUmoxMjhUOG5mSnVWdkhyaWYzWTJWQi10QUhpc0R4VkZXZFFYZkx1Zm9GZ091LVNEV3Z2bGpSZUpaOXhtLUQxT2dLc21ncW5fdVBOeTBGQThQUHNJNnYzLWRJMVVNRWZZaVRWLV9NNnlNRXpGcG84ZG52ZWVNXw?oc=5",
-     "category": "Conference",
-     "firstSeen": "2026-06-24T06:15:08+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-05-28",
-     "title": "ION Commodities expands collaboration with S&P Global Energy Platts",
-     "summary": "ION Commodities expands collaboration with S&P Global Energy Platts PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1RzODdLWWt0SjhWaDk0WGR5Z1dsUFI4cDJ1NUN6UTZObEp5X3I1dUxna0dpNUFRa0tua2Q0SkN6RXpKSm11ZVBtNzJrT3k2ZVVmaFFpNEZkMWFnUlEyM1FWTmtQcHIxeU5nMklDcm5VamhfQWpFaEFNdHdyQWVPZ29sUmh0d3dLSFNyNU0zdGlWd3RhcGxISTFVaXJ4N2JZVnBkTjB5djNTbDVncUU1eHNndEdFbFBvOVBIYWxzVQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-24T06:15:08+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3606,9 +3674,9 @@
      "title": "Truist Financial Sticks to Its Hold Rating for TRONOX (TROX)",
      "summary": "Truist Financial Sticks to Its Hold Rating for TRONOX (TROX) The Globe and Mail",
      "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSC1OdWNhMDBQZXE0MkxwMTdCSHotQkZxeWplRTFXTHd6dzM5MXRqT1JRMHBhU05QY2Nja1I0QzAyMEZxbFo0VmtMNDNkanF5OXUydC1pa0VZMEtXa0syNFN4TTlnUm10QjBiVlBFaGt5a2c4dGRGa05McGF5OHdFVFlNMF9heGRRd1FxM2hBQTF3SGVPQnRYeGZzSk96MHdDRjlvR0t1SHBVVnpNTUZCd1lfT2FfNUh2bFNTdk1MbVpWWjA3M2FXRWM2X3lxQ0pUMDFEME1Vczd5RTg?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDN4TVY5VDlpZWcwUFp5d1lqT3o5WmNHQjdSUHdnX19aZ0huQVRoSTQyUzNEcU5xSFF0MTNvRWFRX2cwbENob1hTQlQ1X2VqVTYwclFobEJoUGlRWWhGeEp0WWRkblpMRnRBa2Q5VDA3NVlhSmFTOVhUVnlVRGpBVHY5YTdJc3RHNEJIS3F3WTV0ZHc2b2xJdjhPWXlab2p6YUMtYnYwYjc2U1Y5VkRBT0preXhYMVNIN19jZ2JOMHNxVE5QWkVZOXdHRVc3WnRxeHBGMGpn?oc=5",
      "category": "Rating",
-     "firstSeen": "2026-06-22T05:30:24+00:00",
+     "firstSeen": "2026-06-25T04:33:56+00:00",
      "companyId": 37,
      "company": "Tronox",
      "asset": "Anleihen",
@@ -3672,6 +3740,71 @@
  },
  "news": [
   {
+   "date": "2026-06-24",
+   "title": "Prosus launches ToqanClaw to help businesses build AI tools through conversation",
+   "summary": "Prosus launches ToqanClaw to help businesses build AI tools through conversation Fortune India",
+   "source": "Fortune India",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUVULUxia3RTcjRnYjNjWmtOWUZMLXMwSW1KRWdiaW1WaEIzZEJtUDduUXNRUHZ1ODZXc2kyWGtYOFBacERRR3BWUmRfaEg1aWFzQzhZdzVNM2pXOEVUa3U5OTlPNm8tWGJIc19xajh5b21BeExtZ0pTSEJVNzJBVkhsZThfTGVDb1NTS3R0bG94TTlXSHFGdjlFbUhYNnlOejNWd2FjdHRaN1JfeGRHd0pIaW5fUndJTE1OQjVwS25fRklRM0VRadIB1gFBVV95cUxPS1hhSjVzb3VqRnZTRVg5OXNXc3dJdTEwMXA4OGhMcUFqRTd4OXFtSDBKb0ZFb1BrUTBYcXE2ckxnSGRtRi1HeDU4ODFIeTkzYnNJWHBFY1RMQkV3cE45R2dNd2RXZGxmYzFEZUd1Z2lGbDBUbUh5cHc5YlF5NC16Q3pDdVMxS1lEeldFVWZEVUUzZ09ud3Yzd1VJQ3otUHF0TThBYXA0ODRzYmRuazhCZUlfYUphSW9KeGk0UlBPODBtOW8zakllMF9OR1V0MldIMVF6TlhR?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-24",
+   "title": "GPK Deadline Alert: Levi & Korsinsky Reminds Graphic Packaging Holding Company (GPK) Investors of Securities Class Action Deadline on July 6, 2026",
+   "summary": "GPK Deadline Alert: Levi & Korsinsky Reminds Graphic Packaging Holding Company (GPK) Investors of Securities Class Action Deadline on July 6, 2026 PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOam9PcjZ4WTljdVB4RmZCZEw4V00wUWNmcGgyMjd1aEktOURLT245RGNoX3hvQ2xUTXZjT200UGpKQkh5OUNvQkhtTW5ROC1hcGxDX1A5RnRMX0xDM1pfTmRKSUJlM3FiT2hfcGlYWWFEbU9WLXVvVGJlR1BvZG95empFUUNvNlFOOEMybkJKSXlNamRNSlcyY2VYT1ZZS0U1LWhlVFRHR2I0M3RsVEp2b1V6TnlNcEg3OXU2YXV0WHJ1LUFfTmZGeDVHX0V6Zm5HempvVXJWQjNtQ2lCdkY5c1pCa1R2UW1BZGNsdDFoS0o3c3JXbF84Z1JVVGZtNXc2Q0R1UkZhOTg4aC12NUJfMDdsVEVxdWZCcjdlZ0gyTlNGSHM?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-24",
+   "title": "Graphic Packaging Holding Company (GPK) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before July 6, 2026",
+   "summary": "Graphic Packaging Holding Company (GPK) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before July 6, 2026 ACCESS Newswire",
+   "source": "ACCESS Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0NxSmM1UXItSXlRa3dWaGd0eTFlQmtPX1EwWmhJWkw5SEkyZW1EeDhRbHJUcVY0Y0sycmpOWDlwR09QLUY0cGUzLUpZaGdGTFJ4TXdXWURNT0E4VWphUHJmaU9aODk1SmhnTEZtbUEyRG5xYTB4cGFqWnZ3SGdfUWMzQ25pa3ZncHpoTFcwT2sybE9lM1pFQ1M5ZE9HS3NOM3gyMUFHaW04dElaVEM4TVJuc1VvUjBTQmhWaktDRzJ6Rmw4emdYbUc4YnJTbVZrcWhCSDVkTXlIdlVmQm9YX19XZFQ?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-24",
+   "title": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye",
+   "summary": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU1IVW8xeEJsaC1NTWVQTGw0YjdTVE5oNS1WWkJzTXNPMGlnY2Y5MFlOQ3pkVW1EMElfb0FSRVdCVDJNUWU4Z0ZrREwyMFlXa3B5dzFtc1g2c3cxQmZkYTN2OE01R2FINl9QcTNLcGRUajQ0Tm5RMzlXUXZpWTVuMmhJaXBwZndINDZTVlBhMl8tbjZIcUJCZFQ1bzlJLTNTcGFCUHBzOGdscUlzMl9Fd0ZDcG9lVHZsOGxTTmZHVDhPZ1VsYTRiSUxITDdUbVZUOWhIRFd5UUFHRzduUzVBcEN5M1FQejNXb0E?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 17,
+   "company": "Kaspi.kz",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-24",
+   "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
+   "summary": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1BYUk9wNHlqZ1FHelp6YUJ1djE3dGVmOUNZY3c3Zm1rQWxVU191TDlFNERWem9FaEFVd1V2UndNM2k0Q2pMMVVHZkp6ZzBVdGtESlRJbnBwbEVqLVp4cVFQQ2lWNzZoeldoazF2c0Vvcm5TdGR3OW5Bb2FHQlJPdE9tZTJ4enQ5QWZBa01TUDh5Rlp6SUhEOHBjRlV5Ynk4NUE5QWFGbVnSAa4BQVVfeXFMTmFHQXIyc1JFT2tHaG9EamFGeFJ0enVOY0x6aVctSWd3ZElKQklOV01IMTRnWjFDNHk1ajROcThDRTQ5aWNlU3ZCYlhKRVhabWhBenpmakJaZ0lYVjNPNUNZVmtPR3lGTXBXOFBia2FiX2NYNi1tY21BU3FvUEJoLUdySnAxc1JUbUNQdmJoUDhZRFJ0M2p4R255UUZWWGlPS3Z2U2RpNExIOEVMdGZ3?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-23",
    "title": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE",
    "summary": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE PR Newswire",
@@ -3681,19 +3814,6 @@
    "firstSeen": "2026-06-24T04:35:26+00:00",
    "companyId": 5,
    "company": "Mineral Resources",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-23",
-   "title": "Deadline Alert: Graphic Packaging Holding Company (GPK)",
-   "summary": "Deadline Alert: Graphic Packaging Holding Company (GPK) GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQU0ZpaFNIZmJVZWxiU1lRUnFNUmlhcGV4d1dILTZsVHI4RGtLUkR3N1I5WjhPSUxVVjJHaDNXem4wVGs2ajRUbjVieTh3NlZhR2huZ29ZaHZXYXZQYzlTVmZjWmFlaEVFYm1xLTJGZTg3UDRma2dsMWNDNkJqYVRUejQwcVpvc1N5TWtmOWNuaklqM0l1SlRFWUJ4ZjdxVlVYeC1aWVpmU3VPQXg1VEM1RFNZajVFLUJfSnpoczQzX094cjNSQ0lrcW81UURQRXB2V1NPbm1NLVM3Qi1FajgxZF91OWlFdkxucG5iWlNUNGJHaFNhZWJKOG1zX3NISVZ3bEJUZVNVaUE4SjRjMW1hVG04Q1RoVERRam5RN09VZS1BalF4T3p4V1R5TWw5YV80MkNicDNTUUU0Rk41UXJxdUxERHRwb0ZkSXZLMWx3aUI2dw?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-24T04:35:26+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
@@ -3712,10 +3832,10 @@
   },
   {
    "date": "2026-06-23",
-   "title": "Levi & Korsinsky Notifies Graphic Packaging Holding Company (GPK) Shareholders of Class Action Lawsuit and July 6, 2026 Deadline",
-   "summary": "Levi & Korsinsky Notifies Graphic Packaging Holding Company (GPK) Shareholders of Class Action Lawsuit and July 6, 2026 Deadline ACCESS Newswire",
+   "title": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action",
+   "summary": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action ACCESS Newswire",
    "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUd3SHc4OFA5YVoxZE5FS0RlZ2Z4U3dzSmVQZGpoX3hfQmhENTZWeXJ4Y2VoamVGUWs4VGtGQ1FJMFIyaTNSazQycHJuUmpTS0pTVmNQTk5QRVIxVW1DMjJja0doaHM2VUQ1a0h6RVlzVURNRHdjbk4xSXhzbE92RE9nVzRoWGlXSzFnbXZ2MkNDeURBSE43NGI4S3d6dmpqQWY2RmotTUxWVzV0VjRGb1JUUlVfbjJLZlNjRkxyWVZjLWhLaENfNDZlMGJOYmkydjdMR3pjVmp1eEU3OXR5TlptN0k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2g2cHVDS0hvdTVVS0dmZHQzemU0MWdSMVZNdUJrbU9HY1htUzdSang2cVU3bGNnemZDQzkxY0RxZGw1SWtjYllfUzM0eFkxUGkyZjMzbHJRdFlkN1oxTDVFMTZPMXM5bzF0d2Nheklsd0piS1Zfc21Cekd5aGdXNzJtem5oa2M4Si12UXc1MWVMZURSTm1xN3lvYUJueGgxLTc0cXI4dWRWMzVuRE5IRDUyQ0xyck9vWXpaeHE5M2lUUjRiTXhRZ1k1VUdzaXczRmJUa2hZSjU3OHZOSjA1T09mUnc?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-06-24T04:35:26+00:00",
    "companyId": 11,
@@ -3725,12 +3845,12 @@
   },
   {
    "date": "2026-06-23",
-   "title": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action",
-   "summary": "Lost Money on Graphic Packaging Holding Company (GPK)? Contact Levi & Korsinsky Before July 6, 2026 to Join Class Action ACCESS Newswire",
+   "title": "Shareholders of Graphic Packaging Holding Company (GPK): Protect Your Rights Before July 6, 2026 - Contact Levi & Korsinsky",
+   "summary": "Shareholders of Graphic Packaging Holding Company (GPK): Protect Your Rights Before July 6, 2026 - Contact Levi & Korsinsky ACCESS Newswire",
    "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2g2cHVDS0hvdTVVS0dmZHQzemU0MWdSMVZNdUJrbU9HY1htUzdSang2cVU3bGNnemZDQzkxY0RxZGw1SWtjYllfUzM0eFkxUGkyZjMzbHJRdFlkN1oxTDVFMTZPMXM5bzF0d2Nheklsd0piS1Zfc21Cekd5aGdXNzJtem5oa2M4Si12UXc1MWVMZURSTm1xN3lvYUJueGgxLTc0cXI4dWRWMzVuRE5IRDUyQ0xyck9vWXpaeHE5M2lUUjRiTXhRZ1k1VUdzaXczRmJUa2hZSjU3OHZOSjA1T09mUnc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbU05N0NQS0dVWklVUkpCUm42YU1IeFpZQ2tPNVIxMnNMZE1ZVUJiOE40QWVFVFRORjBqRXRlUk1CNzNiNnlaRGczSVUyU3lfdnI3dlNfY3k4UnN0blRUdnoxa3AwQWN3cEhvNWloZm5SRkhKZzdpWE5aa19sSExtdWlTRHhlOHJFZUJTd3NmaENpVy1SYWM3RFh4Q0hlRlFvWFlnaEpZUGduYVZFcVBpVjdWRDdwSW9fTkN3elI0WmdQRGZZMHNTdzRTSUtfcGVLbDJtZy1DMkdhdFVUODFuYlFHUEU?oc=5",
    "category": "Sonstiges",
-   "firstSeen": "2026-06-24T04:35:26+00:00",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3789,19 +3909,6 @@
    "status": "Watchlist"
   },
   {
-   "date": "2026-06-20",
-   "title": "Join Class Action to Recover Losses from Graphic Packaging Holding Company (GPK) – Contact Levi & Korsinsky Before July 6, 2026",
-   "summary": "Join Class Action to Recover Losses from Graphic Packaging Holding Company (GPK) – Contact Levi & Korsinsky Before July 6, 2026 ACCESS Newswire",
-   "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeDN4SEY0NFdDbGpfdmNnUTR0NjBQSlhCM20ydEU2V1ZBUjllamRtb0ptbTlScDIyWF9aMm80X1FEUWRxN1loWFJGRm5fT2t6NDNCa1haLTAybV9kb0FtNUFaM0NXdnNKSkZmNVB3bTZYYkJqYWdHMHB6VzNycmMybzhvZ2Faano3QndpN0RYSDhTc2tDaGh0YXA5b2JaQy11OXQ5TVV2UGZwWU5xd0NiaHV4Vzk3NmtMaVhCaVVxb01YeWZrY1V4ZmRvWG5oMHI5aG9IM3UwVDNiX2VoWU9UU0poaTI?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-22T05:30:24+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-19",
    "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating Borr Drilling Limited (BORR) And Encourages Stockholders to Connect",
    "summary": "Bronstein, Gewirtz & Grossman, LLC Is Investigating Borr Drilling Limited (BORR) And Encourages Stockholders to Connect ACCESS Newswire",
@@ -3809,6 +3916,19 @@
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOXzRvaXdETXFoZmt3NTQ1dWZLTDRpQzRPVVdVWk9wakQ1S2JQYklkdDZnaEc1eldqdXdSNUNBTWhha0MtSHVVeTZOTDlxbVp1UEk4U1VNdEVjWWdacWRJRF9fSEZBY19CRFdBdVVmaGJXWUlSRVZsbWZjZlJXMjNmSXU1eFBYNDJBU281YTk2Rk9BcWhTVDZNX2tsWS11ZWllWDVfUHkzVlF0YXVXSEptU0VJa19HUGluSzQtQWJVdmc2Yms4MU1LSWVUYm53TDVOVzFjd2JDZThWczJpZnI5ZnQ3eUw?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-06-21T05:18:08+00:00",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-19",
+   "title": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Borr Drilling Limited (BORR) And Encourages Stockholders to Reach Out",
+   "summary": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Borr Drilling Limited (BORR) And Encourages Stockholders to Reach Out ACCESS Newswire",
+   "source": "ACCESS Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdWZBOWMxOHYwb3poQmN2NFNETGd3VzRTemp1S2F6ZGNUM3J1dWFJY3A4Qk5vUS15RUYydHNTLUk5SjdpVkEzSUlWaDNFX1JPVGVuOTBReVpLMnRJdjBJU3VEOXpXTHRMM24tLXplX3JYVHlnMkluS0xvWVRXQlpYS0pQWWIxUXVGWlJnUVUtYnpyNHoyTHhoak1XaDJjSm11T0NNa3JXelJaTnBBQ2tBOXE3RVFkNUhlRlJfTlQ0TmljeHRRUTV6bG95d1hMQmh5VV9MQzZLR1AtR2w5RE1kdmF4TFg?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
    "companyId": 4,
    "company": "Borr",
    "asset": "Anleihen",
@@ -3884,9 +4004,9 @@
    "title": "Truist Financial Sticks to Its Hold Rating for TRONOX (TROX)",
    "summary": "Truist Financial Sticks to Its Hold Rating for TRONOX (TROX) The Globe and Mail",
    "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSC1OdWNhMDBQZXE0MkxwMTdCSHotQkZxeWplRTFXTHd6dzM5MXRqT1JRMHBhU05QY2Nja1I0QzAyMEZxbFo0VmtMNDNkanF5OXUydC1pa0VZMEtXa0syNFN4TTlnUm10QjBiVlBFaGt5a2c4dGRGa05McGF5OHdFVFlNMF9heGRRd1FxM2hBQTF3SGVPQnRYeGZzSk96MHdDRjlvR0t1SHBVVnpNTUZCd1lfT2FfNUh2bFNTdk1MbVpWWjA3M2FXRWM2X3lxQ0pUMDFEME1Vczd5RTg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDN4TVY5VDlpZWcwUFp5d1lqT3o5WmNHQjdSUHdnX19aZ0huQVRoSTQyUzNEcU5xSFF0MTNvRWFRX2cwbENob1hTQlQ1X2VqVTYwclFobEJoUGlRWWhGeEp0WWRkblpMRnRBa2Q5VDA3NVlhSmFTOVhUVnlVRGpBVHY5YTdJc3RHNEJIS3F3WTV0ZHc2b2xJdjhPWXlab2p6YUMtYnYwYjc2U1Y5VkRBT0preXhYMVNIN19jZ2JOMHNxVE5QWkVZOXdHRVc3WnRxeHBGMGpn?oc=5",
    "category": "Rating",
-   "firstSeen": "2026-06-22T05:30:24+00:00",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
    "companyId": 37,
    "company": "Tronox",
    "asset": "Anleihen",
@@ -3956,6 +4076,19 @@
    "company": "Tencent",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-16",
+   "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+   "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+   "source": "AgNewsWire",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-16",
@@ -4049,6 +4182,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-12",
+   "title": "S&P Global Energy Launches United Nations Global Compact Screening Dataset",
+   "summary": "S&P Global Energy Launches United Nations Global Compact Screening Dataset PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcFhNNlhjRldsSklweENUTWRDckY1VmEzRTZQVlNQTG1hSmxXcklGRnVhNFVwX1RaRzJ4ZXZTZ21LblJYTzgycjQ4LU02TThFRXF4VFV0SXdFVmRScnBtYi1kcXFOQ244dF83MzY5R25pZzVoZ2lrb3ZtaHlZWWZ4R3BSME5HS2NfWnNtX0FrUWxUaEI3SVYtQ21nejZMS2JsU2thTFhjazVPc1VEeXJnakozYmEtZmlfQVR6bzV5T0daYWF4WnZLRA?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
    "date": "2026-06-11",
    "title": "Tronox Issues 2025 Sustainability Report",
    "summary": "Tronox Issues 2025 Sustainability Report PR Newswire",
@@ -4060,45 +4206,6 @@
    "company": "Tronox",
    "asset": "Anleihen",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-10",
-   "title": "Prosus steps up open-ended share buyback with €107m purchase",
-   "summary": "Prosus steps up open-ended share buyback with €107m purchase The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVRJam03Z0hNal9ESGlpbTJEdWdJZVZVd0lScFlENXBUN1VZbmhhb1dqZl9VWk5vaGFPMlp2T2VhWFBIR2thdnFNb2stUzhHd0ZMOVRkRlBzd1QzRUh3UEk1SkxoX0JrS0pzdmtiY2trUzBGSTFpZG1aV1hCbzhtRXBvRDczUmFSdjNyWDZNV3hKTEZ1MTRLc3FCZlFnOExrOTlYblhJMUFjczZaOGV1Ym0ySEJCMWJabzh2WkFZQV9IaHg2NnVPdHRORFNLWmZEUGhMQnJNUUtIT3JXOFRHWkt3?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-06-17T13:12:03+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-10",
-   "title": "Bernstein Reaffirms Their Hold Rating on HCA Healthcare (HCA)",
-   "summary": "Bernstein Reaffirms Their Hold Rating on HCA Healthcare (HCA) The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUVGMjhzVzAyV2ZaOFlTZEk5YnRuOHltU21yNFlIQmNYNzFoZW9uS1V2X1prV3FFUGJSb2Jla1JsNUdSX1FxTGpva1pvendqWW9kLXZneFJkcmN2aUVabTFPVGFuMzlYQ0RDRldDSDFRZ1E5NWY4TmljQmNoeEhMa0J6NnZTWmRZczRBWndVMWtZVEpyOTZhRjRiNWZSNVlqSXo5WkdMRWtvNEdHbWlYTnZnN3JzdUU2UjJhSHFreDd6RERZQ3FxOTNBRDBlS3NBMW9VcEVyeDBfSUk?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-06-23T04:20:05+00:00",
-   "companyId": 30,
-   "company": "HCA Healthcare",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-10",
-   "title": "Tencent raises $4.6bn in dual dollar, yuan bond issuances",
-   "summary": "Tencent raises $4.6bn in dual dollar, yuan bond issuances Nikkei Asia",
-   "source": "Nikkei Asia",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjRoWldvU09OQTE2ZktJSzM2SjZhWjNuVThYeGdhZVpONTJUbDhMQ3VFUzV5UVBJVHpma0pidnJrNlowUXdEM0J1RkNvOWMxTEhQZ3k4OENKMlBaWVRfSHZ3TGpTbTl6aGhnd2pXSTZsekRkX2hjN09yXzlRbEVIdEZZdGJJY0x4NnZVNTFrZ3NLaGFRc1MzVUljM2dkUFV4?oc=5",
-   "category": "Guidance",
-   "firstSeen": "2026-06-24T06:15:08+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-10",
@@ -4218,6 +4325,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-03",
+   "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
+   "summary": "Microsoft teases new era of AI-driven devices at annual developer conference Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hudE1XOEVGajhxeFBhMXZBbDRYTHJieG1waXZLRG85S3lNSGFKWnVCQnNLWnd0RmNsZjBGcFoxQlhqR3l5T1A5Ni02UU42SnRZUEJ5WWJMMUJPTWdBVjV2SW5NQ0NUQ25JWURYSEVJdmFTMGlGX2M3VHpWLUs2MG5MeFh4aUJrcjk4OG16OHk3S0tUSW9JUW5jR0JrWU9HRUNJcFpqcVdxVXFmR0wwOEIyODNESk5HWUE?oc=5",
+   "category": "Conference",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 20,
+   "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-02",
    "title": "Vistry appoints Kate Rust as Commercial Director in East Anglia",
    "summary": "Vistry appoints Kate Rust as Commercial Director in East Anglia Peterborough Telegraph",
@@ -4232,28 +4352,15 @@
   },
   {
    "date": "2026-06-02",
-   "title": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner",
-   "summary": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXVVWjZ0WEpTTUk3b1lrZTRQdWNxd096YTNYMTZCdEIwZ2tXTzJmdEU3aGFoTjhTM3RLN002bTVZU3pqS1h6c3VpSmR2ZDUwVHJJUl81NGFMNWl1UUhXdlpsWlZ2SzgyeDlVUmoxMjhUOG5mSnVWdkhyaWYzWTJWQi10QUhpc0R4VkZXZFFYZkx1Zm9GZ091LVNEV3Z2bGpSZUpaOXhtLUQxT2dLc21ncW5fdVBOeTBGQThQUHNJNnYzLWRJMVVNRWZZaVRWLV9NNnlNRXpGcG84ZG52ZWVNXw?oc=5",
-   "category": "Conference",
-   "firstSeen": "2026-06-24T06:15:08+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
+   "title": "Tencent moves closer to launching AI agent for China’s most-used app",
+   "summary": "Tencent moves closer to launching AI agent for China’s most-used app Financial Times",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWpQdDEyUk45SnVqaGNVZ2lwdlpfWTRTaDBEQVk4b1hsaEdHbEFFMEE4V3pkVlcwSWJPZmVCM3pVY2pvbjZNTHJ5OXpHR1BYRHFlUlIyN2VSMGdZMlVLNTBoQThqVUNVZThYN0pSUGRtZnpRclUyTmpaZ0ZKeU1ZdHJHNHY?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 31,
+   "company": "Tencent",
    "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-01",
-   "title": "Prosus given more time to comply with Delivery Hero stake sale, EU regulators say",
-   "summary": "Prosus given more time to comply with Delivery Hero stake sale, EU regulators say Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczNnVHN6NldfREFrenlsQnVNLXNLalZ5VlZ5OHViU3RyTTVjaWwzeVdPaUFheXYyOUN6NTBvckRQSS1aa2g2b1VtQ1FwMDJELXd3bm5SUmlXZ3ZSVEtMVmdoMlpnRERfNG95OHlUeVVUd1czYnk1NEhPV1RfWXhwV2FsQXI0MWtHQ2VwZTJ0OWpTX3FUSnczLTNvYVh5b0pBZzI3WFRxYkhQMUhjUk5vdlVJZjF3ZXd5WVVfMUJrcw?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-06-17T13:12:03+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4270,6 +4377,32 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-01",
+   "title": "Prosus given more time to comply with Delivery Hero stake sale, EU regulators say",
+   "summary": "Prosus given more time to comply with Delivery Hero stake sale, EU regulators say Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczNnVHN6NldfREFrenlsQnVNLXNLalZ5VlZ5OHViU3RyTTVjaWwzeVdPaUFheXYyOUN6NTBvckRQSS1aa2g2b1VtQ1FwMDJELXd3bm5SUmlXZ3ZSVEtMVmdoMlpnRERfNG95OHlUeVVUd1czYnk1NEhPV1RfWXhwV2FsQXI0MWtHQ2VwZTJ0OWpTX3FUSnczLTNvYVh5b0pBZzI3WFRxYkhQMUhjUk5vdlVJZjF3ZXd5WVVfMUJrcw?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-06-17T13:12:03+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-29",
+   "title": "Ramaco Resources CEO Randall W. Atkins Appears on CNBC's Morning Call to Discuss Critical Minerals and Energy Market Trends",
+   "summary": "Ramaco Resources CEO Randall W. Atkins Appears on CNBC's Morning Call to Discuss Critical Minerals and Energy Market Trends PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNDMzNThGSVZsSm0xdWhzQkhvSVFHY2E2bEtJVjJIdjFhc3pMaDZ6eC1nTHl2Q2xCdW9tcERnM0s3bF9iLXdHMnQ4clh6NE5wbzk2VDByTWVxNWp2VDc5S1FacHNSYjh4UkZHSVZmVVV0VmlpLUQ3MlBHMVFMcTAtYk5MZXJsOU1uUXFWS2gwb3BUMThxSnhhcVFRVkFoSVEtbW5RWWJHQ282dDNhNVVXZkVSaVBWcHdlZE5zNTJtUnBSc3VGVjVxc2RzeEdCeW1CeGNseThFeXVZVHpMbndwQWRFUUZ5MHhMSFVWSjB1WU5DNlFFNHFHWmgxbWs2MjFjQ0FXRWttVzU?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-05-28",
    "title": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales",
    "summary": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired—except in sales Fortune",
@@ -4280,32 +4413,6 @@
    "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-28",
-   "title": "Salesforce Earnings Beat Expectations. The Stock Slides Anyway.",
-   "summary": "Salesforce Earnings Beat Expectations. The Stock Slides Anyway. Barron's",
-   "source": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVlc3UkgyM1NNVFlsdW5vNkpsem03WElrUngtaHBSckxUcHVLemxMNzRVU1NMZ2FteTYzMnBnR0tXZmhnNEdxZE5zVm03T3doeFNsTlRDTFd0Rl9XdEJGNm1INi1ySkczOG9Ob1pUVkRrOE52ekhJR24zUVlmQQ?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-24T06:15:08+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-28",
-   "title": "ION Commodities expands collaboration with S&P Global Energy Platts",
-   "summary": "ION Commodities expands collaboration with S&P Global Energy Platts PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1RzODdLWWt0SjhWaDk0WGR5Z1dsUFI4cDJ1NUN6UTZObEp5X3I1dUxna0dpNUFRa0tua2Q0SkN6RXpKSm11ZVBtNzJrT3k2ZVVmaFFpNEZkMWFnUlEyM1FWTmtQcHIxeU5nMklDcm5VamhfQWpFaEFNdHdyQWVPZ29sUmh0d3dLSFNyNU0zdGlWd3RhcGxISTFVaXJ4N2JZVnBkTjB5djNTbDVncUU1eHNndEdFbFBvOVBIYWxzVQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-24T06:15:08+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   },
   {
    "date": "2026-05-28",
@@ -4385,15 +4492,41 @@
   },
   {
    "date": "2026-05-27",
-   "title": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts",
-   "summary": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeks0UVVsN1ljWTV0Sm5tcGFzTG9GTElzeUFtNnhCSlVVc1o1QTViVlJ1YWtRQ3dVd0FOUWRjTmdleUtBWm9HR0d1bi1jdHdmZ0VMM25kNGxwMzBvT0V4dWJCSGVNd3FpcS02RnZHOUtzRERPNDhTek5talhBSGZhRHYxZTB6ZFN1RDF5V2NTZVBsVHh0ZzBESDBOcjJHNVlEUkphVnY5NEtGOHNBUDE2ZHpyQQ?oc=5",
+   "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
+   "summary": "Salesforce revenue forecast disappoints amid AI disruption fears Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-06-24T06:15:08+00:00",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
    "companyId": 32,
    "company": "Salesforce",
    "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-27",
+   "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
+   "summary": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift Bloomberg",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVlTNGlLR1dJdm1YSXN3Wk9yOVlVR1J4Q3FwcF80bUhKd2RMcTByTVdQYXloOGpsZ3dNWmtBMWJmaHVsaGU3Uml0Z3FCTnMyalY3dWQ5dWptalRlUzI1N1M5VmdrWTBFQ2JDY21md1lxdUpJUXN0a1ZidXlFSlpWUVh5Q3NJSXE4d0NlM3dEYzRfdmxnRFF0eV9XdlhWMVU1b3JFVVVCZEIxa0V1N01WazJn?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-26",
+   "title": "Klondike Gold Announces 2026 Diamond Drilling Program Underway to Update and Expand Gold Mineral Resources",
+   "summary": "Klondike Gold Announces 2026 Diamond Drilling Program Underway to Update and Expand Gold Mineral Resources ACCESS Newswire",
+   "source": "ACCESS Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1lpTjhFb2o3bGpEeHJXMnlOS3R0RTZqcWdZMXJVM09BN3hpaVBkclVrdXhyZmVyYUNoWVZnTXhad3ZpOGtYUWdsTjBTbHVvRENpQk1zR2ZtSWo4b2pwUVVVcjdBMHFzRWJ4RU8yZEZVbkNlUmk2SzRJRTQ5ZTlkbUROc3pXZno4eV9tWmdrOFdEa3pSemdPeUEyQmNBS1NQVHdDMmdmWGdzR081Ylh5d0JBQ1ByMkFpNTk1Wjctd01MMTByX3E5Mk9WVkZpS3MtWmhFYzMwZUUyeWdnY1ZLcjNSd3M?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
    "status": "Portfolio"
   }
  ],
