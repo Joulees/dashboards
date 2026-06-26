@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-26T04:39:14+00:00",
+ "generatedAt": "2026-06-26T06:19:35+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -566,19 +566,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-08",
-     "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
-     "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYkVQWUZEZjVGTVVzRGtqeWxmc3RRV2JkY3V0alJjVXNwV1MxeXFUeEFZOVRpaV81ME5hTGNDX0ppcVZpaUxRdi1vcVhfMXhPOEhZR1BjQjhuWGZueW5QMGs3VEl3ZXM4Slg0ckdyQU9EUGhrUDNUNG9HNnFqemx3S0JiMEhabmZJTUk3dXVfOEUyaWhoVkNhYndvejhVNFZubkZzZzZ3UW9sUWM4cm5VcEEtczNldkVYdGZMNEUtWTVMZm1jcXNPeE5rTktibzNWYnYwUmpBX1huVGZNY2l2VzhRSU9yempjZDNmalhLOGhSNmlLT1FWY0RlYS02aENxa2IxdjEtMFFxcUJqUHc?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-26T04:39:14+00:00",
-     "companyId": 10,
-     "company": "XPO",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-04",
      "title": "XPO Unveils Trailer Fleet Honoring America’s 250th Anniversary",
      "summary": "XPO Unveils Trailer Fleet Honoring America’s 250th Anniversary GlobeNewswire",
@@ -762,12 +749,12 @@
     },
     {
      "date": "2026-06-23",
-     "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
-     "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
-     "source": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRHo0dmszTnV2eUZPN01mQlE4NEcyQXNYNm5JMGZISmFkTDE2VlI0X0RMc2RuOUpSR1JLbnY2RjVuV190eS1IUnpWbnh6eDRRYUZ6M1ZLdktWVDB6ZTVWMzd1X3c5TXVyVnFMcHdkd3ZnUElHQ1FCX19oWQ?oc=5",
+     "title": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm",
+     "summary": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcm9IUURlLVd5MkdSWjEtS3pHOHFFRnNyOC1IbnkyVHRMaW83amhMbVZjZF9CRk9zOWRsNEt0QWZJZHFuTTRJTWxaNUY4ckxTUXVRMExYNU01cUNGRHRYSEpnMUg2SWpxd01md2tTZ3R3MVlSa3k0d3o2ZHFFUmxOM2JpSkxuMW9TaHhaalVObE1QX2VGOXlyV19HU0FaTTJ1M2t5NnYxTGU0b2VlaDFldExIby03S3d0dVJ1ZFVmZ2Z1bW1yTFRreUNMbUtudnpybFB1VHd4RDk4X2pNb1NDdXQ5UnBnb1Q1LWNaZEJEWnphQkpSMHV2WjBKSkdJOVNKREJXRlBzd1NaeTRNTl9BRWdiS0dnc2pGdWIya0R0eUJab2NlZEJTaVpfTFpiN19qNHJGSzFhTWR6MWVBc3pV?oc=5",
      "category": "Earnings",
-     "firstSeen": "2026-06-26T04:39:14+00:00",
+     "firstSeen": "2026-06-26T06:19:35+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1887,7 +1874,34 @@
    }
   },
   "20": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-06-03",
+     "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
+     "summary": "Microsoft teases new era of AI-driven devices at annual developer conference Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hudE1XOEVGajhxeFBhMXZBbDRYTHJieG1waXZLRG85S3lNSGFKWnVCQnNLWnd0RmNsZjBGcFoxQlhqR3l5T1A5Ni02UU42SnRZUEJ5WWJMMUJPTWdBVjV2SW5NQ0NUQ25JWURYSEVJdmFTMGlGX2M3VHpWLUs2MG5MeFh4aUJrcjk4OG16OHk3S0tUSW9JUW5jR0JrWU9HRUNJcFpqcVdxVXFmR0wwOEIyODNESk5HWUE?oc=5",
+     "category": "Conference",
+     "firstSeen": "2026-06-26T06:19:35+00:00",
+     "companyId": 20,
+     "company": "Microsoft",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-02",
+     "title": "Microsoft seeks to be AI’s center of gravity again. CEO Satya Nadella is in San Francisco to make the case",
+     "summary": "Microsoft seeks to be AI’s center of gravity again. CEO Satya Nadella is in San Francisco to make the case Fortune",
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzR2ZUZnLThsRmV1TlV4QXVEVkY5YzJBZWFSaWhVQnVCbWhyREhkajd1bEh2OGRSUlM3QUVfMUs0VDlmeWVjMXVnejRCWE91MFBham83MkEzS3BLdmU0MXFmb1dfN085MWZ6NVBGbFVFQ2VtVDJMYnVnbmNKeU1uUGJxNmRqQQ?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-26T06:19:35+00:00",
+     "companyId": 20,
+     "company": "Microsoft",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-07-29",
@@ -2141,13 +2155,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-12",
-     "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
-     "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-06-14T05:06:19+00:00",
+     "date": "2026-06-15",
+     "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
+     "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
+     "source": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-26T06:19:35+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -3071,6 +3085,19 @@
   "31": {
    "news": [
     {
+     "date": "2026-06-26",
+     "title": "Stellar Pictures Showcases Five Major Series at Tencent",
+     "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZ3lwYTVMblN5V3hqVkx2QVRDNjdCWGt0cUU5clIyMGZEZjc2QzB1UzVtalFVYlVLZnlOc0JhSmZGQWxFV3J4UVp5LWdlbHlVelBRdlhhWkNNb2prREs1dTl4d2ZxWjFucDIxbE9Xdk1jUTM2Q21xa2Nrd3BWYnVXVUI1eXJUczIyMkpiN3N3dTBYU3RvM0x4cEJGUG5GR2pteVBiZEhQVW40WEJUdVktOTl0b2pMWldsSXE3cTdWVjNSdnUzRXl1RUxzWEtrY21rdmdNbDFSQmZhQ0N5YjVvS3Axdkt2VUNETU1vUTVGRWg5QURDam53ME5Mdmc4dTl3QnUta1M1U2YtUnowTmtna3dNVjg5RUY3VHFha2NFQTFzaXFWblN4cURHR0YyWEh5NVJGem45TkYzYWhrQ0Zr?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-26T06:19:35+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-25",
      "title": "Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award",
      "summary": "Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award PR Newswire",
@@ -3130,19 +3157,6 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlY3cXJDb0lsM1NBUmxSRS1IZ3ZUbjRnT1pKMnNfWDNIeXJYRzM2b0NoeEVoSFRxQTBMVjlocFNDazJfUFdHczNMandsdU9rZUtVZzcyNjJHZVhDaFFzX0toMF8wbUFHSk5EVi1LR2pQY0M0YTY2NEVQSFRraE55VXpsaGl0dlJpVDMxdEFEQk15c0hCTFI4RGxna0pjakJpTmIyQUdaOUEtRFlfNm40SQ?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-06-19T07:24:52+00:00",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-18",
-     "title": "Tencent Cloud and China CITIC Bank International Limited Sign Strategic Cooperation Agreement to Accelerate FinTech 2.0 Transformation",
-     "summary": "Tencent Cloud and China CITIC Bank International Limited Sign Strategic Cooperation Agreement to Accelerate FinTech 2.0 Transformation PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQU3ZqSG9QQlB2NUh1OTluR0Y0WUJxRzloM05EcXQzSjhMb1oxX0dXbzc0Z0tUZDNNN18zd0I5X19WbUZsd0xZdDFfTkNyWkpxRmhmVlRid1RpSWViWmFYRTMxRE0wdDF4aTJtcnlxQ1FLblF4bVhWQUkwcHRvWE0wZF9EQ08wd3FnMWFSYzhDTHFySjlWV0g3Zm1FMFNDeDJBanhoVlNNa25QeGlEOUpodDFIWEF2WkFxekZQQlBFd3dZTzhud0F0d2tKMVNEVkJFcUVILW4tS1lpYlRlZHJ6M1hadUVMNlJkVVpjNGtnOTJmS0Z6eXl4Ym41aVo2THRRdGszWC1rNFhYSHRnaEhQQUR5UF9NS09kdHFDb3g1VEw?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-20T04:40:41+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3240,13 +3254,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-05-27",
-     "title": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half",
-     "summary": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half Fortune",
-     "source": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXAyV1o2UTgyMm1nRVdFSzFCenJhZUFSM3VGQ0RXR1RSMFdmTmlxMlVsWUhFTktxd1hQT0tVYnA2aUJmaldaejZBaF9rdTNYd050VE9Cc0drbVBMdTJ4Z3gtbFBHd1NUMHp5OVgxZFNhdFE5SmdwUWpNTnBCV3hSTDIzUDNjRjMtTjFmLUF5bHRRZkR1WGlwUnY4SVpnOFVQUklQTmxaQlBaRUtyMm55Ulk5T2tTWi1nQnU5V3N1RE9hVEFFWXc?oc=5",
+     "date": "2026-05-28",
+     "title": "Salesforce Gives Lukewarm Outlook That Fuels Disruption Fears",
+     "summary": "Salesforce Gives Lukewarm Outlook That Fuels Disruption Fears Bloomberg.com",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlBjWUpGY3FUTUk2ZWR2UEVVdDl3MDRKX1d3QTRpcnlmRXlOVjZYaE5NY01NaGJsYmtINkJ2YUN0YVlJclh6ampONGpfWGc3dUpGWHBDdXR0M2lwOHFmdXhlWjJNa05iTlBqbWJ6T2VHYW5ETWlQak9iMG5YMGpIeGlfMktiaTU4dmRxME9GNGN1OXZ4UDBnX3FXV2xTaWRjVHdyUjlTUnBVamxXUlppVExn?oc=5",
      "category": "Guidance",
-     "firstSeen": "2026-06-22T05:30:24+00:00",
+     "firstSeen": "2026-06-26T06:19:35+00:00",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -3280,12 +3294,12 @@
     },
     {
      "date": "2026-05-27",
-     "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
-     "summary": "Salesforce revenue forecast disappoints amid AI disruption fears Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-25T04:33:56+00:00",
+     "title": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half",
+     "summary": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half Fortune",
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXAyV1o2UTgyMm1nRVdFSzFCenJhZUFSM3VGQ0RXR1RSMFdmTmlxMlVsWUhFTktxd1hQT0tVYnA2aUJmaldaejZBaF9rdTNYd050VE9Cc0drbVBMdTJ4Z3gtbFBHd1NUMHp5OVgxZFNhdFE5SmdwUWpNTnBCV3hSTDIzUDNjRjMtTjFmLUF5bHRRZkR1WGlwUnY4SVpnOFVQUklQTmxaQlBaRUtyMm55Ulk5T2tTWi1nQnU5V3N1RE9hVEFFWXc?oc=5",
+     "category": "Guidance",
+     "firstSeen": "2026-06-22T05:30:24+00:00",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -3727,6 +3741,19 @@
  },
  "news": [
   {
+   "date": "2026-06-26",
+   "title": "Stellar Pictures Showcases Five Major Series at Tencent",
+   "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZ3lwYTVMblN5V3hqVkx2QVRDNjdCWGt0cUU5clIyMGZEZjc2QzB1UzVtalFVYlVLZnlOc0JhSmZGQWxFV3J4UVp5LWdlbHlVelBRdlhhWkNNb2prREs1dTl4d2ZxWjFucDIxbE9Xdk1jUTM2Q21xa2Nrd3BWYnVXVUI1eXJUczIyMkpiN3N3dTBYU3RvM0x4cEJGUG5GR2pteVBiZEhQVW40WEJUdVktOTl0b2pMWldsSXE3cTdWVjNSdnUzRXl1RUxzWEtrY21rdmdNbDFSQmZhQ0N5YjVvS3Axdkt2VUNETU1vUTVGRWg5QURDam53ME5Mdmc4dTl3QnUta1M1U2YtUnowTmtna3dNVjg5RUY3VHFha2NFQTFzaXFWblN4cURHR0YyWEh5NVJGem45TkYzYWhrQ0Zr?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-26T06:19:35+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-25",
    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Borr Drilling Limited - BORR",
    "summary": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Borr Drilling Limited - BORR PR Newswire",
@@ -3897,12 +3924,12 @@
   },
   {
    "date": "2026-06-23",
-   "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
-   "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
-   "source": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRHo0dmszTnV2eUZPN01mQlE4NEcyQXNYNm5JMGZISmFkTDE2VlI0X0RMc2RuOUpSR1JLbnY2RjVuV190eS1IUnpWbnh6eDRRYUZ6M1ZLdktWVDB6ZTVWMzd1X3c5TXVyVnFMcHdkd3ZnUElHQ1FCX19oWQ?oc=5",
+   "title": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm",
+   "summary": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcm9IUURlLVd5MkdSWjEtS3pHOHFFRnNyOC1IbnkyVHRMaW83amhMbVZjZF9CRk9zOWRsNEt0QWZJZHFuTTRJTWxaNUY4ckxTUXVRMExYNU01cUNGRHRYSEpnMUg2SWpxd01md2tTZ3R3MVlSa3k0d3o2ZHFFUmxOM2JpSkxuMW9TaHhaalVObE1QX2VGOXlyV19HU0FaTTJ1M2t5NnYxTGU0b2VlaDFldExIby03S3d0dVJ1ZFVmZ2Z1bW1yTFRreUNMbUtudnpybFB1VHd4RDk4X2pNb1NDdXQ5UnBnb1Q1LWNaZEJEWnphQkpSMHV2WjBKSkdJOVNKREJXRlBzd1NaeTRNTl9BRWdiS0dnc2pGdWIya0R0eUJab2NlZEJTaVpfTFpiN19qNHJGSzFhTWR6MWVBc3pV?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-06-26T04:39:14+00:00",
+   "firstSeen": "2026-06-26T06:19:35+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -4065,19 +4092,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-18",
-   "title": "Tencent Cloud and China CITIC Bank International Limited Sign Strategic Cooperation Agreement to Accelerate FinTech 2.0 Transformation",
-   "summary": "Tencent Cloud and China CITIC Bank International Limited Sign Strategic Cooperation Agreement to Accelerate FinTech 2.0 Transformation PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQU3ZqSG9QQlB2NUh1OTluR0Y0WUJxRzloM05EcXQzSjhMb1oxX0dXbzc0Z0tUZDNNN18zd0I5X19WbUZsd0xZdDFfTkNyWkpxRmhmVlRid1RpSWViWmFYRTMxRE0wdDF4aTJtcnlxQ1FLblF4bVhWQUkwcHRvWE0wZF9EQ08wd3FnMWFSYzhDTHFySjlWV0g3Zm1FMFNDeDJBanhoVlNNa25QeGlEOUpodDFIWEF2WkFxekZQQlBFd3dZTzhud0F0d2tKMVNEVkJFcUVILW4tS1lpYlRlZHJ6M1hadUVMNlJkVVpjNGtnOTJmS0Z6eXl4Ym41aVo2THRRdGszWC1rNFhYSHRnaEhQQUR5UF9NS09kdHFDb3g1VEw?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-20T04:40:41+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-17",
    "title": "HCA Healthcare Inc. stock outperforms competitors despite losses on the day",
    "summary": "HCA Healthcare Inc. stock outperforms competitors despite losses on the day MarketWatch",
@@ -4144,6 +4158,19 @@
   },
   {
    "date": "2026-06-15",
+   "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
+   "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-26T06:19:35+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-15",
    "title": "Amcor announces key leadership appointments to accelerate growth",
    "summary": "Amcor announces key leadership appointments to accelerate growth PR Newswire",
    "source": "PR Newswire",
@@ -4179,19 +4206,6 @@
    "companyId": 4,
    "company": "Borr",
    "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-12",
-   "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
-   "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-06-14T05:06:19+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4244,19 +4258,6 @@
    "companyId": 22,
    "company": "Meta",
    "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-08",
-   "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
-   "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYkVQWUZEZjVGTVVzRGtqeWxmc3RRV2JkY3V0alJjVXNwV1MxeXFUeEFZOVRpaV81ME5hTGNDX0ppcVZpaUxRdi1vcVhfMXhPOEhZR1BjQjhuWGZueW5QMGs3VEl3ZXM4Slg0ckdyQU9EUGhrUDNUNG9HNnFqemx3S0JiMEhabmZJTUk3dXVfOEUyaWhoVkNhYndvejhVNFZubkZzZzZ3UW9sUWM4cm5VcEEtczNldkVYdGZMNEUtWTVMZm1jcXNPeE5rTktibzNWYnYwUmpBX1huVGZNY2l2VzhRSU9yempjZDNmalhLOGhSNmlLT1FWY0RlYS02aENxa2IxdjEtMFFxcUJqUHc?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-26T04:39:14+00:00",
-   "companyId": 10,
-   "company": "XPO",
-   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4351,6 +4352,32 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-03",
+   "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
+   "summary": "Microsoft teases new era of AI-driven devices at annual developer conference Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hudE1XOEVGajhxeFBhMXZBbDRYTHJieG1waXZLRG85S3lNSGFKWnVCQnNLWnd0RmNsZjBGcFoxQlhqR3l5T1A5Ni02UU42SnRZUEJ5WWJMMUJPTWdBVjV2SW5NQ0NUQ25JWURYSEVJdmFTMGlGX2M3VHpWLUs2MG5MeFh4aUJrcjk4OG16OHk3S0tUSW9JUW5jR0JrWU9HRUNJcFpqcVdxVXFmR0wwOEIyODNESk5HWUE?oc=5",
+   "category": "Conference",
+   "firstSeen": "2026-06-26T06:19:35+00:00",
+   "companyId": 20,
+   "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
+   "title": "Microsoft seeks to be AI’s center of gravity again. CEO Satya Nadella is in San Francisco to make the case",
+   "summary": "Microsoft seeks to be AI’s center of gravity again. CEO Satya Nadella is in San Francisco to make the case Fortune",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzR2ZUZnLThsRmV1TlV4QXVEVkY5YzJBZWFSaWhVQnVCbWhyREhkajd1bEh2OGRSUlM3QUVfMUs0VDlmeWVjMXVnejRCWE91MFBham83MkEzS3BLdmU0MXFmb1dfN085MWZ6NVBGbFVFQ2VtVDJMYnVnbmNKeU1uUGJxNmRqQQ?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-26T06:19:35+00:00",
+   "companyId": 20,
+   "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-02",
    "title": "Vistry appoints Kate Rust as Commercial Director in East Anglia",
    "summary": "Vistry appoints Kate Rust as Commercial Director in East Anglia Peterborough Telegraph",
@@ -4416,6 +4443,19 @@
   },
   {
    "date": "2026-05-28",
+   "title": "Salesforce Gives Lukewarm Outlook That Fuels Disruption Fears",
+   "summary": "Salesforce Gives Lukewarm Outlook That Fuels Disruption Fears Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlBjWUpGY3FUTUk2ZWR2UEVVdDl3MDRKX1d3QTRpcnlmRXlOVjZYaE5NY01NaGJsYmtINkJ2YUN0YVlJclh6ampONGpfWGc3dUpGWHBDdXR0M2lwOHFmdXhlWjJNa05iTlBqbWJ6T2VHYW5ETWlQak9iMG5YMGpIeGlfMktiaTU4dmRxME9GNGN1OXZ4UDBnX3FXV2xTaWRjVHdyUjlTUnBVamxXUlppVExn?oc=5",
+   "category": "Guidance",
+   "firstSeen": "2026-06-26T06:19:35+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-28",
    "title": "ION Commodities expands collaboration with S&P Global Energy Platts",
    "summary": "ION Commodities expands collaboration with S&P Global Energy Platts PR Newswire",
    "source": "PR Newswire",
@@ -4453,19 +4493,6 @@
   },
   {
    "date": "2026-05-27",
-   "title": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half",
-   "summary": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half Fortune",
-   "source": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXAyV1o2UTgyMm1nRVdFSzFCenJhZUFSM3VGQ0RXR1RSMFdmTmlxMlVsWUhFTktxd1hQT0tVYnA2aUJmaldaejZBaF9rdTNYd050VE9Cc0drbVBMdTJ4Z3gtbFBHd1NUMHp5OVgxZFNhdFE5SmdwUWpNTnBCV3hSTDIzUDNjRjMtTjFmLUF5bHRRZkR1WGlwUnY4SVpnOFVQUklQTmxaQlBaRUtyMm55Ulk5T2tTWi1nQnU5V3N1RE9hVEFFWXc?oc=5",
-   "category": "Guidance",
-   "firstSeen": "2026-06-22T05:30:24+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-27",
    "title": "Salesforce beats on earnings and revenue but full-year guidance comes in light",
    "summary": "Salesforce beats on earnings and revenue but full-year guidance comes in light CNBC",
    "source": "CNBC",
@@ -4492,12 +4519,12 @@
   },
   {
    "date": "2026-05-27",
-   "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
-   "summary": "Salesforce revenue forecast disappoints amid AI disruption fears Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-25T04:33:56+00:00",
+   "title": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half",
+   "summary": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half Fortune",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXAyV1o2UTgyMm1nRVdFSzFCenJhZUFSM3VGQ0RXR1RSMFdmTmlxMlVsWUhFTktxd1hQT0tVYnA2aUJmaldaejZBaF9rdTNYd050VE9Cc0drbVBMdTJ4Z3gtbFBHd1NUMHp5OVgxZFNhdFE5SmdwUWpNTnBCV3hSTDIzUDNjRjMtTjFmLUF5bHRRZkR1WGlwUnY4SVpnOFVQUklQTmxaQlBaRUtyMm55Ulk5T2tTWi1nQnU5V3N1RE9hVEFFWXc?oc=5",
+   "category": "Guidance",
+   "firstSeen": "2026-06-22T05:30:24+00:00",
    "companyId": 32,
    "company": "Salesforce",
    "asset": "Aktien",
