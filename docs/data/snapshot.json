@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-27T04:15:46+00:00",
+ "generatedAt": "2026-06-27T06:00:44+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -333,21 +333,7 @@
    }
   },
   "6": {
-   "news": [
-    {
-     "date": "2026-06-02",
-     "title": "Ubisoft Reveals Rayman Legends Retold, Available on October 1",
-     "summary": "Ubisoft Reveals Rayman Legends Retold, Available on October 1 Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmhKbUVIdTl6UzVpRFFLVTh4cHdWZVFqVTlERmxlNkt5c21EUHhvVG84SEdrcHIxWUhoLTdaVG1pZFpKWXVNckVJZU5pdkFZNEs5YWVTRm05SmV6TU4zS1ZsZURFLTRkekVYSzQxck1laDB0Y29velZyV3JSZjdHUUk3QmZWbDNOM3FoMU1qX3huMUp4NXlEYmVHX3VIcVg1ckQxZERKcDhrYjhnMHVtLXVGS05RbVln?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-27T04:15:46+00:00",
-     "companyId": 6,
-     "company": "Ubisoft",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    }
-   ],
+   "news": [],
    "events": [
     {
      "date": "2026-07-28",
@@ -413,19 +399,6 @@
   },
   "8": {
    "news": [
-    {
-     "date": "2026-06-24",
-     "title": "Prosus launches ToqanClaw to help businesses build AI tools through conversation",
-     "summary": "Prosus launches ToqanClaw to help businesses build AI tools through conversation Fortune India",
-     "source": "Fortune India",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUVULUxia3RTcjRnYjNjWmtOWUZMLXMwSW1KRWdiaW1WaEIzZEJtUDduUXNRUHZ1ODZXc2kyWGtYOFBacERRR3BWUmRfaEg1aWFzQzhZdzVNM2pXOEVUa3U5OTlPNm8tWGJIc19xajh5b21BeExtZ0pTSEJVNzJBVkhsZThfTGVDb1NTS3R0bG94TTlXSHFGdjlFbUhYNnlOejNWd2FjdHRaN1JfeGRHd0pIaW5fUndJTE1OQjVwS25fRklRM0VRadIB1gFBVV95cUxPS1hhSjVzb3VqRnZTRVg5OXNXc3dJdTEwMXA4OGhMcUFqRTd4OXFtSDBKb0ZFb1BrUTBYcXE2ckxnSGRtRi1HeDU4ODFIeTkzYnNJWHBFY1RMQkV3cE45R2dNd2RXZGxmYzFEZUd1Z2lGbDBUbUh5cHc5YlF5NC16Q3pDdVMxS1lEeldFVWZEVUUzZ09ud3Yzd1VJQ3otUHF0TThBYXA0ODRzYmRuazhCZUlfYUphSW9KeGk0UlBPODBtOW8zakllMF9OR1V0MldIMVF6TlhR?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-06-27T04:15:46+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-06-19",
      "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
@@ -750,12 +723,12 @@
     },
     {
      "date": "2026-06-23",
-     "title": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm",
-     "summary": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcm9IUURlLVd5MkdSWjEtS3pHOHFFRnNyOC1IbnkyVHRMaW83amhMbVZjZF9CRk9zOWRsNEt0QWZJZHFuTTRJTWxaNUY4ckxTUXVRMExYNU01cUNGRHRYSEpnMUg2SWpxd01md2tTZ3R3MVlSa3k0d3o2ZHFFUmxOM2JpSkxuMW9TaHhaalVObE1QX2VGOXlyV19HU0FaTTJ1M2t5NnYxTGU0b2VlaDFldExIby03S3d0dVJ1ZFVmZ2Z1bW1yTFRreUNMbUtudnpybFB1VHd4RDk4X2pNb1NDdXQ5UnBnb1Q1LWNaZEJEWnphQkpSMHV2WjBKSkdJOVNKREJXRlBzd1NaeTRNTl9BRWdiS0dnc2pGdWIya0R0eUJab2NlZEJTaVpfTFpiN19qNHJGSzFhTWR6MWVBc3pV?oc=5",
+     "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
+     "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRHo0dmszTnV2eUZPN01mQlE4NEcyQXNYNm5JMGZISmFkTDE2VlI0X0RMc2RuOUpSR1JLbnY2RjVuV190eS1IUnpWbnh6eDRRYUZ6M1ZLdktWVDB6ZTVWMzd1X3c5TXVyVnFMcHdkd3ZnUElHQ1FCX19oWQ?oc=5",
      "category": "Earnings",
-     "firstSeen": "2026-06-26T06:19:35+00:00",
+     "firstSeen": "2026-06-27T04:15:46+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -763,12 +736,12 @@
     },
     {
      "date": "2026-06-23",
-     "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
-     "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
-     "source": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRHo0dmszTnV2eUZPN01mQlE4NEcyQXNYNm5JMGZISmFkTDE2VlI0X0RMc2RuOUpSR1JLbnY2RjVuV190eS1IUnpWbnh6eDRRYUZ6M1ZLdktWVDB6ZTVWMzd1X3c5TXVyVnFMcHdkd3ZnUElHQ1FCX19oWQ?oc=5",
+     "title": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm",
+     "summary": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcm9IUURlLVd5MkdSWjEtS3pHOHFFRnNyOC1IbnkyVHRMaW83amhMbVZjZF9CRk9zOWRsNEt0QWZJZHFuTTRJTWxaNUY4ckxTUXVRMExYNU01cUNGRHRYSEpnMUg2SWpxd01md2tTZ3R3MVlSa3k0d3o2ZHFFUmxOM2JpSkxuMW9TaHhaalVObE1QX2VGOXlyV19HU0FaTTJ1M2t5NnYxTGU0b2VlaDFldExIby03S3d0dVJ1ZFVmZ2Z1bW1yTFRreUNMbUtudnpybFB1VHd4RDk4X2pNb1NDdXQ5UnBnb1Q1LWNaZEJEWnphQkpSMHV2WjBKSkdJOVNKREJXRlBzd1NaeTRNTl9BRWdiS0dnc2pGdWIya0R0eUJab2NlZEJTaVpfTFpiN19qNHJGSzFhTWR6MWVBc3pV?oc=5",
      "category": "Earnings",
-     "firstSeen": "2026-06-27T04:15:46+00:00",
+     "firstSeen": "2026-06-26T06:19:35+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -3083,19 +3056,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-24",
-     "title": "Tencent Posts Earnings Beat as It Steps Up AI Effort",
-     "summary": "Tencent Posts Earnings Beat as It Steps Up AI Effort WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQTJMWXV1eWw2TjJRYlhrRW9VUlZvUURPNU5vSmlUQ0F5bFlVR3NyZUFqUGZNeXFCMWdGTVNVQkhGR1hUeTVwcUFFckFWblR0a2hZYm1rV2pod3NVOWVKcEVuU2s5TVlCOWJWTG1KdWh5cXEtVExfQmZZWHhiYjgweEZYSnI5c19iOHcwUmtEUDVPVkgtRzFmWm1kWExfYjdLUG1ianZtR1FXSFk5bFl6Wmp3MHBTZzFnMTBIb0wyRzBCTE5UZy1fSzJB?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-26T04:39:14+00:00",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-23",
      "title": "World Economic Forum and Tencent Cloud Collaborate to Enhance the Digital Experience for Summer Davos 2026 in Dalian",
      "summary": "World Economic Forum and Tencent Cloud Collaborate to Enhance the Digital Experience for Summer Davos 2026 in Dalian PR Newswire",
@@ -3129,6 +3089,19 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlY3cXJDb0lsM1NBUmxSRS1IZ3ZUbjRnT1pKMnNfWDNIeXJYRzM2b0NoeEVoSFRxQTBMVjlocFNDazJfUFdHczNMandsdU9rZUtVZzcyNjJHZVhDaFFzX0toMF8wbUFHSk5EVi1LR2pQY0M0YTY2NEVQSFRraE55VXpsaGl0dlJpVDMxdEFEQk15c0hCTFI4RGxna0pjakJpTmIyQUdaOUEtRFlfNm40SQ?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-06-19T07:24:52+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-18",
+     "title": "Tencent Cloud and China CITIC Bank International Limited Sign Strategic Cooperation Agreement to Accelerate FinTech 2.0 Transformation",
+     "summary": "Tencent Cloud and China CITIC Bank International Limited Sign Strategic Cooperation Agreement to Accelerate FinTech 2.0 Transformation PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQU3ZqSG9QQlB2NUh1OTluR0Y0WUJxRzloM05EcXQzSjhMb1oxX0dXbzc0Z0tUZDNNN18zd0I5X19WbUZsd0xZdDFfTkNyWkpxRmhmVlRid1RpSWViWmFYRTMxRE0wdDF4aTJtcnlxQ1FLblF4bVhWQUkwcHRvWE0wZF9EQ08wd3FnMWFSYzhDTHFySjlWV0g3Zm1FMFNDeDJBanhoVlNNa25QeGlEOUpodDFIWEF2WkFxekZQQlBFd3dZTzhud0F0d2tKMVNEVkJFcUVILW4tS1lpYlRlZHJ6M1hadUVMNlJkVVpjNGtnOTJmS0Z6eXl4Ym41aVo2THRRdGszWC1rNFhYSHRnaEhQQUR5UF9NS09kdHFDb3g1VEw?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-27T06:00:44+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3350,6 +3323,45 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-06-22",
+     "title": "S&P Global Ratings Upgrades Bladex to 'BBB+'",
+     "summary": "S&P Global Ratings Upgrades Bladex to 'BBB+' PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-06-27T06:00:44+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-17",
+     "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
+     "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-06-27T06:00:44+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-16",
+     "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+     "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+     "source": "AgNewsWire",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-06-27T06:00:44+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-06-08",
      "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
      "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
@@ -3370,19 +3382,6 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-23T06:18:29+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-05-28",
-     "title": "ION Commodities expands collaboration with S&P Global Energy Platts",
-     "summary": "ION Commodities expands collaboration with S&P Global Energy Platts PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1RzODdLWWt0SjhWaDk0WGR5Z1dsUFI4cDJ1NUN6UTZObEp5X3I1dUxna0dpNUFRa0tua2Q0SkN6RXpKSm11ZVBtNzJrT3k2ZVVmaFFpNEZkMWFnUlEyM1FWTmtQcHIxeU5nMklDcm5VamhfQWpFaEFNdHdyQWVPZ29sUmh0d3dLSFNyNU0zdGlWd3RhcGxISTFVaXJ4N2JZVnBkTjB5djNTbDVncUU1eHNndEdFbFBvOVBIYWxzVQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-26T04:39:14+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3715,19 +3714,6 @@
   },
   {
    "date": "2026-06-24",
-   "title": "Prosus launches ToqanClaw to help businesses build AI tools through conversation",
-   "summary": "Prosus launches ToqanClaw to help businesses build AI tools through conversation Fortune India",
-   "source": "Fortune India",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUVULUxia3RTcjRnYjNjWmtOWUZMLXMwSW1KRWdiaW1WaEIzZEJtUDduUXNRUHZ1ODZXc2kyWGtYOFBacERRR3BWUmRfaEg1aWFzQzhZdzVNM2pXOEVUa3U5OTlPNm8tWGJIc19xajh5b21BeExtZ0pTSEJVNzJBVkhsZThfTGVDb1NTS3R0bG94TTlXSHFGdjlFbUhYNnlOejNWd2FjdHRaN1JfeGRHd0pIaW5fUndJTE1OQjVwS25fRklRM0VRadIB1gFBVV95cUxPS1hhSjVzb3VqRnZTRVg5OXNXc3dJdTEwMXA4OGhMcUFqRTd4OXFtSDBKb0ZFb1BrUTBYcXE2ckxnSGRtRi1HeDU4ODFIeTkzYnNJWHBFY1RMQkV3cE45R2dNd2RXZGxmYzFEZUd1Z2lGbDBUbUh5cHc5YlF5NC16Q3pDdVMxS1lEeldFVWZEVUUzZ09ud3Yzd1VJQ3otUHF0TThBYXA0ODRzYmRuazhCZUlfYUphSW9KeGk0UlBPODBtOW8zakllMF9OR1V0MldIMVF6TlhR?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-06-27T04:15:46+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-24",
    "title": "GPK Deadline Alert: Levi & Korsinsky Reminds Graphic Packaging Holding Company (GPK) Investors of Securities Class Action Deadline on July 6, 2026",
    "summary": "GPK Deadline Alert: Levi & Korsinsky Reminds Graphic Packaging Holding Company (GPK) Investors of Securities Class Action Deadline on July 6, 2026 PR Newswire",
    "source": "PR Newswire",
@@ -3792,19 +3778,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-24",
-   "title": "Tencent Posts Earnings Beat as It Steps Up AI Effort",
-   "summary": "Tencent Posts Earnings Beat as It Steps Up AI Effort WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQTJMWXV1eWw2TjJRYlhrRW9VUlZvUURPNU5vSmlUQ0F5bFlVR3NyZUFqUGZNeXFCMWdGTVNVQkhGR1hUeTVwcUFFckFWblR0a2hZYm1rV2pod3NVOWVKcEVuU2s5TVlCOWJWTG1KdWh5cXEtVExfQmZZWHhiYjgweEZYSnI5c19iOHcwUmtEUDVPVkgtRzFmWm1kWExfYjdLUG1ianZtR1FXSFk5bFl6Wmp3MHBTZzFnMTBIb0wyRzBCTE5UZy1fSzJB?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-26T04:39:14+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-23",
    "title": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE",
    "summary": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE PR Newswire",
@@ -3819,12 +3792,12 @@
   },
   {
    "date": "2026-06-23",
-   "title": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm",
-   "summary": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcm9IUURlLVd5MkdSWjEtS3pHOHFFRnNyOC1IbnkyVHRMaW83amhMbVZjZF9CRk9zOWRsNEt0QWZJZHFuTTRJTWxaNUY4ckxTUXVRMExYNU01cUNGRHRYSEpnMUg2SWpxd01md2tTZ3R3MVlSa3k0d3o2ZHFFUmxOM2JpSkxuMW9TaHhaalVObE1QX2VGOXlyV19HU0FaTTJ1M2t5NnYxTGU0b2VlaDFldExIby03S3d0dVJ1ZFVmZ2Z1bW1yTFRreUNMbUtudnpybFB1VHd4RDk4X2pNb1NDdXQ5UnBnb1Q1LWNaZEJEWnphQkpSMHV2WjBKSkdJOVNKREJXRlBzd1NaeTRNTl9BRWdiS0dnc2pGdWIya0R0eUJab2NlZEJTaVpfTFpiN19qNHJGSzFhTWR6MWVBc3pV?oc=5",
+   "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
+   "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRHo0dmszTnV2eUZPN01mQlE4NEcyQXNYNm5JMGZISmFkTDE2VlI0X0RMc2RuOUpSR1JLbnY2RjVuV190eS1IUnpWbnh6eDRRYUZ6M1ZLdktWVDB6ZTVWMzd1X3c5TXVyVnFMcHdkd3ZnUElHQ1FCX19oWQ?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-06-26T06:19:35+00:00",
+   "firstSeen": "2026-06-27T04:15:46+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3832,12 +3805,12 @@
   },
   {
    "date": "2026-06-23",
-   "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
-   "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
-   "source": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRHo0dmszTnV2eUZPN01mQlE4NEcyQXNYNm5JMGZISmFkTDE2VlI0X0RMc2RuOUpSR1JLbnY2RjVuV190eS1IUnpWbnh6eDRRYUZ6M1ZLdktWVDB6ZTVWMzd1X3c5TXVyVnFMcHdkd3ZnUElHQ1FCX19oWQ?oc=5",
+   "title": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm",
+   "summary": "GPK Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Graphic Packaging Holding Company Securities Lawsuit - Contact The Gross Law Firm PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcm9IUURlLVd5MkdSWjEtS3pHOHFFRnNyOC1IbnkyVHRMaW83amhMbVZjZF9CRk9zOWRsNEt0QWZJZHFuTTRJTWxaNUY4ckxTUXVRMExYNU01cUNGRHRYSEpnMUg2SWpxd01md2tTZ3R3MVlSa3k0d3o2ZHFFUmxOM2JpSkxuMW9TaHhaalVObE1QX2VGOXlyV19HU0FaTTJ1M2t5NnYxTGU0b2VlaDFldExIby03S3d0dVJ1ZFVmZ2Z1bW1yTFRreUNMbUtudnpybFB1VHd4RDk4X2pNb1NDdXQ5UnBnb1Q1LWNaZEJEWnphQkpSMHV2WjBKSkdJOVNKREJXRlBzd1NaeTRNTl9BRWdiS0dnc2pGdWIya0R0eUJab2NlZEJTaVpfTFpiN19qNHJGSzFhTWR6MWVBc3pV?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-06-27T04:15:46+00:00",
+   "firstSeen": "2026-06-26T06:19:35+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3890,6 +3863,19 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjdCOTBXMG9FOHR3QVFFaHlJcWFHRkdGYnkzUmN0WEVhTUF4bXQ3OG5ESlNuNzdtYjg4NEp2eWcyYVBWSFRUYjZwcU1KWlBCX3FBMW9xRkNXUGNMZDFJeEkwT3M5d09CaVNqcjN5M3Q3Tm14eFRpSzdVVm1oODhTUDZyZGNJWGtESkVOSjYxRE1USDVLdWN6dU9sNmhuUQ?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-06-23T04:20:05+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-22",
+   "title": "S&P Global Ratings Upgrades Bladex to 'BBB+'",
+   "summary": "S&P Global Ratings Upgrades Bladex to 'BBB+' PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-06-27T06:00:44+00:00",
    "companyId": 34,
    "company": "S&P Global",
    "asset": "Aktien",
@@ -4000,6 +3986,32 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-18",
+   "title": "Tencent Cloud and China CITIC Bank International Limited Sign Strategic Cooperation Agreement to Accelerate FinTech 2.0 Transformation",
+   "summary": "Tencent Cloud and China CITIC Bank International Limited Sign Strategic Cooperation Agreement to Accelerate FinTech 2.0 Transformation PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQU3ZqSG9QQlB2NUh1OTluR0Y0WUJxRzloM05EcXQzSjhMb1oxX0dXbzc0Z0tUZDNNN18zd0I5X19WbUZsd0xZdDFfTkNyWkpxRmhmVlRid1RpSWViWmFYRTMxRE0wdDF4aTJtcnlxQ1FLblF4bVhWQUkwcHRvWE0wZF9EQ08wd3FnMWFSYzhDTHFySjlWV0g3Zm1FMFNDeDJBanhoVlNNa25QeGlEOUpodDFIWEF2WkFxekZQQlBFd3dZTzhud0F0d2tKMVNEVkJFcUVILW4tS1lpYlRlZHJ6M1hadUVMNlJkVVpjNGtnOTJmS0Z6eXl4Ym41aVo2THRRdGszWC1rNFhYSHRnaEhQQUR5UF9NS09kdHFDb3g1VEw?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-27T06:00:44+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-17",
+   "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
+   "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-06-27T06:00:44+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
    "date": "2026-06-16",
    "title": "Post Holdings (POST) Q2 2026 Earnings Call Transcript",
    "summary": "Post Holdings (POST) Q2 2026 Earnings Call Transcript Fortune",
@@ -4024,6 +4036,19 @@
    "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-16",
+   "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+   "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+   "source": "AgNewsWire",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-06-27T06:00:44+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-16",
@@ -4222,19 +4247,6 @@
   },
   {
    "date": "2026-06-02",
-   "title": "Ubisoft Reveals Rayman Legends Retold, Available on October 1",
-   "summary": "Ubisoft Reveals Rayman Legends Retold, Available on October 1 Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmhKbUVIdTl6UzVpRFFLVTh4cHdWZVFqVTlERmxlNkt5c21EUHhvVG84SEdrcHIxWUhoLTdaVG1pZFpKWXVNckVJZU5pdkFZNEs5YWVTRm05SmV6TU4zS1ZsZURFLTRkekVYSzQxck1laDB0Y29velZyV3JSZjdHUUk3QmZWbDNOM3FoMU1qX3huMUp4NXlEYmVHX3VIcVg1ckQxZERKcDhrYjhnMHVtLXVGS05RbVln?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-27T04:15:46+00:00",
-   "companyId": 6,
-   "company": "Ubisoft",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-02",
    "title": "Microsoft seeks to be AI’s center of gravity again. CEO Satya Nadella is in San Francisco to make the case",
    "summary": "Microsoft seeks to be AI’s center of gravity again. CEO Satya Nadella is in San Francisco to make the case Fortune",
    "source": "Fortune",
@@ -4309,19 +4321,6 @@
    "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-28",
-   "title": "ION Commodities expands collaboration with S&P Global Energy Platts",
-   "summary": "ION Commodities expands collaboration with S&P Global Energy Platts PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1RzODdLWWt0SjhWaDk0WGR5Z1dsUFI4cDJ1NUN6UTZObEp5X3I1dUxna0dpNUFRa0tua2Q0SkN6RXpKSm11ZVBtNzJrT3k2ZVVmaFFpNEZkMWFnUlEyM1FWTmtQcHIxeU5nMklDcm5VamhfQWpFaEFNdHdyQWVPZ29sUmh0d3dLSFNyNU0zdGlWd3RhcGxISTFVaXJ4N2JZVnBkTjB5djNTbDVncUU1eHNndEdFbFBvOVBIYWxzVQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-26T04:39:14+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   }
  ],
  "events": [
