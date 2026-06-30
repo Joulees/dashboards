@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-30T04:33:28+00:00",
+ "generatedAt": "2026-06-30T06:32:07+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -146,6 +146,19 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNmlsblZ4bGNTVE5CSm5OSnBPb3JxdWdmZi1WT2lBNmFmUXY1MEo5UGRGWlZ4OVJtY0dnOVgxQVlzUFVnV3FUNHp5NktjZ2ZXN0t4eTNHeHkwSV9NTzhoOTF5R0JPWGw0QTF1NVF0czRYWVNjQkxDaUNIaEJHajhFNC1DZUFON1Rnajh4TzBFWWtZV0RFZ0s4UGVRcDFwWktKaXViYVhZSzRPX3JNMUsxNTY4LU8zOGhjQjNiTU02U3BUUkV6QWZfLWtxRWFPUHlyQ0p3N2xxTGtvMXhxb0dtZy04VDQ?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-30T04:33:28+00:00",
+     "companyId": 4,
+     "company": "Borr",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-17",
+     "title": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation",
+     "summary": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation ACCESS Newswire",
+     "source": "ACCESS Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3BEVzRwdnpoMHpDRk9ENkkxUWJ3cU95U0t2R1pXWWxuUVdzSW1aRWRBeUZhMnZfeEFSM3A3aC1oWXd5aXViZTA4RjduZUx0NE11ektNN0t2eVR1aFpnYklmYTVZQlpvb0stVERxbWFkNFpNLXh3aEdZR2FYSlA4bVdycmdLd1JwS3VrUEVmbzYxSG5MWTF1aEowUHE0SC1VYkFad1FwNnNNVVk5OHdhX2ZKQVFVZDVsSG9FMGhJem1oaDMyUEVBaHVoWmNFVGxleF83ckhMdjRqNUtRV2plYjRWYWw?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-06-30T06:32:07+00:00",
      "companyId": 4,
      "company": "Borr",
      "asset": "Anleihen",
@@ -401,6 +414,19 @@
    "news": [
     {
      "date": "2026-06-29",
+     "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
+     "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
+     "source": "WirtschaftsWoche",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-30T04:33:28+00:00",
+     "companyId": 8,
+     "company": "Prosus",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-29",
      "title": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth",
      "summary": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth WSJ",
      "source": "WSJ",
@@ -427,32 +453,6 @@
     },
     {
      "date": "2026-06-29",
-     "title": "Watch Prosus Focused on Growing Just Eat Globally, CEO Fabricio Bloisi Says",
-     "summary": "Watch Prosus Focused on Growing Just Eat Globally, CEO Fabricio Bloisi Says Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0xBeDVDTWFQSEl4ekNsZUZVUXJvejFiZzZPYnRYVHA1WnB6eklETUlhNUZXVFhfMy0wdWZrVlY4bFVtVUV1S1ZlSjB2c1E0d3Jud0pnaE0zSGtGNmtDbjdFNVR5Skc1Ul9JUlhDQlQweEZwRmd3TDhMRWZfRVpCQnJKOGNpT2FsM0Fsdnh4Tm1ZSXFyam8wcVpDQ196ZzVZa0dtVzdmNDFQV0Q1Ti1J?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-06-29T07:02:57+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-29",
-     "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
-     "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
-     "source": "WirtschaftsWoche",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-30T04:33:28+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-29",
      "title": "Prosus Profit Jumps as Bets on E-Commerce Businesses Pay Off",
      "summary": "Prosus Profit Jumps as Bets on E-Commerce Businesses Pay Off Bloomberg.com",
      "source": "Bloomberg.com",
@@ -465,13 +465,26 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-19",
-     "title": "Prosus Expects Surge in Profits on E-Commerce, Tencent Growth",
-     "summary": "Prosus Expects Surge in Profits on E-Commerce, Tencent Growth Bloomberg.com",
+     "date": "2026-06-29",
+     "title": "Watch Prosus Focused on Growing Just Eat Globally, CEO Fabricio Bloisi Says",
+     "summary": "Watch Prosus Focused on Growing Just Eat Globally, CEO Fabricio Bloisi Says Bloomberg.com",
      "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlY3cXJDb0lsM1NBUmxSRS1IZ3ZUbjRnT1pKMnNfWDNIeXJYRzM2b0NoeEVoSFRxQTBMVjlocFNDazJfUFdHczNMandsdU9rZUtVZzcyNjJHZVhDaFFzX0toMF8wbUFHSk5EVi1LR2pQY0M0YTY2NEVQSFRraE55VXpsaGl0dlJpVDMxdEFEQk15c0hCTFI4RGxna0pjakJpTmIyQUdaOUEtRFlfNm40SQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0xBeDVDTWFQSEl4ekNsZUZVUXJvejFiZzZPYnRYVHA1WnB6eklETUlhNUZXVFhfMy0wdWZrVlY4bFVtVUV1S1ZlSjB2c1E0d3Jud0pnaE0zSGtGNmtDbjdFNVR5Skc1Ul9JUlhDQlQweEZwRmd3TDhMRWZfRVpCQnJKOGNpT2FsM0Fsdnh4Tm1ZSXFyam8wcVpDQ196ZzVZa0dtVzdmNDFQV0Q1Ti1J?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-06-29T07:02:57+00:00",
+     "companyId": 8,
+     "company": "Prosus",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-19",
+     "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
+     "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
      "category": "Earnings",
-     "firstSeen": "2026-06-19T07:24:52+00:00",
+     "firstSeen": "2026-06-30T06:32:07+00:00",
      "companyId": 8,
      "company": "Prosus",
      "asset": "Anleihen",
@@ -696,6 +709,19 @@
   "11": {
    "news": [
     {
+     "date": "2026-06-30",
+     "title": "Graphic Packaging Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
+     "summary": "Graphic Packaging Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORklBMDBveFBuOWUwaGQ1bjU1VDQ2SXpFQkRSWkhVdnpRRlN4czVGLUhxZ3g5blR1RExlOU9WS202SnZFaXdGX210MEgxR3RpSVo3OXl5dVBrWWVILXg4OEQ0Y0lfanlHNzFZbDhmeUU1VzlqTDhfbDBROVNYdHgyMm4xMGtyRE9FaXk4bW5oZ2JWUjN5RnFTMmxtOFlaUTd2dkp6LUdleDBwM1lUNjJLcEhWNGNzMjJKNzZQaGVVTFk0ejgxZEpQVzB2LWtzLWo0MEszR1Q2TjNPLVEzOUJTVUY1am80VDZlNEhDZWVKc0FQelc3LU1hYWM4TGFENHdSd2hQdk1DdGdvTXdtMU9MR3pwSWZwWW5ZazVvQ0JiOUdjc3hsaTZUVURwaUNnbWNuX2NRNw?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-30T06:32:07+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-29",
      "title": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm",
      "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit with the Schall Law Firm PR Newswire",
@@ -729,19 +755,6 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU2J1b1ZkVVp1NlV6R2JRTWhZN2hibmNDZHNfVjZ1VnNXSm9YdXhRRk1HbXY3SWtRWlZGakZob3NkLUxVUUdkbzFsU0l4T3NwUThKWmpUbGVna09WdEdKZ0hQU2Q0V2ZSUDVJelZ5VkdmRG81OEIxallnNkVvRWdWdGJMYnlEM25CanRFaVNjWHQwLUtncmNpTkFjSU8zY3dLTmFJbURFN0dDQVhIeTlTM1hUMUtuT3dfcXpCRnEzeGxOeGJIbTN6cVpEMDBibDFsZmFEdXo0UTU1bHJuSjBmTFF1dFA?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-27T04:15:46+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-24",
-     "title": "Graphic Packaging Holding Company (GPK) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before July 6, 2026",
-     "summary": "Graphic Packaging Holding Company (GPK) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before July 6, 2026 ACCESS Newswire",
-     "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0NxSmM1UXItSXlRa3dWaGd0eTFlQmtPX1EwWmhJWkw5SEkyZW1EeDhRbHJUcVY0Y0sycmpOWDlwR09QLUY0cGUzLUpZaGdGTFJ4TXdXWURNT0E4VWphUHJmaU9aODk1SmhnTEZtbUEyRG5xYTB4cGFqWnZ3SGdfUWMzQ25pa3ZncHpoTFcwT2sybE9lM1pFQ1M5ZE9HS3NOM3gyMUFHaW04dElaVEM4TVJuc1VvUjBTQmhWaktDRzJ6Rmw4emdYbUc4YnJTbVZrcWhCSDVkTXlIdlVmQm9YX19XZFQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-26T04:39:14+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -2139,10 +2152,10 @@
    "news": [
     {
      "date": "2026-06-23",
-     "title": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release",
-     "summary": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release Forbes",
-     "source": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUl9SeXdyWWVNTXVnVzZJV3VzU2U3MkQ4TXVhU2RxaXVzdERmODBMV2NobmRZdmliWGJ0MWVxSTZSX0ZCZzJUMFdob01uYWR1NVJld3FYNFNudm5sT3NZNnZETGdyQ0dWYUhUczRKYllSRm9xTU04bk9DUlVFN3hMTlR5OVlHUEVNWXZNWUlmVUE1TS1pcHVsTkFoZWhaSUZSTk9QN3FDRGpJdlhJUW9EdEs1ZXhuZXQyNFhSS0FlTEVjLWZWQ1ExZnVYRQ?oc=5",
+     "title": "Meta launches cheaper range of AI smart glasses starting at $299",
+     "summary": "Meta launches cheaper range of AI smart glasses starting at $299 Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHdqWktPUlFDUEx5WmktWHhqVkxzVlloYUpWYXVzRGlWdlA5RXZfUE1yT1VWbU9pRU84U1BpdUFoUUl2Y3pxX0g0cTlRckdwYXllSVJkNndsYTMyd3RGNWh1RGtSYk4tUUQwcTQtcU5nQkRISU5CMmhSMUJjUkE4cEtnVlRuWXNJSmp5YkJpSHhzWkh4WEtpUzJ2SUpYVDg?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-24T04:35:26+00:00",
      "companyId": 22,
@@ -2152,10 +2165,10 @@
     },
     {
      "date": "2026-06-23",
-     "title": "Meta launches cheaper range of AI smart glasses starting at $299",
-     "summary": "Meta launches cheaper range of AI smart glasses starting at $299 Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHdqWktPUlFDUEx5WmktWHhqVkxzVlloYUpWYXVzRGlWdlA5RXZfUE1yT1VWbU9pRU84U1BpdUFoUUl2Y3pxX0g0cTlRckdwYXllSVJkNndsYTMyd3RGNWh1RGtSYk4tUUQwcTQtcU5nQkRISU5CMmhSMUJjUkE4cEtnVlRuWXNJSmp5YkJpSHhzWkh4WEtpUzJ2SUpYVDg?oc=5",
+     "title": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release",
+     "summary": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release Forbes",
+     "source": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUl9SeXdyWWVNTXVnVzZJV3VzU2U3MkQ4TXVhU2RxaXVzdERmODBMV2NobmRZdmliWGJ0MWVxSTZSX0ZCZzJUMFdob01uYWR1NVJld3FYNFNudm5sT3NZNnZETGdyQ0dWYUhUczRKYllSRm9xTU04bk9DUlVFN3hMTlR5OVlHUEVNWXZNWUlmVUE1TS1pcHVsTkFoZWhaSUZSTk9QN3FDRGpJdlhJUW9EdEs1ZXhuZXQyNFhSS0FlTEVjLWZWQ1ExZnVYRQ?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-24T04:35:26+00:00",
      "companyId": 22,
@@ -3133,19 +3146,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-26",
-     "title": "Stellar Pictures Showcases Five Major Series at Tencent",
-     "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZ3lwYTVMblN5V3hqVkx2QVRDNjdCWGt0cUU5clIyMGZEZjc2QzB1UzVtalFVYlVLZnlOc0JhSmZGQWxFV3J4UVp5LWdlbHlVelBRdlhhWkNNb2prREs1dTl4d2ZxWjFucDIxbE9Xdk1jUTM2Q21xa2Nrd3BWYnVXVUI1eXJUczIyMkpiN3N3dTBYU3RvM0x4cEJGUG5GR2pteVBiZEhQVW40WEJUdVktOTl0b2pMWldsSXE3cTdWVjNSdnUzRXl1RUxzWEtrY21rdmdNbDFSQmZhQ0N5YjVvS3Axdkt2VUNETU1vUTVGRWg5QURDam53ME5Mdmc4dTl3QnUta1M1U2YtUnowTmtna3dNVjg5RUY3VHFha2NFQTFzaXFWblN4cURHR0YyWEh5NVJGem45TkYzYWhrQ0Zr?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-26T06:19:35+00:00",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-25",
      "title": "Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award",
      "summary": "Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award PR Newswire",
@@ -3166,6 +3166,19 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlY3cXJDb0lsM1NBUmxSRS1IZ3ZUbjRnT1pKMnNfWDNIeXJYRzM2b0NoeEVoSFRxQTBMVjlocFNDazJfUFdHczNMandsdU9rZUtVZzcyNjJHZVhDaFFzX0toMF8wbUFHSk5EVi1LR2pQY0M0YTY2NEVQSFRraE55VXpsaGl0dlJpVDMxdEFEQk15c0hCTFI4RGxna0pjakJpTmIyQUdaOUEtRFlfNm40SQ?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-06-19T07:24:52+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-19",
+     "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
+     "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-06-30T06:32:07+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3375,32 +3388,6 @@
   "34": {
    "news": [
     {
-     "date": "2026-06-29",
-     "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
-     "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-30T04:33:28+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-06-25",
-     "title": "S&P Global Inc. stock outperforms competitors despite losses on the day",
-     "summary": "S&P Global Inc. stock outperforms competitors despite losses on the day MarketWatch",
-     "source": "MarketWatch",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVNNNmI5b2dnbWhKTy1BV2c1LWNOUV81cm1vQ0NKWEhaSDhRaDZTaFRTZnpiMUp2RmJ0THBUa2lVUmZLUllhU1U2Tmp4NDgtMWEyMXI3N0RoeGUwRW54OEV1Ty1xd2xJSkJ3NG0tSGJSNWNObUJmLXhlaU51dFNHeDhoZDl0OHYwQzJqV1JGaUlSX1BHTnZYSDRZbmQtcE84RzZWZkd0ZUNPdFNMTWJFbUI4UE5KeUlHNi1YdHFlOTBTaWNublRVSFVn?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-29T07:02:57+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
      "date": "2026-06-22",
      "title": "S&P Global Declares Third Quarter Dividend",
      "summary": "S&P Global Declares Third Quarter Dividend PR Newswire",
@@ -3414,13 +3401,13 @@
      "status": "Watchlist"
     },
     {
-     "date": "2026-06-22",
-     "title": "S&P Global Ratings Upgrades Bladex to 'BBB+'",
-     "summary": "S&P Global Ratings Upgrades Bladex to 'BBB+' PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-06-27T06:00:44+00:00",
+     "date": "2026-06-16",
+     "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+     "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+     "source": "AgNewsWire",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-06-30T06:32:07+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3447,6 +3434,19 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-30T04:33:28+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-02",
+     "title": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner",
+     "summary": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXVVWjZ0WEpTTUk3b1lrZTRQdWNxd096YTNYMTZCdEIwZ2tXTzJmdEU3aGFoTjhTM3RLN002bTVZU3pqS1h6c3VpSmR2ZDUwVHJJUl81NGFMNWl1UUhXdlpsWlZ2SzgyeDlVUmoxMjhUOG5mSnVWdkhyaWYzWTJWQi10QUhpc0R4VkZXZFFYZkx1Zm9GZ091LVNEV3Z2bGpSZUpaOXhtLUQxT2dLc21ncW5fdVBOeTBGQThQUHNJNnYzLWRJMVVNRWZZaVRWLV9NNnlNRXpGcG84ZG52ZWVNXw?oc=5",
+     "category": "Conference",
+     "firstSeen": "2026-06-30T06:32:07+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3701,6 +3701,19 @@
  "news": [
   {
    "date": "2026-06-30",
+   "title": "Graphic Packaging Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
+   "summary": "Graphic Packaging Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORklBMDBveFBuOWUwaGQ1bjU1VDQ2SXpFQkRSWkhVdnpRRlN4czVGLUhxZ3g5blR1RExlOU9WS202SnZFaXdGX210MEgxR3RpSVo3OXl5dVBrWWVILXg4OEQ0Y0lfanlHNzFZbDhmeUU1VzlqTDhfbDBROVNYdHgyMm4xMGtyRE9FaXk4bW5oZ2JWUjN5RnFTMmxtOFlaUTd2dkp6LUdleDBwM1lUNjJLcEhWNGNzMjJKNzZQaGVVTFk0ejgxZEpQVzB2LWtzLWo0MEszR1Q2TjNPLVEzOUJTVUY1am80VDZlNEhDZWVKc0FQelc3LU1hYWM4TGFENHdSd2hQdk1DdGdvTXdtMU9MR3pwSWZwWW5ZazVvQ0JiOUdjc3hsaTZUVURwaUNnbWNuX2NRNw?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-30T06:32:07+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-30",
    "title": "Tencent Ramps Up Buybacks as Share Rout Wipes Out $309 Billion",
    "summary": "Tencent Ramps Up Buybacks as Share Rout Wipes Out $309 Billion Bloomberg.com",
    "source": "Bloomberg.com",
@@ -3710,6 +3723,19 @@
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
+   "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
+   "source": "WirtschaftsWoche",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-30T04:33:28+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -3740,38 +3766,25 @@
   },
   {
    "date": "2026-06-29",
-   "title": "Watch Prosus Focused on Growing Just Eat Globally, CEO Fabricio Bloisi Says",
-   "summary": "Watch Prosus Focused on Growing Just Eat Globally, CEO Fabricio Bloisi Says Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0xBeDVDTWFQSEl4ekNsZUZVUXJvejFiZzZPYnRYVHA1WnB6eklETUlhNUZXVFhfMy0wdWZrVlY4bFVtVUV1S1ZlSjB2c1E0d3Jud0pnaE0zSGtGNmtDbjdFNVR5Skc1Ul9JUlhDQlQweEZwRmd3TDhMRWZfRVpCQnJKOGNpT2FsM0Fsdnh4Tm1ZSXFyam8wcVpDQ196ZzVZa0dtVzdmNDFQV0Q1Ti1J?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
-   "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
-   "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
-   "source": "WirtschaftsWoche",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-30T04:33:28+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
    "title": "Prosus Profit Jumps as Bets on E-Commerce Businesses Pay Off",
    "summary": "Prosus Profit Jumps as Bets on E-Commerce Businesses Pay Off Bloomberg.com",
    "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2JlUmUtLVJBQTI2RDkyN3lFdDUyalVRTmVKaWx3TWVGRkpiZWptWExWTGRUU25qVW9EUFo4a010VHd0b1VXRGZrYlV3VUpsQUtRYUpJc2U5bVlzeVU3WG9NS0F5czhKWEFXeFpGUEg4NUJDaWJqT3EyWHF3TTBNZkJ5RlJaOWxvUFBaNl9OblN4VmtCYWRnMi1TbG5iUzFJNmMwZzlpZ0pqbzRjQ0hOTkNCUQ?oc=5",
    "category": "Earnings",
    "firstSeen": "2026-06-30T04:33:28+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "Watch Prosus Focused on Growing Just Eat Globally, CEO Fabricio Bloisi Says",
+   "summary": "Watch Prosus Focused on Growing Just Eat Globally, CEO Fabricio Bloisi Says Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0xBeDVDTWFQSEl4ekNsZUZVUXJvejFiZzZPYnRYVHA1WnB6eklETUlhNUZXVFhfMy0wdWZrVlY4bFVtVUV1S1ZlSjB2c1E0d3Jud0pnaE0zSGtGNmtDbjdFNVR5Skc1Ul9JUlhDQlQweEZwRmd3TDhMRWZfRVpCQnJKOGNpT2FsM0Fsdnh4Tm1ZSXFyam8wcVpDQ196ZzVZa0dtVzdmNDFQV0Q1Ti1J?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-06-29T07:02:57+00:00",
    "companyId": 8,
    "company": "Prosus",
    "asset": "Anleihen",
@@ -3869,19 +3882,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-29",
-   "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
-   "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-30T04:33:28+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
    "date": "2026-06-26",
    "title": "Mineral Resources to List New Shares from Employee Incentive Scheme",
    "summary": "Mineral Resources to List New Shares from Employee Incentive Scheme The Globe and Mail",
@@ -3918,19 +3918,6 @@
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-26",
-   "title": "Stellar Pictures Showcases Five Major Series at Tencent",
-   "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZ3lwYTVMblN5V3hqVkx2QVRDNjdCWGt0cUU5clIyMGZEZjc2QzB1UzVtalFVYlVLZnlOc0JhSmZGQWxFV3J4UVp5LWdlbHlVelBRdlhhWkNNb2prREs1dTl4d2ZxWjFucDIxbE9Xdk1jUTM2Q21xa2Nrd3BWYnVXVUI1eXJUczIyMkpiN3N3dTBYU3RvM0x4cEJGUG5GR2pteVBiZEhQVW40WEJUdVktOTl0b2pMWldsSXE3cTdWVjNSdnUzRXl1RUxzWEtrY21rdmdNbDFSQmZhQ0N5YjVvS3Axdkt2VUNETU1vUTVGRWg5QURDam53ME5Mdmc4dTl3QnUta1M1U2YtUnowTmtna3dNVjg5RUY3VHFha2NFQTFzaXFWblN4cURHR0YyWEh5NVJGem45TkYzYWhrQ0Zr?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-26T06:19:35+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -3974,19 +3961,6 @@
   },
   {
    "date": "2026-06-25",
-   "title": "S&P Global Inc. stock outperforms competitors despite losses on the day",
-   "summary": "S&P Global Inc. stock outperforms competitors despite losses on the day MarketWatch",
-   "source": "MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVNNNmI5b2dnbWhKTy1BV2c1LWNOUV81cm1vQ0NKWEhaSDhRaDZTaFRTZnpiMUp2RmJ0THBUa2lVUmZLUllhU1U2Tmp4NDgtMWEyMXI3N0RoeGUwRW54OEV1Ty1xd2xJSkJ3NG0tSGJSNWNObUJmLXhlaU51dFNHeDhoZDl0OHYwQzJqV1JGaUlSX1BHTnZYSDRZbmQtcE84RzZWZkd0ZUNPdFNMTWJFbUI4UE5KeUlHNi1YdHFlOTBTaWNublRVSFVn?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-25",
    "title": "Adyen Selected to Provide Payments Technology for Aritzia",
    "summary": "Adyen Selected to Provide Payments Technology for Aritzia PR Newswire",
    "source": "PR Newswire",
@@ -3997,19 +3971,6 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-24",
-   "title": "Graphic Packaging Holding Company (GPK) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before July 6, 2026",
-   "summary": "Graphic Packaging Holding Company (GPK) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before July 6, 2026 ACCESS Newswire",
-   "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0NxSmM1UXItSXlRa3dWaGd0eTFlQmtPX1EwWmhJWkw5SEkyZW1EeDhRbHJUcVY0Y0sycmpOWDlwR09QLUY0cGUzLUpZaGdGTFJ4TXdXWURNT0E4VWphUHJmaU9aODk1SmhnTEZtbUEyRG5xYTB4cGFqWnZ3SGdfUWMzQ25pa3ZncHpoTFcwT2sybE9lM1pFQ1M5ZE9HS3NOM3gyMUFHaW04dElaVEM4TVJuc1VvUjBTQmhWaktDRzJ6Rmw4emdYbUc4YnJTbVZrcWhCSDVkTXlIdlVmQm9YX19XZFQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-26T04:39:14+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-24",
@@ -4078,10 +4039,10 @@
   },
   {
    "date": "2026-06-23",
-   "title": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release",
-   "summary": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release Forbes",
-   "source": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUl9SeXdyWWVNTXVnVzZJV3VzU2U3MkQ4TXVhU2RxaXVzdERmODBMV2NobmRZdmliWGJ0MWVxSTZSX0ZCZzJUMFdob01uYWR1NVJld3FYNFNudm5sT3NZNnZETGdyQ0dWYUhUczRKYllSRm9xTU04bk9DUlVFN3hMTlR5OVlHUEVNWXZNWUlmVUE1TS1pcHVsTkFoZWhaSUZSTk9QN3FDRGpJdlhJUW9EdEs1ZXhuZXQyNFhSS0FlTEVjLWZWQ1ExZnVYRQ?oc=5",
+   "title": "Meta launches cheaper range of AI smart glasses starting at $299",
+   "summary": "Meta launches cheaper range of AI smart glasses starting at $299 Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHdqWktPUlFDUEx5WmktWHhqVkxzVlloYUpWYXVzRGlWdlA5RXZfUE1yT1VWbU9pRU84U1BpdUFoUUl2Y3pxX0g0cTlRckdwYXllSVJkNndsYTMyd3RGNWh1RGtSYk4tUUQwcTQtcU5nQkRISU5CMmhSMUJjUkE4cEtnVlRuWXNJSmp5YkJpSHhzWkh4WEtpUzJ2SUpYVDg?oc=5",
    "category": "Markt",
    "firstSeen": "2026-06-24T04:35:26+00:00",
    "companyId": 22,
@@ -4091,10 +4052,10 @@
   },
   {
    "date": "2026-06-23",
-   "title": "Meta launches cheaper range of AI smart glasses starting at $299",
-   "summary": "Meta launches cheaper range of AI smart glasses starting at $299 Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHdqWktPUlFDUEx5WmktWHhqVkxzVlloYUpWYXVzRGlWdlA5RXZfUE1yT1VWbU9pRU84U1BpdUFoUUl2Y3pxX0g0cTlRckdwYXllSVJkNndsYTMyd3RGNWh1RGtSYk4tUUQwcTQtcU5nQkRISU5CMmhSMUJjUkE4cEtnVlRuWXNJSmp5YkJpSHhzWkh4WEtpUzJ2SUpYVDg?oc=5",
+   "title": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release",
+   "summary": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release Forbes",
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUl9SeXdyWWVNTXVnVzZJV3VzU2U3MkQ4TXVhU2RxaXVzdERmODBMV2NobmRZdmliWGJ0MWVxSTZSX0ZCZzJUMFdob01uYWR1NVJld3FYNFNudm5sT3NZNnZETGdyQ0dWYUhUczRKYllSRm9xTU04bk9DUlVFN3hMTlR5OVlHUEVNWXZNWUlmVUE1TS1pcHVsTkFoZWhaSUZSTk9QN3FDRGpJdlhJUW9EdEs1ZXhuZXQyNFhSS0FlTEVjLWZWQ1ExZnVYRQ?oc=5",
    "category": "Markt",
    "firstSeen": "2026-06-24T04:35:26+00:00",
    "companyId": 22,
@@ -4116,19 +4077,6 @@
    "status": "Watchlist"
   },
   {
-   "date": "2026-06-22",
-   "title": "S&P Global Ratings Upgrades Bladex to 'BBB+'",
-   "summary": "S&P Global Ratings Upgrades Bladex to 'BBB+' PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-06-27T06:00:44+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
    "date": "2026-06-21",
    "title": "Bronstein, Gewirtz & Grossman, LLC Encourages Borr Drilling Limited (BORR) Stockholders to Inquire about Securities Investigation",
    "summary": "Bronstein, Gewirtz & Grossman, LLC Encourages Borr Drilling Limited (BORR) Stockholders to Inquire about Securities Investigation ACCESS Newswire",
@@ -4143,12 +4091,12 @@
   },
   {
    "date": "2026-06-19",
-   "title": "Prosus Expects Surge in Profits on E-Commerce, Tencent Growth",
-   "summary": "Prosus Expects Surge in Profits on E-Commerce, Tencent Growth Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlY3cXJDb0lsM1NBUmxSRS1IZ3ZUbjRnT1pKMnNfWDNIeXJYRzM2b0NoeEVoSFRxQTBMVjlocFNDazJfUFdHczNMandsdU9rZUtVZzcyNjJHZVhDaFFzX0toMF8wbUFHSk5EVi1LR2pQY0M0YTY2NEVQSFRraE55VXpsaGl0dlJpVDMxdEFEQk15c0hCTFI4RGxna0pjakJpTmIyQUdaOUEtRFlfNm40SQ?oc=5",
+   "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
+   "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-06-19T07:24:52+00:00",
+   "firstSeen": "2026-06-30T06:32:07+00:00",
    "companyId": 8,
    "company": "Prosus",
    "asset": "Anleihen",
@@ -4162,6 +4110,19 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlY3cXJDb0lsM1NBUmxSRS1IZ3ZUbjRnT1pKMnNfWDNIeXJYRzM2b0NoeEVoSFRxQTBMVjlocFNDazJfUFdHczNMandsdU9rZUtVZzcyNjJHZVhDaFFzX0toMF8wbUFHSk5EVi1LR2pQY0M0YTY2NEVQSFRraE55VXpsaGl0dlJpVDMxdEFEQk15c0hCTFI4RGxna0pjakJpTmIyQUdaOUEtRFlfNm40SQ?oc=5",
    "category": "Earnings",
    "firstSeen": "2026-06-19T07:24:52+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-19",
+   "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
+   "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-06-30T06:32:07+00:00",
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
@@ -4207,6 +4168,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-17",
+   "title": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation",
+   "summary": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation ACCESS Newswire",
+   "source": "ACCESS Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3BEVzRwdnpoMHpDRk9ENkkxUWJ3cU95U0t2R1pXWWxuUVdzSW1aRWRBeUZhMnZfeEFSM3A3aC1oWXd5aXViZTA4RjduZUx0NE11ektNN0t2eVR1aFpnYklmYTVZQlpvb0stVERxbWFkNFpNLXh3aEdZR2FYSlA4bVdycmdLd1JwS3VrUEVmbzYxSG5MWTF1aEowUHE0SC1VYkFad1FwNnNNVVk5OHdhX2ZKQVFVZDVsSG9FMGhJem1oaDMyUEVBaHVoWmNFVGxleF83ckhMdjRqNUtRV2plYjRWYWw?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-06-30T06:32:07+00:00",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-16",
    "title": "Post Holdings (POST) Q2 2026 Earnings Call Transcript",
    "summary": "Post Holdings (POST) Q2 2026 Earnings Call Transcript Fortune",
@@ -4218,6 +4192,19 @@
    "company": "Post Holdings",
    "asset": "Anleihen",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-16",
+   "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+   "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+   "source": "AgNewsWire",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-06-30T06:32:07+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-16",
@@ -4439,6 +4426,19 @@
    "company": "Vistry",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-02",
+   "title": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner",
+   "summary": "The Conference Board to Honor S&P Global and UL Solutions at 2026 People First Awards Dinner PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXVVWjZ0WEpTTUk3b1lrZTRQdWNxd096YTNYMTZCdEIwZ2tXTzJmdEU3aGFoTjhTM3RLN002bTVZU3pqS1h6c3VpSmR2ZDUwVHJJUl81NGFMNWl1UUhXdlpsWlZ2SzgyeDlVUmoxMjhUOG5mSnVWdkhyaWYzWTJWQi10QUhpc0R4VkZXZFFYZkx1Zm9GZ091LVNEV3Z2bGpSZUpaOXhtLUQxT2dLc21ncW5fdVBOeTBGQThQUHNJNnYzLWRJMVVNRWZZaVRWLV9NNnlNRXpGcG84ZG52ZWVNXw?oc=5",
+   "category": "Conference",
+   "firstSeen": "2026-06-30T06:32:07+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   }
  ],
  "events": [
