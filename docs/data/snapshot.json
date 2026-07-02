@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-02T04:21:05+00:00",
+ "generatedAt": "2026-07-02T06:08:53+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -159,19 +159,6 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNmlsblZ4bGNTVE5CSm5OSnBPb3JxdWdmZi1WT2lBNmFmUXY1MEo5UGRGWlZ4OVJtY0dnOVgxQVlzUFVnV3FUNHp5NktjZ2ZXN0t4eTNHeHkwSV9NTzhoOTF5R0JPWGw0QTF1NVF0czRYWVNjQkxDaUNIaEJHajhFNC1DZUFON1Rnajh4TzBFWWtZV0RFZ0s4UGVRcDFwWktKaXViYVhZSzRPX3JNMUsxNTY4LU8zOGhjQjNiTU02U3BUUkV6QWZfLWtxRWFPUHlyQ0p3N2xxTGtvMXhxb0dtZy04VDQ?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-30T04:33:28+00:00",
-     "companyId": 4,
-     "company": "Borr",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-18",
-     "title": "Borr Drilling and Nabors Industries Shares Are Falling, What You Need To Know",
-     "summary": "Borr Drilling and Nabors Industries Shares Are Falling, What You Need To Know The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWGNMcXZmdzBKQjE4NnllTnJNNi1TT2pEbTVYTi1heHl0M0syRFVoaHYtY3JDRHNxY3JxblQ2YlozR2ZENkZ3X3h1QndxQm51RzFvZjlIVVMyeEZfd1JJTkQ4RTREcTJiYUtvM3FDaWlKQm1JMkVsSjdsb3JzSHpnMGc4S3JNaE9tQXBGWEJscldxUm5ZZ2g1MXI2d0tfLXJxOFlZV0F4dXI0QnFCZHZ0Z29VZnZWSV9DRnpMX3llWHdVLUFROHFJdGdDcnJ2YzZfdUNJYmNHRFNFQ2NCRnRLOWk4RUw2eHpuWS1wbGRMd2NKUQ?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
      "companyId": 4,
      "company": "Borr",
      "asset": "Anleihen",
@@ -478,13 +465,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-19",
-     "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
-     "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
+     "date": "2026-06-20",
+     "title": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable",
+     "summary": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMlIyakJHVmRwY212dTMyMElSRVQ3NFFQTElwWjAyaDJvWnNTX3B2U0hndHV4emxHT1NsR3lESURBeThxZm9iLUczc3pTZ1hUNENXS2Z1V2hIeW9LSnZvaG8yRzRQZFJaT3dkcGpXd0pOMTRyckJOQkpVZE5WSGFNbDRHQVprN3ZkMkxObFlaMGlxU3BCM1V4aGZveWhvRDB5V1IwWkNfdXRiYmcyUnllX2JkTFRNQXdxXzg1dk1oTjNyd0w0WGNUcUVBLXFIV2sxWUxFOEg2WjlsM0Izb3FYSUQ0bVdDYWFDWDgtaU1IejdMSkV4OEhqRnMzOA?oc=5",
      "category": "Earnings",
-     "firstSeen": "2026-06-30T06:32:07+00:00",
+     "firstSeen": "2026-07-02T06:08:53+00:00",
      "companyId": 8,
      "company": "Prosus",
      "asset": "Anleihen",
@@ -586,6 +573,19 @@
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcWUxbXFxVy1CS3d6RGZxQ0xKc212dktxdTJYMjllZjZkNno1TWtWR2Vwa3hoRHpvQ0w3STZJTVoxaXVCbjQ1cy1kVkh3UHdSa0d3aWVENTJodHpHUWJQWXhGR3RKSnJpZ1B1bUhPT0xwX2s4eTlReDdHQkl0NFg3VHRlRkRXay1zRmZzbWZBMG1sNjVOZlVjUGNVQ1JRd0pBVlJNdXQ1aUREcjExeXk4T0dpQzJHLVd3akVqUXFIOFRPYWw1YmJKS2J1b1lMaGJUWjRGRzNINzloSDY0S0U5XzVxeXU4VFFmWnF1Zw?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-06-30T04:33:28+00:00",
+     "companyId": 10,
+     "company": "XPO",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-08",
+     "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
+     "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYkVQWUZEZjVGTVVzRGtqeWxmc3RRV2JkY3V0alJjVXNwV1MxeXFUeEFZOVRpaV81ME5hTGNDX0ppcVZpaUxRdi1vcVhfMXhPOEhZR1BjQjhuWGZueW5QMGs3VEl3ZXM4Slg0ckdyQU9EUGhrUDNUNG9HNnFqemx3S0JiMEhabmZJTUk3dXVfOEUyaWhoVkNhYndvejhVNFZubkZzZzZ3UW9sUWM4cm5VcEEtczNldkVYdGZMNEUtWTVMZm1jcXNPeE5rTktibzNWYnYwUmpBX1huVGZNY2l2VzhRSU9yempjZDNmalhLOGhSNmlLT1FWY0RlYS02aENxa2IxdjEtMFFxcUJqUHc?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-02T06:08:53+00:00",
      "companyId": 10,
      "company": "XPO",
      "asset": "Anleihen",
@@ -2177,12 +2177,12 @@
    "news": [
     {
      "date": "2026-07-01",
-     "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-     "summary": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud MarketWatch",
-     "source": "MarketWatch",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTm5SM1F5V184Y0ZsemlubGhJOEw5Z25kTVB0cFVKdEEyUmNqRGl0RWlLR3FGWk1Td0xqSVdHZTlmLXZvajhtbkpjQ1hra2k3Y3QwM19qMG1fSzFaUkRVVDdJNTNjTElDQzVtSC1TR1JPRE9feFJvZ0JHdnhBbktGU1pxbDZqejVTNkNTWldhX0lhcnZHZE45MmxxNEdicDNUeGpFcTJYU0xaNXpMaWxLamVwb05pMzdBalZWUXEyVGFsMWcx?oc=5",
+     "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
+     "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOE9CSEhUblNsdkdPT01HazdxV3F3NlBfODd3SjMxbnJUMThQVks5SEptblJCSF85UGg5TWdsUHVNeWRyaDByWWlrWmhWNjJlU2M2MHJMR1lnbGVsZkgzXzlqaDIxZEpPeFZNN3pmMFNNQ1VVLThrUnVUODl2dXZBYkVVT1JRNTdFWmZSUEdvTjdZaHpSTDRUbGV1YzBmbVhnODVXb2dYTFQ3NC1rRmNwREw3eFg?oc=5",
      "category": "Markt",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
+     "firstSeen": "2026-07-02T06:08:53+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -3002,21 +3002,7 @@
    }
   },
   "30": {
-   "news": [
-    {
-     "date": "2026-06-29",
-     "title": "HCA Healthcare Announces New England Journal of Medicine Study Highlighting Advances in CRISPR-based Therapy for Children",
-     "summary": "HCA Healthcare Announces New England Journal of Medicine Study Highlighting Advances in CRISPR-based Therapy for Children Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQX19fY09UX3E4RzJrcjZIVGNxYy1jNFdsVC02aTNDSklMQXo1SHprWF8tdnRoRHZWLU5PdVBBUl9rdlNrSWdJcGxBV1BURnBwWldqdlZFbWQxSHZYNFRkalRHWTVTTzh2bjloT1BHd0tzYW5VeFJWdGtnVi1rZXZlNVJoV1d1ZnZVZjRMLU5sZlNMTGFqcGJyYnBXUlUtMXV5eURYZFdfc3lpRUJLMUt4aE9GeTg1dHkwcS1kcmhKZGlmcTNmNUlpQWVqbUdlMFpNWHdIaExmSENobEtBRXJGMDBDZ3B3NkxRZGNCZTJLRWhBUHVEbElNWVYyenU1czF3ZXlCVzBNVEF2UQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
-     "companyId": 30,
-     "company": "HCA Healthcare",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    }
-   ],
+   "news": [],
    "events": [
     {
      "date": "2026-07-24",
@@ -3493,6 +3479,19 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-06-16",
+     "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+     "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+     "source": "AgNewsWire",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-02T06:08:53+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-06-08",
      "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
      "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
@@ -3806,12 +3805,12 @@
   },
   {
    "date": "2026-07-01",
-   "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-   "summary": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud MarketWatch",
-   "source": "MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTm5SM1F5V184Y0ZsemlubGhJOEw5Z25kTVB0cFVKdEEyUmNqRGl0RWlLR3FGWk1Td0xqSVdHZTlmLXZvajhtbkpjQ1hra2k3Y3QwM19qMG1fSzFaUkRVVDdJNTNjTElDQzVtSC1TR1JPRE9feFJvZ0JHdnhBbktGU1pxbDZqejVTNkNTWldhX0lhcnZHZE45MmxxNEdicDNUeGpFcTJYU0xaNXpMaWxLamVwb05pMzdBalZWUXEyVGFsMWcx?oc=5",
+   "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
+   "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOE9CSEhUblNsdkdPT01HazdxV3F3NlBfODd3SjMxbnJUMThQVks5SEptblJCSF85UGg5TWdsUHVNeWRyaDByWWlrWmhWNjJlU2M2MHJMR1lnbGVsZkgzXzlqaDIxZEpPeFZNN3pmMFNNQ1VVLThrUnVUODl2dXZBYkVVT1JRNTdFWmZSUEdvTjdZaHpSTDRUbGV1YzBmbVhnODVXb2dYTFQ3NC1rRmNwREw3eFg?oc=5",
    "category": "Markt",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
+   "firstSeen": "2026-07-02T06:08:53+00:00",
    "companyId": 22,
    "company": "Meta",
    "asset": "Aktien",
@@ -4027,19 +4026,6 @@
   },
   {
    "date": "2026-06-29",
-   "title": "HCA Healthcare Announces New England Journal of Medicine Study Highlighting Advances in CRISPR-based Therapy for Children",
-   "summary": "HCA Healthcare Announces New England Journal of Medicine Study Highlighting Advances in CRISPR-based Therapy for Children Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQX19fY09UX3E4RzJrcjZIVGNxYy1jNFdsVC02aTNDSklMQXo1SHprWF8tdnRoRHZWLU5PdVBBUl9rdlNrSWdJcGxBV1BURnBwWldqdlZFbWQxSHZYNFRkalRHWTVTTzh2bjloT1BHd0tzYW5VeFJWdGtnVi1rZXZlNVJoV1d1ZnZVZjRMLU5sZlNMTGFqcGJyYnBXUlUtMXV5eURYZFdfc3lpRUJLMUt4aE9GeTg1dHkwcS1kcmhKZGlmcTNmNUlpQWVqbUdlMFpNWHdIaExmSENobEtBRXJGMDBDZ3B3NkxRZGNCZTJLRWhBUHVEbElNWVYyenU1czF3ZXlCVzBNVEF2UQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
-   "companyId": 30,
-   "company": "HCA Healthcare",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
    "title": "EXCLUSIVE: China's CXMT wins $3 billion memory supply deal with Tencent, sources say",
    "summary": "EXCLUSIVE: China's CXMT wins $3 billion memory supply deal with Tencent, sources say Reuters",
    "source": "Reuters",
@@ -4247,13 +4233,13 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-19",
-   "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
-   "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
+   "date": "2026-06-20",
+   "title": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable",
+   "summary": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMlIyakJHVmRwY212dTMyMElSRVQ3NFFQTElwWjAyaDJvWnNTX3B2U0hndHV4emxHT1NsR3lESURBeThxZm9iLUczc3pTZ1hUNENXS2Z1V2hIeW9LSnZvaG8yRzRQZFJaT3dkcGpXd0pOMTRyckJOQkpVZE5WSGFNbDRHQVprN3ZkMkxObFlaMGlxU3BCM1V4aGZveWhvRDB5V1IwWkNfdXRiYmcyUnllX2JkTFRNQXdxXzg1dk1oTjNyd0w0WGNUcUVBLXFIV2sxWUxFOEg2WjlsM0Izb3FYSUQ0bVdDYWFDWDgtaU1IejdMSkV4OEhqRnMzOA?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-06-30T06:32:07+00:00",
+   "firstSeen": "2026-07-02T06:08:53+00:00",
    "companyId": 8,
    "company": "Prosus",
    "asset": "Anleihen",
@@ -4270,19 +4256,6 @@
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-18",
-   "title": "Borr Drilling and Nabors Industries Shares Are Falling, What You Need To Know",
-   "summary": "Borr Drilling and Nabors Industries Shares Are Falling, What You Need To Know The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWGNMcXZmdzBKQjE4NnllTnJNNi1TT2pEbTVYTi1heHl0M0syRFVoaHYtY3JDRHNxY3JxblQ2YlozR2ZENkZ3X3h1QndxQm51RzFvZjlIVVMyeEZfd1JJTkQ4RTREcTJiYUtvM3FDaWlKQm1JMkVsSjdsb3JzSHpnMGc4S3JNaE9tQXBGWEJscldxUm5ZZ2g1MXI2d0tfLXJxOFlZV0F4dXI0QnFCZHZ0Z29VZnZWSV9DRnpMX3llWHdVLUFROHFJdGdDcnJ2YzZfdUNJYmNHRFNFQ2NCRnRLOWk4RUw2eHpuWS1wbGRMd2NKUQ?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
-   "companyId": 4,
-   "company": "Borr",
-   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4310,6 +4283,19 @@
    "company": "Tencent",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-16",
+   "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+   "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+   "source": "AgNewsWire",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-02T06:08:53+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-16",
@@ -4426,6 +4412,19 @@
    "companyId": 18,
    "company": "Amazon",
    "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-08",
+   "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
+   "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYkVQWUZEZjVGTVVzRGtqeWxmc3RRV2JkY3V0alJjVXNwV1MxeXFUeEFZOVRpaV81ME5hTGNDX0ppcVZpaUxRdi1vcVhfMXhPOEhZR1BjQjhuWGZueW5QMGs3VEl3ZXM4Slg0ckdyQU9EUGhrUDNUNG9HNnFqemx3S0JiMEhabmZJTUk3dXVfOEUyaWhoVkNhYndvejhVNFZubkZzZzZ3UW9sUWM4cm5VcEEtczNldkVYdGZMNEUtWTVMZm1jcXNPeE5rTktibzNWYnYwUmpBX1huVGZNY2l2VzhRSU9yempjZDNmalhLOGhSNmlLT1FWY0RlYS02aENxa2IxdjEtMFFxcUJqUHc?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-02T06:08:53+00:00",
+   "companyId": 10,
+   "company": "XPO",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
