@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-03T06:02:33+00:00",
+ "generatedAt": "2026-07-03T19:30:11+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -159,6 +159,19 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNmlsblZ4bGNTVE5CSm5OSnBPb3JxdWdmZi1WT2lBNmFmUXY1MEo5UGRGWlZ4OVJtY0dnOVgxQVlzUFVnV3FUNHp5NktjZ2ZXN0t4eTNHeHkwSV9NTzhoOTF5R0JPWGw0QTF1NVF0czRYWVNjQkxDaUNIaEJHajhFNC1DZUFON1Rnajh4TzBFWWtZV0RFZ0s4UGVRcDFwWktKaXViYVhZSzRPX3JNMUsxNTY4LU8zOGhjQjNiTU02U3BUUkV6QWZfLWtxRWFPUHlyQ0p3N2xxTGtvMXhxb0dtZy04VDQ?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-30T04:33:28+00:00",
+     "companyId": 4,
+     "company": "Borr",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-17",
+     "title": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation",
+     "summary": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation ACCESS Newswire",
+     "source": "ACCESS Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3BEVzRwdnpoMHpDRk9ENkkxUWJ3cU95U0t2R1pXWWxuUVdzSW1aRWRBeUZhMnZfeEFSM3A3aC1oWXd5aXViZTA4RjduZUx0NE11ektNN0t2eVR1aFpnYklmYTVZQlpvb0stVERxbWFkNFpNLXh3aEdZR2FYSlA4bVdycmdLd1JwS3VrUEVmbzYxSG5MWTF1aEowUHE0SC1VYkFad1FwNnNNVVk5OHdhX2ZKQVFVZDVsSG9FMGhJem1oaDMyUEVBaHVoWmNFVGxleF83ckhMdjRqNUtRV2plYjRWYWw?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
      "companyId": 4,
      "company": "Borr",
      "asset": "Anleihen",
@@ -400,19 +413,6 @@
   "8": {
    "news": [
     {
-     "date": "2026-07-02",
-     "title": "Prosus director adjusts shareholding after RSU vesting",
-     "summary": "Prosus director adjusts shareholding after RSU vesting The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZTdMSERvb09qSmhBR084bG40TktSak5US2g3MXJCRDU1b2tBcGYtUjB2d1BsYUxVUExuZmZaRkNwTnMyMHJJd0pnQkE5ZWpNYkdrQ1ZQSkxrS1k1TG92NXdNWFU1WU9WeFctUG1WRFVTMDhKNWE5N1NBcmgwaVc4dEN0TEFxQnZyZjRDcm5YM3hrMFdwTDNQZU5zajF6cWpZR1NxVS1FdnhSU0tZczNQZkw4TTRJMDhvcUc0QmJnb2pJMFBZcVN0dTRUMEZiWHZQ?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-29",
      "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
      "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
@@ -472,6 +472,19 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0xBeDVDTWFQSEl4ekNsZUZVUXJvejFiZzZPYnRYVHA1WnB6eklETUlhNUZXVFhfMy0wdWZrVlY4bFVtVUV1S1ZlSjB2c1E0d3Jud0pnaE0zSGtGNmtDbjdFNVR5Skc1Ul9JUlhDQlQweEZwRmd3TDhMRWZfRVpCQnJKOGNpT2FsM0Fsdnh4Tm1ZSXFyam8wcVpDQ196ZzVZa0dtVzdmNDFQV0Q1Ti1J?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-29T07:02:57+00:00",
+     "companyId": 8,
+     "company": "Prosus",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-20",
+     "title": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable",
+     "summary": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMlIyakJHVmRwY212dTMyMElSRVQ3NFFQTElwWjAyaDJvWnNTX3B2U0hndHV4emxHT1NsR3lESURBeThxZm9iLUczc3pTZ1hUNENXS2Z1V2hIeW9LSnZvaG8yRzRQZFJaT3dkcGpXd0pOMTRyckJOQkpVZE5WSGFNbDRHQVprN3ZkMkxObFlaMGlxU3BCM1V4aGZveWhvRDB5V1IwWkNfdXRiYmcyUnllX2JkTFRNQXdxXzg1dk1oTjNyd0w0WGNUcUVBLXFIV2sxWUxFOEg2WjlsM0Izb3FYSUQ0bVdDYWFDWDgtaU1IejdMSkV4OEhqRnMzOA?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
      "companyId": 8,
      "company": "Prosus",
      "asset": "Anleihen",
@@ -603,19 +616,6 @@
      "company": "XPO",
      "asset": "Anleihen",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-03",
-     "title": "XPO Provides North American LTL Operating Data for May 2026",
-     "summary": "XPO Provides North American LTL Operating Data for May 2026 GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYkdqbm9QSDFwY3M2NE11VlBaUk1xdUdjR1YzREhvbThtTUQ1dTd0UnpCLWxvTURvUHlFQ0M4RC1yRDhMTVhtSjVRcWVZV1FBQjVzTTlVUzg1RGtuZTVmbE1tOWZrVERzZDhBelo2TkJTR3VBejVlR3pVQjE0VGdOeEU2VjdLdTYtQ2RuWC0yX0RiVE0taEpQalhJd2JIVFZtWnk4SWxzQ2Rwdk9pcV9SWXMwNmd3NGRGdE9LU0VDVTk3OENTa296NWl3RQ?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-06-18T05:02:14+00:00",
-     "companyId": 10,
-     "company": "XPO",
-     "asset": "Anleihen",
-     "status": "Portfolio"
     }
    ],
    "events": [
@@ -726,9 +726,22 @@
      "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
      "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
      "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUFRGQmpROFlLN0g2UE5wMnVwYV9Vdm5pQkU3d3B3dHo2Y0pWWURfcUp4QnRlbWFzZ2RsYWNKZTF4b2RQNWwtSzlQeWUtekZhbkI1cEpucy1ELUhuUndjT20wNHczbVliQnI0el9aa3pPZlk5N3JYYmxMODdRZDkzVmsyUGVzN21KUE10bjJXZmY5eGdyY3pFRHBXVTJmdmozZktRVlVJNjY1Tmg5TzlFYUpoTDVmWXhLR0ZpT1FqUWt6UEhXVDFEaW4zWk1qcjc5NDNWMldUZ0VXeTFuVVhENHdjMlRIUEkyb2JHYXh6YUp3YUVPT0xQTjRManBUQnNKT3FDWWhuZW1MX1pCUEt0SkVGM3dtdDBzcDBWS3VrYw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQzk0ZkJxSmJwY1FhY0xZTXJmR3Zhb1o4bW1wVE5LdWM1Umo5TEw3RXBheThsWkpESmptU0ZuTVRkWmt5WS11dU1zWV82bGs2TXplZUlxbVZ2YUtPdzRhYl9yc2lHYlVjclQyUDJxWGhKNkFadG52NHlsaFI3clJ2eGNSaGEwNWFHMVlQd0xDME9uVFRsZElSVmpJdmlVUTRNUHFfeFgtQnp1bGxxdUxqX2ZtS0ZkV1d3ajl1QTljNHVJeEVuRHRmbGRHdkU5NVZoTEJmd0gwTTZ0alNheVFOUnhHNXE2T2lBZ2FURzB6N1NCMlJXX2ZYbWFHLU42VDdualA2Q0cwVV9mZnZaUlRSel9wckU5VnlxNmZITFBIdw?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-02",
+     "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
+     "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRHo0dmszTnV2eUZPN01mQlE4NEcyQXNYNm5JMGZISmFkTDE2VlI0X0RMc2RuOUpSR1JLbnY2RjVuV190eS1IUnpWbnh6eDRRYUZ6M1ZLdktWVDB6ZTVWMzd1X3c5TXVyVnFMcHdkd3ZnUElHQ1FCX19oWQ?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -762,25 +775,12 @@
     },
     {
      "date": "2026-07-01",
-     "title": "GPK INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Shareholders Have Opportunity to Lead Class Action Lawsuit!",
-     "summary": "GPK INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Shareholders Have Opportunity to Lead Class Action Lawsuit! ACCESS Newswire",
-     "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUF9fTFZHM0pnLWo5dFo0bkdlTHJDWkRLS2I0TTBxcTR0TXRwUEJfejlhbDlFby00TkJQZVRfdE9SUXJJSmJvZTlpSm9rVHVOT18xOFRPRjB6WTZSMGxfLUpvWG5pcjlIVDJ0M1hJOUExTVlNeFNGRTlnTm5ueExFanFwRDF3NzJmTU8zWnNqVEFOMWlZb0tXQTFQOGNnN2tYUDJpQ3BPTElGSkd4R242bEdXWjBlZERCelQ2azRKX1VyTFZHT2hVcGUwNnNYN3RkTFFrYzNHVWhfaWo5aTI0ZHRCNA?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-30",
-     "title": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025",
-     "summary": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025 PR Newswire",
+     "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+     "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMVVSWms0dFpxUlh6VFZoSXNIa3F6SWVLVExtU2dPSnpvMWxKZUV1ODh4UDI0QThUNmtJeW0yS3FIUU5XQmdrajA1R3NTRFlQZGZxTWIwaEJaZ1lqOEFmV0wyWUZEZDRUbm5WWWJXM2hHd1hJckdzS0J1TnlLazEwbmg5TUF0UDJrOW1MNnkzblN5Sl9xSjBuVVljZnJFLUdLdUp1S214bkZLY3hjRHdndkRDU2JZX1BjMDZ6eFhzSUMzT2w2SkJtTWwtWndPUzFzV0lqckprVTJZb1poRHh0RURuc2tGZDVkdmg3MTk5Qk5EQ0txWkFrOW5scE55enRVZ2RiXzRwUzRoTTluWk5HTUh5Q2hzWEU?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-07-03T06:02:33+00:00",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1084,7 +1084,21 @@
    }
   },
   "14": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-06-15",
+     "title": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026",
+     "summary": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026 Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmRmdHR0ZjJ4bHZ5cHBoVXdUZ05RNFllSlAydi1qdXNtMERVaWkyREg1YWhLZ19aS0pkVzZKVS1OSm1iTThtR0ZvdEtWN0xXNlVVNlVnOU5rY18wYTRUSk82TzAyUDkybzR4Zk53R0NpY19uMGVlZExxdmJKZ3JxSWZ0Q2pMWDE2cGhiQzdZc2lRNWN6RTZlcTY3NlJONjVFWERVWGZCRGJSY1B3a3VVQ1dSNzFZUTByMzBEbnQ0VjN0Yl9wSzBPQWJSck01NW5RTVNPaUlabmdFZUkwUW9ZUw?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "companyId": 14,
+     "company": "Eurofins Scientific",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-07-23",
@@ -1456,13 +1470,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-18",
-     "title": "Amazon Stock: Can Selling AI Chips Turn Shares Around?",
-     "summary": "Amazon Stock: Can Selling AI Chips Turn Shares Around? Barron's",
-     "source": "Barron's",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdURQRGNFZ3dsaExDNXhJOWx4OXVJUkpieXV5d19TNGdXQ0FnclhHckVEUnE1cXFhS0R0Nk1GbHRoWjdzSzlkd1VOTnJGbkFIbFBNR3VndGZ6aTZpQVhHREF6UWxfcjV0TXg1cGpwaWlubW5yTWVadmNrZWs4ZW5uakxaeGhHR1Vh?oc=5",
+     "date": "2026-06-13",
+     "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models",
+     "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
      "category": "Markt",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -2175,6 +2189,19 @@
   "22": {
    "news": [
     {
+     "date": "2026-07-02",
+     "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
+     "summary": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor Manager Magazin",
+     "source": "Manager Magazin",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-01",
      "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
      "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
@@ -2234,19 +2261,6 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-26T04:39:14+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-08",
-     "title": "Meta Launches ‘Workforce Academy’ to Train Workers to Build Data Centers",
-     "summary": "Meta Launches ‘Workforce Academy’ to Train Workers to Build Data Centers WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEtMMlBHT09QWkZrRldsMmw0X0dMeTdRX0E3VjZMdnlZeEhtZnY0N3hGaUhRUHhBX1NVbURqNW1QSW0tUTcxd2lZMVdpQzE5UzM1Wk5DdVF4bmJKeGZodWt5ZlpZZHJDaGNQUkNjc0ozRFBmbVBmc1dqZU10cEM4bVZiS1RQbUpxWmFzRTRrSG00MmJ4Y1l5N3M5R1RURlBETjU5RURKTWVWR2s?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-03T06:02:33+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -3302,6 +3316,45 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-07-01",
+     "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
+     "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-01",
+     "title": "Salesforce Upgraded to Buy. Why the Analyst Is Betting Against ‘Armageddon.’",
+     "summary": "Salesforce Upgraded to Buy. Why the Analyst Is Betting Against ‘Armageddon.’ Barron's",
+     "source": "Barron's",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-29",
+     "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
+     "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-25",
      "title": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares",
      "summary": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares CNBC",
@@ -3439,6 +3492,32 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-06-22",
+     "title": "S&P Global Ratings Upgrades Bladex to 'BBB+'",
+     "summary": "S&P Global Ratings Upgrades Bladex to 'BBB+' PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-17",
+     "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
+     "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-06-16",
      "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
      "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
@@ -3452,26 +3531,13 @@
      "status": "Watchlist"
     },
     {
-     "date": "2026-06-08",
-     "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
-     "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
+     "date": "2026-06-10",
+     "title": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year",
+     "summary": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODFlUmFrb0Q1cXI3SlhNRjFuNlN1VmpiMEh5LU13T3FHdV9SbEV0UmlwaC1IY2hlbjN2WGVyWmVvSVk3ZGJRS2ZtUVFGOV9EeTFwVzR1VjBqSXQtbmhrRkVDaEhLQXhyQmwwMlRQTXllaWRuaEVKejBvNnBfdGdxaFYyYjZ1NHM4b01NMW5SVzRRdmJyRGdrZjU1UHRtcXJXRnhhcTg5emtWTExBVkQzelh6dlVKckhuNnl6OFlIMHAyaXI3MnNidnlycVMzZ1lvWXd4Nnd3UHRVTUhB?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-06-30T04:33:28+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-06-04",
-     "title": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis",
-     "summary": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-03T06:02:33+00:00",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3726,19 +3792,6 @@
   },
   {
    "date": "2026-07-02",
-   "title": "Prosus director adjusts shareholding after RSU vesting",
-   "summary": "Prosus director adjusts shareholding after RSU vesting The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZTdMSERvb09qSmhBR084bG40TktSak5US2g3MXJCRDU1b2tBcGYtUjB2d1BsYUxVUExuZmZaRkNwTnMyMHJJd0pnQkE5ZWpNYkdrQ1ZQSkxrS1k1TG92NXdNWFU1WU9WeFctUG1WRFVTMDhKNWE5N1NBcmgwaVc4dEN0TEFxQnZyZjRDcm5YM3hrMFdwTDNQZU5zajF6cWpZR1NxVS1FdnhSU0tZczNQZkw4TTRJMDhvcUc0QmJnb2pJMFBZcVN0dTRUMEZiWHZQ?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-02",
    "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
    "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
    "source": "GlobeNewswire",
@@ -3755,9 +3808,22 @@
    "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
    "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
    "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUFRGQmpROFlLN0g2UE5wMnVwYV9Vdm5pQkU3d3B3dHo2Y0pWWURfcUp4QnRlbWFzZ2RsYWNKZTF4b2RQNWwtSzlQeWUtekZhbkI1cEpucy1ELUhuUndjT20wNHczbVliQnI0el9aa3pPZlk5N3JYYmxMODdRZDkzVmsyUGVzN21KUE10bjJXZmY5eGdyY3pFRHBXVTJmdmozZktRVlVJNjY1Tmg5TzlFYUpoTDVmWXhLR0ZpT1FqUWt6UEhXVDFEaW4zWk1qcjc5NDNWMldUZ0VXeTFuVVhENHdjMlRIUEkyb2JHYXh6YUp3YUVPT0xQTjRManBUQnNKT3FDWWhuZW1MX1pCUEt0SkVGM3dtdDBzcDBWS3VrYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQzk0ZkJxSmJwY1FhY0xZTXJmR3Zhb1o4bW1wVE5LdWM1Umo5TEw3RXBheThsWkpESmptU0ZuTVRkWmt5WS11dU1zWV82bGs2TXplZUlxbVZ2YUtPdzRhYl9yc2lHYlVjclQyUDJxWGhKNkFadG52NHlsaFI3clJ2eGNSaGEwNWFHMVlQd0xDME9uVFRsZElSVmpJdmlVUTRNUHFfeFgtQnp1bGxxdUxqX2ZtS0ZkV1d3ajl1QTljNHVJeEVuRHRmbGRHdkU5NVZoTEJmd0gwTTZ0alNheVFOUnhHNXE2T2lBZ2FURzB6N1NCMlJXX2ZYbWFHLU42VDdualA2Q0cwVV9mZnZaUlRSel9wckU5VnlxNmZITFBIdw?oc=5",
    "category": "Sonstiges",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-02",
+   "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
+   "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRHo0dmszTnV2eUZPN01mQlE4NEcyQXNYNm5JMGZISmFkTDE2VlI0X0RMc2RuOUpSR1JLbnY2RjVuV190eS1IUnpWbnh6eDRRYUZ6M1ZLdktWVDB6ZTVWMzd1X3c5TXVyVnFMcHdkd3ZnUElHQ1FCX19oWQ?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3790,6 +3856,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-07-02",
+   "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
+   "summary": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor Manager Magazin",
+   "source": "Manager Magazin",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-07-01",
    "title": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK",
    "summary": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK PR Newswire",
@@ -3817,12 +3896,12 @@
   },
   {
    "date": "2026-07-01",
-   "title": "GPK INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Shareholders Have Opportunity to Lead Class Action Lawsuit!",
-   "summary": "GPK INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Graphic Packaging Holding Company Shareholders Have Opportunity to Lead Class Action Lawsuit! ACCESS Newswire",
-   "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUF9fTFZHM0pnLWo5dFo0bkdlTHJDWkRLS2I0TTBxcTR0TXRwUEJfejlhbDlFby00TkJQZVRfdE9SUXJJSmJvZTlpSm9rVHVOT18xOFRPRjB6WTZSMGxfLUpvWG5pcjlIVDJ0M1hJOUExTVlNeFNGRTlnTm5ueExFanFwRDF3NzJmTU8zWnNqVEFOMWlZb0tXQTFQOGNnN2tYUDJpQ3BPTElGSkd4R242bEdXWjBlZERCelQ2azRKX1VyTFZHT2hVcGUwNnNYN3RkTFFrYzNHVWhfaWo5aTI0ZHRCNA?oc=5",
+   "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+   "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
    "category": "Sonstiges",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3856,6 +3935,32 @@
   },
   {
    "date": "2026-07-01",
+   "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
+   "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-01",
+   "title": "Salesforce Upgraded to Buy. Why the Analyst Is Betting Against ‘Armageddon.’",
+   "summary": "Salesforce Upgraded to Buy. Why the Analyst Is Betting Against ‘Armageddon.’ Barron's",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-01",
    "title": "S&P GLOBAL INC. COMPLETES SEPARATION OF MOBILITY GLOBAL INC.",
    "summary": "S&P GLOBAL INC. COMPLETES SEPARATION OF MOBILITY GLOBAL INC. PR Newswire",
    "source": "PR Newswire",
@@ -3866,19 +3971,6 @@
    "company": "S&P Global",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-30",
-   "title": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025",
-   "summary": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025 PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMVVSWms0dFpxUlh6VFZoSXNIa3F6SWVLVExtU2dPSnpvMWxKZUV1ODh4UDI0QThUNmtJeW0yS3FIUU5XQmdrajA1R3NTRFlQZGZxTWIwaEJaZ1lqOEFmV0wyWUZEZDRUbm5WWWJXM2hHd1hJckdzS0J1TnlLazEwbmg5TUF0UDJrOW1MNnkzblN5Sl9xSjBuVVljZnJFLUdLdUp1S214bkZLY3hjRHdndkRDU2JZX1BjMDZ6eFhzSUMzT2w2SkJtTWwtWndPUzFzV0lqckprVTJZb1poRHh0RURuc2tGZDVkdmg3MTk5Qk5EQ0txWkFrOW5scE55enRVZ2RiXzRwUzRoTTluWk5HTUh5Q2hzWEU?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-03T06:02:33+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-30",
@@ -4033,6 +4125,19 @@
    "firstSeen": "2026-06-30T04:33:28+00:00",
    "companyId": 31,
    "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
+   "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4219,6 +4324,19 @@
    "status": "Watchlist"
   },
   {
+   "date": "2026-06-22",
+   "title": "S&P Global Ratings Upgrades Bladex to 'BBB+'",
+   "summary": "S&P Global Ratings Upgrades Bladex to 'BBB+' PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
    "date": "2026-06-21",
    "title": "Bronstein, Gewirtz & Grossman, LLC Encourages Borr Drilling Limited (BORR) Stockholders to Inquire about Securities Investigation",
    "summary": "Bronstein, Gewirtz & Grossman, LLC Encourages Borr Drilling Limited (BORR) Stockholders to Inquire about Securities Investigation ACCESS Newswire",
@@ -4228,6 +4346,19 @@
    "firstSeen": "2026-06-30T04:33:28+00:00",
    "companyId": 4,
    "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-20",
+   "title": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable",
+   "summary": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMlIyakJHVmRwY212dTMyMElSRVQ3NFFQTElwWjAyaDJvWnNTX3B2U0hndHV4emxHT1NsR3lESURBeThxZm9iLUczc3pTZ1hUNENXS2Z1V2hIeW9LSnZvaG8yRzRQZFJaT3dkcGpXd0pOMTRyckJOQkpVZE5WSGFNbDRHQVprN3ZkMkxObFlaMGlxU3BCM1V4aGZveWhvRDB5V1IwWkNfdXRiYmcyUnllX2JkTFRNQXdxXzg1dk1oTjNyd0w0WGNUcUVBLXFIV2sxWUxFOEg2WjlsM0Izb3FYSUQ0bVdDYWFDWDgtaU1IejdMSkV4OEhqRnMzOA?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 8,
+   "company": "Prosus",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
@@ -4258,17 +4389,30 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-18",
-   "title": "Amazon Stock: Can Selling AI Chips Turn Shares Around?",
-   "summary": "Amazon Stock: Can Selling AI Chips Turn Shares Around? Barron's",
-   "source": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdURQRGNFZ3dsaExDNXhJOWx4OXVJUkpieXV5d19TNGdXQ0FnclhHckVEUnE1cXFhS0R0Nk1GbHRoWjdzSzlkd1VOTnJGbkFIbFBNR3VndGZ6aTZpQVhHREF6UWxfcjV0TXg1cGpwaWlubW5yTWVadmNrZWs4ZW5uakxaeGhHR1Vh?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
+   "date": "2026-06-17",
+   "title": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation",
+   "summary": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation ACCESS Newswire",
+   "source": "ACCESS Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3BEVzRwdnpoMHpDRk9ENkkxUWJ3cU95U0t2R1pXWWxuUVdzSW1aRWRBeUZhMnZfeEFSM3A3aC1oWXd5aXViZTA4RjduZUx0NE11ektNN0t2eVR1aFpnYklmYTVZQlpvb0stVERxbWFkNFpNLXh3aEdZR2FYSlA4bVdycmdLd1JwS3VrUEVmbzYxSG5MWTF1aEowUHE0SC1VYkFad1FwNnNNVVk5OHdhX2ZKQVFVZDVsSG9FMGhJem1oaDMyUEVBaHVoWmNFVGxleF83ckhMdjRqNUtRV2plYjRWYWw?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-17",
+   "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
+   "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-16",
@@ -4311,6 +4455,19 @@
   },
   {
    "date": "2026-06-15",
+   "title": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026",
+   "summary": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026 Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmRmdHR0ZjJ4bHZ5cHBoVXdUZ05RNFllSlAydi1qdXNtMERVaWkyREg1YWhLZ19aS0pkVzZKVS1OSm1iTThtR0ZvdEtWN0xXNlVVNlVnOU5rY18wYTRUSk82TzAyUDkybzR4Zk53R0NpY19uMGVlZExxdmJKZ3JxSWZ0Q2pMWDE2cGhiQzdZc2lRNWN6RTZlcTY3NlJONjVFWERVWGZCRGJSY1B3a3VVQ1dSNzFZUTByMzBEbnQ0VjN0Yl9wSzBPQWJSck01NW5RTVNPaUlabmdFZUkwUW9ZUw?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 14,
+   "company": "Eurofins Scientific",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-15",
    "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
    "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
    "source": "Forbes",
@@ -4347,6 +4504,19 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-13",
+   "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models",
+   "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
   },
   {
    "date": "2026-06-12",
@@ -4401,6 +4571,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-10",
+   "title": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year",
+   "summary": "Sands China Recognised by S&P Global's Sustainability Yearbook for Fourth Consecutive Year PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODFlUmFrb0Q1cXI3SlhNRjFuNlN1VmpiMEh5LU13T3FHdV9SbEV0UmlwaC1IY2hlbjN2WGVyWmVvSVk3ZGJRS2ZtUVFGOV9EeTFwVzR1VjBqSXQtbmhrRkVDaEhLQXhyQmwwMlRQTXllaWRuaEVKejBvNnBfdGdxaFYyYjZ1NHM4b01NMW5SVzRRdmJyRGdrZjU1UHRtcXJXRnhhcTg5emtWTExBVkQzelh6dlVKckhuNnl6OFlIMHAyaXI3MnNidnlycVMzZ1lvWXd4Nnd3UHRVTUhB?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
    "date": "2026-06-08",
    "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
    "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
@@ -4427,32 +4610,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-08",
-   "title": "Meta Launches ‘Workforce Academy’ to Train Workers to Build Data Centers",
-   "summary": "Meta Launches ‘Workforce Academy’ to Train Workers to Build Data Centers WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEtMMlBHT09QWkZrRldsMmw0X0dMeTdRX0E3VjZMdnlZeEhtZnY0N3hGaUhRUHhBX1NVbURqNW1QSW0tUTcxd2lZMVdpQzE5UzM1Wk5DdVF4bmJKeGZodWt5ZlpZZHJDaGNQUkNjc0ozRFBmbVBmc1dqZU10cEM4bVZiS1RQbUpxWmFzRTRrSG00MmJ4Y1l5N3M5R1RURlBETjU5RURKTWVWR2s?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-03T06:02:33+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-08",
-   "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
-   "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-30T04:33:28+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
    "date": "2026-06-04",
    "title": "XPO Unveils Trailer Fleet Honoring America’s 250th Anniversary",
    "summary": "XPO Unveils Trailer Fleet Honoring America’s 250th Anniversary GlobeNewswire",
@@ -4460,32 +4617,6 @@
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORGVzWlJPeWpmQ2IxMXVfekRod1lYWGszQ3pubHVtX2Nka2tpM1BoY3RKWGhDVnhkNFZtV28xb0xuZVV2T2FwaGsxVFVSSEphUTd2RTZXbEx5VGt5dFdKZlgwWU1ZNWhITHJSWG1CM1JId2szY2hYT1ZXdE9XajNzZWpyYkJnM0t1bkpRRVR4d2ZkRGRZbEdaNjBHVXNTUjgwenpXeVc1N2hHNklWUmFhY1AzV3lRT3hkVEdtbFBmeXRzQmt5T2ZjcGRHV2RaNDA?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-06-22T05:30:24+00:00",
-   "companyId": 10,
-   "company": "XPO",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-04",
-   "title": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis",
-   "summary": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-03T06:02:33+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-03",
-   "title": "XPO Provides North American LTL Operating Data for May 2026",
-   "summary": "XPO Provides North American LTL Operating Data for May 2026 GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYkdqbm9QSDFwY3M2NE11VlBaUk1xdUdjR1YzREhvbThtTUQ1dTd0UnpCLWxvTURvUHlFQ0M4RC1yRDhMTVhtSjVRcWVZV1FBQjVzTTlVUzg1RGtuZTVmbE1tOWZrVERzZDhBelo2TkJTR3VBejVlR3pVQjE0VGdOeEU2VjdLdTYtQ2RuWC0yX0RiVE0taEpQalhJd2JIVFZtWnk4SWxzQ2Rwdk9pcV9SWXMwNmd3NGRGdE9LU0VDVTk3OENTa296NWl3RQ?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-06-18T05:02:14+00:00",
    "companyId": 10,
    "company": "XPO",
    "asset": "Anleihen",
