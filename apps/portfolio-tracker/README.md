@@ -22,5 +22,6 @@ docs/portfolio-tracker/      ← von GitHub Pages ausgeliefert
 1. `scripts/tracker.py` implementieren: Positionen einlesen, Kurse holen,
    `docs/portfolio-tracker/data/snapshot.json` schreiben.
 2. Frontend in `docs/portfolio-tracker/index.html` aufbauen (liest den Snapshot).
-3. Automatik aktivieren: `.github/workflows/portfolio-tracker.yml` um einen
-   `schedule`-Trigger ergänzen (aktuell nur manuell startbar).
+3. Automatik anlegen: `.github/workflows/portfolio-tracker.yml` erstellen
+   (analog zu `research-dashboard.yml` mit `schedule` + `workflow_dispatch`).
+   Bis dahin existiert bewusst kein Workflow für dieses Projekt.

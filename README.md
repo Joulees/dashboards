@@ -27,8 +27,8 @@ Details je Projekt in dessen README:
 │  ├─ research-dashboard/        Frontend + data/ (snapshot.json)
 │  └─ portfolio-tracker/         Frontend (Platzhalter) + data/
 └─ .github/workflows/            ein Workflow je Projekt
-   ├─ research-dashboard.yml      täglicher Auto-Refresh
-   └─ portfolio-tracker.yml       Gerüst (nur manuell startbar)
+   └─ research-dashboard.yml      täglicher Auto-Refresh
+      (Portfolio-Tracker-Workflow folgt, sobald es Code gibt)
 ```
 
 ## GitHub Pages
