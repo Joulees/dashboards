@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-03T04:07:40+00:00",
+ "generatedAt": "2026-07-03T06:02:33+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -749,19 +749,6 @@
     },
     {
      "date": "2026-07-01",
-     "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-     "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-01",
      "title": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4",
      "summary": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4 Financial Times",
      "source": "Financial Times",
@@ -781,6 +768,19 @@
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUF9fTFZHM0pnLWo5dFo0bkdlTHJDWkRLS2I0TTBxcTR0TXRwUEJfejlhbDlFby00TkJQZVRfdE9SUXJJSmJvZTlpSm9rVHVOT18xOFRPRjB6WTZSMGxfLUpvWG5pcjlIVDJ0M1hJOUExTVlNeFNGRTlnTm5ueExFanFwRDF3NzJmTU8zWnNqVEFOMWlZb0tXQTFQOGNnN2tYUDJpQ3BPTElGSkd4R242bEdXWjBlZERCelQ2azRKX1VyTFZHT2hVcGUwNnNYN3RkTFFrYzNHVWhfaWo5aTI0ZHRCNA?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-07-02T04:21:05+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-30",
+     "title": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025",
+     "summary": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025 PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMVVSWms0dFpxUlh6VFZoSXNIa3F6SWVLVExtU2dPSnpvMWxKZUV1ODh4UDI0QThUNmtJeW0yS3FIUU5XQmdrajA1R3NTRFlQZGZxTWIwaEJaZ1lqOEFmV0wyWUZEZDRUbm5WWWJXM2hHd1hJckdzS0J1TnlLazEwbmg5TUF0UDJrOW1MNnkzblN5Sl9xSjBuVVljZnJFLUdLdUp1S214bkZLY3hjRHdndkRDU2JZX1BjMDZ6eFhzSUMzT2w2SkJtTWwtWndPUzFzV0lqckprVTJZb1poRHh0RURuc2tGZDVkdmg3MTk5Qk5EQ0txWkFrOW5scE55enRVZ2RiXzRwUzRoTTluWk5HTUh5Q2hzWEU?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-03T06:02:33+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -2175,19 +2175,6 @@
   "22": {
    "news": [
     {
-     "date": "2026-07-02",
-     "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
-     "summary": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor Manager Magazin",
-     "source": "Manager Magazin",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-07-01",
      "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
      "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
@@ -2247,6 +2234,19 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-26T04:39:14+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-08",
+     "title": "Meta Launches ‘Workforce Academy’ to Train Workers to Build Data Centers",
+     "summary": "Meta Launches ‘Workforce Academy’ to Train Workers to Build Data Centers WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEtMMlBHT09QWkZrRldsMmw0X0dMeTdRX0E3VjZMdnlZeEhtZnY0N3hGaUhRUHhBX1NVbURqNW1QSW0tUTcxd2lZMVdpQzE5UzM1Wk5DdVF4bmJKeGZodWt5ZlpZZHJDaGNQUkNjc0ozRFBmbVBmc1dqZU10cEM4bVZiS1RQbUpxWmFzRTRrSG00MmJ4Y1l5N3M5R1RURlBETjU5RURKTWVWR2s?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-03T06:02:33+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -3184,6 +3184,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-06-26",
+     "title": "Stellar Pictures Showcases Five Major Series at Tencent",
+     "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZ3lwYTVMblN5V3hqVkx2QVRDNjdCWGt0cUU5clIyMGZEZjc2QzB1UzVtalFVYlVLZnlOc0JhSmZGQWxFV3J4UVp5LWdlbHlVelBRdlhhWkNNb2prREs1dTl4d2ZxWjFucDIxbE9Xdk1jUTM2Q21xa2Nrd3BWYnVXVUI1eXJUczIyMkpiN3N3dTBYU3RvM0x4cEJGUG5GR2pteVBiZEhQVW40WEJUdVktOTl0b2pMWldsSXE3cTdWVjNSdnUzRXl1RUxzWEtrY21rdmdNbDFSQmZhQ0N5YjVvS3Axdkt2VUNETU1vUTVGRWg5QURDam53ME5Mdmc4dTl3QnUta1M1U2YtUnowTmtna3dNVjg5RUY3VHFha2NFQTFzaXFWblN4cURHR0YyWEh5NVJGem45TkYzYWhrQ0Zr?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-03T06:02:33+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-25",
      "title": "Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award",
      "summary": "Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award PR Newswire",
@@ -3204,19 +3217,6 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-06-30T06:32:07+00:00",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-08",
-     "title": "Tencent Aims to Raise $3 Billion in Dollar, Yuan Bond Offering",
-     "summary": "Tencent Aims to Raise $3 Billion in Dollar, Yuan Bond Offering Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGNLUXVWdlFlYjJqTTVzdGM2M0R6OWFyZTRsS1VwVEtleF9GVENaUmYyT0pXSEE3ZGt2N2d1OFlFTUZEVC1pVHRic3RJRTFuQ3FZdENpRm5pNUFQMkRTQ3prUnpyak9YcnB4RE1nNjYzeVJJSWNJUkhMdnVHanliaENwcXZ3ZXQzVjlwLVo5ZjVOeVdVaURfZ19XdG1SbWNwTFI4c3FMTnFrRnVBN19iQQ?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3296,45 +3296,6 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMU9VOEVyWklxT29UUWpqaFgzN3NRRnoybzJaWnhDQXN0YmNLMWtJbkVhOEsxd0ZqQS1USEl6cjFsdkYydm90RWtXamlpMXVGZ2dNcUVpTVF5OC0yVThVXzFlSjVSY0J1alJTV3BWVEhqZ0VKZDVYdjB0NnctcmctM0tPNTNGcXg2anpsYTVER25kY2xxc2pvbmNwREowM29WdzF1OXRJYzZ5QUZPMnEzYk94X3hHMGw4NUNOek9MNk1sWlBVdXEwcThSRS1jdElOTVEtN3AxYjEzUE0?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-02T04:21:05+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-01",
-     "title": "What AI ‘Armaggedon’? Salesforce Stock Just Got an Upgrade to Buy.",
-     "summary": "What AI ‘Armaggedon’? Salesforce Stock Just Got an Upgrade to Buy. Barron's",
-     "source": "Barron's",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-01",
-     "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
-     "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-29",
-     "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
-     "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-01T06:43:27+00:00",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -3478,32 +3439,6 @@
      "status": "Watchlist"
     },
     {
-     "date": "2026-06-22",
-     "title": "S&P Global Ratings Upgrades Bladex to 'BBB+'",
-     "summary": "S&P Global Ratings Upgrades Bladex to 'BBB+' PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-06-17",
-     "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
-     "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
      "date": "2026-06-16",
      "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
      "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
@@ -3524,6 +3459,19 @@
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-30T04:33:28+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-04",
+     "title": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis",
+     "summary": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-03T06:02:33+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3842,37 +3790,11 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-07-02",
-   "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
-   "summary": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor Manager Magazin",
-   "source": "Manager Magazin",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-07-01",
    "title": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK",
    "summary": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK PR Newswire",
    "source": "PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPMG80WkFZU2ZuMUNiYkYxN0cyakI4U19na3RMaWVMTTFGQ3VYZGxvLXJ6dldjdzNpN1BCZ082ak1BNExheDZsdS1RZDBySS13VjBXTWxZT1ctWEhhQ3NFTy01bEdWV3VRbDJodnJNOWI1U01LRVhhd1FvTXBWOWl5QTJ3QmpnZmhQN0trVWN5SUt3aXFuTk5uOXlRb2NqbEhrZi1rRWV3QkJpWGJvSEFCMU5hY25sTGk4dkUySU93WHF5TWV1TU1kWXhWOEhiRFJmN3I3bG9BMGJodGNneUdhempNMG5rTFBjdkpZOV9ubnRHR3Rpb29mRmJaMnlRMFJGV0oxRnhhRUhmQ3dPTFozMjF2cXlHZm1sTVE3RHljMF9ST3FRUnBSOURwc3B5WXlickJLY2ZR?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-01",
-   "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-   "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-07-02T04:21:05+00:00",
    "companyId": 11,
@@ -3934,32 +3856,6 @@
   },
   {
    "date": "2026-07-01",
-   "title": "What AI ‘Armaggedon’? Salesforce Stock Just Got an Upgrade to Buy.",
-   "summary": "What AI ‘Armaggedon’? Salesforce Stock Just Got an Upgrade to Buy. Barron's",
-   "source": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-01",
-   "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
-   "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-01",
    "title": "S&P GLOBAL INC. COMPLETES SEPARATION OF MOBILITY GLOBAL INC.",
    "summary": "S&P GLOBAL INC. COMPLETES SEPARATION OF MOBILITY GLOBAL INC. PR Newswire",
    "source": "PR Newswire",
@@ -3970,6 +3866,19 @@
    "company": "S&P Global",
    "asset": "Aktien",
    "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-30",
+   "title": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025",
+   "summary": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025 PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMVVSWms0dFpxUlh6VFZoSXNIa3F6SWVLVExtU2dPSnpvMWxKZUV1ODh4UDI0QThUNmtJeW0yS3FIUU5XQmdrajA1R3NTRFlQZGZxTWIwaEJaZ1lqOEFmV0wyWUZEZDRUbm5WWWJXM2hHd1hJckdzS0J1TnlLazEwbmg5TUF0UDJrOW1MNnkzblN5Sl9xSjBuVVljZnJFLUdLdUp1S214bkZLY3hjRHdndkRDU2JZX1BjMDZ6eFhzSUMzT2w2SkJtTWwtWndPUzFzV0lqckprVTJZb1poRHh0RURuc2tGZDVkdmg3MTk5Qk5EQ0txWkFrOW5scE55enRVZ2RiXzRwUzRoTTluWk5HTUh5Q2hzWEU?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-03T06:02:33+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
   },
   {
    "date": "2026-06-30",
@@ -4128,19 +4037,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-29",
-   "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
-   "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-01T06:43:27+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-28",
    "title": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Borr Drilling Limited (BORR) And Encourages Shareholders to Reach Out",
    "summary": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Borr Drilling Limited (BORR) And Encourages Shareholders to Reach Out ACCESS Newswire",
@@ -4164,6 +4060,19 @@
    "companyId": 5,
    "company": "Mineral Resources",
    "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-26",
+   "title": "Stellar Pictures Showcases Five Major Series at Tencent",
+   "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZ3lwYTVMblN5V3hqVkx2QVRDNjdCWGt0cUU5clIyMGZEZjc2QzB1UzVtalFVYlVLZnlOc0JhSmZGQWxFV3J4UVp5LWdlbHlVelBRdlhhWkNNb2prREs1dTl4d2ZxWjFucDIxbE9Xdk1jUTM2Q21xa2Nrd3BWYnVXVUI1eXJUczIyMkpiN3N3dTBYU3RvM0x4cEJGUG5GR2pteVBiZEhQVW40WEJUdVktOTl0b2pMWldsSXE3cTdWVjNSdnUzRXl1RUxzWEtrY21rdmdNbDFSQmZhQ0N5YjVvS3Axdkt2VUNETU1vUTVGRWg5QURDam53ME5Mdmc4dTl3QnUta1M1U2YtUnowTmtna3dNVjg5RUY3VHFha2NFQTFzaXFWblN4cURHR0YyWEh5NVJGem45TkYzYWhrQ0Zr?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-03T06:02:33+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4310,19 +4219,6 @@
    "status": "Watchlist"
   },
   {
-   "date": "2026-06-22",
-   "title": "S&P Global Ratings Upgrades Bladex to 'BBB+'",
-   "summary": "S&P Global Ratings Upgrades Bladex to 'BBB+' PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
    "date": "2026-06-21",
    "title": "Bronstein, Gewirtz & Grossman, LLC Encourages Borr Drilling Limited (BORR) Stockholders to Inquire about Securities Investigation",
    "summary": "Bronstein, Gewirtz & Grossman, LLC Encourages Borr Drilling Limited (BORR) Stockholders to Inquire about Securities Investigation ACCESS Newswire",
@@ -4373,19 +4269,6 @@
    "company": "Amazon",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-17",
-   "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
-   "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   },
   {
    "date": "2026-06-16",
@@ -4545,14 +4428,14 @@
   },
   {
    "date": "2026-06-08",
-   "title": "Tencent Aims to Raise $3 Billion in Dollar, Yuan Bond Offering",
-   "summary": "Tencent Aims to Raise $3 Billion in Dollar, Yuan Bond Offering Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGNLUXVWdlFlYjJqTTVzdGM2M0R6OWFyZTRsS1VwVEtleF9GVENaUmYyT0pXSEE3ZGt2N2d1OFlFTUZEVC1pVHRic3RJRTFuQ3FZdENpRm5pNUFQMkRTQ3prUnpyak9YcnB4RE1nNjYzeVJJSWNJUkhMdnVHanliaENwcXZ3ZXQzVjlwLVo5ZjVOeVdVaURfZ19XdG1SbWNwTFI4c3FMTnFrRnVBN19iQQ?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
-   "companyId": 31,
-   "company": "Tencent",
+   "title": "Meta Launches ‘Workforce Academy’ to Train Workers to Build Data Centers",
+   "summary": "Meta Launches ‘Workforce Academy’ to Train Workers to Build Data Centers WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEtMMlBHT09QWkZrRldsMmw0X0dMeTdRX0E3VjZMdnlZeEhtZnY0N3hGaUhRUHhBX1NVbURqNW1QSW0tUTcxd2lZMVdpQzE5UzM1Wk5DdVF4bmJKeGZodWt5ZlpZZHJDaGNQUkNjc0ozRFBmbVBmc1dqZU10cEM4bVZiS1RQbUpxWmFzRTRrSG00MmJ4Y1l5N3M5R1RURlBETjU5RURKTWVWR2s?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-03T06:02:33+00:00",
+   "companyId": 22,
+   "company": "Meta",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4581,6 +4464,19 @@
    "company": "XPO",
    "asset": "Anleihen",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-04",
+   "title": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis",
+   "summary": "S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtJTWNRQjhuSEF4SlNRR082MEI4N1RMNUNFRHJJeEw3WGpjakRvQlFqTURmM0o3Q3RVeDlvRUZVclVhcUQteG1DZUl2XzBZUUxTVm45VEhyZFJRdF9sZGljZEZ2aVBtcGczM2dhMnVzQ0xZb21wbmRhY2JfY1BoRFlOV3BVa3plTkM0RGZ2ZHBFbnVQZlRWbXd4aTZCQnhUZDEzaEJKRHJHeXpoNGI0ZF8yRmx5blIxR2IzajFEeUZya1pSM3lqN1hlczl0Z3NfS1hJd2UxRXRkdTQ?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-03T06:02:33+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-03",
