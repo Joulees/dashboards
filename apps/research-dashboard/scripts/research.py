@@ -1002,7 +1002,7 @@ def main():
     print(f"\nFertig: {len(snapshot['news'])} News ({new_count} neu), "
           f"{len(snapshot['events'])} Events ({new_ev} neu), "
           f"{len(snapshot['insider'])} Insider-Tx ({new_ins} neu) "
-          f"-> {os.path.relpath(OUT_FILE, ROOT)}")
+          f"-> {os.path.relpath(OUT_FILE, REPO_ROOT)}")
 
     have_tech = sum(1 for e in snapshot["companies"].values() if e.get("tech"))
     print(f"Kursdaten vorhanden fuer {have_tech} Titel.")
