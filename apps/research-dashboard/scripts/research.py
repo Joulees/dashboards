@@ -7,7 +7,7 @@ holt pro Titel Kurse (Financial Modeling Prep), News (Google-News-RSS),
 Insider-Transaktionen (SEC/Wiener Boerse) und Earnings-Termine (Yahoo Finance,
 inkl. der hinterlegten Wettbewerber), berechnet technische Indikatoren, fasst
 optional via Anthropic-API zusammen und schreibt das Ergebnis nach
-docs/data/snapshot.json (von GitHub Pages ausgeliefert).
+docs/research-dashboard/data/snapshot.json (von GitHub Pages ausgeliefert).
 
 Benoetigte Umgebungsvariablen (als GitHub-Secrets hinterlegen):
   FMP_API_KEY        – Pflicht. Kostenloser Key von financialmodelingprep.com
@@ -30,9 +30,12 @@ import http.cookiejar as cookiejar
 from xml.etree import ElementTree as ET
 from urllib import request, parse, error
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-COMPANIES_FILE = os.path.join(ROOT, "docs", "data", "companies.json")
-OUT_FILE = os.path.join(ROOT, "docs", "data", "snapshot.json")
+# Skript liegt in apps/research-dashboard/scripts/ ; Daten liegen im
+# gemeinsamen docs/research-dashboard/data/ (von GitHub Pages ausgeliefert).
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+DATA_DIR = os.path.join(REPO_ROOT, "docs", "research-dashboard", "data")
+COMPANIES_FILE = os.path.join(DATA_DIR, "companies.json")
+OUT_FILE = os.path.join(DATA_DIR, "snapshot.json")
 
 FMP_KEY = os.environ.get("FMP_API_KEY", "").strip()
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()

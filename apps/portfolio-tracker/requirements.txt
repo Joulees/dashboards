@@ -1,0 +1,3 @@
+# Portfolio Tracker — Python-Abhaengigkeiten
+# Noch keine Abhaengigkeiten. Hier eintragen, sobald das Skript sie braucht
+# (z. B. requests, pandas), analog zu apps/research-dashboard/requirements.txt.
