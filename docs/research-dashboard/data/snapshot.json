@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-03T19:30:11+00:00",
+ "generatedAt": "2026-07-04T04:02:56+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -346,7 +346,21 @@
    }
   },
   "6": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-07-01",
+     "title": "Ubisoft Appoints Christoph Hartmann To Lead Creative House 2 And Its Growing Portfolio of Franchises",
+     "summary": "Ubisoft Appoints Christoph Hartmann To Lead Creative House 2 And Its Growing Portfolio of Franchises GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNemVJWXM3OFpjTUY4cTBEMEwwcTdDQmJfWS1IWUkxblNXMlV4WEVzV0xJNWhPUVFlOXJOOFlZd1R4Nkc2NUh4ajdEQjhOd3BHLU1vWGMxa0d2WW5Gd2xNdWRoVmloRWNybFRaQWs4cmVyRHZOeGtPenJTdlNaMWlFaEs0NEg1VndUdEhsaEZmTnhCQ2l4MVc0LWNiZmc5NEN4SDlfQjRyWTdvWUoxaU0ySXdrWFg1UklvcFlZRl9raXg2Z09vTjgzXzc4eE0zS0oxOXVFaDU5RjVMZ1BYX2R3aG0zdUhrdW82ME1uVkVvV0l2TXVxZktlaUhvc21CVlRhTnc?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-04T04:02:56+00:00",
+     "companyId": 6,
+     "company": "Ubisoft",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-07-28",
@@ -762,12 +776,12 @@
     },
     {
      "date": "2026-07-01",
-     "title": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4",
-     "summary": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4 Financial Times",
-     "source": "Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0R2c0NDZ0oteElDb3hkV3B6RzVPNkt1RDNvanFnNFhHNV9jR0lfM2FwNDM5Yy1IRVhibmFieGgzZzNVMjBzek54d3kxSXJqT1BROXpWWEpkN1haWTROMDhBeFhGWnl0N0FuUU1raWZGSko0MVdsVmxWLVMxVUtiX0ZQOWZHSHpwZFZFNkNwS1oyZWpnSTJBTw?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
+     "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+     "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-03T19:30:11+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -775,12 +789,12 @@
     },
     {
      "date": "2026-07-01",
-     "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-     "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "title": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4",
+     "summary": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4 Financial Times",
+     "source": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0R2c0NDZ0oteElDb3hkV3B6RzVPNkt1RDNvanFnNFhHNV9jR0lfM2FwNDM5Yy1IRVhibmFieGgzZzNVMjBzek54d3kxSXJqT1BROXpWWEpkN1haWTROMDhBeFhGWnl0N0FuUU1raWZGSko0MVdsVmxWLVMxVUtiX0ZQOWZHSHpwZFZFNkNwS1oyZWpnSTJBTw?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-02T04:21:05+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1496,13 +1510,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-08",
-     "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.",
-     "summary": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S. CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVXBRUVluS0xHOXVKSEF6M1RZVHVVcWlJb3huc1hCZnZsUVhfeE5oc3NtUzhyQWREeDB6OTlPTnZuMnVYdEVPLWUwV1VHelc0a0h0YVZpbm9HTHZ4ZDR0ZjQxTEJVSjZHcEd2STVQN0rSAXZBVV95cUxNNkU4MlBPZmRVMUtnTTZBMkkyMzFHMGVBQ3Z6VERFTUgtSXU3QndFSlJCUnUyc2VnVl9NdjZ2WTFUTjltazZQZ0I0YzhGenhkVVU4UTBEbnNEbE1MTm1uYnNWVk1KVm53VTl5eFlTSFhfenp2dHpn?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-06-09T04:34:25+00:00",
+     "date": "2026-06-09",
+     "title": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal",
+     "summary": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnNISzBtNzk5bENjMFJCQTEwR0FXTnBNVDY4Zm94cnBIWFNFM21oS05CTHZjZzd4dTladWh6Q2pNZ3FJSGlmc29ZQWdvNVRSSk1XbkRia080a1VmSnpCVTVhYkYwQnFuckc1alBENTVMSkRJTVFLQ25rb3I4NThvM0U5M3VCNC00TnBNcUdZaWUwVjhkMFdRWm1ocWU0ZmNocWZYTG5HTDZLQWdMTUFUQnBkUjdCd3BhMDNGWl9kbEdJbEVYOVB1eVU5RWU2QWRUUE84?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-04T04:02:56+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -2241,19 +2255,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-15",
-     "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
-     "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
-     "source": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-06-26T06:19:35+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-12",
      "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
      "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
@@ -2261,6 +2262,19 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-26T04:39:14+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-12",
+     "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+     "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-04T04:02:56+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -3342,19 +3356,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-29",
-     "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
-     "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-25",
      "title": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares",
      "summary": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares CNBC",
@@ -3870,24 +3871,24 @@
   },
   {
    "date": "2026-07-01",
-   "title": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK",
-   "summary": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPMG80WkFZU2ZuMUNiYkYxN0cyakI4U19na3RMaWVMTTFGQ3VYZGxvLXJ6dldjdzNpN1BCZ082ak1BNExheDZsdS1RZDBySS13VjBXTWxZT1ctWEhhQ3NFTy01bEdWV3VRbDJodnJNOWI1U01LRVhhd1FvTXBWOWl5QTJ3QmpnZmhQN0trVWN5SUt3aXFuTk5uOXlRb2NqbEhrZi1rRWV3QkJpWGJvSEFCMU5hY25sTGk4dkUySU93WHF5TWV1TU1kWXhWOEhiRFJmN3I3bG9BMGJodGNneUdhempNMG5rTFBjdkpZOV9ubnRHR3Rpb29mRmJaMnlRMFJGV0oxRnhhRUhmQ3dPTFozMjF2cXlHZm1sTVE3RHljMF9ST3FRUnBSOURwc3B5WXlickJLY2ZR?oc=5",
+   "title": "Ubisoft Appoints Christoph Hartmann To Lead Creative House 2 And Its Growing Portfolio of Franchises",
+   "summary": "Ubisoft Appoints Christoph Hartmann To Lead Creative House 2 And Its Growing Portfolio of Franchises GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNemVJWXM3OFpjTUY4cTBEMEwwcTdDQmJfWS1IWUkxblNXMlV4WEVzV0xJNWhPUVFlOXJOOFlZd1R4Nkc2NUh4ajdEQjhOd3BHLU1vWGMxa0d2WW5Gd2xNdWRoVmloRWNybFRaQWs4cmVyRHZOeGtPenJTdlNaMWlFaEs0NEg1VndUdEhsaEZmTnhCQ2l4MVc0LWNiZmc5NEN4SDlfQjRyWTdvWUoxaU0ySXdrWFg1UklvcFlZRl9raXg2Z09vTjgzXzc4eE0zS0oxOXVFaDU5RjVMZ1BYX2R3aG0zdUhrdW82ME1uVkVvV0l2TXVxZktlaUhvc21CVlRhTnc?oc=5",
    "category": "Sonstiges",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
+   "firstSeen": "2026-07-04T04:02:56+00:00",
+   "companyId": 6,
+   "company": "Ubisoft",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
    "date": "2026-07-01",
-   "title": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4",
-   "summary": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4 Financial Times",
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0R2c0NDZ0oteElDb3hkV3B6RzVPNkt1RDNvanFnNFhHNV9jR0lfM2FwNDM5Yy1IRVhibmFieGgzZzNVMjBzek54d3kxSXJqT1BROXpWWEpkN1haWTROMDhBeFhGWnl0N0FuUU1raWZGSko0MVdsVmxWLVMxVUtiX0ZQOWZHSHpwZFZFNkNwS1oyZWpnSTJBTw?oc=5",
-   "category": "Earnings",
+   "title": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK",
+   "summary": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPMG80WkFZU2ZuMUNiYkYxN0cyakI4U19na3RMaWVMTTFGQ3VYZGxvLXJ6dldjdzNpN1BCZ082ak1BNExheDZsdS1RZDBySS13VjBXTWxZT1ctWEhhQ3NFTy01bEdWV3VRbDJodnJNOWI1U01LRVhhd1FvTXBWOWl5QTJ3QmpnZmhQN0trVWN5SUt3aXFuTk5uOXlRb2NqbEhrZi1rRWV3QkJpWGJvSEFCMU5hY25sTGk4dkUySU93WHF5TWV1TU1kWXhWOEhiRFJmN3I3bG9BMGJodGNneUdhempNMG5rTFBjdkpZOV9ubnRHR3Rpb29mRmJaMnlRMFJGV0oxRnhhRUhmQ3dPTFozMjF2cXlHZm1sTVE3RHljMF9ST3FRUnBSOURwc3B5WXlickJLY2ZR?oc=5",
+   "category": "Sonstiges",
    "firstSeen": "2026-07-02T04:21:05+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
@@ -3902,6 +3903,19 @@
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-07-03T19:30:11+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-01",
+   "title": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4",
+   "summary": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4 Financial Times",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0R2c0NDZ0oteElDb3hkV3B6RzVPNkt1RDNvanFnNFhHNV9jR0lfM2FwNDM5Yy1IRVhibmFieGgzZzNVMjBzek54d3kxSXJqT1BROXpWWEpkN1haWTROMDhBeFhGWnl0N0FuUU1raWZGSko0MVdsVmxWLVMxVUtiX0ZQOWZHSHpwZFZFNkNwS1oyZWpnSTJBTw?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-02T04:21:05+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -4125,19 +4139,6 @@
    "firstSeen": "2026-06-30T04:33:28+00:00",
    "companyId": 31,
    "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
-   "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
-   "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-03T19:30:11+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4468,19 +4469,6 @@
   },
   {
    "date": "2026-06-15",
-   "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
-   "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
-   "source": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-06-26T06:19:35+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
    "title": "Amcor announces key leadership appointments to accelerate growth",
    "summary": "Amcor announces key leadership appointments to accelerate growth PR Newswire",
    "source": "PR Newswire",
@@ -4545,6 +4533,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-12",
+   "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+   "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-04T04:02:56+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-11",
    "title": "Tronox Issues 2025 Sustainability Report",
    "summary": "Tronox Issues 2025 Sustainability Report PR Newswire",
@@ -4584,6 +4585,19 @@
    "status": "Watchlist"
   },
   {
+   "date": "2026-06-09",
+   "title": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal",
+   "summary": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnNISzBtNzk5bENjMFJCQTEwR0FXTnBNVDY4Zm94cnBIWFNFM21oS05CTHZjZzd4dTladWh6Q2pNZ3FJSGlmc29ZQWdvNVRSSk1XbkRia080a1VmSnpCVTVhYkYwQnFuckc1alBENTVMSkRJTVFLQ25rb3I4NThvM0U5M3VCNC00TnBNcUdZaWUwVjhkMFdRWm1ocWU0ZmNocWZYTG5HTDZLQWdMTUFUQnBkUjdCd3BhMDNGWl9kbEdJbEVYOVB1eVU5RWU2QWRUUE84?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-04T04:02:56+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-08",
    "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
    "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
@@ -4594,19 +4608,6 @@
    "companyId": 10,
    "company": "XPO",
    "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-08",
-   "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.",
-   "summary": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S. CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVXBRUVluS0xHOXVKSEF6M1RZVHVVcWlJb3huc1hCZnZsUVhfeE5oc3NtUzhyQWREeDB6OTlPTnZuMnVYdEVPLWUwV1VHelc0a0h0YVZpbm9HTHZ4ZDR0ZjQxTEJVSjZHcEd2STVQN0rSAXZBVV95cUxNNkU4MlBPZmRVMUtnTTZBMkkyMzFHMGVBQ3Z6VERFTUgtSXU3QndFSlJCUnUyc2VnVl9NdjZ2WTFUTjltazZQZ0I0YzhGenhkVVU4UTBEbnNEbE1MTm1uYnNWVk1KVm53VTl5eFlTSFhfenp2dHpn?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-06-09T04:34:25+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
