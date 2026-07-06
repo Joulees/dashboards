@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-05T06:15:49+00:00",
+ "generatedAt": "2026-07-06T04:40:01+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -37,7 +37,7 @@
      "firstSeen": "2026-06-17T13:12:03+00:00"
     },
     {
-     "date": "2026-07-31",
+     "date": "2026-08-05",
      "type": "Earnings",
      "title": "Topicus.com: Quartalszahlen (Wettbewerber)",
      "company": "Topicus.com",
@@ -45,7 +45,7 @@
      "source": "Yahoo Finance",
      "peer": true,
      "peerOf": "Chapters",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-06T04:40:01+00:00"
     },
     {
      "date": "2026-08-07",
@@ -133,6 +133,19 @@
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWHNCQi0tYWd3MDh5bzlPUkZvb2tRX3dFUU5sZXN1djh3cWdqenlZdzZSOWg1RWFJOHQ3ZnRLS29NLWRqU3l2LTZpOEtlZkdSTHJ5bWRWdF9MbktIMm81OURVTnNTSG9vZ0FnQ0xqd0hadU0tbVJ4RUFkRzJSekhSM2dxSnI0ZlVCMHBFX3JfQTc4bG9PMVdwdW5uZXZpMjdoOU5jSjVUNkxpekdkWFdLeXQ3NDhhZVNLSEF0dGtQMmFhcERMREIxR3ZWWTg3a1p4SG9Gckp5OXpWQWVMMjdEejBRc0NpWC1YTVJtLVlhUVN0VFZDUG1z?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-07-02T04:21:05+00:00",
+     "companyId": 4,
+     "company": "Borr",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-25",
+     "title": "Executive Director Buys 1.2 Million Shares of Borr Drilling. Does That Make BORR a Buy?",
+     "summary": "Executive Director Buys 1.2 Million Shares of Borr Drilling. Does That Make BORR a Buy? The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWZtN21vVlZjeHluQ20tdWRfUExBRC1INkkxMng2OHZYanpUdC1FbDZ4Qklpb2kzcDBwUl80MGVMR2djN25ZMURiYXBjRE5XR3h1SDNMMDVLbkpMREZqMFotYzJFX3BpSHo1eC1IWGtXMlZDSnJfRFl4bXhpNDREdFBKZGxRVnlmSHNiRjN5VzBQS19rcl96RVM3TjNndTZBM2hoVEpOUU5vdWdWbDBqYVU0Tk82SkFZWEpGSE1PT1dIREhRbUpzaHZEb0gyUnlKZC1ra2hUaGM5ckRVS0o4Qjk4bmJJTHIxQmN1WHl3Yi1qYjRUSkF0b1BB?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 4,
      "company": "Borr",
      "asset": "Anleihen",
@@ -272,6 +285,32 @@
   },
   "5": {
    "news": [
+    {
+     "date": "2026-06-29",
+     "title": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache",
+     "summary": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache newswire.com",
+     "source": "newswire.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkJzY1NOR1Y5emJOV2QxSERkLXF0R0poY3RlSWFiNEdZSWljSHRrVVNNUV9YTGlESlNsa1lKZkdwSjJBVzVBUEduUkc0LWhUOTZ4Y2pLeVJtTkpjbVdNdTF1STRXZjdoRmZXamdBNDdPNUl6TTBES3ZMNWJRSWdqRjQyenRKYm5HWVIzMDJOX3cxLTI4UmNXWGFwUFRuNEhKWDVkaXF3?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-25",
+     "title": "Mineral Resources to List New Shares from Employee Incentive Scheme",
+     "summary": "Mineral Resources to List New Shares from Employee Incentive Scheme The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR1hzUTVuUkdacFc0aVVMRWNZNkhreGpPVjluV21zR1BzYnYwZ2pxYnFmRU5pWkVMNklpYWc3UUZaUHBxNFExc3MyVm9pZHJoeUxabXNSVkhoWDgyemE2d29McWdFWmxocGlKN1BETy1wTkk3NHR4TFlRWVBVZ3BqZHlfbDFRcC1MdzN3TFlXa24wLTU1T3hDbUlLLUR5UVQ0dFJvNERueVlXOXN2Yk9kZ1RkdXE3V0Y5eFQ0Nm5TdW5ta1d4N1ptZXpXUnNIT0xUS3k5QUdnYVJrVmtXVGc?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-06-23",
      "title": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE",
@@ -454,27 +493,6 @@
    ],
    "events": [
     {
-     "date": "2026-06-29",
-     "type": "Earnings",
-     "title": "Prosus: Quartalszahlen",
-     "company": "Prosus",
-     "companyId": 8,
-     "source": "Yahoo Finance",
-     "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-06-29",
-     "type": "Earnings",
-     "title": "Naspers: Quartalszahlen (Wettbewerber)",
-     "company": "Naspers",
-     "companyId": 8,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Prosus",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
      "date": "2026-08-05",
      "type": "Earnings",
      "title": "MercadoLibre: Quartalszahlen (Wettbewerber)",
@@ -553,6 +571,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-06-29",
+     "title": "XPO Schedules Second Quarter 2026 Earnings Conference Call for Thursday, July 30, 2026",
+     "summary": "XPO Schedules Second Quarter 2026 Earnings Conference Call for Thursday, July 30, 2026 GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcWUxbXFxVy1CS3d6RGZxQ0xKc212dktxdTJYMjllZjZkNno1TWtWR2Vwa3hoRHpvQ0w3STZJTVoxaXVCbjQ1cy1kVkh3UHdSa0d3aWVENTJodHpHUWJQWXhGR3RKSnJpZ1B1bUhPT0xwX2s4eTlReDdHQkl0NFg3VHRlRkRXay1zRmZzbWZBMG1sNjVOZlVjUGNVQ1JRd0pBVlJNdXQ1aUREcjExeXk4T0dpQzJHLVd3akVqUXFIOFRPYWw1YmJKS2J1b1lMaGJUWjRGRzNINzloSDY0S0U5XzVxeXU4VFFmWnF1Zw?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "companyId": 10,
+     "company": "XPO",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-08",
      "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
      "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
@@ -572,17 +603,6 @@
      "type": "Earnings",
      "title": "Knight-Swift: Quartalszahlen (Wettbewerber)",
      "company": "Knight-Swift",
-     "companyId": 10,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "XPO",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-07-24",
-     "type": "Earnings",
-     "title": "Saia: Quartalszahlen (Wettbewerber)",
-     "company": "Saia",
      "companyId": 10,
      "source": "Yahoo Finance",
      "peer": true,
@@ -620,6 +640,17 @@
      "source": "Yahoo Finance",
      "peer": false,
      "firstSeen": "2026-06-17T13:12:03+00:00"
+    },
+    {
+     "date": "2026-07-30",
+     "type": "Earnings",
+     "title": "Saia: Quartalszahlen (Wettbewerber)",
+     "company": "Saia",
+     "companyId": 10,
+     "source": "Yahoo Finance",
+     "peer": true,
+     "peerOf": "XPO",
+     "firstSeen": "2026-07-06T04:40:01+00:00"
     },
     {
      "date": "2026-09-08",
@@ -671,12 +702,12 @@
     },
     {
      "date": "2026-07-02",
-     "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
-     "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
+     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
+     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
      "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQOGFDYnhRTjdmRUZERl9ETXFZR3pUQlVvWmtZX1BSTWczU0V6YzdUcUVadEJVNnVXQnBRUDRWMlVqSlZMdG1sZDZYN2VpQ3VRU0JUSm9zZGU1TFE0M0I4ODVZaTBXU2NoYnhyWUlXb09nS2N4c2hRSF83eUpESkZMUGt0SUwzcnNXeU9URXRLTEx0aGtUc2hqcV9DZENxMnpsWUpCRHV2eHk3eWhVQ0x5RXpJY0ZvTzBpSkZRM0V6VFgxc0kyeFZXVXM3Z1dibThoNVh4eHVMRElfbWlMVTUxR2c4b1NwM2drMURCNTNJczJwQnJsUHJDV050YjZjejY5NVRncy1FVUl0ZUZVLW5BaFgtYzRYZ2xhZFVWOWhmSlpKXzdRMEpfc2MzMUtZNFF2Z0xFTGNKN3o0T211STkweUxOd0tMZDktdkljRlVDRjV4TXRNQ21EdXZKTFdjY05yMjcwUkw3dmVqYnNj?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUFRGQmpROFlLN0g2UE5wMnVwYV9Vdm5pQkU3d3B3dHo2Y0pWWURfcUp4QnRlbWFzZ2RsYWNKZTF4b2RQNWwtSzlQeWUtekZhbkI1cEpucy1ELUhuUndjT20wNHczbVliQnI0el9aa3pPZlk5N3JYYmxMODdRZDkzVmsyUGVzN21KUE10bjJXZmY5eGdyY3pFRHBXVTJmdmozZktRVlVJNjY1Tmg5TzlFYUpoTDVmWXhLR0ZpT1FqUWt6UEhXVDFEaW4zWk1qcjc5NDNWMldUZ0VXeTFuVVhENHdjMlRIUEkyb2JHYXh6YUp3YUVPT0xQTjRManBUQnNKT3FDWWhuZW1MX1pCUEt0SkVGM3dtdDBzcDBWS3VrYw?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -684,12 +715,12 @@
     },
     {
      "date": "2026-07-02",
-     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
-     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQzk0ZkJxSmJwY1FhY0xZTXJmR3Zhb1o4bW1wVE5LdWM1Umo5TEw3RXBheThsWkpESmptU0ZuTVRkWmt5WS11dU1zWV82bGs2TXplZUlxbVZ2YUtPdzRhYl9yc2lHYlVjclQyUDJxWGhKNkFadG52NHlsaFI3clJ2eGNSaGEwNWFHMVlQd0xDME9uVFRsZElSVmpJdmlVUTRNUHFfeFgtQnp1bGxxdUxqX2ZtS0ZkV1d3ajl1QTljNHVJeEVuRHRmbGRHdkU5NVZoTEJmd0gwTTZ0alNheVFOUnhHNXE2T2lBZ2FURzB6N1NCMlJXX2ZYbWFHLU42VDdualA2Q0cwVV9mZnZaUlRSel9wckU5VnlxNmZITFBIdw?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "title": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
+     "summary": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQendtQ25rSXl2TTFsTVBVYUh5aHMta0NiQ3NuSVpMbDM0SWRnbWZja0ZGQ1dFNThWdFlFTEEyUUwzMWNGSFl0ZGhyRzJiYmFUQjIxVEdnMDNYV2JucFpmRHJVWXhNR21QRVNhcEdVX0JPMnhDNno3TW9tc29ZeV82WHFRekpLWUZ0SmJIclNSbGQ0MDV0YVFuakNhQUhxbzF0ZGg0VVlRMUFsOUhINFRJNE5pSDZhamR2UHlOaExieVJIeUZEdV9TVTFaYnVJVjZObjdRNTJVRFBFZ0hQd3BsUVJURjRVOWxaTVEwbldDY1FKYm8tbldGVXgxWUR3Ni01UDNhdmplNUd1WUJiWWlIV0FLODd3RGpkNzNnOFZ1TDctdw?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -722,13 +753,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-01",
-     "title": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4",
-     "summary": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4 Financial Times",
-     "source": "Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0R2c0NDZ0oteElDb3hkV3B6RzVPNkt1RDNvanFnNFhHNV9jR0lfM2FwNDM5Yy1IRVhibmFieGgzZzNVMjBzek54d3kxSXJqT1BROXpWWEpkN1haWTROMDhBeFhGWnl0N0FuUU1raWZGSko0MVdsVmxWLVMxVUtiX0ZQOWZHSHpwZFZFNkNwS1oyZWpnSTJBTw?oc=5",
+     "date": "2026-06-30",
+     "title": "GPK Deadline: Rosen Law Firm Urges Graphic Packaging Holding Company (NYSE: GPK) Stockholders with Losses in Excess of $100K to Contact the Firm for Information About Their Rights",
+     "summary": "GPK Deadline: Rosen Law Firm Urges Graphic Packaging Holding Company (NYSE: GPK) Stockholders with Losses in Excess of $100K to Contact the Firm for Information About Their Rights Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNWlVicFNUWEV0YmJ3WGxscFdYbXhNcGlrMnVuS25tV3JmMW1GM25DdjRIQTVoMjdtb01QVU5CYzRwM0RzS2dYOW9NMEFXUWcwSm5CeUhoY2hhc1U4X1NPS0xOU1VibDVIVmxEajViN0ozdjU3ZUtVWThKVmxvTG5tM3VmLWlLRGZmRGVWd0JJbmVTZFRhOUtDQlBkNU5yTzZVTVZaNl82emJ1alotNDROSExZRXBDcHQzVUxSNF84cGRhaFk4dmJ1S2FKS1BFOWJQNVhlczIwWlRUeVpOU29EdXJhd3ZtcTJrNlE3TFh3UklqdmtQUV9zdUl1VWdfYjIwMzNXZW92djFTVFJUUnBuRUE1OFdLVjdYY1ZIMXVZb1J1TXdMblJQMnBPd1pMRDQ1dTNFei13RGF3N05iVVNzTUNBT215MTl5bWUwZjBPMW1jUEFu?oc=5",
      "category": "Earnings",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -759,16 +790,6 @@
      "firstSeen": "2026-06-29T04:58:56+00:00"
     },
     {
-     "date": "2026-07-28",
-     "type": "Earnings",
-     "title": "Graphic Packaging: Quartalszahlen",
-     "company": "Graphic Packaging",
-     "companyId": 11,
-     "source": "Yahoo Finance",
-     "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
      "date": "2026-07-29",
      "type": "Earnings",
      "title": "Smurfit WestRock: Quartalszahlen (Wettbewerber)",
@@ -789,6 +810,16 @@
      "peer": true,
      "peerOf": "Graphic Packaging",
      "firstSeen": "2026-06-17T13:12:03+00:00"
+    },
+    {
+     "date": "2026-08-04",
+     "type": "Earnings",
+     "title": "Graphic Packaging: Quartalszahlen",
+     "company": "Graphic Packaging",
+     "companyId": 11,
+     "source": "Yahoo Finance",
+     "peer": false,
+     "firstSeen": "2026-07-06T04:40:01+00:00"
     }
    ],
    "insider": [
@@ -839,19 +870,22 @@
    }
   },
   "12": {
-   "news": [],
-   "events": [
+   "news": [
     {
-     "date": "2026-07-01",
-     "type": "Earnings",
-     "title": "General Mills: Quartalszahlen (Wettbewerber)",
-     "company": "General Mills",
+     "date": "2026-07-02",
+     "title": "Post Holdings (POST) Q2 2026 Earnings Call Transcript",
+     "summary": "Post Holdings (POST) Q2 2026 Earnings Call Transcript Fortune",
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzd2RNMW5kUlZPenlRbmV6TW11V3VWZUJjWnpyVmhqdzhRVGpiTjZtVElmVGN5RlVvd0ZtbEkxQlY3Tld3WDFzNmtQWXVrVklHQ1RrcmRGQWpRZ3pnVWtYUmRuYzYyXzZ1eDBv?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 12,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Post Holdings",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
+     "company": "Post Holdings",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    }
+   ],
+   "events": [
     {
      "date": "2026-07-15",
      "type": "Earnings",
@@ -872,6 +906,17 @@
      "source": "Yahoo Finance",
      "peer": false,
      "firstSeen": "2026-06-17T13:12:03+00:00"
+    },
+    {
+     "date": "2026-09-23",
+     "type": "Earnings",
+     "title": "General Mills: Quartalszahlen (Wettbewerber)",
+     "company": "General Mills",
+     "companyId": 12,
+     "source": "Yahoo Finance",
+     "peer": true,
+     "peerOf": "Post Holdings",
+     "firstSeen": "2026-07-06T04:40:01+00:00"
     }
    ],
    "insider": [],
@@ -1049,7 +1094,7 @@
    ],
    "events": [
     {
-     "date": "2026-07-23",
+     "date": "2026-07-30",
      "type": "Earnings",
      "title": "Labcorp: Quartalszahlen (Wettbewerber)",
      "company": "Labcorp",
@@ -1057,7 +1102,7 @@
      "source": "Yahoo Finance",
      "peer": true,
      "peerOf": "Eurofins Scientific",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-06T04:40:01+00:00"
     }
    ],
    "insider": [],
@@ -1093,7 +1138,7 @@
      "firstSeen": "2026-06-17T13:12:03+00:00"
     },
     {
-     "date": "2026-07-30",
+     "date": "2026-07-31",
      "type": "Earnings",
      "title": "Ares Management: Quartalszahlen (Wettbewerber)",
      "company": "Ares Management",
@@ -1101,7 +1146,7 @@
      "source": "Yahoo Finance",
      "peer": true,
      "peerOf": "Brookfield Corp",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-06T04:40:01+00:00"
     },
     {
      "date": "2026-08-04",
@@ -1331,21 +1376,7 @@
    }
   },
   "17": {
-   "news": [
-    {
-     "date": "2026-06-24",
-     "title": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye",
-     "summary": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU1IVW8xeEJsaC1NTWVQTGw0YjdTVE5oNS1WWkJzTXNPMGlnY2Y5MFlOQ3pkVW1EMElfb0FSRVdCVDJNUWU4Z0ZrREwyMFlXa3B5dzFtc1g2c3cxQmZkYTN2OE01R2FINl9QcTNLcGRUajQ0Tm5RMzlXUXZpWTVuMmhJaXBwZndINDZTVlBhMl8tbjZIcUJCZFQ1bzlJLTNTcGFCUHBzOGdscUlzMl9Fd0ZDcG9lVHZsOGxTTmZHVDhPZ1VsYTRiSUxITDdUbVZUOWhIRFd5UUFHRzduUzVBcEN5M1FQejNXb0E?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-06-25T04:33:56+00:00",
-     "companyId": 17,
-     "company": "Kaspi.kz",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    }
-   ],
+   "news": [],
    "events": [
     {
      "date": "2026-08-10",
@@ -1383,9 +1414,9 @@
      "title": "Amazon has deployed enough satellites to launch Leo service later this year",
      "summary": "Amazon has deployed enough satellites to launch Leo service later this year CNBC",
      "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQdIBrwFBVV95cUxPYk03UXpsMDlWZ0VSTm8wbnVTQW1SaHpNeE9vYUE3YkFTYnd4QTFfT2hTclVyekxtRlRqXzJUYm90c21ZM1dncm90QmhwR0s0WmhyMDlJRC05Mmc4VWtfX1U2QXNDaGlUa3RpTmxyQ3kwOF9JblplS2pBc1k1MWJJdWZrQ292SUhuT2FfekEtWkdfV0xBQXVDTDVwQjJVUjhmVzZmRUp5WHg5Y2lGeFlZ?oc=5",
      "category": "Markt",
-     "firstSeen": "2026-07-05T06:15:49+00:00",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -1909,6 +1940,19 @@
      "company": "Microsoft",
      "asset": "Aktien",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-15",
+     "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
+     "summary": "Microsoft sued by shareholders over expenses, cloud business, AI Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "companyId": 20,
+     "company": "Microsoft",
+     "asset": "Aktien",
+     "status": "Portfolio"
     }
    ],
    "events": [
@@ -2137,19 +2181,6 @@
   "22": {
    "news": [
     {
-     "date": "2026-07-02",
-     "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
-     "summary": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor Manager Magazin",
-     "source": "Manager Magazin",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-07-01",
      "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
      "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
@@ -2189,19 +2220,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-15",
-     "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
-     "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
-     "source": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-05T04:30:28+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-12",
      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
      "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
@@ -2209,6 +2227,32 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
      "category": "M&A",
      "firstSeen": "2026-07-04T04:02:56+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-12",
+     "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
+     "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-09",
+     "title": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free",
+     "summary": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXp3X1FBSF9FaFhHYXROV2RXZGlhSm5QemljMlBHQ25xbmpZM3I1dGtuc20tQmN5ME9SN2hTS09aZjVzZjdiU0RZQ3Fsb3QwS2I5UHdWc2VMTHpPdU9DWEx3YndGV2tza3dsQUJIZUpsUXNwOE1vVV8wRzZBQ1AwQkNlbnBDazNpMmZ0OHBjVk4yRTdyUThpdEg1ZGIyYkpZWUhNdm5LdF8yeHlHN2w3Tg?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -2607,7 +2651,21 @@
    }
   },
   "25": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-06-29",
+     "title": "AerCap Holdings N.V. Announces Pricing of $900 Million Aggregate Principal Amount of Senior Notes",
+     "summary": "AerCap Holdings N.V. Announces Pricing of $900 Million Aggregate Principal Amount of Senior Notes PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeFFmbmRHLXVraGZvVWJpdFhmdWRKcGtKZVkwemk3T3AxOUlGak1NNjF0VWkxeGRpaDF0cEZ4bjVoRDdxMEtzY0JJUmY4UmtWdmJpUU4zZm00RWdfRnFxeWxCV3g3SU5EYjVHRVB4QldsR015UElaTnlidmxTbDl3eEJ1Q05zbE9UOHNOcFNPdlJZMDRySGowUGNtVUdDd1BLc21DaXhoNkxnUGpDUHhKWHY4WTNkNG44ZHFFZ2ZkZzRjLVB4ODF3SmIycVR5cGNYYWpDb2RIZzhpVXowanVvc2JVZHY?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "companyId": 25,
+     "company": "AerCap Holdings",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-07-29",
@@ -3250,45 +3308,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-01",
-     "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
-     "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-01",
-     "title": "Salesforce Upgraded to Buy. Why the Analyst Is Betting Against ‘Armageddon.’",
-     "summary": "Salesforce Upgraded to Buy. Why the Analyst Is Betting Against ‘Armageddon.’ Barron's",
-     "source": "Barron's",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-29",
-     "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
-     "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-05T04:30:28+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-25",
      "title": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares",
      "summary": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares CNBC",
@@ -3480,17 +3499,6 @@
    ],
    "events": [
     {
-     "date": "2026-07-01",
-     "type": "Earnings",
-     "title": "FactSet: Quartalszahlen (Wettbewerber)",
-     "company": "FactSet",
-     "companyId": 34,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "S&P Global",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
      "date": "2026-07-21",
      "type": "Earnings",
      "title": "MSCI: Quartalszahlen (Wettbewerber)",
@@ -3521,6 +3529,17 @@
      "source": "Yahoo Finance",
      "peer": false,
      "firstSeen": "2026-06-17T13:12:03+00:00"
+    },
+    {
+     "date": "2026-09-17",
+     "type": "Earnings",
+     "title": "FactSet: Quartalszahlen (Wettbewerber)",
+     "company": "FactSet",
+     "companyId": 34,
+     "source": "Yahoo Finance",
+     "peer": true,
+     "peerOf": "S&P Global",
+     "firstSeen": "2026-07-06T04:40:01+00:00"
     }
    ],
    "insider": [
@@ -3752,12 +3771,12 @@
   },
   {
    "date": "2026-07-02",
-   "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
-   "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
+   "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
+   "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
    "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQOGFDYnhRTjdmRUZERl9ETXFZR3pUQlVvWmtZX1BSTWczU0V6YzdUcUVadEJVNnVXQnBRUDRWMlVqSlZMdG1sZDZYN2VpQ3VRU0JUSm9zZGU1TFE0M0I4ODVZaTBXU2NoYnhyWUlXb09nS2N4c2hRSF83eUpESkZMUGt0SUwzcnNXeU9URXRLTEx0aGtUc2hqcV9DZENxMnpsWUpCRHV2eHk3eWhVQ0x5RXpJY0ZvTzBpSkZRM0V6VFgxc0kyeFZXVXM3Z1dibThoNVh4eHVMRElfbWlMVTUxR2c4b1NwM2drMURCNTNJczJwQnJsUHJDV050YjZjejY5NVRncy1FVUl0ZUZVLW5BaFgtYzRYZ2xhZFVWOWhmSlpKXzdRMEpfc2MzMUtZNFF2Z0xFTGNKN3o0T211STkweUxOd0tMZDktdkljRlVDRjV4TXRNQ21EdXZKTFdjY05yMjcwUkw3dmVqYnNj?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUFRGQmpROFlLN0g2UE5wMnVwYV9Vdm5pQkU3d3B3dHo2Y0pWWURfcUp4QnRlbWFzZ2RsYWNKZTF4b2RQNWwtSzlQeWUtekZhbkI1cEpucy1ELUhuUndjT20wNHczbVliQnI0el9aa3pPZlk5N3JYYmxMODdRZDkzVmsyUGVzN21KUE10bjJXZmY5eGdyY3pFRHBXVTJmdmozZktRVlVJNjY1Tmg5TzlFYUpoTDVmWXhLR0ZpT1FqUWt6UEhXVDFEaW4zWk1qcjc5NDNWMldUZ0VXeTFuVVhENHdjMlRIUEkyb2JHYXh6YUp3YUVPT0xQTjRManBUQnNKT3FDWWhuZW1MX1pCUEt0SkVGM3dtdDBzcDBWS3VrYw?oc=5",
    "category": "Sonstiges",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3765,14 +3784,27 @@
   },
   {
    "date": "2026-07-02",
-   "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
-   "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQzk0ZkJxSmJwY1FhY0xZTXJmR3Zhb1o4bW1wVE5LdWM1Umo5TEw3RXBheThsWkpESmptU0ZuTVRkWmt5WS11dU1zWV82bGs2TXplZUlxbVZ2YUtPdzRhYl9yc2lHYlVjclQyUDJxWGhKNkFadG52NHlsaFI3clJ2eGNSaGEwNWFHMVlQd0xDME9uVFRsZElSVmpJdmlVUTRNUHFfeFgtQnp1bGxxdUxqX2ZtS0ZkV1d3ajl1QTljNHVJeEVuRHRmbGRHdkU5NVZoTEJmd0gwTTZ0alNheVFOUnhHNXE2T2lBZ2FURzB6N1NCMlJXX2ZYbWFHLU42VDdualA2Q0cwVV9mZnZaUlRSel9wckU5VnlxNmZITFBIdw?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-03T19:30:11+00:00",
+   "title": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
+   "summary": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQendtQ25rSXl2TTFsTVBVYUh5aHMta0NiQ3NuSVpMbDM0SWRnbWZja0ZGQ1dFNThWdFlFTEEyUUwzMWNGSFl0ZGhyRzJiYmFUQjIxVEdnMDNYV2JucFpmRHJVWXhNR21QRVNhcEdVX0JPMnhDNno3TW9tc29ZeV82WHFRekpLWUZ0SmJIclNSbGQ0MDV0YVFuakNhQUhxbzF0ZGg0VVlRMUFsOUhINFRJNE5pSDZhamR2UHlOaExieVJIeUZEdV9TVTFaYnVJVjZObjdRNTJVRFBFZ0hQd3BsUVJURjRVOWxaTVEwbldDY1FKYm8tbldGVXgxWUR3Ni01UDNhdmplNUd1WUJiWWlIV0FLODd3RGpkNzNnOFZ1TDctdw?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-02",
+   "title": "Post Holdings (POST) Q2 2026 Earnings Call Transcript",
+   "summary": "Post Holdings (POST) Q2 2026 Earnings Call Transcript Fortune",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzd2RNMW5kUlZPenlRbmV6TW11V3VWZUJjWnpyVmhqdzhRVGpiTjZtVElmVGN5RlVvd0ZtbEkxQlY3Tld3WDFzNmtQWXVrVklHQ1RrcmRGQWpRZ3pnVWtYUmRuYzYyXzZ1eDBv?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 12,
+   "company": "Post Holdings",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
@@ -3781,9 +3813,9 @@
    "title": "Amazon has deployed enough satellites to launch Leo service later this year",
    "summary": "Amazon has deployed enough satellites to launch Leo service later this year CNBC",
    "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQdIBrwFBVV95cUxPYk03UXpsMDlWZ0VSTm8wbnVTQW1SaHpNeE9vYUE3YkFTYnd4QTFfT2hTclVyekxtRlRqXzJUYm90c21ZM1dncm90QmhwR0s0WmhyMDlJRC05Mmc4VWtfX1U2QXNDaGlUa3RpTmxyQ3kwOF9JblplS2pBc1k1MWJJdWZrQ292SUhuT2FfekEtWkdfV0xBQXVDTDVwQjJVUjhmVzZmRUp5WHg5Y2lGeFlZ?oc=5",
    "category": "Markt",
-   "firstSeen": "2026-07-05T06:15:49+00:00",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
    "companyId": 18,
    "company": "Amazon",
    "asset": "Aktien",
@@ -3799,19 +3831,6 @@
    "firstSeen": "2026-07-03T04:07:40+00:00",
    "companyId": 20,
    "company": "Microsoft",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-02",
-   "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
-   "summary": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor Manager Magazin",
-   "source": "Manager Magazin",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-03T19:30:11+00:00",
-   "companyId": 22,
-   "company": "Meta",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -3836,19 +3855,6 @@
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-07-03T19:30:11+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-01",
-   "title": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4",
-   "summary": "Graphic Packaging Holding Company to Host Second-Quarter 2026 Earnings Conference Call on August 4 Financial Times",
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0R2c0NDZ0oteElDb3hkV3B6RzVPNkt1RDNvanFnNFhHNV9jR0lfM2FwNDM5Yy1IRVhibmFieGgzZzNVMjBzek54d3kxSXJqT1BROXpWWEpkN1haWTROMDhBeFhGWnl0N0FuUU1raWZGSko0MVdsVmxWLVMxVUtiX0ZQOWZHSHpwZFZFNkNwS1oyZWpnSTJBTw?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3882,32 +3888,6 @@
   },
   {
    "date": "2026-07-01",
-   "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
-   "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-03T19:30:11+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-01",
-   "title": "Salesforce Upgraded to Buy. Why the Analyst Is Betting Against ‘Armageddon.’",
-   "summary": "Salesforce Upgraded to Buy. Why the Analyst Is Betting Against ‘Armageddon.’ Barron's",
-   "source": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-03T19:30:11+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-01",
    "title": "S&P GLOBAL INC. COMPLETES SEPARATION OF MOBILITY GLOBAL INC.",
    "summary": "S&P GLOBAL INC. COMPLETES SEPARATION OF MOBILITY GLOBAL INC. PR Newswire",
    "source": "PR Newswire",
@@ -3931,6 +3911,19 @@
    "company": "S&P Global",
    "asset": "Aktien",
    "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-30",
+   "title": "GPK Deadline: Rosen Law Firm Urges Graphic Packaging Holding Company (NYSE: GPK) Stockholders with Losses in Excess of $100K to Contact the Firm for Information About Their Rights",
+   "summary": "GPK Deadline: Rosen Law Firm Urges Graphic Packaging Holding Company (NYSE: GPK) Stockholders with Losses in Excess of $100K to Contact the Firm for Information About Their Rights Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNWlVicFNUWEV0YmJ3WGxscFdYbXhNcGlrMnVuS25tV3JmMW1GM25DdjRIQTVoMjdtb01QVU5CYzRwM0RzS2dYOW9NMEFXUWcwSm5CeUhoY2hhc1U4X1NPS0xOU1VibDVIVmxEajViN0ozdjU3ZUtVWThKVmxvTG5tM3VmLWlLRGZmRGVWd0JJbmVTZFRhOUtDQlBkNU5yTzZVTVZaNl82emJ1alotNDROSExZRXBDcHQzVUxSNF84cGRhaFk4dmJ1S2FKS1BFOWJQNVhlczIwWlRUeVpOU29EdXJhd3ZtcTJrNlE3TFh3UklqdmtQUV9zdUl1VWdfYjIwMzNXZW92djFTVFJUUnBuRUE1OFdLVjdYY1ZIMXVZb1J1TXdMblJQMnBPd1pMRDQ1dTNFei13RGF3N05iVVNzTUNBT215MTl5bWUwZjBPMW1jUEFu?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
   },
   {
    "date": "2026-06-30",
@@ -3969,6 +3962,19 @@
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache",
+   "summary": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache newswire.com",
+   "source": "newswire.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkJzY1NOR1Y5emJOV2QxSERkLXF0R0poY3RlSWFiNEdZSWljSHRrVVNNUV9YTGlESlNsa1lKZkdwSjJBVzVBUEduUkc0LWhUOTZ4Y2pLeVJtTkpjbVdNdTF1STRXZjdoRmZXamdBNDdPNUl6TTBES3ZMNWJRSWdqRjQyenRKYm5HWVIzMDJOX3cxLTI4UmNXWGFwUFRuNEhKWDVkaXF3?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4038,6 +4044,19 @@
   },
   {
    "date": "2026-06-29",
+   "title": "XPO Schedules Second Quarter 2026 Earnings Conference Call for Thursday, July 30, 2026",
+   "summary": "XPO Schedules Second Quarter 2026 Earnings Conference Call for Thursday, July 30, 2026 GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcWUxbXFxVy1CS3d6RGZxQ0xKc212dktxdTJYMjllZjZkNno1TWtWR2Vwa3hoRHpvQ0w3STZJTVoxaXVCbjQ1cy1kVkh3UHdSa0d3aWVENTJodHpHUWJQWXhGR3RKSnJpZ1B1bUhPT0xwX2s4eTlReDdHQkl0NFg3VHRlRkRXay1zRmZzbWZBMG1sNjVOZlVjUGNVQ1JRd0pBVlJNdXQ1aUREcjExeXk4T0dpQzJHLVd3akVqUXFIOFRPYWw1YmJKS2J1b1lMaGJUWjRGRzNINzloSDY0S0U5XzVxeXU4VFFmWnF1Zw?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 10,
+   "company": "XPO",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
    "title": "Amcor partners with Kelpi to advance next-generation barrier materials for fiber packaging",
    "summary": "Amcor partners with Kelpi to advance next-generation barrier materials for fiber packaging PR Newswire",
    "source": "PR Newswire",
@@ -4046,6 +4065,19 @@
    "firstSeen": "2026-06-30T04:33:28+00:00",
    "companyId": 24,
    "company": "Amcor",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "AerCap Holdings N.V. Announces Pricing of $900 Million Aggregate Principal Amount of Senior Notes",
+   "summary": "AerCap Holdings N.V. Announces Pricing of $900 Million Aggregate Principal Amount of Senior Notes PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeFFmbmRHLXVraGZvVWJpdFhmdWRKcGtKZVkwemk3T3AxOUlGak1NNjF0VWkxeGRpaDF0cEZ4bjVoRDdxMEtzY0JJUmY4UmtWdmJpUU4zZm00RWdfRnFxeWxCV3g3SU5EYjVHRVB4QldsR015UElaTnlidmxTbDl3eEJ1Q05zbE9UOHNOcFNPdlJZMDRySGowUGNtVUdDd1BLc21DaXhoNkxnUGpDUHhKWHY4WTNkNG44ZHFFZ2ZkZzRjLVB4ODF3SmIycVR5cGNYYWpDb2RIZzhpVXowanVvc2JVZHY?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 25,
+   "company": "AerCap Holdings",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4072,19 +4104,6 @@
    "firstSeen": "2026-06-30T04:33:28+00:00",
    "companyId": 31,
    "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
-   "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
-   "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-05T04:30:28+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4124,6 +4143,32 @@
    "firstSeen": "2026-07-02T04:21:05+00:00",
    "companyId": 4,
    "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-25",
+   "title": "Executive Director Buys 1.2 Million Shares of Borr Drilling. Does That Make BORR a Buy?",
+   "summary": "Executive Director Buys 1.2 Million Shares of Borr Drilling. Does That Make BORR a Buy? The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWZtN21vVlZjeHluQ20tdWRfUExBRC1INkkxMng2OHZYanpUdC1FbDZ4Qklpb2kzcDBwUl80MGVMR2djN25ZMURiYXBjRE5XR3h1SDNMMDVLbkpMREZqMFotYzJFX3BpSHo1eC1IWGtXMlZDSnJfRFl4bXhpNDREdFBKZGxRVnlmSHNiRjN5VzBQS19rcl96RVM3TjNndTZBM2hoVEpOUU5vdWdWbDBqYVU0Tk82SkFZWEpGSE1PT1dIREhRbUpzaHZEb0gyUnlKZC1ra2hUaGM5ckRVS0o4Qjk4bmJJTHIxQmN1WHl3Yi1qYjRUSkF0b1BB?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 4,
+   "company": "Borr",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-25",
+   "title": "Mineral Resources to List New Shares from Employee Incentive Scheme",
+   "summary": "Mineral Resources to List New Shares from Employee Incentive Scheme The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR1hzUTVuUkdacFc0aVVMRWNZNkhreGpPVjluV21zR1BzYnYwZ2pxYnFmRU5pWkVMNklpYWc3UUZaUHBxNFExc3MyVm9pZHJoeUxabXNSVkhoWDgyemE2d29McWdFWmxocGlKN1BETy1wTkk3NHR4TFlRWVBVZ3BqZHlfbDFRcC1MdzN3TFlXa24wLTU1T3hDbUlLLUR5UVQ0dFJvNERueVlXOXN2Yk9kZ1RkdXE3V0Y5eFQ0Nm5TdW5ta1d4N1ptZXpXUnNIT0xUS3k5QUdnYVJrVmtXVGc?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
@@ -4178,19 +4223,6 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-24",
-   "title": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye",
-   "summary": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU1IVW8xeEJsaC1NTWVQTGw0YjdTVE5oNS1WWkJzTXNPMGlnY2Y5MFlOQ3pkVW1EMElfb0FSRVdCVDJNUWU4Z0ZrREwyMFlXa3B5dzFtc1g2c3cxQmZkYTN2OE01R2FINl9QcTNLcGRUajQ0Tm5RMzlXUXZpWTVuMmhJaXBwZndINDZTVlBhMl8tbjZIcUJCZFQ1bzlJLTNTcGFCUHBzOGdscUlzMl9Fd0ZDcG9lVHZsOGxTTmZHVDhPZ1VsYTRiSUxITDdUbVZUOWhIRFd5UUFHRzduUzVBcEN5M1FQejNXb0E?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-06-25T04:33:56+00:00",
-   "companyId": 17,
-   "company": "Kaspi.kz",
-   "asset": "Aktien",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-24",
@@ -4376,14 +4408,14 @@
   },
   {
    "date": "2026-06-15",
-   "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
-   "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
-   "source": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
+   "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
+   "summary": "Microsoft sued by shareholders over expenses, cloud business, AI Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
    "category": "Markt",
-   "firstSeen": "2026-07-05T04:30:28+00:00",
-   "companyId": 22,
-   "company": "Meta",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 20,
+   "company": "Microsoft",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4453,6 +4485,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-12",
+   "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
+   "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-11",
    "title": "Tronox Issues 2025 Sustainability Report",
    "summary": "Tronox Issues 2025 Sustainability Report PR Newswire",
@@ -4464,6 +4509,19 @@
    "company": "Tronox",
    "asset": "Anleihen",
    "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-09",
+   "title": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free",
+   "summary": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXp3X1FBSF9FaFhHYXROV2RXZGlhSm5QemljMlBHQ25xbmpZM3I1dGtuc20tQmN5ME9SN2hTS09aZjVzZjdiU0RZQ3Fsb3QwS2I5UHdWc2VMTHpPdU9DWEx3YndGV2tza3dsQUJIZUpsUXNwOE1vVV8wRzZBQ1AwQkNlbnBDazNpMmZ0OHBjVk4yRTdyUThpdEg1ZGIyYkpZWUhNdm5LdF8yeHlHN2w3Tg?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
   },
   {
    "date": "2026-06-08",
@@ -4493,49 +4551,6 @@
   }
  ],
  "events": [
-  {
-   "date": "2026-06-29",
-   "type": "Earnings",
-   "title": "Prosus: Quartalszahlen",
-   "company": "Prosus",
-   "companyId": 8,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-06-29",
-   "type": "Earnings",
-   "title": "Naspers: Quartalszahlen (Wettbewerber)",
-   "company": "Naspers",
-   "companyId": 8,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Prosus",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-01",
-   "type": "Earnings",
-   "title": "General Mills: Quartalszahlen (Wettbewerber)",
-   "company": "General Mills",
-   "companyId": 12,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Post Holdings",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-01",
-   "type": "Earnings",
-   "title": "FactSet: Quartalszahlen (Wettbewerber)",
-   "company": "FactSet",
-   "companyId": 34,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "S&P Global",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
   {
    "date": "2026-07-10",
    "type": "Earnings",
@@ -4712,17 +4727,6 @@
   {
    "date": "2026-07-23",
    "type": "Earnings",
-   "title": "Labcorp: Quartalszahlen (Wettbewerber)",
-   "company": "Labcorp",
-   "companyId": 14,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Eurofins Scientific",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-23",
-   "type": "Earnings",
    "title": "Blackstone: Quartalszahlen (Wettbewerber)",
    "company": "Blackstone",
    "companyId": 15,
@@ -4751,17 +4755,6 @@
    "source": "Yahoo Finance",
    "peer": true,
    "peerOf": "S&P Global",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-24",
-   "type": "Earnings",
-   "title": "Saia: Quartalszahlen (Wettbewerber)",
-   "company": "Saia",
-   "companyId": 10,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "XPO",
    "firstSeen": "2026-06-17T13:12:03+00:00"
   },
   {
@@ -4805,16 +4798,6 @@
    "source": "Yahoo Finance",
    "peer": true,
    "peerOf": "Ubisoft",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-28",
-   "type": "Earnings",
-   "title": "Graphic Packaging: Quartalszahlen",
-   "company": "Graphic Packaging",
-   "companyId": 11,
-   "source": "Yahoo Finance",
-   "peer": false,
    "firstSeen": "2026-06-17T13:12:03+00:00"
   },
   {
@@ -4947,6 +4930,17 @@
   {
    "date": "2026-07-30",
    "type": "Earnings",
+   "title": "Saia: Quartalszahlen (Wettbewerber)",
+   "company": "Saia",
+   "companyId": 10,
+   "source": "Yahoo Finance",
+   "peer": true,
+   "peerOf": "XPO",
+   "firstSeen": "2026-07-06T04:40:01+00:00"
+  },
+  {
+   "date": "2026-07-30",
+   "type": "Earnings",
    "title": "International Paper: Quartalszahlen (Wettbewerber)",
    "company": "International Paper",
    "companyId": 11,
@@ -4958,19 +4952,19 @@
   {
    "date": "2026-07-30",
    "type": "Earnings",
-   "title": "KKR: Quartalszahlen (Wettbewerber)",
-   "company": "KKR",
-   "companyId": 15,
+   "title": "Labcorp: Quartalszahlen (Wettbewerber)",
+   "company": "Labcorp",
+   "companyId": 14,
    "source": "Yahoo Finance",
    "peer": true,
-   "peerOf": "Brookfield Corp",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
+   "peerOf": "Eurofins Scientific",
+   "firstSeen": "2026-07-06T04:40:01+00:00"
   },
   {
    "date": "2026-07-30",
    "type": "Earnings",
-   "title": "Ares Management: Quartalszahlen (Wettbewerber)",
-   "company": "Ares Management",
+   "title": "KKR: Quartalszahlen (Wettbewerber)",
+   "company": "KKR",
    "companyId": 15,
    "source": "Yahoo Finance",
    "peer": true,
@@ -5075,13 +5069,13 @@
   {
    "date": "2026-07-31",
    "type": "Earnings",
-   "title": "Topicus.com: Quartalszahlen (Wettbewerber)",
-   "company": "Topicus.com",
-   "companyId": 2,
+   "title": "Ares Management: Quartalszahlen (Wettbewerber)",
+   "company": "Ares Management",
+   "companyId": 15,
    "source": "Yahoo Finance",
    "peer": true,
-   "peerOf": "Chapters",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
+   "peerOf": "Brookfield Corp",
+   "firstSeen": "2026-07-06T04:40:01+00:00"
   },
   {
    "date": "2026-07-31",
@@ -5129,6 +5123,16 @@
   {
    "date": "2026-08-04",
    "type": "Earnings",
+   "title": "Graphic Packaging: Quartalszahlen",
+   "company": "Graphic Packaging",
+   "companyId": 11,
+   "source": "Yahoo Finance",
+   "peer": false,
+   "firstSeen": "2026-07-06T04:40:01+00:00"
+  },
+  {
+   "date": "2026-08-04",
+   "type": "Earnings",
    "title": "Fresenius Medical Care: Quartalszahlen (Wettbewerber)",
    "company": "Fresenius Medical Care",
    "companyId": 13,
@@ -5169,6 +5173,17 @@
    "peer": true,
    "peerOf": "Tronox",
    "firstSeen": "2026-06-17T13:12:03+00:00"
+  },
+  {
+   "date": "2026-08-05",
+   "type": "Earnings",
+   "title": "Topicus.com: Quartalszahlen (Wettbewerber)",
+   "company": "Topicus.com",
+   "companyId": 2,
+   "source": "Yahoo Finance",
+   "peer": true,
+   "peerOf": "Chapters",
+   "firstSeen": "2026-07-06T04:40:01+00:00"
   },
   {
    "date": "2026-08-05",
@@ -5577,6 +5592,28 @@
    "peer": true,
    "peerOf": "Salesforce",
    "firstSeen": "2026-06-17T13:12:03+00:00"
+  },
+  {
+   "date": "2026-09-17",
+   "type": "Earnings",
+   "title": "FactSet: Quartalszahlen (Wettbewerber)",
+   "company": "FactSet",
+   "companyId": 34,
+   "source": "Yahoo Finance",
+   "peer": true,
+   "peerOf": "S&P Global",
+   "firstSeen": "2026-07-06T04:40:01+00:00"
+  },
+  {
+   "date": "2026-09-23",
+   "type": "Earnings",
+   "title": "General Mills: Quartalszahlen (Wettbewerber)",
+   "company": "General Mills",
+   "companyId": 12,
+   "source": "Yahoo Finance",
+   "peer": true,
+   "peerOf": "Post Holdings",
+   "firstSeen": "2026-07-06T04:40:01+00:00"
   }
  ],
  "insider": [
@@ -6839,7 +6876,7 @@
    "status": "Portfolio"
   }
  ],
- "eventsRefreshedAt": "2026-06-29T04:58:56+00:00",
+ "eventsRefreshedAt": "2026-07-06T04:40:01+00:00",
  "peerSymbols": {
   "OSB Group": "OSB.L",
   "Constellation Software": "CSU.TO",
