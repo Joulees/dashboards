@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-06T04:40:01+00:00",
+ "generatedAt": "2026-07-06T06:48:29+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -285,19 +285,6 @@
   },
   "5": {
    "news": [
-    {
-     "date": "2026-06-29",
-     "title": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache",
-     "summary": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache newswire.com",
-     "source": "newswire.com",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkJzY1NOR1Y5emJOV2QxSERkLXF0R0poY3RlSWFiNEdZSWljSHRrVVNNUV9YTGlESlNsa1lKZkdwSjJBVzVBUEduUkc0LWhUOTZ4Y2pLeVJtTkpjbVdNdTF1STRXZjdoRmZXamdBNDdPNUl6TTBES3ZMNWJRSWdqRjQyenRKYm5HWVIzMDJOX3cxLTI4UmNXWGFwUFRuNEhKWDVkaXF3?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-06T04:40:01+00:00",
-     "companyId": 5,
-     "company": "Mineral Resources",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-06-25",
      "title": "Mineral Resources to List New Shares from Employee Incentive Scheme",
@@ -2181,6 +2168,19 @@
   "22": {
    "news": [
     {
+     "date": "2026-07-02",
+     "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
+     "summary": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor Manager Magazin",
+     "source": "Manager Magazin",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-06T06:48:29+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-01",
      "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
      "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
@@ -2220,6 +2220,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-06-15",
+     "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
+     "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
+     "source": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-06T06:48:29+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-12",
      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
      "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
@@ -2227,32 +2240,6 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
      "category": "M&A",
      "firstSeen": "2026-07-04T04:02:56+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-12",
-     "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
-     "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-06T04:40:01+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-09",
-     "title": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free",
-     "summary": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXp3X1FBSF9FaFhHYXROV2RXZGlhSm5QemljMlBHQ25xbmpZM3I1dGtuc20tQmN5ME9SN2hTS09aZjVzZjdiU0RZQ3Fsb3QwS2I5UHdWc2VMTHpPdU9DWEx3YndGV2tza3dsQUJIZUpsUXNwOE1vVV8wRzZBQ1AwQkNlbnBDazNpMmZ0OHBjVk4yRTdyUThpdEg1ZGIyYkpZWUhNdm5LdF8yeHlHN2w3Tg?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -3216,13 +3203,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-19",
-     "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
-     "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-30T06:32:07+00:00",
+     "date": "2026-06-24",
+     "title": "Quino Energy Receives Award from Tencent’s CarbonX Program",
+     "summary": "Quino Energy Receives Award from Tencent’s CarbonX Program GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMUhUUjByY2oyam55cDNXM3dvSnotcnlhOG5BaEcwOUZ4NExRSEo1SXBCb1Q1eWFwemUxbGxobDA1RWlhRndPVmxmenQwTGZzZ0lmMlJRbzF4dFZaYXUzcFR0ZVdISGQwbWlFNm1SMndwRUV3czdIa0hHd2lvQURabGVXOHhDZUhQVmFMQXBWY2pndHVSUHczNnVkYU9MLW5uSTk2ODcyRDhxTDJOSTA1RUFON05CcGlXRUN5YlowRzZHdS12Z1BhTlB6ODlJYjhub1JyblhYRkl1STRqRVZlZW9HbWRxSE1sVUFoencyN2MtVnFfQmt0blItY3RQdjNvT2dQNEVfVGhrOXZ5ZW9TaHlZUE13QQ?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-06T06:48:29+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3302,6 +3289,45 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMU9VOEVyWklxT29UUWpqaFgzN3NRRnoybzJaWnhDQXN0YmNLMWtJbkVhOEsxd0ZqQS1USEl6cjFsdkYydm90RWtXamlpMXVGZ2dNcUVpTVF5OC0yVThVXzFlSjVSY0J1alJTV3BWVEhqZ0VKZDVYdjB0NnctcmctM0tPNTNGcXg2anpsYTVER25kY2xxc2pvbmNwREowM29WdzF1OXRJYzZ5QUZPMnEzYk94X3hHMGw4NUNOek9MNk1sWlBVdXEwcThSRS1jdElOTVEtN3AxYjEzUE0?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-02T04:21:05+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-01",
+     "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
+     "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-06T06:48:29+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-01",
+     "title": "What AI ‘Armaggedon’? Salesforce Stock Just Got an Upgrade to Buy.",
+     "summary": "What AI ‘Armaggedon’? Salesforce Stock Just Got an Upgrade to Buy. Barron's",
+     "source": "Barron's",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-06T06:48:29+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-29",
+     "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
+     "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-06T06:48:29+00:00",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -3458,6 +3484,19 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-06-29",
+     "title": "China’s export-led growth model isn’t changing anytime soon: S&P Global Ratings",
+     "summary": "China’s export-led growth model isn’t changing anytime soon: S&P Global Ratings CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkxXNHpubjhkNmxrdm9TNkRtT3dJVk5DclFEMWxUMjM1VTI5Q3I1SGhMb1J0RzZ3N0JiLW9yaVhCTUZLckpGUDNoWjFaRmdPaEpxa245SVhXYXA4MVJzdlVCOWx4am0yRF9JUFA3TVB0VGNsTmc5aExLS2V0VndLTlZLdGNya1BCUm1uYkNqZ3EtMzVOVlRDeW9wRTNORkpQblJkeWMtc1F2cURXZ2thaVl1Qk5MVnpRdHpjVw?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-06T06:48:29+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-06-22",
      "title": "S&P Global Declares Third Quarter Dividend",
      "summary": "S&P Global Declares Third Quarter Dividend PR Newswire",
@@ -3478,19 +3517,6 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJIRWhVVEhTMFIxTG9YZUZYdzdscEQtRDZVSXR1RXJkNE5kb1E2WVdsX3FTcHBMVldpMm1yNGt6YzhhUGlvWTg2RnpzWTNKOXhNM0lXemdvWDdBYlhlU0xjdFFSZEF4NEdnUUFfbVJmb3hVX29hRTNnOWxTZ3BBbmNndFpOWHQ3UmZwREdLTkpzVXExSkNGb1Z2VGw?oc=5",
      "category": "Rating",
      "firstSeen": "2026-07-03T19:30:11+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-06-08",
-     "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
-     "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-05T04:30:28+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3835,6 +3861,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-07-02",
+   "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
+   "summary": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor Manager Magazin",
+   "source": "Manager Magazin",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-06T06:48:29+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-07-01",
    "title": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK",
    "summary": "Levi & Korsinsky Reminds Graphic Packaging Holding Company Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of July 6, 2026 - GPK PR Newswire",
@@ -3881,6 +3920,32 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMU9VOEVyWklxT29UUWpqaFgzN3NRRnoybzJaWnhDQXN0YmNLMWtJbkVhOEsxd0ZqQS1USEl6cjFsdkYydm90RWtXamlpMXVGZ2dNcUVpTVF5OC0yVThVXzFlSjVSY0J1alJTV3BWVEhqZ0VKZDVYdjB0NnctcmctM0tPNTNGcXg2anpsYTVER25kY2xxc2pvbmNwREowM29WdzF1OXRJYzZ5QUZPMnEzYk94X3hHMGw4NUNOek9MNk1sWlBVdXEwcThSRS1jdElOTVEtN3AxYjEzUE0?oc=5",
    "category": "Markt",
    "firstSeen": "2026-07-02T04:21:05+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-01",
+   "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
+   "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-06T06:48:29+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-01",
+   "title": "What AI ‘Armaggedon’? Salesforce Stock Just Got an Upgrade to Buy.",
+   "summary": "What AI ‘Armaggedon’? Salesforce Stock Just Got an Upgrade to Buy. Barron's",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-06T06:48:29+00:00",
    "companyId": 32,
    "company": "Salesforce",
    "asset": "Aktien",
@@ -3962,19 +4027,6 @@
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
-   "title": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache",
-   "summary": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache newswire.com",
-   "source": "newswire.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkJzY1NOR1Y5emJOV2QxSERkLXF0R0poY3RlSWFiNEdZSWljSHRrVVNNUV9YTGlESlNsa1lKZkdwSjJBVzVBUEduUkc0LWhUOTZ4Y2pLeVJtTkpjbVdNdTF1STRXZjdoRmZXamdBNDdPNUl6TTBES3ZMNWJRSWdqRjQyenRKYm5HWVIzMDJOX3cxLTI4UmNXWGFwUFRuNEhKWDVkaXF3?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-06T04:40:01+00:00",
-   "companyId": 5,
-   "company": "Mineral Resources",
-   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4109,12 +4161,38 @@
   },
   {
    "date": "2026-06-29",
+   "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
+   "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-06T06:48:29+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
    "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
    "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
    "source": "PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
    "category": "Sonstiges",
    "firstSeen": "2026-07-05T04:30:28+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "China’s export-led growth model isn’t changing anytime soon: S&P Global Ratings",
+   "summary": "China’s export-led growth model isn’t changing anytime soon: S&P Global Ratings CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkxXNHpubjhkNmxrdm9TNkRtT3dJVk5DclFEMWxUMjM1VTI5Q3I1SGhMb1J0RzZ3N0JiLW9yaVhCTUZLckpGUDNoWjFaRmdPaEpxa245SVhXYXA4MVJzdlVCOWx4am0yRF9JUFA3TVB0VGNsTmc5aExLS2V0VndLTlZLdGNya1BCUm1uYkNqZ3EtMzVOVlRDeW9wRTNORkpQblJkeWMtc1F2cURXZ2thaVl1Qk5MVnpRdHpjVw?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-06T06:48:29+00:00",
    "companyId": 34,
    "company": "S&P Global",
    "asset": "Aktien",
@@ -4238,6 +4316,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-24",
+   "title": "Quino Energy Receives Award from Tencent’s CarbonX Program",
+   "summary": "Quino Energy Receives Award from Tencent’s CarbonX Program GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMUhUUjByY2oyam55cDNXM3dvSnotcnlhOG5BaEcwOUZ4NExRSEo1SXBCb1Q1eWFwemUxbGxobDA1RWlhRndPVmxmenQwTGZzZ0lmMlJRbzF4dFZaYXUzcFR0ZVdISGQwbWlFNm1SMndwRUV3czdIa0hHd2lvQURabGVXOHhDZUhQVmFMQXBWY2pndHVSUHczNnVkYU9MLW5uSTk2ODcyRDhxTDJOSTA1RUFON05CcGlXRUN5YlowRzZHdS12Z1BhTlB6ODlJYjhub1JyblhYRkl1STRqRVZlZW9HbWRxSE1sVUFoencyN2MtVnFfQmt0blItY3RQdjNvT2dQNEVfVGhrOXZ5ZW9TaHlZUE13QQ?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-06T06:48:29+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-23",
    "title": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE",
    "summary": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE PR Newswire",
@@ -4313,19 +4404,6 @@
    "companyId": 8,
    "company": "Prosus",
    "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-19",
-   "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
-   "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-30T06:32:07+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4421,6 +4499,19 @@
   },
   {
    "date": "2026-06-15",
+   "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says",
+   "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-06T06:48:29+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-15",
    "title": "Amcor announces key leadership appointments to accelerate growth",
    "summary": "Amcor announces key leadership appointments to accelerate growth PR Newswire",
    "source": "PR Newswire",
@@ -4485,19 +4576,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-12",
-   "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
-   "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-06T04:40:01+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-11",
    "title": "Tronox Issues 2025 Sustainability Report",
    "summary": "Tronox Issues 2025 Sustainability Report PR Newswire",
@@ -4511,19 +4589,6 @@
    "status": "Watchlist"
   },
   {
-   "date": "2026-06-09",
-   "title": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free",
-   "summary": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXp3X1FBSF9FaFhHYXROV2RXZGlhSm5QemljMlBHQ25xbmpZM3I1dGtuc20tQmN5ME9SN2hTS09aZjVzZjdiU0RZQ3Fsb3QwS2I5UHdWc2VMTHpPdU9DWEx3YndGV2tza3dsQUJIZUpsUXNwOE1vVV8wRzZBQ1AwQkNlbnBDazNpMmZ0OHBjVk4yRTdyUThpdEg1ZGIyYkpZWUhNdm5LdF8yeHlHN2w3Tg?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-06T04:40:01+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-08",
    "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
    "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
@@ -4535,19 +4600,6 @@
    "company": "XPO",
    "asset": "Anleihen",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-08",
-   "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
-   "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-05T04:30:28+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   }
  ],
  "events": [
