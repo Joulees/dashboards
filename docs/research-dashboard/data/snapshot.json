@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-07T04:17:16+00:00",
+ "generatedAt": "2026-07-07T06:26:15+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -552,6 +552,32 @@
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qYVJMbklGXzBiZFhTQWdERG41R1VoSXI5ZDNNRnVqMHJxbTBXWEtydUhjMlgyQ3o3R2QyY19WR1gybjdZNWRBZjRZemFWaFAwbEdkQkxfcElOamNtOFJEaFhTUktCUnJtVE9J?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-07-05T04:30:28+00:00",
+     "companyId": 10,
+     "company": "XPO",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-29",
+     "title": "XPO Schedules Second Quarter 2026 Earnings Conference Call for Thursday, July 30, 2026",
+     "summary": "XPO Schedules Second Quarter 2026 Earnings Conference Call for Thursday, July 30, 2026 GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcWUxbXFxVy1CS3d6RGZxQ0xKc212dktxdTJYMjllZjZkNno1TWtWR2Vwa3hoRHpvQ0w3STZJTVoxaXVCbjQ1cy1kVkh3UHdSa0d3aWVENTJodHpHUWJQWXhGR3RKSnJpZ1B1bUhPT0xwX2s4eTlReDdHQkl0NFg3VHRlRkRXay1zRmZzbWZBMG1sNjVOZlVjUGNVQ1JRd0pBVlJNdXQ1aUREcjExeXk4T0dpQzJHLVd3akVqUXFIOFRPYWw1YmJKS2J1b1lMaGJUWjRGRzNINzloSDY0S0U5XzVxeXU4VFFmWnF1Zw?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-07T06:26:15+00:00",
+     "companyId": 10,
+     "company": "XPO",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-08",
+     "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
+     "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYkVQWUZEZjVGTVVzRGtqeWxmc3RRV2JkY3V0alJjVXNwV1MxeXFUeEFZOVRpaV81ME5hTGNDX0ppcVZpaUxRdi1vcVhfMXhPOEhZR1BjQjhuWGZueW5QMGs3VEl3ZXM4Slg0ckdyQU9EUGhrUDNUNG9HNnFqemx3S0JiMEhabmZJTUk3dXVfOEUyaWhoVkNhYndvejhVNFZubkZzZzZ3UW9sUWM4cm5VcEEtczNldkVYdGZMNEUtWTVMZm1jcXNPeE5rTktibzNWYnYwUmpBX1huVGZNY2l2VzhRSU9yempjZDNmalhLOGhSNmlLT1FWY0RlYS02aENxa2IxdjEtMFFxcUJqUHc?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-07T06:26:15+00:00",
      "companyId": 10,
      "company": "XPO",
      "asset": "Anleihen",
@@ -1423,19 +1449,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-13",
-     "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models",
-     "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-05T06:15:49+00:00",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-10",
      "title": "Amazon trucking expansion sparks freight stock sell-off",
      "summary": "Amazon trucking expansion sparks freight stock sell-off CNBC",
@@ -1443,6 +1456,19 @@
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFF3eExnenBldld3T3lmVVNEM0lXb2E5dDAwOVFyYk5sVXlZXzJCajdOdXNWUGFpT1k3RGxYMHB1ZEJhRnJOOVFwZ3ZFUmE4TzBwRDZiUDRSRDFHMVQ5TTduWTF1bkFCSkQyZEVNQjJ4V2Z2VU9iTk1uSXlEZVp4cTNrVy01UXNHamd2T9IBkgFBVV95cUxNNXRuS29hVFhSUEg2d1B1SFBidld2djhIVi1qU3JZWU5Sb1k5T3FKMFQ3dHB6MFJJOXRzemxZT1NQeUlRcHFTLXNydGlmQk51RktfMGp5STZwVVgtQk1lMVUzOF80ODZkeHhFOU9fczI3cncwd2s4UnNCNHc4X0tYbkJlRTZZam9HUXpiMHFiT1FMUQ?oc=5",
      "category": "M&A",
      "firstSeen": "2026-07-07T04:17:16+00:00",
+     "companyId": 18,
+     "company": "Amazon",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-09",
+     "title": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal",
+     "summary": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnNISzBtNzk5bENjMFJCQTEwR0FXTnBNVDY4Zm94cnBIWFNFM21oS05CTHZjZzd4dTladWh6Q2pNZ3FJSGlmc29ZQWdvNVRSSk1XbkRia080a1VmSnpCVTVhYkYwQnFuckc1alBENTVMSkRJTVFLQ25rb3I4NThvM0U5M3VCNC00TnBNcUdZaWUwVjhkMFdRWm1ocWU0ZmNocWZYTG5HTDZLQWdMTUFUQnBkUjdCd3BhMDNGWl9kbEdJbEVYOVB1eVU5RWU2QWRUUE84?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-07T06:26:15+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -1897,19 +1923,6 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUJOR1JHZlhDOFd0dE40Z2hESGFib0V1ckozYThSanpHSjNqYnhkSDF1VC1nQTN5bkQ3RnllWGpSNFdUczZmS2ZhOHlVOURmRTNwWU5QZ0RndlVQMjZhQk9Ic2U1dVlJbEdVSVpQc2lpMkJmUUpzRllHMDNqU0JqSHFaQWhGdw?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-07-02T04:21:05+00:00",
-     "companyId": 20,
-     "company": "Microsoft",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-15",
-     "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
-     "summary": "Microsoft sued by shareholders over expenses, cloud business, AI Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 20,
      "company": "Microsoft",
      "asset": "Aktien",
@@ -2875,6 +2888,19 @@
   "28": {
    "news": [
     {
+     "date": "2026-07-04",
+     "title": "RBC Capital Reaffirms Their Hold Rating on MTU Aero Engines (0FC9)",
+     "summary": "RBC Capital Reaffirms Their Hold Rating on MTU Aero Engines (0FC9) The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdTVYb3RpdnpJWWtReTNXN2ZKMXZnb3lqdmFSOC1vZXF1dlZBcm5ldG14d0VWOWhCZUJydWp0cWpzajRZSURNaWJGSVRWR2lnSkctb3RTMVZ3ODVUbE84X0pXSXV1bE85UjhVXzRJMlphMEplN3ZMUkVucHZiY1F3SzdmZlVBTnVVdWktaWs5c1Rka3VJNEJxMWh1MnF0YWlWMmp2TE1fMHY1NEVyRHZWU0s2YmxqVDNFWlFPSXhJOHJ2UFZITUsxZWoxZHNtdHJYejdndTdlS3d2OEx0NXRNd1VMYTk?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-07T06:26:15+00:00",
+     "companyId": 28,
+     "company": "MTU Aero Engines",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-25",
      "title": "J.P. Morgan Reaffirms Their Buy Rating on MTU Aero Engines (0FC9)",
      "summary": "J.P. Morgan Reaffirms Their Buy Rating on MTU Aero Engines (0FC9) The Globe and Mail",
@@ -3458,6 +3484,19 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-06-29",
+     "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
+     "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-07T06:26:15+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-06-22",
      "title": "S&P Global Declares Third Quarter Dividend",
      "summary": "S&P Global Declares Third Quarter Dividend PR Newswire",
@@ -3471,26 +3510,13 @@
      "status": "Watchlist"
     },
     {
-     "date": "2026-06-17",
-     "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
-     "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
+     "date": "2026-06-08",
+     "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
+     "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-07T04:17:16+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-06-16",
-     "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
-     "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
-     "source": "AgNewsWire",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-07T04:17:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-07T06:26:15+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3822,6 +3848,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-07-04",
+   "title": "RBC Capital Reaffirms Their Hold Rating on MTU Aero Engines (0FC9)",
+   "summary": "RBC Capital Reaffirms Their Hold Rating on MTU Aero Engines (0FC9) The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdTVYb3RpdnpJWWtReTNXN2ZKMXZnb3lqdmFSOC1vZXF1dlZBcm5ldG14d0VWOWhCZUJydWp0cWpzajRZSURNaWJGSVRWR2lnSkctb3RTMVZ3ODVUbE84X0pXSXV1bE85UjhVXzRJMlphMEplN3ZMUkVucHZiY1F3SzdmZlVBTnVVdWktaWs5c1Rka3VJNEJxMWh1MnF0YWlWMmp2TE1fMHY1NEVyRHZWU0s2YmxqVDNFWlFPSXhJOHJ2UFZITUsxZWoxZHNtdHJYejdndTdlS3d2OEx0NXRNd1VMYTk?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-07T06:26:15+00:00",
+   "companyId": 28,
+   "company": "MTU Aero Engines",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-07-03",
    "title": "Kuaishou shares fall after Tencent joins $2.8 billion raise for Kling AI subsidiary",
    "summary": "Kuaishou shares fall after Tencent joins $2.8 billion raise for Kling AI subsidiary CNBC",
@@ -4122,6 +4161,19 @@
   },
   {
    "date": "2026-06-29",
+   "title": "XPO Schedules Second Quarter 2026 Earnings Conference Call for Thursday, July 30, 2026",
+   "summary": "XPO Schedules Second Quarter 2026 Earnings Conference Call for Thursday, July 30, 2026 GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcWUxbXFxVy1CS3d6RGZxQ0xKc212dktxdTJYMjllZjZkNno1TWtWR2Vwa3hoRHpvQ0w3STZJTVoxaXVCbjQ1cy1kVkh3UHdSa0d3aWVENTJodHpHUWJQWXhGR3RKSnJpZ1B1bUhPT0xwX2s4eTlReDdHQkl0NFg3VHRlRkRXay1zRmZzbWZBMG1sNjVOZlVjUGNVQ1JRd0pBVlJNdXQ1aUREcjExeXk4T0dpQzJHLVd3akVqUXFIOFRPYWw1YmJKS2J1b1lMaGJUWjRGRzNINzloSDY0S0U5XzVxeXU4VFFmWnF1Zw?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-07T06:26:15+00:00",
+   "companyId": 10,
+   "company": "XPO",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
    "title": "Amcor partners with Kelpi to advance next-generation barrier materials for fiber packaging",
    "summary": "Amcor partners with Kelpi to advance next-generation barrier materials for fiber packaging PR Newswire",
    "source": "PR Newswire",
@@ -4171,6 +4223,19 @@
    "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
+   "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-07T06:26:15+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-26",
@@ -4368,32 +4433,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-17",
-   "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
-   "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-16",
-   "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
-   "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
-   "source": "AgNewsWire",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
    "date": "2026-06-16",
    "title": "Adyen Announces Adyen Agentic As the Universal Translator for the Next Era of Commerce",
    "summary": "Adyen Announces Adyen Agentic As the Universal Translator for the Next Era of Commerce PR Newswire",
@@ -4429,19 +4468,6 @@
    "firstSeen": "2026-07-03T19:30:11+00:00",
    "companyId": 14,
    "company": "Eurofins Scientific",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
-   "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
-   "summary": "Microsoft sued by shareholders over expenses, cloud business, AI Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-06T04:40:01+00:00",
-   "companyId": 20,
-   "company": "Microsoft",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4483,19 +4509,6 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-13",
-   "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models",
-   "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-05T06:15:49+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-12",
@@ -4548,6 +4561,45 @@
    "company": "Amazon",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-09",
+   "title": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal",
+   "summary": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnNISzBtNzk5bENjMFJCQTEwR0FXTnBNVDY4Zm94cnBIWFNFM21oS05CTHZjZzd4dTladWh6Q2pNZ3FJSGlmc29ZQWdvNVRSSk1XbkRia080a1VmSnpCVTVhYkYwQnFuckc1alBENTVMSkRJTVFLQ25rb3I4NThvM0U5M3VCNC00TnBNcUdZaWUwVjhkMFdRWm1ocWU0ZmNocWZYTG5HTDZLQWdMTUFUQnBkUjdCd3BhMDNGWl9kbEdJbEVYOVB1eVU5RWU2QWRUUE84?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-07T06:26:15+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-08",
+   "title": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations",
+   "summary": "Reply at Gartner® Marketing Symposium/Xpo™ 2026, Sharing Expertise in Applying AI to Customer Experience and Marketing Operations PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYkVQWUZEZjVGTVVzRGtqeWxmc3RRV2JkY3V0alJjVXNwV1MxeXFUeEFZOVRpaV81ME5hTGNDX0ppcVZpaUxRdi1vcVhfMXhPOEhZR1BjQjhuWGZueW5QMGs3VEl3ZXM4Slg0ckdyQU9EUGhrUDNUNG9HNnFqemx3S0JiMEhabmZJTUk3dXVfOEUyaWhoVkNhYndvejhVNFZubkZzZzZ3UW9sUWM4cm5VcEEtczNldkVYdGZMNEUtWTVMZm1jcXNPeE5rTktibzNWYnYwUmpBX1huVGZNY2l2VzhRSU9yempjZDNmalhLOGhSNmlLT1FWY0RlYS02aENxa2IxdjEtMFFxcUJqUHc?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-07T06:26:15+00:00",
+   "companyId": 10,
+   "company": "XPO",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-08",
+   "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
+   "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-07T06:26:15+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   }
  ],
  "events": [
