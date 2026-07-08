@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-07T06:26:15+00:00",
+ "generatedAt": "2026-07-08T03:45:31+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -286,6 +286,19 @@
   "5": {
    "news": [
     {
+     "date": "2026-07-08",
+     "title": "UBS Keeps Their Buy Rating on Mineral Resources Limited (MALRF)",
+     "summary": "UBS Keeps Their Buy Rating on Mineral Resources Limited (MALRF) The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUhabU12RGxmdHhkVVg1MXpwTVk1XzFaN2x0MkE3RzVwRkEzd0xpVUlGSnlJNzZqWEt0V1dmdmN6clFnNVpPN1UtdFo5dVh2TjZIaXJKODllU3I3Mjh0bmdOZG1fUFN6QTU4YmJXZlpuUXJ5ajk3NWJvZkh0Q2tVclFrekdEaXAyVnA4OElHc0lqcWJmNlNQUUtwYk5qNFpPX25aM0JXZUxpTW9hSmJObV9OTnQ5c1FYSG4zNHZqRm5ZYmxna0h5dkJhbXJlMThReVhEYWI5RU9jQQ?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-08T03:45:31+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-25",
      "title": "Mineral Resources to List New Shares from Employee Incentive Scheme",
      "summary": "Mineral Resources to List New Shares from Employee Incentive Scheme The Globe and Mail",
@@ -293,19 +306,6 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR1hzUTVuUkdacFc0aVVMRWNZNkhreGpPVjluV21zR1BzYnYwZ2pxYnFmRU5pWkVMNklpYWc3UUZaUHBxNFExc3MyVm9pZHJoeUxabXNSVkhoWDgyemE2d29McWdFWmxocGlKN1BETy1wTkk3NHR4TFlRWVBVZ3BqZHlfbDFRcC1MdzN3TFlXa24wLTU1T3hDbUlLLUR5UVQ0dFJvNERueVlXOXN2Yk9kZ1RkdXE3V0Y5eFQ0Nm5TdW5ta1d4N1ptZXpXUnNIT0xUS3k5QUdnYVJrVmtXVGc?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-06T04:40:01+00:00",
-     "companyId": 5,
-     "company": "Mineral Resources",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-23",
-     "title": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE",
-     "summary": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2I1Wk1sdXNaMHpLSWlrdWNPVFNGXzU2SmtSQy1ob0U4Wlp4SDVQR0ZRay1IcmNPZTV5UnpuZC1ObjlBcnRTWGFkMjV2OW9nWkkyRjAteUo2aDlDVHljQUdGVDdxZGQyNG1uWklRM2JROUw2WXBZS2RHV0p2NV9Pb0FwQWpqUUFsNWJtSmkxeUk5Um9MT01VNzRXVmxEWUNTVTNyRDc3VDNYR3hmd0xheURaaEtrbGVtYWhkNURVVlB6UVRqXzhZ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-24T04:35:26+00:00",
      "companyId": 5,
      "company": "Mineral Resources",
      "asset": "Anleihen",
@@ -741,12 +741,12 @@
     },
     {
      "date": "2026-07-02",
-     "title": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
-     "summary": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQendtQ25rSXl2TTFsTVBVYUh5aHMta0NiQ3NuSVpMbDM0SWRnbWZja0ZGQ1dFNThWdFlFTEEyUUwzMWNGSFl0ZGhyRzJiYmFUQjIxVEdnMDNYV2JucFpmRHJVWXhNR21QRVNhcEdVX0JPMnhDNno3TW9tc29ZeV82WHFRekpLWUZ0SmJIclNSbGQ0MDV0YVFuakNhQUhxbzF0ZGg0VVlRMUFsOUhINFRJNE5pSDZhamR2UHlOaExieVJIeUZEdV9TVTFaYnVJVjZObjdRNTJVRFBFZ0hQd3BsUVJURjRVOWxaTVEwbldDY1FKYm8tbldGVXgxWUR3Ni01UDNhdmplNUd1WUJiWWlIV0FLODd3RGpkNzNnOFZ1TDctdw?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
+     "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQW1vY3lkSjlfMC1qclpGbVUzdktaU1pRNFVPZTQwSURKLWJHdTkwaTdpUnFXM3VWNkRNaF9lSTRpbTlObXRKTVF1Q2hZRFh1c0lmNklXdGlvdENwRUtwWlg2cGJGbDVwUEVDbEZ4OUo2N3RMWlB5dnl3TC1nTXRRSDJXaXBHeXFsWTh0TG90TVFHdk55WTRGQWhqR3pxSGhkdkNiQjYwSUE0cjE5S2duSXBpUGNzYlR2enZyLVhaNW5jd0dIZmtDd2kyTVZQUG9ZWlYtME9uMkRnNmlhMGY3ZjV4MkxPRWIzUkZ6eFRVeWhDMXhXNVVNOXptVXVicHVXd2tjSzVkTHFuM25EdTdVcEZEajlLQ1RGWXJFNUhOcUFqcTFMZ2lqSUx2MXMzQWttSENJcmFKOUJxdFBPTllnbG9KUVJTbFg5Vm5UQ0ZOOEptVm5yaVlrNExFbnd4Wkg4cWswb1liejNYbWtj?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-08T03:45:31+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1397,6 +1397,45 @@
   "18": {
    "news": [
     {
+     "date": "2026-07-07",
+     "title": "Amazon aims to raise $25 billion from bond sale",
+     "summary": "Amazon aims to raise $25 billion from bond sale Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-08T03:45:31+00:00",
+     "companyId": 18,
+     "company": "Amazon",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-07",
+     "title": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
+     "summary": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026 CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3SjEwUWFEZ19JeVhLZlFRVGVWLWdQQV9QZk5vTEVZV1N4cmw0emNzNk10cnNlbkxoek5BOWh3MnFVWjh1azJwM3dIRFJsQ2hfcjl6RHZVd0d5YTNYR0pib3hhYnliUXBiT3A4aVFn0gFzQVVfeXFMTmJOOF9LTUtTWFNTZEZ1c1I4VFZoc2pkMXFGM0E5cGpyTExmbDY2YTVwVkQ3WjZWNGVxcmNNMzRmbXZvdmlPSWZkYlRwQ2FGTGpjeWpyTzFRZUpmNFNITm1XMEZPa1pWWTAwUksyX2diZk15OA?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-08T03:45:31+00:00",
+     "companyId": 18,
+     "company": "Amazon",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-07",
+     "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
+     "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-08T03:45:31+00:00",
+     "companyId": 18,
+     "company": "Amazon",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-02",
      "title": "Amazon has deployed enough satellites to launch Leo service later this year",
      "summary": "Amazon has deployed enough satellites to launch Leo service later this year CNBC",
@@ -1423,19 +1462,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-24",
-     "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
-     "summary": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1BYUk9wNHlqZ1FHelp6YUJ1djE3dGVmOUNZY3c3Zm1rQWxVU191TDlFNERWem9FaEFVd1V2UndNM2k0Q2pMMVVHZkp6ZzBVdGtESlRJbnBwbEVqLVp4cVFQQ2lWNzZoeldoazF2c0Vvcm5TdGR3OW5Bb2FHQlJPdE9tZTJ4enQ5QWZBa01TUDh5Rlp6SUhEOHBjRlV5Ynk4NUE5QWFGbVnSAa4BQVVfeXFMTmFHQXIyc1JFT2tHaG9EamFGeFJ0enVOY0x6aVctSWd3ZElKQklOV01IMTRnWjFDNHk1ajROcThDRTQ5aWNlU3ZCYlhKRVhabWhBenpmakJaZ0lYVjNPNUNZVmtPR3lGTXBXOFBia2FiX2NYNi1tY21BU3FvUEJoLUdySnAxc1JUbUNQdmJoUDhZRFJ0M2p4R255UUZWWGlPS3Z2U2RpNExIOEVMdGZ3?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-06-25T04:33:56+00:00",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-18",
      "title": "Amazon investigating engineers who criticized AI data center expansion",
      "summary": "Amazon investigating engineers who criticized AI data center expansion CNBC",
@@ -1443,32 +1469,6 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3BCZGNwWWowRVJKSUd5R2p1aWlqQU5sOV92bkIwTmJKZ2VyMmVxMFJkdHdDQWVxSnRxbVlBLXNfeW9JQVNnbEI3SEd6bjNUcTNYdDdUSlFPbVBLTll4SVFZcm5zN2NEWTE2cEhLcm9PVS1zaXNsZy1LMEdud3VFeG9Fd1pfUdIBiwFBVV95cUxPN0dUQUhRVWhaTHNaeGNRckNiRGtOM3QxakZ6WjFlSE5nQV9wejdfVTJfWkNkbXAzUW54b0twNXREUEhIYVVEMXdHZ2hGaU1EczZJdTVvbnZWYXliM3U0ZmNGYmpXeGpEOW1aSXJWRU5oNnFnOGN0OFhtX1Y5ZTdfN2JaaXlZXzBXcFBr?oc=5",
      "category": "M&A",
      "firstSeen": "2026-07-02T04:21:05+00:00",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-10",
-     "title": "Amazon trucking expansion sparks freight stock sell-off",
-     "summary": "Amazon trucking expansion sparks freight stock sell-off CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFF3eExnenBldld3T3lmVVNEM0lXb2E5dDAwOVFyYk5sVXlZXzJCajdOdXNWUGFpT1k3RGxYMHB1ZEJhRnJOOVFwZ3ZFUmE4TzBwRDZiUDRSRDFHMVQ5TTduWTF1bkFCSkQyZEVNQjJ4V2Z2VU9iTk1uSXlEZVp4cTNrVy01UXNHamd2T9IBkgFBVV95cUxNNXRuS29hVFhSUEg2d1B1SFBidld2djhIVi1qU3JZWU5Sb1k5T3FKMFQ3dHB6MFJJOXRzemxZT1NQeUlRcHFTLXNydGlmQk51RktfMGp5STZwVVgtQk1lMVUzOF80ODZkeHhFOU9fczI3cncwd2s4UnNCNHc4X0tYbkJlRTZZam9HUXpiMHFiT1FMUQ?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-07T04:17:16+00:00",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-09",
-     "title": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal",
-     "summary": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnNISzBtNzk5bENjMFJCQTEwR0FXTnBNVDY4Zm94cnBIWFNFM21oS05CTHZjZzd4dTladWh6Q2pNZ3FJSGlmc29ZQWdvNVRSSk1XbkRia080a1VmSnpCVTVhYkYwQnFuckc1alBENTVMSkRJTVFLQ25rb3I4NThvM0U5M3VCNC00TnBNcUdZaWUwVjhkMFdRWm1ocWU0ZmNocWZYTG5HTDZLQWdMTUFUQnBkUjdCd3BhMDNGWl9kbEdJbEVYOVB1eVU5RWU2QWRUUE84?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-07T06:26:15+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -1731,7 +1731,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     204.79,
      204.86,
      210.11,
      205.27,
@@ -1825,12 +1824,13 @@
      238.34,
      241.7,
      242.67,
-     244.16
+     244.16,
+     245.98
     ],
-    "price": 244.16,
-    "sma50": 255.19,
+    "price": 245.98,
+    "sma50": 255.01,
     "sma200": null,
-    "rsi": 54,
+    "rsi": 50,
     "macd": "bullisch",
     "high": 274.99,
     "low": 199.34,
@@ -2016,7 +2016,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     399.6,
      398.46,
      397.23,
      384.47,
@@ -2110,12 +2109,13 @@
      373.02,
      384.28,
      390.49,
-     386.74
+     386.74,
+     388.84
     ],
-    "price": 386.74,
-    "sma50": 406.67,
+    "price": 388.84,
+    "sma50": 406.13,
     "sma200": null,
-    "rsi": 48,
+    "rsi": 45,
     "macd": "bullisch",
     "high": 460.52,
     "low": 352.83,
@@ -2154,6 +2154,19 @@
   },
   "22": {
    "news": [
+    {
+     "date": "2026-07-07",
+     "title": "Instagram-Mutter: US-Bundesstaaten fordern 1,4 Billionen Dollar von Meta wegen Social-Media-Sucht",
+     "summary": "Instagram-Mutter: US-Bundesstaaten fordern 1,4 Billionen Dollar von Meta wegen Social-Media-Sucht Manager Magazin",
+     "source": "Manager Magazin",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUdCNk1BOW4wMjBPTnY0ekpjaHlBZkdMWVFWdTRoTnd4Y2ctWTJkQWwzN2gxb1RaMDFzNnpmS1pCQ2xFcXd6MmFBbFNadHpRZVhLeXFhOFoydkZKSjl1Nzh1NWVGcmZjUWNVU0pRSEFrWlRPelhKZmRLT0IwdWxDUGQ4RnJLejBiY25YT0w0eklmT2VMcmFCdVFBeFExSWJDM3BKalVWLWRYQ1AyT2pZdGczeS16aEozVVE4R1R3TXdwUmFvemNaSGJxQWdCd08yaEUtQ2ZIZWY?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-08T03:45:31+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-07-02",
      "title": "OpenAI, Meta, Google: Sam Altman schlägt 5-Prozent-Beteiligung der Regierung an KI-Unternehmen vor",
@@ -2214,19 +2227,6 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-06T06:48:29+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-12",
-     "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
-     "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-07T04:17:16+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -2417,7 +2417,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     643.22,
      644.78,
      655.66,
      637.25,
@@ -2511,20 +2510,22 @@
      563.29,
      612.91,
      582.9,
-     600.29
+     600.29,
+     615.58
     ],
-    "price": 600.29,
-    "sma50": 603.74,
+    "price": 615.58,
+    "sma50": 602.87,
     "sma200": null,
-    "rsi": 57,
+    "rsi": 55,
     "macd": "bullisch",
     "high": 688.55,
     "low": 525.72,
-    "score": 0,
+    "score": 1,
     "label": "Neutral",
     "reasons": [
-     "Kurs unter SMA50",
-     "MACD ueber Signallinie"
+     "Kurs ueber SMA50",
+     "MACD ueber Signallinie",
+     "ueber oberem Bollinger-Band"
     ]
    },
    "profile": {
@@ -3019,7 +3020,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     535.02,
      528.66,
      532.3,
      535.97,
@@ -3113,12 +3113,13 @@
      389.89,
      393.24,
      410.5,
-     417.07
+     417.07,
+     423.11
     ],
-    "price": 417.07,
-    "sma50": 402.56,
+    "price": 423.11,
+    "sma50": 401.54,
     "sma200": null,
-    "rsi": 69,
+    "rsi": 70,
     "macd": "bullisch",
     "high": 545.13,
     "low": 361.32,
@@ -3139,11 +3140,11 @@
    "news": [
     {
      "date": "2026-07-06",
-     "title": "Tencent unit raises $1.5 billion from Kuaishou share sale, term sheet shows",
-     "summary": "Tencent unit raises $1.5 billion from Kuaishou share sale, term sheet shows Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUY5S2ROTmhyZWVFcWY2Rm9VR2k2enM0SzUxakFPMzREVkFxMXp2RHFUcVZFS0UwZkNPRGsxTThyLUZuLWhiWWtIcktrV2ZXYmxONXl1SDdCN0NnaVZITG9RckEtYy01S2lNNzNybEwxZUdsbFBlcTVxSXFFZ0tzSEoybzRCU2YtVURhaFYzdm5rY2l3TTNQSWpHcG1OTVEzalRTSjdsSXNKVTFmWlFPdlFmV2ZCczY3S2VNT1dsWGl1djg?oc=5",
-     "category": "Guidance",
+     "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
+     "summary": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou Bloomberg.com",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFFOG5FWGhfQm5EZTIyNS1Ccm1fQk1KRnJpOVBiWXljWGQ4Q2w1UFFIT3FINm9Cd3lPSzhLM0FzTjMyb1ZjRkJ0RDJ4QmdRQzhCc1lpYkx0eW1saVZFd1JHNk5BMnFhNDhwZHRId3VUZUs2Q1B0a3ZpVUpQT2Zmb19KRDhwQ09SeWwwU2RIRmNUOEppNkFqdWtCYW85NlBoblJoWTJIVEFnLU1Y?oc=5",
+     "category": "M&A",
      "firstSeen": "2026-07-07T04:17:16+00:00",
      "companyId": 31,
      "company": "Tencent",
@@ -3152,11 +3153,11 @@
     },
     {
      "date": "2026-07-06",
-     "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
-     "summary": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFFOG5FWGhfQm5EZTIyNS1Ccm1fQk1KRnJpOVBiWXljWGQ4Q2w1UFFIT3FINm9Cd3lPSzhLM0FzTjMyb1ZjRkJ0RDJ4QmdRQzhCc1lpYkx0eW1saVZFd1JHNk5BMnFhNDhwZHRId3VUZUs2Q1B0a3ZpVUpQT2Zmb19KRDhwQ09SeWwwU2RIRmNUOEppNkFqdWtCYW85NlBoblJoWTJIVEFnLU1Y?oc=5",
-     "category": "M&A",
+     "title": "Tencent unit raises $1.5 billion from Kuaishou share sale, term sheet shows",
+     "summary": "Tencent unit raises $1.5 billion from Kuaishou share sale, term sheet shows Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUY5S2ROTmhyZWVFcWY2Rm9VR2k2enM0SzUxakFPMzREVkFxMXp2RHFUcVZFS0UwZkNPRGsxTThyLUZuLWhiWWtIcktrV2ZXYmxONXl1SDdCN0NnaVZITG9RckEtYy01S2lNNzNybEwxZUdsbFBlcTVxSXFFZ0tzSEoybzRCU2YtVURhaFYzdm5rY2l3TTNQSWpHcG1OTVEzalRTSjdsSXNKVTFmWlFPdlFmV2ZCczY3S2VNT1dsWGl1djg?oc=5",
+     "category": "Guidance",
      "firstSeen": "2026-07-07T04:17:16+00:00",
      "companyId": 31,
      "company": "Tencent",
@@ -3484,19 +3485,6 @@
      "status": "Watchlist"
     },
     {
-     "date": "2026-06-29",
-     "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
-     "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-07T06:26:15+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
      "date": "2026-06-22",
      "title": "S&P Global Declares Third Quarter Dividend",
      "summary": "S&P Global Declares Third Quarter Dividend PR Newswire",
@@ -3757,6 +3745,71 @@
  },
  "news": [
   {
+   "date": "2026-07-08",
+   "title": "UBS Keeps Their Buy Rating on Mineral Resources Limited (MALRF)",
+   "summary": "UBS Keeps Their Buy Rating on Mineral Resources Limited (MALRF) The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUhabU12RGxmdHhkVVg1MXpwTVk1XzFaN2x0MkE3RzVwRkEzd0xpVUlGSnlJNzZqWEt0V1dmdmN6clFnNVpPN1UtdFo5dVh2TjZIaXJKODllU3I3Mjh0bmdOZG1fUFN6QTU4YmJXZlpuUXJ5ajk3NWJvZkh0Q2tVclFrekdEaXAyVnA4OElHc0lqcWJmNlNQUUtwYk5qNFpPX25aM0JXZUxpTW9hSmJObV9OTnQ5c1FYSG4zNHZqRm5ZYmxna0h5dkJhbXJlMThReVhEYWI5RU9jQQ?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-08T03:45:31+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
+   "title": "Amazon aims to raise $25 billion from bond sale",
+   "summary": "Amazon aims to raise $25 billion from bond sale Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-08T03:45:31+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
+   "title": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
+   "summary": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026 CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3SjEwUWFEZ19JeVhLZlFRVGVWLWdQQV9QZk5vTEVZV1N4cmw0emNzNk10cnNlbkxoek5BOWh3MnFVWjh1azJwM3dIRFJsQ2hfcjl6RHZVd0d5YTNYR0pib3hhYnliUXBiT3A4aVFn0gFzQVVfeXFMTmJOOF9LTUtTWFNTZEZ1c1I4VFZoc2pkMXFGM0E5cGpyTExmbDY2YTVwVkQ3WjZWNGVxcmNNMzRmbXZvdmlPSWZkYlRwQ2FGTGpjeWpyTzFRZUpmNFNITm1XMEZPa1pWWTAwUksyX2diZk15OA?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-08T03:45:31+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
+   "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
+   "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-08T03:45:31+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
+   "title": "Instagram-Mutter: US-Bundesstaaten fordern 1,4 Billionen Dollar von Meta wegen Social-Media-Sucht",
+   "summary": "Instagram-Mutter: US-Bundesstaaten fordern 1,4 Billionen Dollar von Meta wegen Social-Media-Sucht Manager Magazin",
+   "source": "Manager Magazin",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUdCNk1BOW4wMjBPTnY0ekpjaHlBZkdMWVFWdTRoTnd4Y2ctWTJkQWwzN2gxb1RaMDFzNnpmS1pCQ2xFcXd6MmFBbFNadHpRZVhLeXFhOFoydkZKSjl1Nzh1NWVGcmZjUWNVU0pRSEFrWlRPelhKZmRLT0IwdWxDUGQ4RnJLejBiY25YT0w0eklmT2VMcmFCdVFBeFExSWJDM3BKalVWLWRYQ1AyT2pZdGczeS16aEozVVE4R1R3TXdwUmFvemNaSGJxQWdCd08yaEUtQ2ZIZWY?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-08T03:45:31+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-07-06",
    "title": "GRAPHIC PACKAGING DEADLINE JULY 6th: Bragar Eagel & Squire,",
    "summary": "GRAPHIC PACKAGING DEADLINE JULY 6th: Bragar Eagel & Squire, GlobeNewswire",
@@ -3784,11 +3837,11 @@
   },
   {
    "date": "2026-07-06",
-   "title": "Tencent unit raises $1.5 billion from Kuaishou share sale, term sheet shows",
-   "summary": "Tencent unit raises $1.5 billion from Kuaishou share sale, term sheet shows Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUY5S2ROTmhyZWVFcWY2Rm9VR2k2enM0SzUxakFPMzREVkFxMXp2RHFUcVZFS0UwZkNPRGsxTThyLUZuLWhiWWtIcktrV2ZXYmxONXl1SDdCN0NnaVZITG9RckEtYy01S2lNNzNybEwxZUdsbFBlcTVxSXFFZ0tzSEoybzRCU2YtVURhaFYzdm5rY2l3TTNQSWpHcG1OTVEzalRTSjdsSXNKVTFmWlFPdlFmV2ZCczY3S2VNT1dsWGl1djg?oc=5",
-   "category": "Guidance",
+   "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
+   "summary": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFFOG5FWGhfQm5EZTIyNS1Ccm1fQk1KRnJpOVBiWXljWGQ4Q2w1UFFIT3FINm9Cd3lPSzhLM0FzTjMyb1ZjRkJ0RDJ4QmdRQzhCc1lpYkx0eW1saVZFd1JHNk5BMnFhNDhwZHRId3VUZUs2Q1B0a3ZpVUpQT2Zmb19KRDhwQ09SeWwwU2RIRmNUOEppNkFqdWtCYW85NlBoblJoWTJIVEFnLU1Y?oc=5",
+   "category": "M&A",
    "firstSeen": "2026-07-07T04:17:16+00:00",
    "companyId": 31,
    "company": "Tencent",
@@ -3797,11 +3850,11 @@
   },
   {
    "date": "2026-07-06",
-   "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
-   "summary": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFFOG5FWGhfQm5EZTIyNS1Ccm1fQk1KRnJpOVBiWXljWGQ4Q2w1UFFIT3FINm9Cd3lPSzhLM0FzTjMyb1ZjRkJ0RDJ4QmdRQzhCc1lpYkx0eW1saVZFd1JHNk5BMnFhNDhwZHRId3VUZUs2Q1B0a3ZpVUpQT2Zmb19KRDhwQ09SeWwwU2RIRmNUOEppNkFqdWtCYW85NlBoblJoWTJIVEFnLU1Y?oc=5",
-   "category": "M&A",
+   "title": "Tencent unit raises $1.5 billion from Kuaishou share sale, term sheet shows",
+   "summary": "Tencent unit raises $1.5 billion from Kuaishou share sale, term sheet shows Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUY5S2ROTmhyZWVFcWY2Rm9VR2k2enM0SzUxakFPMzREVkFxMXp2RHFUcVZFS0UwZkNPRGsxTThyLUZuLWhiWWtIcktrV2ZXYmxONXl1SDdCN0NnaVZITG9RckEtYy01S2lNNzNybEwxZUdsbFBlcTVxSXFFZ0tzSEoybzRCU2YtVURhaFYzdm5rY2l3TTNQSWpHcG1OTVEzalRTSjdsSXNKVTFmWlFPdlFmV2ZCczY3S2VNT1dsWGl1djg?oc=5",
+   "category": "Guidance",
    "firstSeen": "2026-07-07T04:17:16+00:00",
    "companyId": 31,
    "company": "Tencent",
@@ -3914,12 +3967,12 @@
   },
   {
    "date": "2026-07-02",
-   "title": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
-   "summary": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQendtQ25rSXl2TTFsTVBVYUh5aHMta0NiQ3NuSVpMbDM0SWRnbWZja0ZGQ1dFNThWdFlFTEEyUUwzMWNGSFl0ZGhyRzJiYmFUQjIxVEdnMDNYV2JucFpmRHJVWXhNR21QRVNhcEdVX0JPMnhDNno3TW9tc29ZeV82WHFRekpLWUZ0SmJIclNSbGQ0MDV0YVFuakNhQUhxbzF0ZGg0VVlRMUFsOUhINFRJNE5pSDZhamR2UHlOaExieVJIeUZEdV9TVTFaYnVJVjZObjdRNTJVRFBFZ0hQd3BsUVJURjRVOWxaTVEwbldDY1FKYm8tbldGVXgxWUR3Ni01UDNhdmplNUd1WUJiWWlIV0FLODd3RGpkNzNnOFZ1TDctdw?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
+   "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQW1vY3lkSjlfMC1qclpGbVUzdktaU1pRNFVPZTQwSURKLWJHdTkwaTdpUnFXM3VWNkRNaF9lSTRpbTlObXRKTVF1Q2hZRFh1c0lmNklXdGlvdENwRUtwWlg2cGJGbDVwUEVDbEZ4OUo2N3RMWlB5dnl3TC1nTXRRSDJXaXBHeXFsWTh0TG90TVFHdk55WTRGQWhqR3pxSGhkdkNiQjYwSUE0cjE5S2duSXBpUGNzYlR2enZyLVhaNW5jd0dIZmtDd2kyTVZQUG9ZWlYtME9uMkRnNmlhMGY3ZjV4MkxPRWIzUkZ6eFRVeWhDMXhXNVVNOXptVXVicHVXd2tjSzVkTHFuM25EdTdVcEZEajlLQ1RGWXJFNUhOcUFqcTFMZ2lqSUx2MXMzQWttSENJcmFKOUJxdFBPTllnbG9KUVJTbFg5Vm5UQ0ZOOEptVm5yaVlrNExFbnd4Wkg4cWswb1liejNYbWtj?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-08T03:45:31+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -4225,19 +4278,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-29",
-   "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
-   "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-07T06:26:15+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
    "date": "2026-06-26",
    "title": "Stellar Pictures Showcases Five Major Series at Tencent",
    "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
@@ -4327,32 +4367,6 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-24",
-   "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
-   "summary": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1BYUk9wNHlqZ1FHelp6YUJ1djE3dGVmOUNZY3c3Zm1rQWxVU191TDlFNERWem9FaEFVd1V2UndNM2k0Q2pMMVVHZkp6ZzBVdGtESlRJbnBwbEVqLVp4cVFQQ2lWNzZoeldoazF2c0Vvcm5TdGR3OW5Bb2FHQlJPdE9tZTJ4enQ5QWZBa01TUDh5Rlp6SUhEOHBjRlV5Ynk4NUE5QWFGbVnSAa4BQVVfeXFMTmFHQXIyc1JFT2tHaG9EamFGeFJ0enVOY0x6aVctSWd3ZElKQklOV01IMTRnWjFDNHk1ajROcThDRTQ5aWNlU3ZCYlhKRVhabWhBenpmakJaZ0lYVjNPNUNZVmtPR3lGTXBXOFBia2FiX2NYNi1tY21BU3FvUEJoLUdySnAxc1JUbUNQdmJoUDhZRFJ0M2p4R255UUZWWGlPS3Z2U2RpNExIOEVMdGZ3?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-06-25T04:33:56+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-23",
-   "title": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE",
-   "summary": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2I1Wk1sdXNaMHpLSWlrdWNPVFNGXzU2SmtSQy1ob0U4Wlp4SDVQR0ZRay1IcmNPZTV5UnpuZC1ObjlBcnRTWGFkMjV2OW9nWkkyRjAteUo2aDlDVHljQUdGVDdxZGQyNG1uWklRM2JROUw2WXBZS2RHV0p2NV9Pb0FwQWpqUUFsNWJtSmkxeUk5Um9MT01VNzRXVmxEWUNTVTNyRDc3VDNYR3hmd0xheURaaEtrbGVtYWhkNURVVlB6UVRqXzhZ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-24T04:35:26+00:00",
-   "companyId": 5,
-   "company": "Mineral Resources",
-   "asset": "Anleihen",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-23",
@@ -4524,19 +4538,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-12",
-   "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
-   "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-11",
    "title": "Tronox Issues 2025 Sustainability Report",
    "summary": "Tronox Issues 2025 Sustainability Report PR Newswire",
@@ -4548,32 +4549,6 @@
    "company": "Tronox",
    "asset": "Anleihen",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-10",
-   "title": "Amazon trucking expansion sparks freight stock sell-off",
-   "summary": "Amazon trucking expansion sparks freight stock sell-off CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFF3eExnenBldld3T3lmVVNEM0lXb2E5dDAwOVFyYk5sVXlZXzJCajdOdXNWUGFpT1k3RGxYMHB1ZEJhRnJOOVFwZ3ZFUmE4TzBwRDZiUDRSRDFHMVQ5TTduWTF1bkFCSkQyZEVNQjJ4V2Z2VU9iTk1uSXlEZVp4cTNrVy01UXNHamd2T9IBkgFBVV95cUxNNXRuS29hVFhSUEg2d1B1SFBidld2djhIVi1qU3JZWU5Sb1k5T3FKMFQ3dHB6MFJJOXRzemxZT1NQeUlRcHFTLXNydGlmQk51RktfMGp5STZwVVgtQk1lMVUzOF80ODZkeHhFOU9fczI3cncwd2s4UnNCNHc4X0tYbkJlRTZZam9HUXpiMHFiT1FMUQ?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-09",
-   "title": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal",
-   "summary": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnNISzBtNzk5bENjMFJCQTEwR0FXTnBNVDY4Zm94cnBIWFNFM21oS05CTHZjZzd4dTladWh6Q2pNZ3FJSGlmc29ZQWdvNVRSSk1XbkRia080a1VmSnpCVTVhYkYwQnFuckc1alBENTVMSkRJTVFLQ25rb3I4NThvM0U5M3VCNC00TnBNcUdZaWUwVjhkMFdRWm1ocWU0ZmNocWZYTG5HTDZLQWdMTUFUQnBkUjdCd3BhMDNGWl9kbEdJbEVYOVB1eVU5RWU2QWRUUE84?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-07T06:26:15+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-08",
