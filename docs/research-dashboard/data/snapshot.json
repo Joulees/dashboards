@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-08T03:45:31+00:00",
+ "generatedAt": "2026-07-08T05:32:38+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -310,6 +310,19 @@
      "company": "Mineral Resources",
      "asset": "Anleihen",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-23",
+     "title": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE",
+     "summary": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2I1Wk1sdXNaMHpLSWlrdWNPVFNGXzU2SmtSQy1ob0U4Wlp4SDVQR0ZRay1IcmNPZTV5UnpuZC1ObjlBcnRTWGFkMjV2OW9nWkkyRjAteUo2aDlDVHljQUdGVDdxZGQyNG1uWklRM2JROUw2WXBZS2RHV0p2NV9Pb0FwQWpqUUFsNWJtSmkxeUk5Um9MT01VNzRXVmxEWUNTVTNyRDc3VDNYR3hmd0xheURaaEtrbGVtYWhkNURVVlB6UVRqXzhZ?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
     }
    ],
    "events": [
@@ -400,6 +413,19 @@
   "8": {
    "news": [
     {
+     "date": "2026-07-02",
+     "title": "Prosus director adjusts shareholding after RSU vesting",
+     "summary": "Prosus director adjusts shareholding after RSU vesting The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZTdMSERvb09qSmhBR084bG40TktSak5US2g3MXJCRDU1b2tBcGYtUjB2d1BsYUxVUExuZmZaRkNwTnMyMHJJd0pnQkE5ZWpNYkdrQ1ZQSkxrS1k1TG92NXdNWFU1WU9WeFctUG1WRFVTMDhKNWE5N1NBcmgwaVc4dEN0TEFxQnZyZjRDcm5YM3hrMFdwTDNQZU5zajF6cWpZR1NxVS1FdnhSU0tZczNQZkw4TTRJMDhvcUc0QmJnb2pJMFBZcVN0dTRUMEZiWHZQ?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
+     "companyId": 8,
+     "company": "Prosus",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-29",
      "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
      "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
@@ -459,19 +485,6 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0xBeDVDTWFQSEl4ekNsZUZVUXJvejFiZzZPYnRYVHA1WnB6eklETUlhNUZXVFhfMy0wdWZrVlY4bFVtVUV1S1ZlSjB2c1E0d3Jud0pnaE0zSGtGNmtDbjdFNVR5Skc1Ul9JUlhDQlQweEZwRmd3TDhMRWZfRVpCQnJKOGNpT2FsM0Fsdnh4Tm1ZSXFyam8wcVpDQ196ZzVZa0dtVzdmNDFQV0Q1Ti1J?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-29T07:02:57+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-20",
-     "title": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable",
-     "summary": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMlIyakJHVmRwY212dTMyMElSRVQ3NFFQTElwWjAyaDJvWnNTX3B2U0hndHV4emxHT1NsR3lESURBeThxZm9iLUczc3pTZ1hUNENXS2Z1V2hIeW9LSnZvaG8yRzRQZFJaT3dkcGpXd0pOMTRyckJOQkpVZE5WSGFNbDRHQVprN3ZkMkxObFlaMGlxU3BCM1V4aGZveWhvRDB5V1IwWkNfdXRiYmcyUnllX2JkTFRNQXdxXzg1dk1oTjNyd0w0WGNUcUVBLXFIV2sxWUxFOEg2WjlsM0Izb3FYSUQ0bVdDYWFDWDgtaU1IejdMSkV4OEhqRnMzOA?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
      "companyId": 8,
      "company": "Prosus",
      "asset": "Anleihen",
@@ -728,12 +741,12 @@
     },
     {
      "date": "2026-07-02",
-     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
-     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
+     "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
+     "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
      "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUFRGQmpROFlLN0g2UE5wMnVwYV9Vdm5pQkU3d3B3dHo2Y0pWWURfcUp4QnRlbWFzZ2RsYWNKZTF4b2RQNWwtSzlQeWUtekZhbkI1cEpucy1ELUhuUndjT20wNHczbVliQnI0el9aa3pPZlk5N3JYYmxMODdRZDkzVmsyUGVzN21KUE10bjJXZmY5eGdyY3pFRHBXVTJmdmozZktRVlVJNjY1Tmg5TzlFYUpoTDVmWXhLR0ZpT1FqUWt6UEhXVDFEaW4zWk1qcjc5NDNWMldUZ0VXeTFuVVhENHdjMlRIUEkyb2JHYXh6YUp3YUVPT0xQTjRManBUQnNKT3FDWWhuZW1MX1pCUEt0SkVGM3dtdDBzcDBWS3VrYw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQW1vY3lkSjlfMC1qclpGbVUzdktaU1pRNFVPZTQwSURKLWJHdTkwaTdpUnFXM3VWNkRNaF9lSTRpbTlObXRKTVF1Q2hZRFh1c0lmNklXdGlvdENwRUtwWlg2cGJGbDVwUEVDbEZ4OUo2N3RMWlB5dnl3TC1nTXRRSDJXaXBHeXFsWTh0TG90TVFHdk55WTRGQWhqR3pxSGhkdkNiQjYwSUE0cjE5S2duSXBpUGNzYlR2enZyLVhaNW5jd0dIZmtDd2kyTVZQUG9ZWlYtME9uMkRnNmlhMGY3ZjV4MkxPRWIzUkZ6eFRVeWhDMXhXNVVNOXptVXVicHVXd2tjSzVkTHFuM25EdTdVcEZEajlLQ1RGWXJFNUhOcUFqcTFMZ2lqSUx2MXMzQWttSENJcmFKOUJxdFBPTllnbG9KUVJTbFg5Vm5UQ0ZOOEptVm5yaVlrNExFbnd4Wkg4cWswb1liejNYbWtj?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "firstSeen": "2026-07-08T03:45:31+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -741,12 +754,12 @@
     },
     {
      "date": "2026-07-02",
-     "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
-     "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
+     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
+     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
      "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQW1vY3lkSjlfMC1qclpGbVUzdktaU1pRNFVPZTQwSURKLWJHdTkwaTdpUnFXM3VWNkRNaF9lSTRpbTlObXRKTVF1Q2hZRFh1c0lmNklXdGlvdENwRUtwWlg2cGJGbDVwUEVDbEZ4OUo2N3RMWlB5dnl3TC1nTXRRSDJXaXBHeXFsWTh0TG90TVFHdk55WTRGQWhqR3pxSGhkdkNiQjYwSUE0cjE5S2duSXBpUGNzYlR2enZyLVhaNW5jd0dIZmtDd2kyTVZQUG9ZWlYtME9uMkRnNmlhMGY3ZjV4MkxPRWIzUkZ6eFRVeWhDMXhXNVVNOXptVXVicHVXd2tjSzVkTHFuM25EdTdVcEZEajlLQ1RGWXJFNUhOcUFqcTFMZ2lqSUx2MXMzQWttSENJcmFKOUJxdFBPTllnbG9KUVJTbFg5Vm5UQ0ZOOEptVm5yaVlrNExFbnd4Wkg4cWswb1liejNYbWtj?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUFRGQmpROFlLN0g2UE5wMnVwYV9Vdm5pQkU3d3B3dHo2Y0pWWURfcUp4QnRlbWFzZ2RsYWNKZTF4b2RQNWwtSzlQeWUtekZhbkI1cEpucy1ELUhuUndjT20wNHczbVliQnI0el9aa3pPZlk5N3JYYmxMODdRZDkzVmsyUGVzN21KUE10bjJXZmY5eGdyY3pFRHBXVTJmdmozZktRVlVJNjY1Tmg5TzlFYUpoTDVmWXhLR0ZpT1FqUWt6UEhXVDFEaW4zWk1qcjc5NDNWMldUZ0VXeTFuVVhENHdjMlRIUEkyb2JHYXh6YUp3YUVPT0xQTjRManBUQnNKT3FDWWhuZW1MX1pCUEt0SkVGM3dtdDBzcDBWS3VrYw?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-07-08T03:45:31+00:00",
+     "firstSeen": "2026-07-06T04:40:01+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1847,7 +1860,21 @@
    }
   },
   "19": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-07-02",
+     "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
+     "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkp4a0JWZEU2cW9aLWh2Y1RmYU5ob25TaXctcF9wdWNhblJSSDBRQWJrVHNBamlZcVUwd3BtRnItQk5XRUtadTVSWl9qRm9seHpZbFNCOGFGVzNKdmRURGtCUzNoTW5jNEtkVkttQkpaczlGSU1EM3BRTmRheFc4LU90dGJ2YkZ5bkktSTdFc3BoVW9pLU5nRnVnX2pMbGFmRFRTdWpTWXp1dzItSkx4ZGVaZFkwWFZQVmtCYmFrNWNId2hFekp2YU9scktZZUlwTVBQOWhVS3ROczhBbVQtVWhiajA3eHVJMmpUaDJQanJHZlk?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
+     "companyId": 19,
+     "company": "MTY Food",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-07-10",
@@ -1923,6 +1950,19 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUJOR1JHZlhDOFd0dE40Z2hESGFib0V1ckozYThSanpHSjNqYnhkSDF1VC1nQTN5bkQ3RnllWGpSNFdUczZmS2ZhOHlVOURmRTNwWU5QZ0RndlVQMjZhQk9Ic2U1dVlJbEdVSVpQc2lpMkJmUUpzRllHMDNqU0JqSHFaQWhGdw?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-07-02T04:21:05+00:00",
+     "companyId": 20,
+     "company": "Microsoft",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-15",
+     "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
+     "summary": "Microsoft sued by shareholders over expenses, cloud business, AI Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
      "companyId": 20,
      "company": "Microsoft",
      "asset": "Aktien",
@@ -2181,32 +2221,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-01",
-     "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
-     "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOE9CSEhUblNsdkdPT01HazdxV3F3NlBfODd3SjMxbnJUMThQVks5SEptblJCSF85UGg5TWdsUHVNeWRyaDByWWlrWmhWNjJlU2M2MHJMR1lnbGVsZkgzXzlqaDIxZEpPeFZNN3pmMFNNQ1VVLThrUnVUODl2dXZBYkVVT1JRNTdFWmZSUEdvTjdZaHpSTDRUbGV1YzBmbVhnODVXb2dYTFQ3NC1rRmNwREw3eFg?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-02T06:08:53+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-23",
-     "title": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release",
-     "summary": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release Forbes",
-     "source": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUl9SeXdyWWVNTXVnVzZJV3VzU2U3MkQ4TXVhU2RxaXVzdERmODBMV2NobmRZdmliWGJ0MWVxSTZSX0ZCZzJUMFdob01uYWR1NVJld3FYNFNudm5sT3NZNnZETGdyQ0dWYUhUczRKYllSRm9xTU04bk9DUlVFN3hMTlR5OVlHUEVNWXZNWUlmVUE1TS1pcHVsTkFoZWhaSUZSTk9QN3FDRGpJdlhJUW9EdEs1ZXhuZXQyNFhSS0FlTEVjLWZWQ1ExZnVYRQ?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-06-24T04:35:26+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-23",
      "title": "Meta launches cheaper range of AI smart glasses starting at $299",
      "summary": "Meta launches cheaper range of AI smart glasses starting at $299 Reuters",
@@ -2227,6 +2241,32 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-06T06:48:29+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-12",
+     "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+     "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-12",
+     "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
+     "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -3204,13 +3244,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-26",
-     "title": "Stellar Pictures Showcases Five Major Series at Tencent",
-     "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZ3lwYTVMblN5V3hqVkx2QVRDNjdCWGt0cUU5clIyMGZEZjc2QzB1UzVtalFVYlVLZnlOc0JhSmZGQWxFV3J4UVp5LWdlbHlVelBRdlhhWkNNb2prREs1dTl4d2ZxWjFucDIxbE9Xdk1jUTM2Q21xa2Nrd3BWYnVXVUI1eXJUczIyMkpiN3N3dTBYU3RvM0x4cEJGUG5GR2pteVBiZEhQVW40WEJUdVktOTl0b2pMWldsSXE3cTdWVjNSdnUzRXl1RUxzWEtrY21rdmdNbDFSQmZhQ0N5YjVvS3Axdkt2VUNETU1vUTVGRWg5QURDam53ME5Mdmc4dTl3QnUta1M1U2YtUnowTmtna3dNVjg5RUY3VHFha2NFQTFzaXFWblN4cURHR0YyWEh5NVJGem45TkYzYWhrQ0Zr?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-03T06:02:33+00:00",
+     "date": "2026-06-19",
+     "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
+     "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3315,19 +3355,6 @@
      "source": "Barron's",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1k3Y3RqaFNfTHgzRlFoOUhvVTlDa0FwR1lyanBSbXV1ZF9kTzJYVzJFOEdxY3lQb2E3d1JsZlU1Mm1VeXJVcVhWbHJLV1JTbHlrSTBMek5sZHFJOGZQRFRZYVppSXU3MElQMVBROXV5TWZ6Q2JONFJfVkVmM0NqNkNR?oc=5",
      "category": "Rating",
-     "firstSeen": "2026-07-06T06:48:29+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-29",
-     "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
-     "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
-     "category": "Sonstiges",
      "firstSeen": "2026-07-06T06:48:29+00:00",
      "companyId": 32,
      "company": "Salesforce",
@@ -3498,13 +3525,26 @@
      "status": "Watchlist"
     },
     {
-     "date": "2026-06-08",
-     "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
-     "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
+     "date": "2026-06-17",
+     "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
+     "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-07T06:26:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-16",
+     "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+     "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+     "source": "AgNewsWire",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-08T05:32:38+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3928,6 +3968,19 @@
   },
   {
    "date": "2026-07-02",
+   "title": "Prosus director adjusts shareholding after RSU vesting",
+   "summary": "Prosus director adjusts shareholding after RSU vesting The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZTdMSERvb09qSmhBR084bG40TktSak5US2g3MXJCRDU1b2tBcGYtUjB2d1BsYUxVUExuZmZaRkNwTnMyMHJJd0pnQkE5ZWpNYkdrQ1ZQSkxrS1k1TG92NXdNWFU1WU9WeFctUG1WRFVTMDhKNWE5N1NBcmgwaVc4dEN0TEFxQnZyZjRDcm5YM3hrMFdwTDNQZU5zajF6cWpZR1NxVS1FdnhSU0tZczNQZkw4TTRJMDhvcUc0QmJnb2pJMFBZcVN0dTRUMEZiWHZQ?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-02",
    "title": "XPO (XPO) Q1 2026 Earnings Call Transcript",
    "summary": "XPO (XPO) Q1 2026 Earnings Call Transcript Fortune",
    "source": "Fortune",
@@ -3954,12 +4007,12 @@
   },
   {
    "date": "2026-07-02",
-   "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
-   "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
+   "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
+   "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
    "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUFRGQmpROFlLN0g2UE5wMnVwYV9Vdm5pQkU3d3B3dHo2Y0pWWURfcUp4QnRlbWFzZ2RsYWNKZTF4b2RQNWwtSzlQeWUtekZhbkI1cEpucy1ELUhuUndjT20wNHczbVliQnI0el9aa3pPZlk5N3JYYmxMODdRZDkzVmsyUGVzN21KUE10bjJXZmY5eGdyY3pFRHBXVTJmdmozZktRVlVJNjY1Tmg5TzlFYUpoTDVmWXhLR0ZpT1FqUWt6UEhXVDFEaW4zWk1qcjc5NDNWMldUZ0VXeTFuVVhENHdjMlRIUEkyb2JHYXh6YUp3YUVPT0xQTjRManBUQnNKT3FDWWhuZW1MX1pCUEt0SkVGM3dtdDBzcDBWS3VrYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQW1vY3lkSjlfMC1qclpGbVUzdktaU1pRNFVPZTQwSURKLWJHdTkwaTdpUnFXM3VWNkRNaF9lSTRpbTlObXRKTVF1Q2hZRFh1c0lmNklXdGlvdENwRUtwWlg2cGJGbDVwUEVDbEZ4OUo2N3RMWlB5dnl3TC1nTXRRSDJXaXBHeXFsWTh0TG90TVFHdk55WTRGQWhqR3pxSGhkdkNiQjYwSUE0cjE5S2duSXBpUGNzYlR2enZyLVhaNW5jd0dIZmtDd2kyTVZQUG9ZWlYtME9uMkRnNmlhMGY3ZjV4MkxPRWIzUkZ6eFRVeWhDMXhXNVVNOXptVXVicHVXd2tjSzVkTHFuM25EdTdVcEZEajlLQ1RGWXJFNUhOcUFqcTFMZ2lqSUx2MXMzQWttSENJcmFKOUJxdFBPTllnbG9KUVJTbFg5Vm5UQ0ZOOEptVm5yaVlrNExFbnd4Wkg4cWswb1liejNYbWtj?oc=5",
    "category": "Sonstiges",
-   "firstSeen": "2026-07-06T04:40:01+00:00",
+   "firstSeen": "2026-07-08T03:45:31+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -3967,12 +4020,12 @@
   },
   {
    "date": "2026-07-02",
-   "title": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel &",
-   "summary": "GRAPHIC PACKAGING DEADLINE MONDAY JULY 6th: Bragar Eagel & GlobeNewswire",
+   "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
+   "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
    "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQW1vY3lkSjlfMC1qclpGbVUzdktaU1pRNFVPZTQwSURKLWJHdTkwaTdpUnFXM3VWNkRNaF9lSTRpbTlObXRKTVF1Q2hZRFh1c0lmNklXdGlvdENwRUtwWlg2cGJGbDVwUEVDbEZ4OUo2N3RMWlB5dnl3TC1nTXRRSDJXaXBHeXFsWTh0TG90TVFHdk55WTRGQWhqR3pxSGhkdkNiQjYwSUE0cjE5S2duSXBpUGNzYlR2enZyLVhaNW5jd0dIZmtDd2kyTVZQUG9ZWlYtME9uMkRnNmlhMGY3ZjV4MkxPRWIzUkZ6eFRVeWhDMXhXNVVNOXptVXVicHVXd2tjSzVkTHFuM25EdTdVcEZEajlLQ1RGWXJFNUhOcUFqcTFMZ2lqSUx2MXMzQWttSENJcmFKOUJxdFBPTllnbG9KUVJTbFg5Vm5UQ0ZOOEptVm5yaVlrNExFbnd4Wkg4cWswb1liejNYbWtj?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUFRGQmpROFlLN0g2UE5wMnVwYV9Vdm5pQkU3d3B3dHo2Y0pWWURfcUp4QnRlbWFzZ2RsYWNKZTF4b2RQNWwtSzlQeWUtekZhbkI1cEpucy1ELUhuUndjT20wNHczbVliQnI0el9aa3pPZlk5N3JYYmxMODdRZDkzVmsyUGVzN21KUE10bjJXZmY5eGdyY3pFRHBXVTJmdmozZktRVlVJNjY1Tmg5TzlFYUpoTDVmWXhLR0ZpT1FqUWt6UEhXVDFEaW4zWk1qcjc5NDNWMldUZ0VXeTFuVVhENHdjMlRIUEkyb2JHYXh6YUp3YUVPT0xQTjRManBUQnNKT3FDWWhuZW1MX1pCUEt0SkVGM3dtdDBzcDBWS3VrYw?oc=5",
    "category": "Sonstiges",
-   "firstSeen": "2026-07-08T03:45:31+00:00",
+   "firstSeen": "2026-07-06T04:40:01+00:00",
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
@@ -4006,6 +4059,19 @@
   },
   {
    "date": "2026-07-02",
+   "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
+   "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkp4a0JWZEU2cW9aLWh2Y1RmYU5ob25TaXctcF9wdWNhblJSSDBRQWJrVHNBamlZcVUwd3BtRnItQk5XRUtadTVSWl9qRm9seHpZbFNCOGFGVzNKdmRURGtCUzNoTW5jNEtkVkttQkpaczlGSU1EM3BRTmRheFc4LU90dGJ2YkZ5bkktSTdFc3BoVW9pLU5nRnVnX2pMbGFmRFRTdWpTWXp1dzItSkx4ZGVaZFkwWFZQVmtCYmFrNWNId2hFekp2YU9scktZZUlwTVBQOWhVS3ROczhBbVQtVWhiajA3eHVJMmpUaDJQanJHZlk?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 19,
+   "company": "MTY Food",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-02",
    "title": "Microsoft launches firm to help companies adopt AI with $2.5 billion",
    "summary": "Microsoft launches firm to help companies adopt AI with $2.5 billion Reuters",
    "source": "Reuters",
@@ -4025,19 +4091,6 @@
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlVPWXZISVhqaGtXeDlxanhnLXc1M19KR29QUF9Ya3lLOVVwM2ZYZEhrWjRNZnF5LWhSNEpIN1drMlFRWld0MFpSSDdzSGxGMzU1SmdSLUJOYWpRSGRnaFVUS2NEQ3RJMGpsYUV6a2p3aUFVd2RyZlVWcG5ZRE5vQ19SU09iaFJFa0xkMnczOUNzY2QxTllVaXpnaXdSZFZjSmUyWUlCUDhKZzZLVXZtQzhDeVc3dnFabTVpSVg1ejRxRFJ5d0NuaEl1cU9jZE9rdURYeHFhSGtDTVhOSV9td3J4M1JsZ0dQaVI5NEtrUUxSWDVrOElydEtMamJLajc3RkYxbjJGSUhTYm40UjlISA?oc=5",
    "category": "M&A",
    "firstSeen": "2026-07-06T06:48:29+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-01",
-   "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
-   "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOE9CSEhUblNsdkdPT01HazdxV3F3NlBfODd3SjMxbnJUMThQVks5SEptblJCSF85UGg5TWdsUHVNeWRyaDByWWlrWmhWNjJlU2M2MHJMR1lnbGVsZkgzXzlqaDIxZEpPeFZNN3pmMFNNQ1VVLThrUnVUODl2dXZBYkVVT1JRNTdFWmZSUEdvTjdZaHpSTDRUbGV1YzBmbVhnODVXb2dYTFQ3NC1rRmNwREw3eFg?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-02T06:08:53+00:00",
    "companyId": 22,
    "company": "Meta",
    "asset": "Aktien",
@@ -4265,32 +4318,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-29",
-   "title": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities",
-   "summary": "Cherokee Federal Achieves Summit-Level Salesforce Partner Status, Expanding Secure Federal Modernization Capabilities PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0ZsLTBaNzhXVjJLS3RfS3kwUmpycjhCeVFJSGk4aml1VmFuMHZEeEFZdXNBc1lvZTFMUWVXVGJWMlpEejRUSUZreFBnLW5TWnB6azR3dzY4T3N0cWR5ajVVYmhQQUVBc0dyNE51OTBab3JVYWhQVjhmM2wzZkhnTHhBei1WcVhIZUYwUzRxWFgxQk5FeUxjRHc4cGQtUTUyemxMaXBacFRldGdNWGxqVnpjbE8wTUdIWGYySEhLdzBUbUJYNG12RFFlOEc0OXl4ZWF1MEFsaGoxVEg2V09sLW9YZTVxTTRuQzVwYjg4ZWdzcm1tZ0ppN0YwMGxSSE9mVkE?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-06T06:48:29+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-26",
-   "title": "Stellar Pictures Showcases Five Major Series at Tencent",
-   "summary": "Stellar Pictures Showcases Five Major Series at Tencent GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZ3lwYTVMblN5V3hqVkx2QVRDNjdCWGt0cUU5clIyMGZEZjc2QzB1UzVtalFVYlVLZnlOc0JhSmZGQWxFV3J4UVp5LWdlbHlVelBRdlhhWkNNb2prREs1dTl4d2ZxWjFucDIxbE9Xdk1jUTM2Q21xa2Nrd3BWYnVXVUI1eXJUczIyMkpiN3N3dTBYU3RvM0x4cEJGUG5GR2pteVBiZEhQVW40WEJUdVktOTl0b2pMWldsSXE3cTdWVjNSdnUzRXl1RUxzWEtrY21rdmdNbDFSQmZhQ0N5YjVvS3Axdkt2VUNETU1vUTVGRWg5QURDam53ME5Mdmc4dTl3QnUta1M1U2YtUnowTmtna3dNVjg5RUY3VHFha2NFQTFzaXFWblN4cURHR0YyWEh5NVJGem45TkYzYWhrQ0Zr?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-03T06:02:33+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-25",
    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Borr Drilling Limited - BORR",
    "summary": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Borr Drilling Limited - BORR PR Newswire",
@@ -4370,15 +4397,15 @@
   },
   {
    "date": "2026-06-23",
-   "title": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release",
-   "summary": "Meta Launches Cheaper Own-Brand Smart Glasses For $299/£269, Beating Apple To Release Forbes",
-   "source": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUl9SeXdyWWVNTXVnVzZJV3VzU2U3MkQ4TXVhU2RxaXVzdERmODBMV2NobmRZdmliWGJ0MWVxSTZSX0ZCZzJUMFdob01uYWR1NVJld3FYNFNudm5sT3NZNnZETGdyQ0dWYUhUczRKYllSRm9xTU04bk9DUlVFN3hMTlR5OVlHUEVNWXZNWUlmVUE1TS1pcHVsTkFoZWhaSUZSTk9QN3FDRGpJdlhJUW9EdEs1ZXhuZXQyNFhSS0FlTEVjLWZWQ1ExZnVYRQ?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-06-24T04:35:26+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
+   "title": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE",
+   "summary": "SILVERCORP REPORTS UPDATED MINERAL RESERVES AND RESOURCES AT THE GC MINE PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2I1Wk1sdXNaMHpLSWlrdWNPVFNGXzU2SmtSQy1ob0U4Wlp4SDVQR0ZRay1IcmNPZTV5UnpuZC1ObjlBcnRTWGFkMjV2OW9nWkkyRjAteUo2aDlDVHljQUdGVDdxZGQyNG1uWklRM2JROUw2WXBZS2RHV0p2NV9Pb0FwQWpqUUFsNWJtSmkxeUk5Um9MT01VNzRXVmxEWUNTVTNyRDc3VDNYR3hmd0xheURaaEtrbGVtYWhkNURVVlB6UVRqXzhZ?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4408,16 +4435,16 @@
    "status": "Watchlist"
   },
   {
-   "date": "2026-06-20",
-   "title": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable",
-   "summary": "Prosus flags stronger core earnings as AI-driven ecosystems turn fully profitable The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMlIyakJHVmRwY212dTMyMElSRVQ3NFFQTElwWjAyaDJvWnNTX3B2U0hndHV4emxHT1NsR3lESURBeThxZm9iLUczc3pTZ1hUNENXS2Z1V2hIeW9LSnZvaG8yRzRQZFJaT3dkcGpXd0pOMTRyckJOQkpVZE5WSGFNbDRHQVprN3ZkMkxObFlaMGlxU3BCM1V4aGZveWhvRDB5V1IwWkNfdXRiYmcyUnllX2JkTFRNQXdxXzg1dk1oTjNyd0w0WGNUcUVBLXFIV2sxWUxFOEg2WjlsM0Izb3FYSUQ0bVdDYWFDWDgtaU1IejdMSkV4OEhqRnMzOA?oc=5",
+   "date": "2026-06-19",
+   "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
+   "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-07-03T19:30:11+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4445,6 +4472,32 @@
    "company": "Borr",
    "asset": "Anleihen",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-17",
+   "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
+   "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-16",
+   "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
+   "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
+   "source": "AgNewsWire",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-16",
@@ -4482,6 +4535,19 @@
    "firstSeen": "2026-07-03T19:30:11+00:00",
    "companyId": 14,
    "company": "Eurofins Scientific",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-15",
+   "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
+   "summary": "Microsoft sued by shareholders over expenses, cloud business, AI Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 20,
+   "company": "Microsoft",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4538,6 +4604,32 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-12",
+   "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+   "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-12",
+   "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
+   "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-08T05:32:38+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-11",
    "title": "Tronox Issues 2025 Sustainability Report",
    "summary": "Tronox Issues 2025 Sustainability Report PR Newswire",
@@ -4562,19 +4654,6 @@
    "company": "XPO",
    "asset": "Anleihen",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-08",
-   "title": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions",
-   "summary": "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows for Financial Institutions PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHE4UjZXUl9OdXA3Y1J3d2NGMVFhYWtyWFIxcXl4bTFOeWFjZktmNWZFQW1zUTRRMjR5XzRjWEY4S3dwLWJUdFR3NGMxS1BJQlFGbmFDX0pQTzRaYnhqcmVVWDlzcTFDRUxNSVhua2R6SnZEYTVRaElBLUNjR1lPV1J6N1NIb05jZUVidWw2d1FkbXluNHhSUklMQU1VNFlMZnZmc3ZPQ2RjNVJYNW1CSlJoUC1ZWEszZlV3VDQycUlBTEljTTFQSzU4OUFGbW9YUklhYkoybFpOZFNVV2JiV1NDUVNDdXdyTFRtQ3RWY3V2WXprdGt1T1Vn?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-07T06:26:15+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   }
  ],
  "events": [
