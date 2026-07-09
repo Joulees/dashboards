@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-09T04:19:41+00:00",
+ "generatedAt": "2026-07-09T06:16:47+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -3573,6 +3573,19 @@
      "company": "S&P Global",
      "asset": "Aktien",
      "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-29",
+     "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
+     "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-09T06:16:47+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
     }
    ],
    "events": [
@@ -4444,6 +4457,19 @@
    "company": "Tencent",
    "asset": "Aktien",
    "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
+   "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-09T06:16:47+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
   },
   {
    "date": "2026-06-26",
