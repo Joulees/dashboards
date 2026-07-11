@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-11T03:43:38+00:00",
+ "generatedAt": "2026-07-11T05:23:27+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -544,6 +544,19 @@
   },
   "10": {
    "news": [
+    {
+     "date": "2026-07-09",
+     "title": "Gartner Announces Gartner IT Symposium/Xpo, October 19-22, in Orlando",
+     "summary": "Gartner Announces Gartner IT Symposium/Xpo, October 19-22, in Orlando Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVFYWExPRjZMMGFoT0JVSXd2WURHN1NwWGtBZFBOM1ZpYm4yRkRoRzNBRGM5MktaNjVLZzlsWV9JMGVrSTl0TG54NXJRSHhPQWFVdHpxVHE5T3BrWVJ3N0hwQ3A3eUlqRXJmYXBtY3p2czUxSExWZjZScll4bTFaNk9QZllBX1RReG4ybzVtazlXOHc3Qy14bG0wLWxKZ2NFbGViZEdKeUxrZFhTZlVhckZSRUc1MF9WVS1vV1oxNTY?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-11T05:23:27+00:00",
+     "companyId": 10,
+     "company": "XPO",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-07-02",
      "title": "XPO (XPO) Q1 2026 Earnings Call Transcript",
@@ -1847,6 +1860,19 @@
      "company": "MTY Food",
      "asset": "Aktien",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-02",
+     "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
+     "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkp4a0JWZEU2cW9aLWh2Y1RmYU5ob25TaXctcF9wdWNhblJSSDBRQWJrVHNBamlZcVUwd3BtRnItQk5XRUtadTVSWl9qRm9seHpZbFNCOGFGVzNKdmRURGtCUzNoTW5jNEtkVkttQkpaczlGSU1EM3BRTmRheFc4LU90dGJ2YkZ5bkktSTdFc3BoVW9pLU5nRnVnX2pMbGFmRFRTdWpTWXp1dzItSkx4ZGVaZFkwWFZQVmtCYmFrNWNId2hFekp2YU9scktZZUlwTVBQOWhVS3ROczhBbVQtVWhiajA3eHVJMmpUaDJQanJHZlk?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-11T05:23:27+00:00",
+     "companyId": 19,
+     "company": "MTY Food",
+     "asset": "Aktien",
+     "status": "Portfolio"
     }
    ],
    "events": [
@@ -2168,19 +2194,6 @@
   },
   "22": {
    "news": [
-    {
-     "date": "2026-07-08",
-     "title": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees",
-     "summary": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXBQMm9ScVdBVnREd2ZwZXhvd09nSUdlMVNqaFZHQXN1cFNreDVUQy1kb2JBSGhyQ1U2TTdfNTRHdmxjNUdBdFF5NHBxdWlRSWZ6eGsxYzR2QW13ek1iOXRVcnd5cGlTeWRkSUZIMzU3RlZfYVhYSVBrWE1udm5pRUtBeXRINW41WUJSUG1DaGhlYmZtdXl3YzF0NmF5eXY3RjVvZm4tNzg1RmFLS2N3enBZbDBTZw?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-09T04:19:41+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-07-08",
      "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
@@ -3298,12 +3311,12 @@
    "news": [
     {
      "date": "2026-07-10",
-     "title": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports",
-     "summary": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFpzUmJDMlREcGZWUUdDdlJybWdBY0Q5NXcxUFdiT0NrV3V2OUtyZjVHUmFROHB5c2ZHNjN5QkNmNU0wT2dSdm1YaEJKRklfNFZSWmpEdHVYa2VDNXhEX3FpLUhyZFZCZHlndjhJbE1pQUtRRlpyT0ZOdWdFYVc1S3Z4VC1FamNUdlpXNUxQcjZOa1FBSFlHV044NHFKSlNNWjZwVGFQeU9WZUVCYWZqUDF6cXVRQXc?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-10T04:15:25+00:00",
+     "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
+     "summary": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition Financial Times",
+     "source": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-11T03:43:38+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3311,12 +3324,12 @@
     },
     {
      "date": "2026-07-10",
-     "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
-     "summary": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition Financial Times",
-     "source": "Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-11T03:43:38+00:00",
+     "title": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports",
+     "summary": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFpzUmJDMlREcGZWUUdDdlJybWdBY0Q5NXcxUFdiT0NrV3V2OUtyZjVHUmFROHB5c2ZHNjN5QkNmNU0wT2dSdm1YaEJKRklfNFZSWmpEdHVYa2VDNXhEX3FpLUhyZFZCZHlndjhJbE1pQUtRRlpyT0ZOdWdFYVc1S3Z4VC1FamNUdlpXNUxQcjZOa1FBSFlHV044NHFKSlNNWjZwVGFQeU9WZUVCYWZqUDF6cXVRQXc?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-10T04:15:25+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3617,13 +3630,13 @@
   "34": {
    "news": [
     {
-     "date": "2026-07-06",
-     "title": "S&P Global Evolves Market Intelligence Operating Model to Accelerate Agentic Solutions, Platform Capabilities and Innovation; Announces Executive Leadership Changes",
-     "summary": "S&P Global Evolves Market Intelligence Operating Model to Accelerate Agentic Solutions, Platform Capabilities and Innovation; Announces Executive Leadership Changes PR Newswire",
+     "date": "2026-07-09",
+     "title": "Benzinga Partners With S&P Global Market Intelligence to Bring WIIM to ChartIQ as a Premium Add-On",
+     "summary": "Benzinga Partners With S&P Global Market Intelligence to Bring WIIM to ChartIQ as a Premium Add-On PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbHloUXZLWHF3ZTk5TGltX1ZLNVpzaTRWdkNSV2RwcEZxTktCSjM2Rjc2U3l3RUxnclQxbWhuNmNMR3Z4bjgxMUw5djBjMGM2NmdIVWQzc1JZTUtIcWRIamNPUGFqWXIyb3BIZkFxNnRzM3l2V2huTU5aMGFvYnVrdVNTcnRNQzlnNTRJRXR3NnYxUkM5OFRDQjN5SXdxSkxaaWNGMFl5SU1JcEpJbnZlOTJWeWpmbXpsbkdxZUppQ0p1bzdlZzN2eE1neVpLb2hieXdhTnJ1cEJGTjJnUmFZbXVJdFlmZHNDREZHaEdpeGJiSndEQ0JieC0xSjlZVGxIblVoWmpjSll2UVBNZ3d3QlNPejg3V1NOTzVkaWV0ZE5xWXUxNGRKVUZYbEYzRC00OUxyMGhfLV9RVTVXMVE?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-07T04:17:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVWI2d1d1dmM0MEtYNmhTU0NMRDY4S0JxNG1yQzRrdHZxSHZhTFlZZWN4RUZXM1JPNnFNVTZialVXbmhwZWdmZjExVDZyVlNqWDg4eExOamtfM0oyQ09HYnpPYWxFNGpuMF9sbmVuNTZhOTRHNERHSDB5MHgyelhGQThtZGJwRGVUeGI5cy1tTlY3Uk4tUG5pSlZZRFdFYnptaE5hNjkwWU50b21OSEtLeUUtMGlTM0kxbHFFdjh5ZUxYR09TMlFKWWR4aUpua2NScFppOTNmMl9aXzZ2Nm40NERZY0dSeWh4?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-11T05:23:27+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3631,11 +3644,11 @@
     },
     {
      "date": "2026-07-06",
-     "title": "S&P Global Provides Pro Forma and Recast Financial Results and Updated Segment Information",
-     "summary": "S&P Global Provides Pro Forma and Recast Financial Results and Updated Segment Information PR Newswire",
+     "title": "S&P Global Evolves Market Intelligence Operating Model to Accelerate Agentic Solutions, Platform Capabilities and Innovation; Announces Executive Leadership Changes",
+     "summary": "S&P Global Evolves Market Intelligence Operating Model to Accelerate Agentic Solutions, Platform Capabilities and Innovation; Announces Executive Leadership Changes PR Newswire",
      "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWFac2o0UThueXJXeFNvclduWVJiempyU0FLb0t1d2owLXI5YS1pSTQ2cVA3VGtscWVtc3VoUXRvYm03TG1sN2xYYnRMd3pCd2VuZWQ4cGtKR2c1VS1LNFJCd3FCeFZmZWtzQzhfUmhmQXhmd084RUxyU3dRbEJiLWZ5bk1Ja1IzR3VZcnVyTzRLcU9OSER3Y3hPM2tiQ1FqN25EQmw2aWlvSmtUdWJCZENza0lVdzRzU0QzaVBuWUE0VVpySUc2UTVTUW5CN2dSTUoyZ042OTZJVGk3a2c?oc=5",
-     "category": "Earnings",
+     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbHloUXZLWHF3ZTk5TGltX1ZLNVpzaTRWdkNSV2RwcEZxTktCSjM2Rjc2U3l3RUxnclQxbWhuNmNMR3Z4bjgxMUw5djBjMGM2NmdIVWQzc1JZTUtIcWRIamNPUGFqWXIyb3BIZkFxNnRzM3l2V2huTU5aMGFvYnVrdVNTcnRNQzlnNTRJRXR3NnYxUkM5OFRDQjN5SXdxSkxaaWNGMFl5SU1JcEpJbnZlOTJWeWpmbXpsbkdxZUppQ0p1bzdlZzN2eE1neVpLb2hieXdhTnJ1cEJGTjJnUmFZbXVJdFlmZHNDREZHaEdpeGJiSndEQ0JieC0xSjlZVGxIblVoWmpjSll2UVBNZ3d3QlNPejg3V1NOTzVkaWV0ZE5xWXUxNGRKVUZYbEYzRC00OUxyMGhfLV9RVTVXMVE?oc=5",
+     "category": "Rating",
      "firstSeen": "2026-07-07T04:17:16+00:00",
      "companyId": 34,
      "company": "S&P Global",
@@ -3656,38 +3669,25 @@
      "status": "Watchlist"
     },
     {
+     "date": "2026-06-29",
+     "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
+     "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-11T05:23:27+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
      "date": "2026-06-22",
      "title": "S&P Global Declares Third Quarter Dividend",
      "summary": "S&P Global Declares Third Quarter Dividend PR Newswire",
      "source": "PR Newswire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjdCOTBXMG9FOHR3QVFFaHlJcWFHRkdGYnkzUmN0WEVhTUF4bXQ3OG5ESlNuNzdtYjg4NEp2eWcyYVBWSFRUYjZwcU1KWlBCX3FBMW9xRkNXUGNMZDFJeEkwT3M5d09CaVNqcjN5M3Q3Tm14eFRpSzdVVm1oODhTUDZyZGNJWGtESkVOSjYxRE1USDVLdWN6dU9sNmhuUQ?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-07-11T03:43:38+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-06-17",
-     "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
-     "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-11T03:43:38+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
-     "date": "2026-06-16",
-     "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
-     "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
-     "source": "AgNewsWire",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
-     "category": "M&A",
      "firstSeen": "2026-07-11T03:43:38+00:00",
      "companyId": 34,
      "company": "S&P Global",
@@ -3930,6 +3930,19 @@
   },
   {
    "date": "2026-07-10",
+   "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
+   "summary": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition Financial Times",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-11T03:43:38+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-10",
    "title": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports",
    "summary": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports Reuters",
    "source": "Reuters",
@@ -3942,16 +3955,16 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-07-10",
-   "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
-   "summary": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition Financial Times",
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-11T03:43:38+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
+   "date": "2026-07-09",
+   "title": "Gartner Announces Gartner IT Symposium/Xpo, October 19-22, in Orlando",
+   "summary": "Gartner Announces Gartner IT Symposium/Xpo, October 19-22, in Orlando Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVFYWExPRjZMMGFoT0JVSXd2WURHN1NwWGtBZFBOM1ZpYm4yRkRoRzNBRGM5MktaNjVLZzlsWV9JMGVrSTl0TG54NXJRSHhPQWFVdHpxVHE5T3BrWVJ3N0hwQ3A3eUlqRXJmYXBtY3p2czUxSExWZjZScll4bTFaNk9QZllBX1RReG4ybzVtazlXOHc3Qy14bG0wLWxKZ2NFbGViZEdKeUxrZFhTZlVhckZSRUc1MF9WVS1vV1oxNTY?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-11T05:23:27+00:00",
+   "companyId": 10,
+   "company": "XPO",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4007,6 +4020,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-07-09",
+   "title": "Benzinga Partners With S&P Global Market Intelligence to Bring WIIM to ChartIQ as a Premium Add-On",
+   "summary": "Benzinga Partners With S&P Global Market Intelligence to Bring WIIM to ChartIQ as a Premium Add-On PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVWI2d1d1dmM0MEtYNmhTU0NMRDY4S0JxNG1yQzRrdHZxSHZhTFlZZWN4RUZXM1JPNnFNVTZialVXbmhwZWdmZjExVDZyVlNqWDg4eExOamtfM0oyQ09HYnpPYWxFNGpuMF9sbmVuNTZhOTRHNERHSDB5MHgyelhGQThtZGJwRGVUeGI5cy1tTlY3Uk4tUG5pSlZZRFdFYnptaE5hNjkwWU50b21OSEtLeUUtMGlTM0kxbHFFdjh5ZUxYR09TMlFKWWR4aUpua2NScFppOTNmMl9aXzZ2Nm40NERZY0dSeWh4?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-11T05:23:27+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
    "date": "2026-07-08",
    "title": "UBS Keeps Their Buy Rating on Mineral Resources Limited (MALRF)",
    "summary": "UBS Keeps Their Buy Rating on Mineral Resources Limited (MALRF) The Globe and Mail",
@@ -4029,19 +4055,6 @@
    "firstSeen": "2026-07-09T04:19:41+00:00",
    "companyId": 18,
    "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-08",
-   "title": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees",
-   "summary": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXBQMm9ScVdBVnREd2ZwZXhvd09nSUdlMVNqaFZHQXN1cFNreDVUQy1kb2JBSGhyQ1U2TTdfNTRHdmxjNUdBdFF5NHBxdWlRSWZ6eGsxYzR2QW13ek1iOXRVcnd5cGlTeWRkSUZIMzU3RlZfYVhYSVBrWE1udm5pRUtBeXRINW41WUJSUG1DaGhlYmZtdXl3YzF0NmF5eXY3RjVvZm4tNzg1RmFLS2N3enBZbDBTZw?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-09T04:19:41+00:00",
-   "companyId": 22,
-   "company": "Meta",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4241,19 +4254,6 @@
    "status": "Watchlist"
   },
   {
-   "date": "2026-07-06",
-   "title": "S&P Global Provides Pro Forma and Recast Financial Results and Updated Segment Information",
-   "summary": "S&P Global Provides Pro Forma and Recast Financial Results and Updated Segment Information PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWFac2o0UThueXJXeFNvclduWVJiempyU0FLb0t1d2owLXI5YS1pSTQ2cVA3VGtscWVtc3VoUXRvYm03TG1sN2xYYnRMd3pCd2VuZWQ4cGtKR2c1VS1LNFJCd3FCeFZmZWtzQzhfUmhmQXhmd084RUxyU3dRbEJiLWZ5bk1Ja1IzR3VZcnVyTzRLcU9OSER3Y3hPM2tiQ1FqN25EQmw2aWlvSmtUdWJCZENza0lVdzRzU0QzaVBuWUE0VVpySUc2UTVTUW5CN2dSTUoyZ042OTZJVGk3a2c?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
    "date": "2026-07-05",
    "title": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today",
    "summary": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today ACCESS Newswire",
@@ -4367,6 +4367,19 @@
    "firstSeen": "2026-07-06T04:40:01+00:00",
    "companyId": 18,
    "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-02",
+   "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
+   "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkp4a0JWZEU2cW9aLWh2Y1RmYU5ob25TaXctcF9wdWNhblJSSDBRQWJrVHNBamlZcVUwd3BtRnItQk5XRUtadTVSWl9qRm9seHpZbFNCOGFGVzNKdmRURGtCUzNoTW5jNEtkVkttQkpaczlGSU1EM3BRTmRheFc4LU90dGJ2YkZ5bkktSTdFc3BoVW9pLU5nRnVnX2pMbGFmRFRTdWpTWXp1dzItSkx4ZGVaZFkwWFZQVmtCYmFrNWNId2hFekp2YU9scktZZUlwTVBQOWhVS3ROczhBbVQtVWhiajA3eHVJMmpUaDJQanJHZlk?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-11T05:23:27+00:00",
+   "companyId": 19,
+   "company": "MTY Food",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4644,6 +4657,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-29",
+   "title": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices",
+   "summary": "Hyperliquid Strategies Inc Added to the Russell 3000, Russell 2000 and S&P Global BMI Indices PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVV1U3p0Yno1c2xiQ2ZFT1hIdkRxM25KakpzZUJtUEE5R2gyNi1LRFROelpkMHlGdTExdm04enFCT3czekdOSEJDWHRvYXNzRG5DWTYzYmp4WUhKRFVTeHBXVlVZUzR2OHJ5YWc0R1pidWRUUHZYYmpIaFRqbEV1dWNaSTdXb0lZWXJhVF9yYWt4NTVjTU45QzE2cGFWY05pYjFTc2FwZktKM3JhOGpjbUI5eG9DLWhrRUhjRnZzQUwyWXlKaFJLV2ozOGtoZXVkNC1rY1IwMThBS2VIRG8xeg?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-11T05:23:27+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
    "date": "2026-06-25",
    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Borr Drilling Limited - BORR",
    "summary": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Borr Drilling Limited - BORR PR Newswire",
@@ -4772,32 +4798,6 @@
    "company": "Microsoft",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-17",
-   "title": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings",
-   "summary": "S&P Global Ratings Affirms Ecopetrol's Global and Stand-Alone Credit Ratings PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJvRTN2M3ZCam5ienRBeWNyX1ZaamlBeGF0Y2pXdkYyM3JNbnJBS1BONlhmLURuUXZOcGY5UVR4WHFvOUpxZmRYV0NRS2tabDh1ZGdDRlY5ZFlBdGI4X0xJa2RrWE14WXNWa3NfNFBBd0YwbzZJM2ZPeDExcktURjh3eGt2bHVCX05hcU9aQXNFTzM3LU54bzJkVmJlLU5UNGFBd3BPN3FIMF9HMXIzQzBkbnRsRDljS2p1MHFxRlh1Tk5tRWc1RE5B?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-11T03:43:38+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-16",
-   "title": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture",
-   "summary": "New S&P Global Energy Study Shows Biofuels Expansion Benefits for Agriculture AgNewsWire",
-   "source": "AgNewsWire",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzFLa0RlejUtTWtMYmdtVFJyZldQX0RvMjllLUdnNldsaER5NmJLS1d5cDNlMlVsd3hFTmxzTTYtR2podGFJLUNDX1VwUnRSVXZHTXM2SE1rNk1DMzFKaEI5QkpwOUFDWHVNbVpLcGdxY01zN2FIMmoyMkFUbVEyWFl2WU9ZSG5LdU5CYkNMRldZSGtkVzNCRGhDSlhIejFKUVVUY2V0V0FMY1FzcXE0WQ?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-11T03:43:38+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   },
   {
    "date": "2026-06-16",
