@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-11T05:23:27+00:00",
+ "generatedAt": "2026-07-12T03:58:13+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -293,6 +293,32 @@
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUhabU12RGxmdHhkVVg1MXpwTVk1XzFaN2x0MkE3RzVwRkEzd0xpVUlGSnlJNzZqWEt0V1dmdmN6clFnNVpPN1UtdFo5dVh2TjZIaXJKODllU3I3Mjh0bmdOZG1fUFN6QTU4YmJXZlpuUXJ5ajk3NWJvZkh0Q2tVclFrekdEaXAyVnA4OElHc0lqcWJmNlNQUUtwYk5qNFpPX25aM0JXZUxpTW9hSmJObV9OTnQ5c1FYSG4zNHZqRm5ZYmxna0h5dkJhbXJlMThReVhEYWI5RU9jQQ?oc=5",
      "category": "Rating",
      "firstSeen": "2026-07-08T03:45:31+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-07",
+     "title": "A.I.S. Resources Announces Geophysical and Mineral",
+     "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLV9TalN5aVJqNEJUdGpmZWh5OEU1NUNfbldmbHdlWm9CYVpBeTBTNjBsazJlSEJNb3pNUHRqek43dUNXNEVxeTFlTzBCMkRfcUF6S2xId1d2YV9OOTB5SFE3WjVoeks1bVFQekFBTUNRX21ib01BMXJDdmgwc0hUMUtidmQ0ZGh3T09oRGNEaEt1YjlreTFDQXZHbGdLcHZvWV9Nd0NEdkh3X1RWVGJSdTZxeldTckpmNHhZdXd0OTdBa2U0M0FlSkVoRDkta0xWRUdPcnJmc3JYa2VVZG1lQWFZM3NYZGtUbmFNM0NiTG4yMEhlRUJqUkw3N1k5YzM0Yk1GQ0FnNlRvT1Ixdm9rbnh5OFYzUjA0WEhaX0s5eU1yQ2JFbVdMZjV6OS1KTC1tZlZmbldtazFMbmpUNmlvZzlmZ0poY29WYlAyTA?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-12T03:58:13+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-29",
+     "title": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache",
+     "summary": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache ACCESS Newswire",
+     "source": "ACCESS Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTZCbFpDNTZnQWZEZ05ROG10U2V2aFZnQXo4SW12UzlqNGQ2VjhFN09mOG1tZTNiQldBYVI1elRFSWhab0k3RnlpNTFyS2JEM29OTjZGei1obVMzWWtfc2tLLWJsUzQtaU9WbEtJb1R0YUhUZ193WUNGeG05aENrRkJsRm9HZEpyY1lKQ3htc2YzcHBaQU10OEpTTzVsU1ZMV05ZaWFIVnQ3VzBEdFk2dFA1b1E4S0RYa1FfTUQwSmhFMGpBcVZPdGVqWVlGVWl5LWYzRXFmNXp0Wm9JRkp4QnRLUlY?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-12T03:58:13+00:00",
      "companyId": 5,
      "company": "Mineral Resources",
      "asset": "Anleihen",
@@ -676,19 +702,6 @@
    "news": [
     {
      "date": "2026-07-06",
-     "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
-     "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNUVFDdk42QlJ2aHcyN2t5N1JmOHFGQV9fZVlWUnlOTmpmR3FDZUxzRFpLaHhLWEE0NmNQa19wN1QtWXJHV0J5b2V4MmZHX2hsa2lEU1JxV25vRHFULWFZVjlmMXgtSmtacjhkWHJnV0Y0OVEyLVpDZXMycUVEZ0hLNWtVM3RrcWdCel9kVTJlUGsweG9HLVl4TDZwZnNpNkVzSDNpTFJTNjhycGRnMDVPVUpYRE5ReUM4MFdkLWxXVW5qcWw5VHIwOC1KaGJ3Yk13czVqdWloQTF3TUNyMmFjUjVnRGNCRUVfdllYUkJuWlJFeTdjNFdKUXBCdEdaU1F2Q2JaanNSRkp4R24tRDUtR2FpR2ZJTXhCZDFhN0c2WlVtUmc?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-09T04:19:41+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-06",
      "title": "GPK FINAL DEADLINE ALERT: Faruqi & Faruqi, LLP Reminds Graphic Packaging (GPK) Investors of Securities Class Action Lawsuit Deadline on July 6, 2026",
      "summary": "GPK FINAL DEADLINE ALERT: Faruqi & Faruqi, LLP Reminds Graphic Packaging (GPK) Investors of Securities Class Action Lawsuit Deadline on July 6, 2026 Business Wire",
      "source": "Business Wire",
@@ -747,6 +760,19 @@
      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNQjdRV1pKaktiN1N3cFpyZk9sVEQ0YU82ejBQSmMweHFGVWp1NnNkazlfQ1pSUkF2RHUtMWZ5eTdQS0VxTHJjNV9najNpWjBRdDF3aE1YUm5xZkRwNXkyNS0wbVNhRXlOemJGMDg1QTQ3Z0o5Mk5iX2laTHd5VG5YREh3TjVGOExPVExUTFRlRTJYeVJEWWFiWjk4NS01Vko5dFdIVmk1bGpVQllfUjRCT3R0ZEFlY0lSaDBkQ05HeGZ3ZWMxRkc4ZmdCajRGNzZ2Zy16ZW14NDdNQUdXYktVVFRVMmJKeG9HUk4yeFhzeDRhYWU5UmZCbWxwQTFHZGJyMThMWUUwRzBqQmxJLXowVG1tM0ZhTEwzVXFTdDR4YzE3dDRNQkdOcC1xZEJ3am1wRGpCekNHVlJCTzZGVWVOaFlfMVB0Vnc?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-07-11T03:43:38+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-01",
+     "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+     "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-12T03:58:13+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1397,6 +1423,19 @@
   "18": {
    "news": [
     {
+     "date": "2026-07-11",
+     "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
+     "summary": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjZXSU1CazE2eXVXTU9HSllVckp2eVF5WHpXcG5sSjEtcE5STUYwX2x5QnZ4aXdHaDdqbXlVUlNHZUEwRlpaSTM1X1BFbXlzbFdjV2xGbHRmUVlJNEdGQXFFRXZMYVdHRFJPWDdFS3lYeDNaeXNVRV9xeUEyZkx6WUItTXJHVmM3alA0WThJcEY3NWJsWFB3XzNGenRGajFHT1pra9IBqgFBVV95cUxOQ1hUMTdvMmc0di1vS3ZYMlVoM3JBV01SdFFFc3dFWWYtT084OWJqZE42WXBnUklRTDFiR05BUkZJLVlQcGYtSUNaeEtLQXdsOThvOHlaWmN3V0RRQ0lVWE90ektMWVBFY25sZ3pNWVRkVF9POU5mNjZrdnJNVVpXUk83UjlBVEd1YkYxX01LOUF5ejNsV0dJRTA0d0VkRVB2a29xUnlOWW85dw?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-12T03:58:13+00:00",
+     "companyId": 18,
+     "company": "Amazon",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-08",
      "title": "Amazon’s $25B ‘surprise’ bond sale lured buyers in with extra yield—flashing an AI boom warning sign",
      "summary": "Amazon’s $25B ‘surprise’ bond sale lured buyers in with extra yield—flashing an AI boom warning sign Fortune",
@@ -1456,19 +1495,6 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUGY1eTA3bURBQVItTGxkcGN0cjktVXZVb3RMVFJOUWQyR2pmMGhNd3l5azhGWlpfQnA3QjhTYzZiNUVlVjRxVVRYakZIRUktdkJaUmQ4REpGWWhSbldqNU1LRFQ3cTU2dU80NkpnaUYzQVBhV2U2STRNOFBXc0pPbk1UZXdlNURuWHB5VTFBby1jLTd4eTNDbi1YMmpVTzJpUUtHMUxkWGZaZFhqWnpFNVdHcnNLN3JjYjVacHJySjZYdDFoU3h1bzBkdzhnc3BCb3Q2LXBEem5jY2Rkb3fSAeMBQVVfeXFMTzBQUDVBRWE1SUU1cEtBVHR0WVhtZ1NsVDVKX2ZySFBmYkg3QlhKMk11MGlRam44Zm80WWQ4Mm16dC1nNXZIdm1SalZSbWwzWGdCSXVsVVZaX3BMZGpybjA0WUlRYWxhTXowTlhsb3prTi1lUDdKUHhLZGdMVTVJY0hEeHZtcV9zcUoxTzMxVE1YX25YZkdUSmp2Y051YTY4ckRGTGhJV2NRZ2ZaNmZuVTJma0tsUXkzZU9mNW9aTzU5LUd0bHBJX21LUUE1ZnQ5aTZNQlhsblFFVlJ2aS00ekJSNFU?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-05T04:30:28+00:00",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-18",
-     "title": "Amazon investigating engineers who criticized AI data center expansion",
-     "summary": "Amazon investigating engineers who criticized AI data center expansion CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3BCZGNwWWowRVJKSUd5R2p1aWlqQU5sOV92bkIwTmJKZ2VyMmVxMFJkdHdDQWVxSnRxbVlBLXNfeW9JQVNnbEI3SEd6bjNUcTNYdDdUSlFPbVBLTll4SVFZcm5zN2NEWTE2cEhLcm9PVS1zaXNsZy1LMEdud3VFeG9Fd1pfUdIBiwFBVV95cUxPN0dUQUhRVWhaTHNaeGNRckNiRGtOM3QxakZ6WjFlSE5nQV9wejdfVTJfWkNkbXAzUW54b0twNXREUEhIYVVEMXdHZ2hGaU1EczZJdTVvbnZWYXliM3U0ZmNGYmpXeGpEOW1aSXJWRU5oNnFnOGN0OFhtX1Y5ZTdfN2JaaXlZXzBXcFBr?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-02T04:21:05+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -2195,6 +2221,19 @@
   "22": {
    "news": [
     {
+     "date": "2026-07-10",
+     "title": "Meta scraps AI image feature days after launch following privacy backlash",
+     "summary": "Meta scraps AI image feature days after launch following privacy backlash Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUG5uc3lpN1Z4TFMtZm5Mc1pCaW9hSE4xb3Z2X3BuTno5NEVmb0FEdm5sY3BFMTl0VFNkb04wNEVIQzkxbVNidlU1dnZIRGFESWdiaG50dGJRN01TMGc0LTZhYl9YbnlTdmJLMk9ZYXYtWEtzcmFtS0NsZ0RWdllPSTY5ZUQ4ZXZCQllaS3J2ZXNUSHZmVDljR0s1NHQ5b0pT?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-12T03:58:13+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-08",
      "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
      "summary": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water The Guardian",
@@ -2202,6 +2241,19 @@
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZE5idUJkUDg3b1FRRDZHMjJxZUdPOS1uVmdUczVvZjBnaTFBZU5Cazd3YnJIbVZnOTVWbWFqQk5QZGc1Y05tNGQwbVRIakt1WGc5SzdUdzVCYVVEd0R5dW11STBkSUFTQXc1RUo1WjJ3VU94bmxpODRxdTZNNFhOYnY2MVZOeU0?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-09T04:19:41+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-08",
+     "title": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees",
+     "summary": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXBQMm9ScVdBVnREd2ZwZXhvd09nSUdlMVNqaFZHQXN1cFNreDVUQy1kb2JBSGhyQ1U2TTdfNTRHdmxjNUdBdFF5NHBxdWlRSWZ6eGsxYzR2QW13ek1iOXRVcnd5cGlTeWRkSUZIMzU3RlZfYVhYSVBrWE1udm5pRUtBeXRINW41WUJSUG1DaGhlYmZtdXl3YzF0NmF5eXY3RjVvZm4tNzg1RmFLS2N3enBZbDBTZw?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-12T03:58:13+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -2975,19 +3027,6 @@
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUUl0Q3pLeUtzRkRyelVPUl9wYl9WVHkzSG80dnZKVkpLVjA1dXNJazFQUHh1b05ZOXA5NmpNSEhTeloyQnFvTmRSakhpQm1mM3Z0MHpvVnhIQm16NXJQMFVRYmVSTmVPcU9UZ2VYSEQxVlVrcHBFeVNFZUxsTExnUjRvZTdJQU15eFpPbjYwNWNuQmwwRlBOTm5aSXlzakFNM0N4VTl5cFpkdE1ncmFxSDBiajRYdXRRRzhHY2Q5bWl3MTZ5UHk0bFJGQVg0U1ZVMVM3dnpMWkl5VXEwaHJn?oc=5",
      "category": "Rating",
      "firstSeen": "2026-07-10T04:15:25+00:00",
-     "companyId": 28,
-     "company": "MTU Aero Engines",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-04",
-     "title": "RBC Capital Reaffirms Their Hold Rating on MTU Aero Engines (0FC9)",
-     "summary": "RBC Capital Reaffirms Their Hold Rating on MTU Aero Engines (0FC9) The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdTVYb3RpdnpJWWtReTNXN2ZKMXZnb3lqdmFSOC1vZXF1dlZBcm5ldG14d0VWOWhCZUJydWp0cWpzajRZSURNaWJGSVRWR2lnSkctb3RTMVZ3ODVUbE84X0pXSXV1bE85UjhVXzRJMlphMEplN3ZMUkVucHZiY1F3SzdmZlVBTnVVdWktaWs5c1Rka3VJNEJxMWh1MnF0YWlWMmp2TE1fMHY1NEVyRHZWU0s2YmxqVDNFWlFPSXhJOHJ2UFZITUsxZWoxZHNtdHJYejdndTdlS3d2OEx0NXRNd1VMYTk?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-07T06:26:15+00:00",
      "companyId": 28,
      "company": "MTU Aero Engines",
      "asset": "Aktien",
@@ -3857,21 +3896,7 @@
    }
   },
   "37": {
-   "news": [
-    {
-     "date": "2026-06-11",
-     "title": "Tronox Issues 2025 Sustainability Report",
-     "summary": "Tronox Issues 2025 Sustainability Report PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWw4NDlHTEZRM09NNjdaak92eTJkNnUzcU9LaWNCb09KM1Y2TVJ5MjRaWnM3TlZuRFVLcDg4d2ZhdUpHanhKM21hcFNIandQc2tQTEhnelVpVWlMV0NuVzl1eUZiWGdSU3JUZUt2RE51NkViTGxGNTFueTJuZERvNU9hc3NjSGxjekZBXzl0cjlXV3YtTDdhM1lzSFY?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-21T05:18:08+00:00",
-     "companyId": 37,
-     "company": "Tronox",
-     "asset": "Anleihen",
-     "status": "Watchlist"
-    }
-   ],
+   "news": [],
    "events": [
     {
      "date": "2026-07-29",
@@ -3916,6 +3941,19 @@
  },
  "news": [
   {
+   "date": "2026-07-11",
+   "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
+   "summary": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjZXSU1CazE2eXVXTU9HSllVckp2eVF5WHpXcG5sSjEtcE5STUYwX2x5QnZ4aXdHaDdqbXlVUlNHZUEwRlpaSTM1X1BFbXlzbFdjV2xGbHRmUVlJNEdGQXFFRXZMYVdHRFJPWDdFS3lYeDNaeXNVRV9xeUEyZkx6WUItTXJHVmM3alA0WThJcEY3NWJsWFB3XzNGenRGajFHT1pra9IBqgFBVV95cUxOQ1hUMTdvMmc0di1vS3ZYMlVoM3JBV01SdFFFc3dFWWYtT084OWJqZE42WXBnUklRTDFiR05BUkZJLVlQcGYtSUNaeEtLQXdsOThvOHlaWmN3V0RRQ0lVWE90ektMWVBFY25sZ3pNWVRkVF9POU5mNjZrdnJNVVpXUk83UjlBVEd1YkYxX01LOUF5ejNsV0dJRTA0d0VkRVB2a29xUnlOWW85dw?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-12T03:58:13+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-07-10",
    "title": "Small caps to watch: MTY Food and Velan shares fall on earnings, Cineplex up on box office strength",
    "summary": "Small caps to watch: MTY Food and Velan shares fall on earnings, Cineplex up on box office strength The Globe and Mail",
@@ -3925,6 +3963,19 @@
    "firstSeen": "2026-07-11T03:43:38+00:00",
    "companyId": 19,
    "company": "MTY Food",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-10",
+   "title": "Meta scraps AI image feature days after launch following privacy backlash",
+   "summary": "Meta scraps AI image feature days after launch following privacy backlash Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUG5uc3lpN1Z4TFMtZm5Mc1pCaW9hSE4xb3Z2X3BuTno5NEVmb0FEdm5sY3BFMTl0VFNkb04wNEVIQzkxbVNidlU1dnZIRGFESWdiaG50dGJRN01TMGc0LTZhYl9YbnlTdmJLMk9ZYXYtWEtzcmFtS0NsZ0RWdllPSTY5ZUQ4ZXZCQllaS3J2ZXNUSHZmVDljR0s1NHQ5b0pT?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-12T03:58:13+00:00",
+   "companyId": 22,
+   "company": "Meta",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4073,6 +4124,19 @@
   },
   {
    "date": "2026-07-08",
+   "title": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees",
+   "summary": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXBQMm9ScVdBVnREd2ZwZXhvd09nSUdlMVNqaFZHQXN1cFNreDVUQy1kb2JBSGhyQ1U2TTdfNTRHdmxjNUdBdFF5NHBxdWlRSWZ6eGsxYzR2QW13ek1iOXRVcnd5cGlTeWRkSUZIMzU3RlZfYVhYSVBrWE1udm5pRUtBeXRINW41WUJSUG1DaGhlYmZtdXl3YzF0NmF5eXY3RjVvZm4tNzg1RmFLS2N3enBZbDBTZw?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-12T03:58:13+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-08",
    "title": "Housebuilder Vistry warns of losses amid heavy discounting on unsold homes",
    "summary": "Housebuilder Vistry warns of losses amid heavy discounting on unsold homes The Guardian",
    "source": "The Guardian",
@@ -4151,6 +4215,19 @@
   },
   {
    "date": "2026-07-07",
+   "title": "A.I.S. Resources Announces Geophysical and Mineral",
+   "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLV9TalN5aVJqNEJUdGpmZWh5OEU1NUNfbldmbHdlWm9CYVpBeTBTNjBsazJlSEJNb3pNUHRqek43dUNXNEVxeTFlTzBCMkRfcUF6S2xId1d2YV9OOTB5SFE3WjVoeks1bVFQekFBTUNRX21ib01BMXJDdmgwc0hUMUtidmQ0ZGh3T09oRGNEaEt1YjlreTFDQXZHbGdLcHZvWV9Nd0NEdkh3X1RWVGJSdTZxeldTckpmNHhZdXd0OTdBa2U0M0FlSkVoRDkta0xWRUdPcnJmc3JYa2VVZG1lQWFZM3NYZGtUbmFNM0NiTG4yMEhlRUJqUkw3N1k5YzM0Yk1GQ0FnNlRvT1Ixdm9rbnh5OFYzUjA0WEhaX0s5eU1yQ2JFbVdMZjV6OS1KTC1tZlZmbldtazFMbmpUNmlvZzlmZ0poY29WYlAyTA?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-12T03:58:13+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
    "title": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
    "summary": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026 CNBC",
    "source": "CNBC",
@@ -4186,19 +4263,6 @@
    "companyId": 22,
    "company": "Meta",
    "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-06",
-   "title": "GPK Investors Have Opportunity to Lead Graphic Packaging",
-   "summary": "GPK Investors Have Opportunity to Lead Graphic Packaging GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNUVFDdk42QlJ2aHcyN2t5N1JmOHFGQV9fZVlWUnlOTmpmR3FDZUxzRFpLaHhLWEE0NmNQa19wN1QtWXJHV0J5b2V4MmZHX2hsa2lEU1JxV25vRHFULWFZVjlmMXgtSmtacjhkWHJnV0Y0OVEyLVpDZXMycUVEZ0hLNWtVM3RrcWdCel9kVTJlUGsweG9HLVl4TDZwZnNpNkVzSDNpTFJTNjhycGRnMDVPVUpYRE5ReUM4MFdkLWxXVW5qcWw5VHIwOC1KaGJ3Yk13czVqdWloQTF3TUNyMmFjUjVnRGNCRUVfdllYUkJuWlJFeTdjNFdKUXBCdEdaU1F2Q2JaanNSRkp4R24tRDUtR2FpR2ZJTXhCZDFhN0c2WlVtUmc?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-09T04:19:41+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4264,19 +4328,6 @@
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-04",
-   "title": "RBC Capital Reaffirms Their Hold Rating on MTU Aero Engines (0FC9)",
-   "summary": "RBC Capital Reaffirms Their Hold Rating on MTU Aero Engines (0FC9) The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdTVYb3RpdnpJWWtReTNXN2ZKMXZnb3lqdmFSOC1vZXF1dlZBcm5ldG14d0VWOWhCZUJydWp0cWpzajRZSURNaWJGSVRWR2lnSkctb3RTMVZ3ODVUbE84X0pXSXV1bE85UjhVXzRJMlphMEplN3ZMUkVucHZiY1F3SzdmZlVBTnVVdWktaWs5c1Rka3VJNEJxMWh1MnF0YWlWMmp2TE1fMHY1NEVyRHZWU0s2YmxqVDNFWlFPSXhJOHJ2UFZITUsxZWoxZHNtdHJYejdndTdlS3d2OEx0NXRNd1VMYTk?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-07T06:26:15+00:00",
-   "companyId": 28,
-   "company": "MTU Aero Engines",
-   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4411,6 +4462,19 @@
   },
   {
    "date": "2026-07-01",
+   "title": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+   "summary": "Graphic Packaging Holding Company (GPK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-12T03:58:13+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-01",
    "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
    "summary": "Meta's plan to launch a cloud business eases the biggest overhang on the stock CNBC",
    "source": "CNBC",
@@ -4524,6 +4588,19 @@
    "companyId": 24,
    "company": "Amcor",
    "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache",
+   "summary": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache ACCESS Newswire",
+   "source": "ACCESS Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTZCbFpDNTZnQWZEZ05ROG10U2V2aFZnQXo4SW12UzlqNGQ2VjhFN09mOG1tZTNiQldBYVI1elRFSWhab0k3RnlpNTFyS2JEM29OTjZGei1obVMzWWtfc2tLLWJsUzQtaU9WbEtJb1R0YUhUZ193WUNGeG05aENrRkJsRm9HZEpyY1lKQ3htc2YzcHBaQU10OEpTTzVsU1ZMV05ZaWFIVnQ3VzBEdFk2dFA1b1E4S0RYa1FfTUQwSmhFMGpBcVZPdGVqWVlGVWl5LWYzRXFmNXp0Wm9JRkp4QnRLUlY?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-12T03:58:13+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4761,19 +4838,6 @@
    "status": "Watchlist"
   },
   {
-   "date": "2026-06-18",
-   "title": "Amazon investigating engineers who criticized AI data center expansion",
-   "summary": "Amazon investigating engineers who criticized AI data center expansion CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3BCZGNwWWowRVJKSUd5R2p1aWlqQU5sOV92bkIwTmJKZ2VyMmVxMFJkdHdDQWVxSnRxbVlBLXNfeW9JQVNnbEI3SEd6bjNUcTNYdDdUSlFPbVBLTll4SVFZcm5zN2NEWTE2cEhLcm9PVS1zaXNsZy1LMEdud3VFeG9Fd1pfUdIBiwFBVV95cUxPN0dUQUhRVWhaTHNaeGNRckNiRGtOM3QxakZ6WjFlSE5nQV9wejdfVTJfWkNkbXAzUW54b0twNXREUEhIYVVEMXdHZ2hGaU1EczZJdTVvbnZWYXliM3U0ZmNGYmpXeGpEOW1aSXJWRU5oNnFnOGN0OFhtX1Y5ZTdfN2JaaXlZXzBXcFBr?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-02T04:21:05+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-17",
    "title": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation",
    "summary": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation ACCESS Newswire",
@@ -4863,19 +4927,6 @@
    "company": "Borr",
    "asset": "Anleihen",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-11",
-   "title": "Tronox Issues 2025 Sustainability Report",
-   "summary": "Tronox Issues 2025 Sustainability Report PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWw4NDlHTEZRM09NNjdaak92eTJkNnUzcU9LaWNCb09KM1Y2TVJ5MjRaWnM3TlZuRFVLcDg4d2ZhdUpHanhKM21hcFNIandQc2tQTEhnelVpVWlMV0NuVzl1eUZiWGdSU3JUZUt2RE51NkViTGxGNTFueTJuZERvNU9hc3NjSGxjekZBXzl0cjlXV3YtTDdhM1lzSFY?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-21T05:18:08+00:00",
-   "companyId": 37,
-   "company": "Tronox",
-   "asset": "Anleihen",
-   "status": "Watchlist"
   }
  ],
  "events": [
