@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-13T05:49:37+00:00",
+ "generatedAt": "2026-07-14T03:34:39+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -137,19 +137,6 @@
      "company": "Borr",
      "asset": "Anleihen",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-17",
-     "title": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation",
-     "summary": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation ACCESS Newswire",
-     "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3BEVzRwdnpoMHpDRk9ENkkxUWJ3cU95U0t2R1pXWWxuUVdzSW1aRWRBeUZhMnZfeEFSM3A3aC1oWXd5aXViZTA4RjduZUx0NE11ektNN0t2eVR1aFpnYklmYTVZQlpvb0stVERxbWFkNFpNLXh3aEdZR2FYSlA4bVdycmdLd1JwS3VrUEVmbzYxSG5MWTF1aEowUHE0SC1VYkFad1FwNnNNVVk5OHdhX2ZKQVFVZDVsSG9FMGhJem1oaDMyUEVBaHVoWmNFVGxleF83ckhMdjRqNUtRV2plYjRWYWw?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
-     "companyId": 4,
-     "company": "Borr",
-     "asset": "Anleihen",
-     "status": "Portfolio"
     }
    ],
    "events": [
@@ -259,6 +246,19 @@
   },
   "5": {
    "news": [
+    {
+     "date": "2026-07-07",
+     "title": "A.I.S. Resources Announces Geophysical and Mineral",
+     "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLV9TalN5aVJqNEJUdGpmZWh5OEU1NUNfbldmbHdlWm9CYVpBeTBTNjBsazJlSEJNb3pNUHRqek43dUNXNEVxeTFlTzBCMkRfcUF6S2xId1d2YV9OOTB5SFE3WjVoeks1bVFQekFBTUNRX21ib01BMXJDdmgwc0hUMUtidmQ0ZGh3T09oRGNEaEt1YjlreTFDQXZHbGdLcHZvWV9Nd0NEdkh3X1RWVGJSdTZxeldTckpmNHhZdXd0OTdBa2U0M0FlSkVoRDkta0xWRUdPcnJmc3JYa2VVZG1lQWFZM3NYZGtUbmFNM0NiTG4yMEhlRUJqUkw3N1k5YzM0Yk1GQ0FnNlRvT1Ixdm9rbnh5OFYzUjA0WEhaX0s5eU1yQ2JFbVdMZjV6OS1KTC1tZlZmbldtazFMbmpUNmlvZzlmZ0poY29WYlAyTA?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-14T03:34:39+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-06-29",
      "title": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache",
@@ -636,6 +636,19 @@
   "11": {
    "news": [
     {
+     "date": "2026-07-13",
+     "title": "/C O R R E C T I O N -- Graphic Packaging Holding Company/",
+     "summary": "/C O R R E C T I O N -- Graphic Packaging Holding Company/ PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGZONnhxUmpVSl9jeUhmVmxIcDZsbDlTU2JTSUwzUnVWcWZMb0xrdk54VWhrUDBjc21SaEYyaVg1T0dITklVSzQ2dTAtMFhsOWRZUGZZWS1rU2o5MTVmcTZNSVVqSEduTVkxVV93ZzdLWnB4MGM4SkFaQXRvVl82N0NkN3BzQ25VMUlpTDhGekUzY0IxNjlrdHpmR3BCNUhQY1IwRDZwT051U241Q3BGd3A2ejZobHJ6YXZPQWdWaDlxNHRrVFdXRFZXcURoYU5ERzRFYm1iRHJBS0d5NDMtMTJRX2k0LUE?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-14T03:34:39+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-06",
      "title": "GPK FINAL DEADLINE ALERT: Faruqi & Faruqi, LLP Reminds Graphic Packaging (GPK) Investors of Securities Class Action Lawsuit Deadline on July 6, 2026",
      "summary": "GPK FINAL DEADLINE ALERT: Faruqi & Faruqi, LLP Reminds Graphic Packaging (GPK) Investors of Securities Class Action Lawsuit Deadline on July 6, 2026 Business Wire",
@@ -695,19 +708,6 @@
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXMtYlE3SndJZnY0R2NLT2xGdGVQQUVwUGRBMGx6THlpb2llQjBBdk5rSTVYblp4M2RkaFlHQlNWR1hlaVZlUlpEVVZuSTh6SUtFVlFoNTBDTHNuSFRRU1NKckY2VFNUbWZfU1J2cU5FTnZGUDNKYlgzLWRaOUh5QVp2M3lsdk9EcmFtZTJJVktrc3JhZjlkM1F4all3YUF3ZWFSZXZPaDB0VWNZdkdXMENPOVFJQU8xZHJnYXlRU1dsUnZUbTZOeHBxZGhYdTh3bnhreUg3MWlLanptR0RJSTMtc1hfWFNxWFZxdFZJZTVjMnlSb0RhQ1YyanNoal9s?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-07-12T03:58:13+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-30",
-     "title": "GPK Deadline: Rosen Law Firm Urges Graphic Packaging Holding Company (NYSE: GPK) Stockholders with Losses in Excess of $100K to Contact the Firm for Information About Their Rights",
-     "summary": "GPK Deadline: Rosen Law Firm Urges Graphic Packaging Holding Company (NYSE: GPK) Stockholders with Losses in Excess of $100K to Contact the Firm for Information About Their Rights Business Wire",
-     "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNWlVicFNUWEV0YmJ3WGxscFdYbXhNcGlrMnVuS25tV3JmMW1GM25DdjRIQTVoMjdtb01QVU5CYzRwM0RzS2dYOW9NMEFXUWcwSm5CeUhoY2hhc1U4X1NPS0xOU1VibDVIVmxEajViN0ozdjU3ZUtVWThKVmxvTG5tM3VmLWlLRGZmRGVWd0JJbmVTZFRhOUtDQlBkNU5yTzZVTVZaNl82emJ1alotNDROSExZRXBDcHQzVUxSNF84cGRhaFk4dmJ1S2FKS1BFOWJQNVhlczIwWlRUeVpOU29EdXJhd3ZtcTJrNlE3TFh3UklqdmtQUV9zdUl1VWdfYjIwMzNXZW92djFTVFJUUnBuRUE1OFdLVjdYY1ZIMXVZb1J1TXdMblJQMnBPd1pMRDQ1dTNFei13RGF3N05iVVNzTUNBT215MTl5bWUwZjBPMW1jUEFu?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-13T04:02:22+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1026,6 +1026,32 @@
   },
   "14": {
    "news": [
+    {
+     "date": "2026-07-13",
+     "title": "Eurofins Scientific SE: Disclosure of Total Number of Voting Rights and Number of Shares in the Capital at 30 June 2026",
+     "summary": "Eurofins Scientific SE: Disclosure of Total Number of Voting Rights and Number of Shares in the Capital at 30 June 2026 Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUFVSd3FrLWxXREJ2Wm1mNmg0a2VMU213Qm5LeWlaVGtRdDN3ZXpYNndkMG1GUEhkTXJvdDFKZ0ZwalpTTkNBUU5FcWVDaWRMRm9XN1ExcU4wanNBa0JOS0htWUtvdHlMYi1McHFmZTJYNTVfYWZVd0FNQ3J4aGpOZTRZWFlQS3R5Q0VJMFpTZE9OeEdwMXh0LWUxLWFDTkltYWV2WktoS3VkZVd1SHlUNVRqb2RONmZTdmlOLVNHQ2FsYWhDdDREdjY0V2NsakxJd1RyQURqTGN5eUdhWG5kRExuOHplR1RaTldRaVUyb2xQSEtxUXRHR0VPS3FVYXBPUmRSaFZB?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-14T03:34:39+00:00",
+     "companyId": 14,
+     "company": "Eurofins Scientific",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-06",
+     "title": "Eurofins Scientific SE: Weekly report on share repurchases from 29th June to 03rd July 2026",
+     "summary": "Eurofins Scientific SE: Weekly report on share repurchases from 29th June to 03rd July 2026 Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRTNZS2UwRzdCeTdWYzlucnp3ZFdYS0JjMnJJSUV4N0V4UmlJRk9hVTVBZ1lzbkZ3SnZrTnMyRTBPY2FGeVZGZWlyYm14MS1nVmpPeXhSdGoxc1U4R1QxSXNVdEp3aUx2NUxrUDN1SEZLZGwwMEREbXNUYVN4ZW9PX2p6bE8wckJ6d2hZZzZDYVBpUGhCcXdnTHpJOTFUM05zQ3pmVm10cEE2bF9mY1N3WWZDZlplR1dvQVVKc2hXWkVTZzFjeFB0cFQ4ODRlenpscHFWOUJlNGZtZEN1WnpfMw?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-14T03:34:39+00:00",
+     "companyId": 14,
+     "company": "Eurofins Scientific",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-06-15",
      "title": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026",
@@ -1420,6 +1446,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-07-07",
+     "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
+     "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-14T03:34:39+00:00",
+     "companyId": 18,
+     "company": "Amazon",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-02",
      "title": "Amazon has deployed enough satellites to launch Leo service later this year",
      "summary": "Amazon has deployed enough satellites to launch Leo service later this year CNBC",
@@ -1427,19 +1466,6 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQdIBrwFBVV95cUxPYk03UXpsMDlWZ0VSTm8wbnVTQW1SaHpNeE9vYUE3YkFTYnd4QTFfT2hTclVyekxtRlRqXzJUYm90c21ZM1dncm90QmhwR0s0WmhyMDlJRC05Mmc4VWtfX1U2QXNDaGlUa3RpTmxyQ3kwOF9JblplS2pBc1k1MWJJdWZrQ292SUhuT2FfekEtWkdfV0xBQXVDTDVwQjJVUjhmVzZmRUp5WHg5Y2lGeFlZ?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-06T04:40:01+00:00",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-30",
-     "title": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms",
-     "summary": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUGY1eTA3bURBQVItTGxkcGN0cjktVXZVb3RMVFJOUWQyR2pmMGhNd3l5azhGWlpfQnA3QjhTYzZiNUVlVjRxVVRYakZIRUktdkJaUmQ4REpGWWhSbldqNU1LRFQ3cTU2dU80NkpnaUYzQVBhV2U2STRNOFBXc0pPbk1UZXdlNURuWHB5VTFBby1jLTd4eTNDbi1YMmpVTzJpUUtHMUxkWGZaZFhqWnpFNVdHcnNLN3JjYjVacHJySjZYdDFoU3h1bzBkdzhnc3BCb3Q2LXBEem5jY2Rkb3fSAeMBQVVfeXFMTzBQUDVBRWE1SUU1cEtBVHR0WVhtZ1NsVDVKX2ZySFBmYkg3QlhKMk11MGlRam44Zm80WWQ4Mm16dC1nNXZIdm1SalZSbWwzWGdCSXVsVVZaX3BMZGpybjA0WUlRYWxhTXowTlhsb3prTi1lUDdKUHhLZGdMVTVJY0hEeHZtcV9zcUoxTzMxVE1YX25YZkdUSmp2Y051YTY4ckRGTGhJV2NRZ2ZaNmZuVTJma0tsUXkzZU9mNW9aTzU5LUd0bHBJX21LUUE1ZnQ5aTZNQlhsblFFVlJ2aS00ekJSNFU?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-05T04:30:28+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -1702,7 +1728,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     208.56,
      210.64,
      207.92,
      210.0,
@@ -1796,12 +1821,13 @@
      245.98,
      243.62,
      247.04,
-     245.34
+     245.34,
+     247.31
     ],
-    "price": 245.34,
-    "sma50": 254.03,
+    "price": 247.31,
+    "sma50": 253.72,
     "sma200": null,
-    "rsi": 51,
+    "rsi": 68,
     "macd": "bullisch",
     "high": 274.99,
     "low": 199.34,
@@ -2027,7 +2053,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     389.0,
      400.6,
      401.72,
      392.74,
@@ -2121,12 +2146,13 @@
      388.84,
      383.34,
      384.36,
-     385.1
+     385.1,
+     390.99
     ],
-    "price": 385.1,
-    "sma50": 403.62,
+    "price": 390.99,
+    "sma50": 402.95,
     "sma200": null,
-    "rsi": 53,
+    "rsi": 63,
     "macd": "bullisch",
     "high": 460.52,
     "low": 352.83,
@@ -2467,7 +2493,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     639.3,
      653.69,
      657.01,
      648.18,
@@ -2561,21 +2586,21 @@
      615.58,
      603.12,
      631.48,
-     669.21
+     669.21,
+     656.73
     ],
-    "price": 669.21,
-    "sma50": 600.45,
+    "price": 656.73,
+    "sma50": 600.2,
     "sma200": null,
     "rsi": 69,
     "macd": "bullisch",
     "high": 688.55,
     "low": 525.72,
-    "score": 1,
-    "label": "Neutral",
+    "score": 2,
+    "label": "Bullisch",
     "reasons": [
      "Kurs ueber SMA50",
-     "MACD ueber Signallinie",
-     "ueber oberem Bollinger-Band"
+     "MACD ueber Signallinie"
     ]
    },
    "profile": {
@@ -3185,7 +3210,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     526.52,
      540.57,
      525.88,
      529.7,
@@ -3279,21 +3303,21 @@
      423.11,
      410.61,
      409.01,
-     406.59
+     406.59,
+     390.74
     ],
-    "price": 406.59,
-    "sma50": 399.86,
+    "price": 390.74,
+    "sma50": 398.98,
     "sma200": null,
-    "rsi": 72,
+    "rsi": 58,
     "macd": "bullisch",
     "high": 545.13,
     "low": 361.32,
-    "score": 1,
+    "score": 0,
     "label": "Neutral",
     "reasons": [
-     "Kurs ueber SMA50",
-     "MACD ueber Signallinie",
-     "RSI ueberkauft (>70)"
+     "Kurs unter SMA50",
+     "MACD ueber Signallinie"
     ]
    },
    "profile": {
@@ -3661,19 +3685,6 @@
      "status": "Watchlist"
     },
     {
-     "date": "2026-07-06",
-     "title": "S&P Global Provides Pro Forma and Recast Financial Results and Updated Segment Information",
-     "summary": "S&P Global Provides Pro Forma and Recast Financial Results and Updated Segment Information PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWFac2o0UThueXJXeFNvclduWVJiempyU0FLb0t1d2owLXI5YS1pSTQ2cVA3VGtscWVtc3VoUXRvYm03TG1sN2xYYnRMd3pCd2VuZWQ4cGtKR2c1VS1LNFJCd3FCeFZmZWtzQzhfUmhmQXhmd084RUxyU3dRbEJiLWZ5bk1Ja1IzR3VZcnVyTzRLcU9OSER3Y3hPM2tiQ1FqN25EQmw2aWlvSmtUdWJCZENza0lVdzRzU0QzaVBuWUE0VVpySUc2UTVTUW5CN2dSTUoyZ042OTZJVGk3a2c?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-13T04:02:22+00:00",
-     "companyId": 34,
-     "company": "S&P Global",
-     "asset": "Aktien",
-     "status": "Watchlist"
-    },
-    {
      "date": "2026-07-01",
      "title": "S&P GLOBAL INC. COMPLETES SEPARATION OF MOBILITY GLOBAL INC.",
      "summary": "S&P GLOBAL INC. COMPLETES SEPARATION OF MOBILITY GLOBAL INC. PR Newswire",
@@ -3906,6 +3917,32 @@
   }
  },
  "news": [
+  {
+   "date": "2026-07-13",
+   "title": "/C O R R E C T I O N -- Graphic Packaging Holding Company/",
+   "summary": "/C O R R E C T I O N -- Graphic Packaging Holding Company/ PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGZONnhxUmpVSl9jeUhmVmxIcDZsbDlTU2JTSUwzUnVWcWZMb0xrdk54VWhrUDBjc21SaEYyaVg1T0dITklVSzQ2dTAtMFhsOWRZUGZZWS1rU2o5MTVmcTZNSVVqSEduTVkxVV93ZzdLWnB4MGM4SkFaQXRvVl82N0NkN3BzQ25VMUlpTDhGekUzY0IxNjlrdHpmR3BCNUhQY1IwRDZwT051U241Q3BGd3A2ejZobHJ6YXZPQWdWaDlxNHRrVFdXRFZXcURoYU5ERzRFYm1iRHJBS0d5NDMtMTJRX2k0LUE?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-14T03:34:39+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-13",
+   "title": "Eurofins Scientific SE: Disclosure of Total Number of Voting Rights and Number of Shares in the Capital at 30 June 2026",
+   "summary": "Eurofins Scientific SE: Disclosure of Total Number of Voting Rights and Number of Shares in the Capital at 30 June 2026 Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUFVSd3FrLWxXREJ2Wm1mNmg0a2VMU213Qm5LeWlaVGtRdDN3ZXpYNndkMG1GUEhkTXJvdDFKZ0ZwalpTTkNBUU5FcWVDaWRMRm9XN1ExcU4wanNBa0JOS0htWUtvdHlMYi1McHFmZTJYNTVfYWZVd0FNQ3J4aGpOZTRZWFlQS3R5Q0VJMFpTZE9OeEdwMXh0LWUxLWFDTkltYWV2WktoS3VkZVd1SHlUNVRqb2RONmZTdmlOLVNHQ2FsYWhDdDREdjY0V2NsakxJd1RyQURqTGN5eUdhWG5kRExuOHplR1RaTldRaVUyb2xQSEtxUXRHR0VPS3FVYXBPUmRSaFZB?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-14T03:34:39+00:00",
+   "companyId": 14,
+   "company": "Eurofins Scientific",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
   {
    "date": "2026-07-11",
    "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
@@ -4181,6 +4218,19 @@
   },
   {
    "date": "2026-07-07",
+   "title": "A.I.S. Resources Announces Geophysical and Mineral",
+   "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLV9TalN5aVJqNEJUdGpmZWh5OEU1NUNfbldmbHdlWm9CYVpBeTBTNjBsazJlSEJNb3pNUHRqek43dUNXNEVxeTFlTzBCMkRfcUF6S2xId1d2YV9OOTB5SFE3WjVoeks1bVFQekFBTUNRX21ib01BMXJDdmgwc0hUMUtidmQ0ZGh3T09oRGNEaEt1YjlreTFDQXZHbGdLcHZvWV9Nd0NEdkh3X1RWVGJSdTZxeldTckpmNHhZdXd0OTdBa2U0M0FlSkVoRDkta0xWRUdPcnJmc3JYa2VVZG1lQWFZM3NYZGtUbmFNM0NiTG4yMEhlRUJqUkw3N1k5YzM0Yk1GQ0FnNlRvT1Ixdm9rbnh5OFYzUjA0WEhaX0s5eU1yQ2JFbVdMZjV6OS1KTC1tZlZmbldtazFMbmpUNmlvZzlmZ0poY29WYlAyTA?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-14T03:34:39+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
    "title": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
    "summary": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026 CNBC",
    "source": "CNBC",
@@ -4200,6 +4250,19 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
    "category": "Rating",
    "firstSeen": "2026-07-08T03:45:31+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
+   "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
+   "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-14T03:34:39+00:00",
    "companyId": 18,
    "company": "Amazon",
    "asset": "Aktien",
@@ -4229,6 +4292,19 @@
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-06",
+   "title": "Eurofins Scientific SE: Weekly report on share repurchases from 29th June to 03rd July 2026",
+   "summary": "Eurofins Scientific SE: Weekly report on share repurchases from 29th June to 03rd July 2026 Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRTNZS2UwRzdCeTdWYzlucnp3ZFdYS0JjMnJJSUV4N0V4UmlJRk9hVTVBZ1lzbkZ3SnZrTnMyRTBPY2FGeVZGZWlyYm14MS1nVmpPeXhSdGoxc1U4R1QxSXNVdEp3aUx2NUxrUDN1SEZLZGwwMEREbXNUYVN4ZW9PX2p6bE8wckJ6d2hZZzZDYVBpUGhCcXdnTHpJOTFUM05zQ3pmVm10cEE2bF9mY1N3WWZDZlplR1dvQVVKc2hXWkVTZzFjeFB0cFQ4ODRlenpscHFWOUJlNGZtZEN1WnpfMw?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-14T03:34:39+00:00",
+   "companyId": 14,
+   "company": "Eurofins Scientific",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4265,19 +4341,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbHloUXZLWHF3ZTk5TGltX1ZLNVpzaTRWdkNSV2RwcEZxTktCSjM2Rjc2U3l3RUxnclQxbWhuNmNMR3Z4bjgxMUw5djBjMGM2NmdIVWQzc1JZTUtIcWRIamNPUGFqWXIyb3BIZkFxNnRzM3l2V2huTU5aMGFvYnVrdVNTcnRNQzlnNTRJRXR3NnYxUkM5OFRDQjN5SXdxSkxaaWNGMFl5SU1JcEpJbnZlOTJWeWpmbXpsbkdxZUppQ0p1bzdlZzN2eE1neVpLb2hieXdhTnJ1cEJGTjJnUmFZbXVJdFlmZHNDREZHaEdpeGJiSndEQ0JieC0xSjlZVGxIblVoWmpjSll2UVBNZ3d3QlNPejg3V1NOTzVkaWV0ZE5xWXUxNGRKVUZYbEYzRC00OUxyMGhfLV9RVTVXMVE?oc=5",
    "category": "Rating",
    "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
-   "date": "2026-07-06",
-   "title": "S&P Global Provides Pro Forma and Recast Financial Results and Updated Segment Information",
-   "summary": "S&P Global Provides Pro Forma and Recast Financial Results and Updated Segment Information PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWFac2o0UThueXJXeFNvclduWVJiempyU0FLb0t1d2owLXI5YS1pSTQ2cVA3VGtscWVtc3VoUXRvYm03TG1sN2xYYnRMd3pCd2VuZWQ4cGtKR2c1VS1LNFJCd3FCeFZmZWtzQzhfUmhmQXhmd084RUxyU3dRbEJiLWZ5bk1Ja1IzR3VZcnVyTzRLcU9OSER3Y3hPM2tiQ1FqN25EQmw2aWlvSmtUdWJCZENza0lVdzRzU0QzaVBuWUE0VVpySUc2UTVTUW5CN2dSTUoyZ042OTZJVGk3a2c?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-13T04:02:22+00:00",
    "companyId": 34,
    "company": "S&P Global",
    "asset": "Aktien",
@@ -4477,32 +4540,6 @@
    "company": "S&P Global",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-30",
-   "title": "GPK Deadline: Rosen Law Firm Urges Graphic Packaging Holding Company (NYSE: GPK) Stockholders with Losses in Excess of $100K to Contact the Firm for Information About Their Rights",
-   "summary": "GPK Deadline: Rosen Law Firm Urges Graphic Packaging Holding Company (NYSE: GPK) Stockholders with Losses in Excess of $100K to Contact the Firm for Information About Their Rights Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNWlVicFNUWEV0YmJ3WGxscFdYbXhNcGlrMnVuS25tV3JmMW1GM25DdjRIQTVoMjdtb01QVU5CYzRwM0RzS2dYOW9NMEFXUWcwSm5CeUhoY2hhc1U4X1NPS0xOU1VibDVIVmxEajViN0ozdjU3ZUtVWThKVmxvTG5tM3VmLWlLRGZmRGVWd0JJbmVTZFRhOUtDQlBkNU5yTzZVTVZaNl82emJ1alotNDROSExZRXBDcHQzVUxSNF84cGRhaFk4dmJ1S2FKS1BFOWJQNVhlczIwWlRUeVpOU29EdXJhd3ZtcTJrNlE3TFh3UklqdmtQUV9zdUl1VWdfYjIwMzNXZW92djFTVFJUUnBuRUE1OFdLVjdYY1ZIMXVZb1J1TXdMblJQMnBPd1pMRDQ1dTNFei13RGF3N05iVVNzTUNBT215MTl5bWUwZjBPMW1jUEFu?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-13T04:02:22+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-30",
-   "title": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms",
-   "summary": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUGY1eTA3bURBQVItTGxkcGN0cjktVXZVb3RMVFJOUWQyR2pmMGhNd3l5azhGWlpfQnA3QjhTYzZiNUVlVjRxVVRYakZIRUktdkJaUmQ4REpGWWhSbldqNU1LRFQ3cTU2dU80NkpnaUYzQVBhV2U2STRNOFBXc0pPbk1UZXdlNURuWHB5VTFBby1jLTd4eTNDbi1YMmpVTzJpUUtHMUxkWGZaZFhqWnpFNVdHcnNLN3JjYjVacHJySjZYdDFoU3h1bzBkdzhnc3BCb3Q2LXBEem5jY2Rkb3fSAeMBQVVfeXFMTzBQUDVBRWE1SUU1cEtBVHR0WVhtZ1NsVDVKX2ZySFBmYkg3QlhKMk11MGlRam44Zm80WWQ4Mm16dC1nNXZIdm1SalZSbWwzWGdCSXVsVVZaX3BMZGpybjA0WUlRYWxhTXowTlhsb3prTi1lUDdKUHhLZGdMVTVJY0hEeHZtcV9zcUoxTzMxVE1YX25YZkdUSmp2Y051YTY4ckRGTGhJV2NRZ2ZaNmZuVTJma0tsUXkzZU9mNW9aTzU5LUd0bHBJX21LUUE1ZnQ5aTZNQlhsblFFVlJ2aS00ekJSNFU?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-05T04:30:28+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-30",
@@ -4736,19 +4773,6 @@
    "companyId": 22,
    "company": "Meta",
    "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-17",
-   "title": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation",
-   "summary": "Borr Drilling Limited (BORR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Stockholders to Contact the Firm to Learn More About the Investigation ACCESS Newswire",
-   "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3BEVzRwdnpoMHpDRk9ENkkxUWJ3cU95U0t2R1pXWWxuUVdzSW1aRWRBeUZhMnZfeEFSM3A3aC1oWXd5aXViZTA4RjduZUx0NE11ektNN0t2eVR1aFpnYklmYTVZQlpvb0stVERxbWFkNFpNLXh3aEdZR2FYSlA4bVdycmdLd1JwS3VrUEVmbzYxSG5MWTF1aEowUHE0SC1VYkFad1FwNnNNVVk5OHdhX2ZKQVFVZDVsSG9FMGhJem1oaDMyUEVBaHVoWmNFVGxleF83ckhMdjRqNUtRV2plYjRWYWw?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-03T19:30:11+00:00",
-   "companyId": 4,
-   "company": "Borr",
-   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
