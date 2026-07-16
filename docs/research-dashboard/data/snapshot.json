@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-15T05:11:01+00:00",
+ "generatedAt": "2026-07-16T03:38:29+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -67,21 +67,7 @@
    }
   },
   "3": {
-   "news": [
-    {
-     "date": "2026-06-15",
-     "title": "International Petroleum Corporation Corporate Update: Blackrod Phase 1 First Oil Achieved",
-     "summary": "International Petroleum Corporation Corporate Update: Blackrod Phase 1 First Oil Achieved GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMC1pNWF1Rm1PUzczcTItcXNvU3pab3I2Ymt6OU0zN1hxTjZ3Rlctd3l6V0hYdlYwTlpVNGRhRVhxR3YzUlNaMVZCUmxLTTBxMWQ4c0Q1NnJCcmVKWDhES1prbDBTT29BeHJKUHN2a1BCdU5JXzZhNEJTcXIwbHZGUHpHY2NMaFF0YkNEXzU0dTJtbVVGS2NIbjRPRDJPWWZtb2YtS2l5azBlWTNmMTFqRkhsOWpPNmxNdlhkem90aWhHT3pSZmVUTW81MDBLUnBRUjhDWFZURGlpNkQ4U2lDaVV4MVFvVGpYU2o1ZDRVcnJzQQ?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-20T04:40:41+00:00",
-     "companyId": 3,
-     "company": "International Petroleum",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    }
-   ],
+   "news": [],
    "events": [
     {
      "date": "2026-07-15",
@@ -388,19 +374,6 @@
     },
     {
      "date": "2026-06-29",
-     "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
-     "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
-     "source": "WirtschaftsWoche",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-30T04:33:28+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-29",
      "title": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth",
      "summary": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth WSJ",
      "source": "WSJ",
@@ -446,6 +419,19 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0xBeDVDTWFQSEl4ekNsZUZVUXJvejFiZzZPYnRYVHA1WnB6eklETUlhNUZXVFhfMy0wdWZrVlY4bFVtVUV1S1ZlSjB2c1E0d3Jud0pnaE0zSGtGNmtDbjdFNVR5Skc1Ul9JUlhDQlQweEZwRmd3TDhMRWZfRVpCQnJKOGNpT2FsM0Fsdnh4Tm1ZSXFyam8wcVpDQ196ZzVZa0dtVzdmNDFQV0Q1Ti1J?oc=5",
      "category": "Markt",
      "firstSeen": "2026-06-29T07:02:57+00:00",
+     "companyId": 8,
+     "company": "Prosus",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-19",
+     "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
+     "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
      "companyId": 8,
      "company": "Prosus",
      "asset": "Anleihen",
@@ -675,19 +661,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-05",
-     "title": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today",
-     "summary": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today ACCESS Newswire",
-     "source": "ACCESS Newswire",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLXhNYWpoVmEtTTRXYWludlp5ekFtcnYwZ2dRTlBZMERja0JERktleDBKbnQ0T3dGU0dPbFpOMW1sU2ExbkxlN0JHVjVQSzhUUkI1bnUwZldJV19lQ1JwVmg3eFJnMWFhd05DOVNaX29rd2VYYlhmbVdSbUlFbUdJa0Y2ckNtWTlXc25kQmRaOU9jSUdjNTg4cHl6aFJmdTkyckp5c0tndzZ3TjlpcHV2TERnQ1ZuZzdaamNNS1ByckNHNGhKeW9NQk1CQTVPNGk3MEhoc1J4eGpwWjNPNUN4STZFRXE?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-07T04:17:16+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-07-02",
      "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
      "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
@@ -708,6 +681,19 @@
      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZjNpSmF6Qmh4X2o1MDVUdWJMNm9pYzdSTGtBZHNGUWtoTDlSZTJnUFpvbGRtYTItckNXcW12QXdqX2o2UWhFTEM1SWRQNUdQbDFqYjZGcm84eVBpbU9Jdk5BbTNfZFBkNWtkSGEzcmRrblp2Q0YycGpqRk0tWTVIaHVzVmdJWXJZX3Q1bzl5WUswUEh0cmkwUWJxQ3VXbTBzMGp5V2w0VGU1TFp6RElWSzdROE5Ob1RjVVFlci1YcWluZktNOUdzZHgzRzJXNXl5dkhiUGhndGZoRXVXa082SEhjQzVTcW5Dd2taRjFfUFp1WklSOUVBV2hYYW5NRFBreC1xN2ZtVTNBaVhIUVloU19ucGJnYVU?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-07-10T04:15:25+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-02",
+     "title": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
+     "summary": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQendtQ25rSXl2TTFsTVBVYUh5aHMta0NiQ3NuSVpMbDM0SWRnbWZja0ZGQ1dFNThWdFlFTEEyUUwzMWNGSFl0ZGhyRzJiYmFUQjIxVEdnMDNYV2JucFpmRHJVWXhNR21QRVNhcEdVX0JPMnhDNno3TW9tc29ZeV82WHFRekpLWUZ0SmJIclNSbGQ0MDV0YVFuakNhQUhxbzF0ZGg0VVlRMUFsOUhINFRJNE5pSDZhamR2UHlOaExieVJIeUZEdV9TVTFaYnVJVjZObjdRNTJVRFBFZ0hQd3BsUVJURjRVOWxaTVEwbldDY1FKYm8tbldGVXgxWUR3Ni01UDNhdmplNUd1WUJiWWlIV0FLODd3RGpkNzNnOFZ1TDctdw?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -1053,13 +1039,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-15",
-     "title": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026",
-     "summary": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026 Business Wire",
+     "date": "2026-07-06",
+     "title": "Eurofins Scientific SE: Weekly report on share repurchases from 29th June to 03rd July 2026",
+     "summary": "Eurofins Scientific SE: Weekly report on share repurchases from 29th June to 03rd July 2026 Business Wire",
      "source": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmRmdHR0ZjJ4bHZ5cHBoVXdUZ05RNFllSlAydi1qdXNtMERVaWkyREg1YWhLZ19aS0pkVzZKVS1OSm1iTThtR0ZvdEtWN0xXNlVVNlVnOU5rY18wYTRUSk82TzAyUDkybzR4Zk53R0NpY19uMGVlZExxdmJKZ3JxSWZ0Q2pMWDE2cGhiQzdZc2lRNWN6RTZlcTY3NlJONjVFWERVWGZCRGJSY1B3a3VVQ1dSNzFZUTByMzBEbnQ0VjN0Yl9wSzBPQWJSck01NW5RTVNPaUlabmdFZUkwUW9ZUw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRTNZS2UwRzdCeTdWYzlucnp3ZFdYS0JjMnJJSUV4N0V4UmlJRk9hVTVBZ1lzbkZ3SnZrTnMyRTBPY2FGeVZGZWlyYm14MS1nVmpPeXhSdGoxc1U4R1QxSXNVdEp3aUx2NUxrUDN1SEZLZGwwMEREbXNUYVN4ZW9PX2p6bE8wckJ6d2hZZzZDYVBpUGhCcXdnTHpJOTFUM05zQ3pmVm10cEE2bF9mY1N3WWZDZlplR1dvQVVKc2hXWkVTZzFjeFB0cFQ4ODRlenpscHFWOUJlNGZtZEN1WnpfMw?oc=5",
      "category": "Sonstiges",
-     "firstSeen": "2026-07-03T19:30:11+00:00",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
      "companyId": 14,
      "company": "Eurofins Scientific",
      "asset": "Aktien",
@@ -1362,6 +1348,19 @@
   "17": {
    "news": [
     {
+     "date": "2026-07-15",
+     "title": "Kaspi.kz Completes Acquisition of Rabobank A.Ş. in Türkiye",
+     "summary": "Kaspi.kz Completes Acquisition of Rabobank A.Ş. in Türkiye GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnpZNFRRaEM1c0hyMmdDZTBHck9MS1hoQnE5b2FFa0FsOUh4NlRTNkVPMWh0ZTVJakw0RVJaWXExLXZxMkpNaTNOcmtpYUZBZjU3TE9MT0c5UlhsVmNNNlg3WnRBWEtqOEI2WGRYWGxuSTFhbFZ5cy10akNSZVFWVXJyTHkzWXpEdjRxVGt0WEk2RzdyMU1KQ2ZfNTZqUnpYVlluZ21sN0Jrd2pvaHRwbld6ZG9zUVVyaTkyY3VCQkZGdVVEUDFSTUp4ZW9IeTFtTDRNRWtB?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
+     "companyId": 17,
+     "company": "Kaspi.kz",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-14",
      "title": "Watch the Kaspi Event: Mikheil Lomtadze Unveils Kasper",
      "summary": "Watch the Kaspi Event: Mikheil Lomtadze Unveils Kasper GlobeNewswire",
@@ -1473,13 +1472,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-02",
-     "title": "Amazon has deployed enough satellites to launch Leo service later this year",
-     "summary": "Amazon has deployed enough satellites to launch Leo service later this year CNBC",
+     "date": "2026-06-29",
+     "title": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms",
+     "summary": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms CNBC",
      "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQdIBrwFBVV95cUxPYk03UXpsMDlWZ0VSTm8wbnVTQW1SaHpNeE9vYUE3YkFTYnd4QTFfT2hTclVyekxtRlRqXzJUYm90c21ZM1dncm90QmhwR0s0WmhyMDlJRC05Mmc4VWtfX1U2QXNDaGlUa3RpTmxyQ3kwOF9JblplS2pBc1k1MWJJdWZrQ292SUhuT2FfekEtWkdfV0xBQXVDTDVwQjJVUjhmVzZmRUp5WHg5Y2lGeFlZ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUGY1eTA3bURBQVItTGxkcGN0cjktVXZVb3RMVFJOUWQyR2pmMGhNd3l5azhGWlpfQnA3QjhTYzZiNUVlVjRxVVRYakZIRUktdkJaUmQ4REpGWWhSbldqNU1LRFQ3cTU2dU80NkpnaUYzQVBhV2U2STRNOFBXc0pPbk1UZXdlNURuWHB5VTFBby1jLTd4eTNDbi1YMmpVTzJpUUtHMUxkWGZaZFhqWnpFNVdHcnNLN3JjYjVacHJySjZYdDFoU3h1bzBkdzhnc3BCb3Q2LXBEem5jY2Rkb3fSAeMBQVVfeXFMTzBQUDVBRWE1SUU1cEtBVHR0WVhtZ1NsVDVKX2ZySFBmYkg3QlhKMk11MGlRam44Zm80WWQ4Mm16dC1nNXZIdm1SalZSbWwzWGdCSXVsVVZaX3BMZGpybjA0WUlRYWxhTXowTlhsb3prTi1lUDdKUHhLZGdMVTVJY0hEeHZtcV9zcUoxTzMxVE1YX25YZkdUSmp2Y051YTY4ckRGTGhJV2NRZ2ZaNmZuVTJma0tsUXkzZU9mNW9aTzU5LUd0bHBJX21LUUE1ZnQ5aTZNQlhsblFFVlJ2aS00ekJSNFU?oc=5",
      "category": "Markt",
-     "firstSeen": "2026-07-06T04:40:01+00:00",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -1742,7 +1741,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     207.92,
      210.0,
      208.39,
      208.73,
@@ -1836,20 +1834,23 @@
      247.04,
      245.34,
      247.31,
-     247.49
+     247.49,
+     254.96
     ],
-    "price": 247.49,
-    "sma50": 253.37,
+    "price": 254.96,
+    "sma50": 253.1,
     "sma200": null,
-    "rsi": 67,
+    "rsi": 72,
     "macd": "bullisch",
     "high": 274.99,
     "low": 199.34,
     "score": 0,
     "label": "Neutral",
     "reasons": [
-     "Kurs unter SMA50",
-     "MACD ueber Signallinie"
+     "Kurs ueber SMA50",
+     "MACD ueber Signallinie",
+     "RSI ueberkauft (>70)",
+     "ueber oberem Bollinger-Band"
     ]
    },
    "profile": {
@@ -1940,19 +1941,6 @@
   },
   "20": {
    "news": [
-    {
-     "date": "2026-07-02",
-     "title": "Microsoft launches firm to help companies adopt AI with $2.5 billion",
-     "summary": "Microsoft launches firm to help companies adopt AI with $2.5 billion Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWVCMGFFWk1NRWJKRmI5T0hzWmxuNXZoUUM3VUJlNjY4RzZuU2tVRWNwZXliQlRNNDZZbFhSdHlBc2dQUzl5TS05YjBjOENFVTExaU0xMGp0TU1WemlYNDlEazNMSTRSXy1MSDJ2RnZZcHMzcDZiTVFQaDBPWUhYQWhDalUtUFE0Z21YRVltY29jR205dVc0Q3JiOWE1UTdwanR0VGlhRkJqYTZRVVJyUXZzODltSUNlZkJkS3RDelR6Zw?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-03T04:07:40+00:00",
-     "companyId": 20,
-     "company": "Microsoft",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-06-30",
      "title": "Microsoft’s Irish Hub Is Profit Powerhouse",
@@ -2049,25 +2037,11 @@
      "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000121/",
      "source": "SEC",
      "firstSeen": "2026-06-29T07:02:57+00:00"
-    },
-    {
-     "date": "2026-06-08",
-     "insider": "Numoto Takeshi",
-     "role": "EVP, Chief Marketing Officer",
-     "code": "S",
-     "kind": "Verkauf",
-     "shares": 2500,
-     "price": 412.45,
-     "value": 1031125,
-     "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000109/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
     }
    ],
    "tech": {
     "currency": "USD",
     "closes": [
-     401.72,
      392.74,
      398.55,
      403.93,
@@ -2161,12 +2135,13 @@
      384.36,
      385.1,
      390.99,
-     384.93
+     384.93,
+     395.63
     ],
-    "price": 384.93,
-    "sma50": 402.49,
+    "price": 395.63,
+    "sma50": 402.11,
     "sma200": null,
-    "rsi": 56,
+    "rsi": 66,
     "macd": "bullisch",
     "high": 460.52,
     "low": 352.83,
@@ -2232,6 +2207,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-07-14",
+     "title": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs",
+     "summary": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVkTzJUaFB0YWgzQmpaRXAtWUU3R1FUeW1lenFuMTBNd0plUE40ZkpRNGpJeGYzSkxRUEc0N0pjamFYOFdkNEhHTk9yR3lJNkJDMWJ1bC1lS19IUmhFWXNRZUNrTHN3SHpKN3pZLW9rU0FZZklELTlHS3MybEFNNm5vTkJtTXNSWVNyTzZMLTV6X3ByR2dLVThJbEEwdGVmbGNfVzlxWFo?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-10",
      "title": "Meta scraps AI image feature days after launch following privacy backlash",
      "summary": "Meta scraps AI image feature days after launch following privacy backlash Reuters",
@@ -2269,19 +2257,6 @@
      "company": "Meta",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-07",
-     "title": "Instagram-Mutter: US-Bundesstaaten fordern 1,4 Billionen Dollar von Meta wegen Social-Media-Sucht",
-     "summary": "Instagram-Mutter: US-Bundesstaaten fordern 1,4 Billionen Dollar von Meta wegen Social-Media-Sucht Manager Magazin",
-     "source": "Manager Magazin",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUdCNk1BOW4wMjBPTnY0ekpjaHlBZkdMWVFWdTRoTnd4Y2ctWTJkQWwzN2gxb1RaMDFzNnpmS1pCQ2xFcXd6MmFBbFNadHpRZVhLeXFhOFoydkZKSjl1Nzh1NWVGcmZjUWNVU0pRSEFrWlRPelhKZmRLT0IwdWxDUGQ4RnJLejBiY25YT0w0eklmT2VMcmFCdVFBeFExSWJDM3BKalVWLWRYQ1AyT2pZdGczeS16aEozVVE4R1R3TXdwUmFvemNaSGJxQWdCd08yaEUtQ2ZIZWY?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-08T03:45:31+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
    "events": [
@@ -2308,6 +2283,71 @@
     }
    ],
    "insider": [
+    {
+     "date": "2026-07-13",
+     "insider": "Olivan Javier",
+     "role": "Chief Operating Officer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 1534,
+     "price": 660.98,
+     "value": 1013936,
+     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+     "source": "SEC",
+     "firstSeen": "2026-07-16T03:38:29+00:00"
+    },
+    {
+     "date": "2026-07-13",
+     "insider": "Olivan Javier",
+     "role": "Chief Operating Officer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 82,
+     "price": 661.13,
+     "value": 54212,
+     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+     "source": "SEC",
+     "firstSeen": "2026-07-16T03:38:29+00:00"
+    },
+    {
+     "date": "2026-07-13",
+     "insider": "Olivan Javier",
+     "role": "Chief Operating Officer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 57,
+     "price": 661.13,
+     "value": 37684,
+     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+     "source": "SEC",
+     "firstSeen": "2026-07-16T03:38:29+00:00"
+    },
+    {
+     "date": "2026-07-13",
+     "insider": "Olivan Javier",
+     "role": "Chief Operating Officer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 82,
+     "price": 661.13,
+     "value": 54212,
+     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+     "source": "SEC",
+     "firstSeen": "2026-07-16T03:38:29+00:00"
+    },
+    {
+     "date": "2026-07-13",
+     "insider": "Olivan Javier",
+     "role": "Chief Operating Officer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 408,
+     "price": 661.13,
+     "value": 269741,
+     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+     "source": "SEC",
+     "firstSeen": "2026-07-16T03:38:29+00:00"
+    },
     {
      "date": "2026-07-06",
      "insider": "Olivan Javier",
@@ -2437,77 +2477,11 @@
      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010417/",
      "source": "SEC",
      "firstSeen": "2026-07-09T04:19:41+00:00"
-    },
-    {
-     "date": "2026-07-01",
-     "insider": "KIMMITT ROBERT M",
-     "role": "Director",
-     "code": "S",
-     "kind": "Verkauf",
-     "shares": 500,
-     "price": 607.75,
-     "value": 303875,
-     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010283/",
-     "source": "SEC",
-     "firstSeen": "2026-07-07T04:17:16+00:00"
-    },
-    {
-     "date": "2026-06-15",
-     "insider": "Olivan Javier",
-     "role": "Chief Operating Officer",
-     "code": "S",
-     "kind": "Verkauf",
-     "shares": 140,
-     "price": 600.0,
-     "value": 84000,
-     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326009164/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
-    },
-    {
-     "date": "2026-06-15",
-     "insider": "Olivan Javier",
-     "role": "Chief Operating Officer",
-     "code": "S",
-     "kind": "Verkauf",
-     "shares": 164,
-     "price": 600.0,
-     "value": 98400,
-     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326009164/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
-    },
-    {
-     "date": "2026-06-15",
-     "insider": "Olivan Javier",
-     "role": "Chief Operating Officer",
-     "code": "S",
-     "kind": "Verkauf",
-     "shares": 114,
-     "price": 600.0,
-     "value": 68400,
-     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326009164/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
-    },
-    {
-     "date": "2026-06-15",
-     "insider": "Olivan Javier",
-     "role": "Chief Operating Officer",
-     "code": "S",
-     "kind": "Verkauf",
-     "shares": 164,
-     "price": 600.0,
-     "value": 98400,
-     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326009164/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
     }
    ],
    "tech": {
     "currency": "USD",
     "closes": [
-     657.01,
      648.18,
      653.56,
      655.08,
@@ -2601,20 +2575,23 @@
      631.48,
      669.21,
      656.73,
-     661.04
+     661.04,
+     681.31
     ],
-    "price": 661.04,
-    "sma50": 601.18,
+    "price": 681.31,
+    "sma50": 602.63,
     "sma200": null,
-    "rsi": 70,
+    "rsi": 73,
     "macd": "bullisch",
     "high": 688.55,
     "low": 525.72,
-    "score": 2,
-    "label": "Bullisch",
+    "score": 0,
+    "label": "Neutral",
     "reasons": [
      "Kurs ueber SMA50",
-     "MACD ueber Signallinie"
+     "MACD ueber Signallinie",
+     "RSI ueberkauft (>70)",
+     "ueber oberem Bollinger-Band"
     ]
    },
    "profile": {
@@ -2690,19 +2667,6 @@
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeVRabW95QWdrcTF0ekk3TURlMm40Q2NCM1Y4ZnFTTFdSLWxsX0RuOVQtZnlBOFNaQTNodUttdWFSaE9TQVE5NkQtX1NIZ3d2aUU4Z3RqY1d2cjRCMXlaM0JrSlJsUlNHR1BnQl9BeVBzbEdCZXdvVjlSVjFRaFNLY3p0cmFKQ0dST0tzSTk0TmVzLU5NdmhiaTNqRnVNbUE4bUZFNEUzVFhwVmNQeWhXUnpUQXJOVEhzTHBILUVsblczTlBOYnJWbHJLMVNHYVZiYWc3TkwyaW1vWjcyTEh3?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-06-30T04:33:28+00:00",
-     "companyId": 24,
-     "company": "Amcor",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-15",
-     "title": "Amcor announces key leadership appointments to accelerate growth",
-     "summary": "Amcor announces key leadership appointments to accelerate growth PR Newswire",
-     "source": "PR Newswire",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUEyWnJfWjBsWmVmU2JIUG1VdENqTmQ5VUx4ejZkUzN6S2lwWG5CeExfOU9CMlJzZVBuUDUyZEQxTUxyM21mNTM5S1YzZFZQVC0wQkRkSTY3NTBFcUpXVjNWeWdZcVB6eS1SSWl6VDE3eGtXZFNzc19EblJzOWF1MnB1c2l3S3c1YUlnS1pBaS1aR2k0b0k4cmk2eVRIX0lDcDBVa19HQ0lmbFFTVHZEcFhYbWltZk92bC1qVg?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-06-16T05:32:48+00:00",
      "companyId": 24,
      "company": "Amcor",
      "asset": "Aktien",
@@ -3073,6 +3037,19 @@
   "29": {
    "news": [
     {
+     "date": "2026-07-15",
+     "title": "Vistry Non-Executive Director Boosts Stake with Share Purchase",
+     "summary": "Vistry Non-Executive Director Boosts Stake with Share Purchase The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdHRST0pzdURCNlpEcWI3UldfTXRvTUxTNzlaODQ2RF96TzRxc1BUZjRSUXdzZHBDUTEzSHVUcGdfTlBsWmpxTVhVMzRsQnZFNjNfNExpTjFOd09GS2FIclN5bThaNGFncXZWWURmRHdvVTluN3pQUHpPdVFqRjgxc1NDYTNYOHh6ZGx0VlZJMXNleGwwX3NOYTZiOUtzZ01JTlltdVdOeTRBMlA5ZVNreTJoWFJtUXpkbUl4OFpoby1GODUzRFM3WFk4S3V6Uzl5TklHZzF5Y2lVYTQ?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
+     "companyId": 29,
+     "company": "Vistry",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-08",
      "title": "Housebuilder Vistry warns of losses amid heavy discounting on unsold homes",
      "summary": "Housebuilder Vistry warns of losses amid heavy discounting on unsold homes The Guardian",
@@ -3113,11 +3090,11 @@
     },
     {
      "date": "2026-07-08",
-     "title": "Vistry’s New CEO Targets Cost Cuts as CFO Exits",
-     "summary": "Vistry’s New CEO Targets Cost Cuts as CFO Exits Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUt5LVpiTlJZTExET2lsVTFra05lWTBCaXQ4RkpoRWtjbHkzN0NJMnJRMThORTVFZXlUSExkY2I3aVJYcjc4blNvYmtiUTlVZnBKbFJFSnAtajBicXY4N24wWFJSTFNjUE1sbUVyb1NDNjgxay1VV0pESk4zbTRva29Wemp3S2M3OVI3bUZiRnJHTGR2MExrUl9vNjlMSC12RGJ3S1NCZmU5Q2lhTXdWcWdB?oc=5",
-     "category": "Guidance",
+     "title": "Vistry woes continue as housing giant posts surprise loss",
+     "summary": "Vistry woes continue as housing giant posts surprise loss The Times",
+     "source": "The Times",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVF4eWV5NGx6SVFKQU1iUnBrWjlwbU9rLW9fUUZlbWpxcnhXSjlqYm5NTm0tQ0FxbEVlZjd1a1hMZGowNnBYUjdPejM1UEhQUzd1amJzekp2T3JWTHNGWERodERnQm9ZaVNrWlZZRGVyRU43T3VjRnNPQmVocGZ2V2tDNXZwa3FLSXRCVzh2SlRmSHk4Um44RjE3NTRiSVQxT2Q1RXNMMGZ5STQ?oc=5",
+     "category": "Earnings",
      "firstSeen": "2026-07-09T04:19:41+00:00",
      "companyId": 29,
      "company": "Vistry",
@@ -3126,11 +3103,11 @@
     },
     {
      "date": "2026-07-08",
-     "title": "Vistry woes continue as housing giant posts surprise loss",
-     "summary": "Vistry woes continue as housing giant posts surprise loss The Times",
-     "source": "The Times",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVF4eWV5NGx6SVFKQU1iUnBrWjlwbU9rLW9fUUZlbWpxcnhXSjlqYm5NTm0tQ0FxbEVlZjd1a1hMZGowNnBYUjdPejM1UEhQUzd1amJzekp2T3JWTHNGWERodERnQm9ZaVNrWlZZRGVyRU43T3VjRnNPQmVocGZ2V2tDNXZwa3FLSXRCVzh2SlRmSHk4Um44RjE3NTRiSVQxT2Q1RXNMMGZ5STQ?oc=5",
-     "category": "Earnings",
+     "title": "Vistry’s New CEO Targets Cost Cuts as CFO Exits",
+     "summary": "Vistry’s New CEO Targets Cost Cuts as CFO Exits Bloomberg.com",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUt5LVpiTlJZTExET2lsVTFra05lWTBCaXQ4RkpoRWtjbHkzN0NJMnJRMThORTVFZXlUSExkY2I3aVJYcjc4blNvYmtiUTlVZnBKbFJFSnAtajBicXY4N24wWFJSTFNjUE1sbUVyb1NDNjgxay1VV0pESk4zbTRva29Wemp3S2M3OVI3bUZiRnJHTGR2MExrUl9vNjlMSC12RGJ3S1NCZmU5Q2lhTXdWcWdB?oc=5",
+     "category": "Guidance",
      "firstSeen": "2026-07-09T04:19:41+00:00",
      "companyId": 29,
      "company": "Vistry",
@@ -3250,7 +3227,6 @@
    "tech": {
     "currency": "USD",
     "closes": [
-     525.88,
      529.7,
      532.92,
      541.8,
@@ -3344,21 +3320,21 @@
      409.01,
      406.59,
      390.74,
-     363.6
+     363.6,
+     378.85
     ],
-    "price": 363.6,
-    "sma50": 397.57,
+    "price": 378.85,
+    "sma50": 396.48,
     "sma200": null,
-    "rsi": 39,
+    "rsi": 46,
     "macd": "baerisch",
     "high": 545.13,
     "low": 361.32,
-    "score": -1,
-    "label": "Neutral",
+    "score": -2,
+    "label": "Baerisch",
     "reasons": [
      "Kurs unter SMA50",
-     "MACD unter Signallinie",
-     "unter unterem Bollinger-Band"
+     "MACD unter Signallinie"
     ]
    },
    "profile": {
@@ -3539,6 +3515,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-07-01",
+     "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
+     "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-25",
      "title": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares",
      "summary": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares CNBC",
@@ -3685,6 +3674,19 @@
      "company": "S&P Global",
      "asset": "Aktien",
      "status": "Watchlist"
+    },
+    {
+     "date": "2026-06-22",
+     "title": "S&P Global Declares Third Quarter Dividend",
+     "summary": "S&P Global Declares Third Quarter Dividend PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjdCOTBXMG9FOHR3QVFFaHlJcWFHRkdGYnkzUmN0WEVhTUF4bXQ3OG5ESlNuNzdtYjg4NEp2eWcyYVBWSFRUYjZwcU1KWlBCX3FBMW9xRkNXUGNMZDFJeEkwT3M5d09CaVNqcjN5M3Q3Tm14eFRpSzdVVm1oODhTUDZyZGNJWGtESkVOSjYxRE1USDVLdWN6dU9sNmhuUQ?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
     }
    ],
    "events": [
@@ -3756,19 +3758,6 @@
      "price": 434.03,
      "value": 500000,
      "url": "https://www.sec.gov/Archives/edgar/data/64040/000203383426000014/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
-    },
-    {
-     "date": "2026-04-29",
-     "insider": "CHEUNG MARTINA",
-     "role": "CEO & President",
-     "code": "P",
-     "kind": "Kauf",
-     "shares": 2322,
-     "price": 429.93,
-     "value": 998297,
-     "url": "https://www.sec.gov/Archives/edgar/data/64040/000165789026000008/",
      "source": "SEC",
      "firstSeen": "2026-06-29T07:02:57+00:00"
     }
@@ -3895,6 +3884,32 @@
  "news": [
   {
    "date": "2026-07-15",
+   "title": "Kaspi.kz Completes Acquisition of Rabobank A.Ş. in Türkiye",
+   "summary": "Kaspi.kz Completes Acquisition of Rabobank A.Ş. in Türkiye GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnpZNFRRaEM1c0hyMmdDZTBHck9MS1hoQnE5b2FFa0FsOUh4NlRTNkVPMWh0ZTVJakw0RVJaWXExLXZxMkpNaTNOcmtpYUZBZjU3TE9MT0c5UlhsVmNNNlg3WnRBWEtqOEI2WGRYWGxuSTFhbFZ5cy10akNSZVFWVXJyTHkzWXpEdjRxVGt0WEk2RzdyMU1KQ2ZfNTZqUnpYVlluZ21sN0Jrd2pvaHRwbld6ZG9zUVVyaTkyY3VCQkZGdVVEUDFSTUp4ZW9IeTFtTDRNRWtB?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 17,
+   "company": "Kaspi.kz",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-15",
+   "title": "Vistry Non-Executive Director Boosts Stake with Share Purchase",
+   "summary": "Vistry Non-Executive Director Boosts Stake with Share Purchase The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdHRST0pzdURCNlpEcWI3UldfTXRvTUxTNzlaODQ2RF96TzRxc1BUZjRSUXdzZHBDUTEzSHVUcGdfTlBsWmpxTVhVMzRsQnZFNjNfNExpTjFOd09GS2FIclN5bThaNGFncXZWWURmRHdvVTluN3pQUHpPdVFqRjgxc1NDYTNYOHh6ZGx0VlZJMXNleGwwX3NOYTZiOUtzZ01JTlltdVdOeTRBMlA5ZVNreTJoWFJtUXpkbUl4OFpoby1GODUzRFM3WFk4S3V6Uzl5TklHZzF5Y2lVYTQ?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 29,
+   "company": "Vistry",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-15",
    "title": "Tencent Cloud Expands International AI Agent Suite to Indonesia to Accelerate Enterprise AI Adoption",
    "summary": "Tencent Cloud Expands International AI Agent Suite to Indonesia to Accelerate Enterprise AI Adoption PR Newswire",
    "source": "PR Newswire",
@@ -3953,6 +3968,19 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
    "category": "Markt",
    "firstSeen": "2026-07-15T03:36:00+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-14",
+   "title": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs",
+   "summary": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVkTzJUaFB0YWgzQmpaRXAtWUU3R1FUeW1lenFuMTBNd0plUE40ZkpRNGpJeGYzSkxRUEc0N0pjamFYOFdkNEhHTk9yR3lJNkJDMWJ1bC1lS19IUmhFWXNRZUNrTHN3SHpKN3pZLW9rU0FZZklELTlHS3MybEFNNm5vTkJtTXNSWVNyTzZMLTV6X3ByR2dLVThJbEEwdGVmbGNfVzlxWFo?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
    "companyId": 22,
    "company": "Meta",
    "asset": "Aktien",
@@ -4233,11 +4261,11 @@
   },
   {
    "date": "2026-07-08",
-   "title": "Vistry’s New CEO Targets Cost Cuts as CFO Exits",
-   "summary": "Vistry’s New CEO Targets Cost Cuts as CFO Exits Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUt5LVpiTlJZTExET2lsVTFra05lWTBCaXQ4RkpoRWtjbHkzN0NJMnJRMThORTVFZXlUSExkY2I3aVJYcjc4blNvYmtiUTlVZnBKbFJFSnAtajBicXY4N24wWFJSTFNjUE1sbUVyb1NDNjgxay1VV0pESk4zbTRva29Wemp3S2M3OVI3bUZiRnJHTGR2MExrUl9vNjlMSC12RGJ3S1NCZmU5Q2lhTXdWcWdB?oc=5",
-   "category": "Guidance",
+   "title": "Vistry woes continue as housing giant posts surprise loss",
+   "summary": "Vistry woes continue as housing giant posts surprise loss The Times",
+   "source": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVF4eWV5NGx6SVFKQU1iUnBrWjlwbU9rLW9fUUZlbWpxcnhXSjlqYm5NTm0tQ0FxbEVlZjd1a1hMZGowNnBYUjdPejM1UEhQUzd1amJzekp2T3JWTHNGWERodERnQm9ZaVNrWlZZRGVyRU43T3VjRnNPQmVocGZ2V2tDNXZwa3FLSXRCVzh2SlRmSHk4Um44RjE3NTRiSVQxT2Q1RXNMMGZ5STQ?oc=5",
+   "category": "Earnings",
    "firstSeen": "2026-07-09T04:19:41+00:00",
    "companyId": 29,
    "company": "Vistry",
@@ -4246,11 +4274,11 @@
   },
   {
    "date": "2026-07-08",
-   "title": "Vistry woes continue as housing giant posts surprise loss",
-   "summary": "Vistry woes continue as housing giant posts surprise loss The Times",
-   "source": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVF4eWV5NGx6SVFKQU1iUnBrWjlwbU9rLW9fUUZlbWpxcnhXSjlqYm5NTm0tQ0FxbEVlZjd1a1hMZGowNnBYUjdPejM1UEhQUzd1amJzekp2T3JWTHNGWERodERnQm9ZaVNrWlZZRGVyRU43T3VjRnNPQmVocGZ2V2tDNXZwa3FLSXRCVzh2SlRmSHk4Um44RjE3NTRiSVQxT2Q1RXNMMGZ5STQ?oc=5",
-   "category": "Earnings",
+   "title": "Vistry’s New CEO Targets Cost Cuts as CFO Exits",
+   "summary": "Vistry’s New CEO Targets Cost Cuts as CFO Exits Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUt5LVpiTlJZTExET2lsVTFra05lWTBCaXQ4RkpoRWtjbHkzN0NJMnJRMThORTVFZXlUSExkY2I3aVJYcjc4blNvYmtiUTlVZnBKbFJFSnAtajBicXY4N24wWFJSTFNjUE1sbUVyb1NDNjgxay1VV0pESk4zbTRva29Wemp3S2M3OVI3bUZiRnJHTGR2MExrUl9vNjlMSC12RGJ3S1NCZmU5Q2lhTXdWcWdB?oc=5",
+   "category": "Guidance",
    "firstSeen": "2026-07-09T04:19:41+00:00",
    "companyId": 29,
    "company": "Vistry",
@@ -4298,19 +4326,6 @@
   },
   {
    "date": "2026-07-07",
-   "title": "Instagram-Mutter: US-Bundesstaaten fordern 1,4 Billionen Dollar von Meta wegen Social-Media-Sucht",
-   "summary": "Instagram-Mutter: US-Bundesstaaten fordern 1,4 Billionen Dollar von Meta wegen Social-Media-Sucht Manager Magazin",
-   "source": "Manager Magazin",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUdCNk1BOW4wMjBPTnY0ekpjaHlBZkdMWVFWdTRoTnd4Y2ctWTJkQWwzN2gxb1RaMDFzNnpmS1pCQ2xFcXd6MmFBbFNadHpRZVhLeXFhOFoydkZKSjl1Nzh1NWVGcmZjUWNVU0pRSEFrWlRPelhKZmRLT0IwdWxDUGQ4RnJLejBiY25YT0w0eklmT2VMcmFCdVFBeFExSWJDM3BKalVWLWRYQ1AyT2pZdGczeS16aEozVVE4R1R3TXdwUmFvemNaSGJxQWdCd08yaEUtQ2ZIZWY?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-08T03:45:31+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-07",
    "title": "Tencent Cuts Kuaishou Stake as Video Platform Presses Ahead With Share Buybacks",
    "summary": "Tencent Cuts Kuaishou Stake as Video Platform Presses Ahead With Share Buybacks The Globe and Mail",
    "source": "The Globe and Mail",
@@ -4346,6 +4361,19 @@
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-06",
+   "title": "Eurofins Scientific SE: Weekly report on share repurchases from 29th June to 03rd July 2026",
+   "summary": "Eurofins Scientific SE: Weekly report on share repurchases from 29th June to 03rd July 2026 Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRTNZS2UwRzdCeTdWYzlucnp3ZFdYS0JjMnJJSUV4N0V4UmlJRk9hVTVBZ1lzbkZ3SnZrTnMyRTBPY2FGeVZGZWlyYm14MS1nVmpPeXhSdGoxc1U4R1QxSXNVdEp3aUx2NUxrUDN1SEZLZGwwMEREbXNUYVN4ZW9PX2p6bE8wckJ6d2hZZzZDYVBpUGhCcXdnTHpJOTFUM05zQ3pmVm10cEE2bF9mY1N3WWZDZlplR1dvQVVKc2hXWkVTZzFjeFB0cFQ4ODRlenpscHFWOUJlNGZtZEN1WnpfMw?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 14,
+   "company": "Eurofins Scientific",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4386,19 +4414,6 @@
    "company": "S&P Global",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-07-05",
-   "title": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today",
-   "summary": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today ACCESS Newswire",
-   "source": "ACCESS Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLXhNYWpoVmEtTTRXYWludlp5ekFtcnYwZ2dRTlBZMERja0JERktleDBKbnQ0T3dGU0dPbFpOMW1sU2ExbkxlN0JHVjVQSzhUUkI1bnUwZldJV19lQ1JwVmg3eFJnMWFhd05DOVNaX29rd2VYYlhmbVdSbUlFbUdJa0Y2ckNtWTlXc25kQmRaOU9jSUdjNTg4cHl6aFJmdTkyckp5c0tndzZ3TjlpcHV2TERnQ1ZuZzdaamNNS1ByckNHNGhKeW9NQk1CQTVPNGk3MEhoc1J4eGpwWjNPNUN4STZFRXE?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
   },
   {
    "date": "2026-07-02",
@@ -4454,6 +4469,19 @@
   },
   {
    "date": "2026-07-02",
+   "title": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
+   "summary": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQendtQ25rSXl2TTFsTVBVYUh5aHMta0NiQ3NuSVpMbDM0SWRnbWZja0ZGQ1dFNThWdFlFTEEyUUwzMWNGSFl0ZGhyRzJiYmFUQjIxVEdnMDNYV2JucFpmRHJVWXhNR21QRVNhcEdVX0JPMnhDNno3TW9tc29ZeV82WHFRekpLWUZ0SmJIclNSbGQ0MDV0YVFuakNhQUhxbzF0ZGg0VVlRMUFsOUhINFRJNE5pSDZhamR2UHlOaExieVJIeUZEdV9TVTFaYnVJVjZObjdRNTJVRFBFZ0hQd3BsUVJURjRVOWxaTVEwbldDY1FKYm8tbldGVXgxWUR3Ni01UDNhdmplNUd1WUJiWWlIV0FLODd3RGpkNzNnOFZ1TDctdw?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-02",
    "title": "Post Holdings (POST) Q2 2026 Earnings Call Transcript",
    "summary": "Post Holdings (POST) Q2 2026 Earnings Call Transcript Fortune",
    "source": "Fortune",
@@ -4480,19 +4508,6 @@
   },
   {
    "date": "2026-07-02",
-   "title": "Amazon has deployed enough satellites to launch Leo service later this year",
-   "summary": "Amazon has deployed enough satellites to launch Leo service later this year CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQdIBrwFBVV95cUxPYk03UXpsMDlWZ0VSTm8wbnVTQW1SaHpNeE9vYUE3YkFTYnd4QTFfT2hTclVyekxtRlRqXzJUYm90c21ZM1dncm90QmhwR0s0WmhyMDlJRC05Mmc4VWtfX1U2QXNDaGlUa3RpTmxyQ3kwOF9JblplS2pBc1k1MWJJdWZrQ292SUhuT2FfekEtWkdfV0xBQXVDTDVwQjJVUjhmVzZmRUp5WHg5Y2lGeFlZ?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-06T04:40:01+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-02",
    "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
    "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
    "source": "GlobeNewswire",
@@ -4505,15 +4520,15 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-07-02",
-   "title": "Microsoft launches firm to help companies adopt AI with $2.5 billion",
-   "summary": "Microsoft launches firm to help companies adopt AI with $2.5 billion Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWVCMGFFWk1NRWJKRmI5T0hzWmxuNXZoUUM3VUJlNjY4RzZuU2tVRWNwZXliQlRNNDZZbFhSdHlBc2dQUzl5TS05YjBjOENFVTExaU0xMGp0TU1WemlYNDlEazNMSTRSXy1MSDJ2RnZZcHMzcDZiTVFQaDBPWUhYQWhDalUtUFE0Z21YRVltY29jR205dVc0Q3JiOWE1UTdwanR0VGlhRkJqYTZRVVJyUXZzODltSUNlZkJkS3RDelR6Zw?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-03T04:07:40+00:00",
-   "companyId": 20,
-   "company": "Microsoft",
+   "date": "2026-07-01",
+   "title": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice",
+   "summary": "CrossCountry Consulting Acquires Dupont Circle Solutions, Significantly Expanding Salesforce Practice Business Wire",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEcxRXQ4eHdGUWN1YmJWZ2FRd2RsUGdqZlA3ZjVVeXpVUnFfNlUxQVRfZjBqSVFja3A1c1FOOGRvcVdqS3FQcEsxa3U2eEFxa3hTUHU4cmUwZURtR2lhX2Z1S1g4Z2g5MjlJU1JLczRaTVFnQUUyOWJLcE5hVDQ1cVVqeFVoWEdmOUdsOGtXNHNMQWFlY2QzdDVKOE1UcDA0VEIzbTNfWHIzeWNPM0h3Y1dJc3JBeGVmM0lzQ1RLU0hMbFozUGdycDlObzg4SDB2MlRzaHNtNUs2YnM0NmlGRURDWVhSZzlxQ2YtaE9n?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4571,19 +4586,6 @@
   },
   {
    "date": "2026-06-29",
-   "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
-   "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
-   "source": "WirtschaftsWoche",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-30T04:33:28+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
    "title": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth",
    "summary": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth WSJ",
    "source": "WSJ",
@@ -4632,6 +4634,19 @@
    "companyId": 8,
    "company": "Prosus",
    "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms",
+   "summary": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUGY1eTA3bURBQVItTGxkcGN0cjktVXZVb3RMVFJOUWQyR2pmMGhNd3l5azhGWlpfQnA3QjhTYzZiNUVlVjRxVVRYakZIRUktdkJaUmQ4REpGWWhSbldqNU1LRFQ3cTU2dU80NkpnaUYzQVBhV2U2STRNOFBXc0pPbk1UZXdlNURuWHB5VTFBby1jLTd4eTNDbi1YMmpVTzJpUUtHMUxkWGZaZFhqWnpFNVdHcnNLN3JjYjVacHJySjZYdDFoU3h1bzBkdzhnc3BCb3Q2LXBEem5jY2Rkb3fSAeMBQVVfeXFMTzBQUDVBRWE1SUU1cEtBVHR0WVhtZ1NsVDVKX2ZySFBmYkg3QlhKMk11MGlRam44Zm80WWQ4Mm16dC1nNXZIdm1SalZSbWwzWGdCSXVsVVZaX3BMZGpybjA0WUlRYWxhTXowTlhsb3prTi1lUDdKUHhLZGdMVTVJY0hEeHZtcV9zcUoxTzMxVE1YX25YZkdUSmp2Y051YTY4ckRGTGhJV2NRZ2ZaNmZuVTJma0tsUXkzZU9mNW9aTzU5LUd0bHBJX21LUUE1ZnQ5aTZNQlhsblFFVlJ2aS00ekJSNFU?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4713,6 +4728,32 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-22",
+   "title": "S&P Global Declares Third Quarter Dividend",
+   "summary": "S&P Global Declares Third Quarter Dividend PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjdCOTBXMG9FOHR3QVFFaHlJcWFHRkdGYnkzUmN0WEVhTUF4bXQ3OG5ESlNuNzdtYjg4NEp2eWcyYVBWSFRUYjZwcU1KWlBCX3FBMW9xRkNXUGNMZDFJeEkwT3M5d09CaVNqcjN5M3Q3Tm14eFRpSzdVVm1oODhTUDZyZGNJWGtESkVOSjYxRE1USDVLdWN6dU9sNmhuUQ?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
+   "asset": "Aktien",
+   "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-19",
+   "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
+   "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-18",
    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Borr Drilling Limited - BORR",
    "summary": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Borr Drilling Limited - BORR PR Newswire",
@@ -4750,45 +4791,6 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-15",
-   "title": "International Petroleum Corporation Corporate Update: Blackrod Phase 1 First Oil Achieved",
-   "summary": "International Petroleum Corporation Corporate Update: Blackrod Phase 1 First Oil Achieved GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMC1pNWF1Rm1PUzczcTItcXNvU3pab3I2Ymt6OU0zN1hxTjZ3Rlctd3l6V0hYdlYwTlpVNGRhRVhxR3YzUlNaMVZCUmxLTTBxMWQ4c0Q1NnJCcmVKWDhES1prbDBTT29BeHJKUHN2a1BCdU5JXzZhNEJTcXIwbHZGUHpHY2NMaFF0YkNEXzU0dTJtbVVGS2NIbjRPRDJPWWZtb2YtS2l5azBlWTNmMTFqRkhsOWpPNmxNdlhkem90aWhHT3pSZmVUTW81MDBLUnBRUjhDWFZURGlpNkQ4U2lDaVV4MVFvVGpYU2o1ZDRVcnJzQQ?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-20T04:40:41+00:00",
-   "companyId": 3,
-   "company": "International Petroleum",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
-   "title": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026",
-   "summary": "Eurofins Scientific SE: Weekly Report on Share Repurchases from 08th June to 12th June 2026 Business Wire",
-   "source": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmRmdHR0ZjJ4bHZ5cHBoVXdUZ05RNFllSlAydi1qdXNtMERVaWkyREg1YWhLZ19aS0pkVzZKVS1OSm1iTThtR0ZvdEtWN0xXNlVVNlVnOU5rY18wYTRUSk82TzAyUDkybzR4Zk53R0NpY19uMGVlZExxdmJKZ3JxSWZ0Q2pMWDE2cGhiQzdZc2lRNWN6RTZlcTY3NlJONjVFWERVWGZCRGJSY1B3a3VVQ1dSNzFZUTByMzBEbnQ0VjN0Yl9wSzBPQWJSck01NW5RTVNPaUlabmdFZUkwUW9ZUw?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-03T19:30:11+00:00",
-   "companyId": 14,
-   "company": "Eurofins Scientific",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
-   "title": "Amcor announces key leadership appointments to accelerate growth",
-   "summary": "Amcor announces key leadership appointments to accelerate growth PR Newswire",
-   "source": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUEyWnJfWjBsWmVmU2JIUG1VdENqTmQ5VUx4ejZkUzN6S2lwWG5CeExfOU9CMlJzZVBuUDUyZEQxTUxyM21mNTM5S1YzZFZQVC0wQkRkSTY3NTBFcUpXVjNWeWdZcVB6eS1SSWl6VDE3eGtXZFNzc19EblJzOWF1MnB1c2l3S3c1YUlnS1pBaS1aR2k0b0k4cmk2eVRIX0lDcDBVa19HQ0lmbFFTVHZEcFhYbWltZk92bC1qVg?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-06-16T05:32:48+00:00",
-   "companyId": 24,
-   "company": "Amcor",
-   "asset": "Aktien",
-   "status": "Portfolio"
   }
  ],
  "events": [
@@ -5901,6 +5903,91 @@
  ],
  "insider": [
   {
+   "date": "2026-07-13",
+   "insider": "Olivan Javier",
+   "role": "Chief Operating Officer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 1534,
+   "price": 660.98,
+   "value": 1013936,
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+   "source": "SEC",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-13",
+   "insider": "Olivan Javier",
+   "role": "Chief Operating Officer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 82,
+   "price": 661.13,
+   "value": 54212,
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+   "source": "SEC",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-13",
+   "insider": "Olivan Javier",
+   "role": "Chief Operating Officer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 57,
+   "price": 661.13,
+   "value": 37684,
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+   "source": "SEC",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-13",
+   "insider": "Olivan Javier",
+   "role": "Chief Operating Officer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 82,
+   "price": 661.13,
+   "value": 54212,
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+   "source": "SEC",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-13",
+   "insider": "Olivan Javier",
+   "role": "Chief Operating Officer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 408,
+   "price": 661.13,
+   "value": 269741,
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010694/",
+   "source": "SEC",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-07-06",
    "insider": "Olivan Javier",
    "role": "Chief Operating Officer",
@@ -6088,23 +6175,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-07-01",
-   "insider": "KIMMITT ROBERT M",
-   "role": "Director",
-   "code": "S",
-   "kind": "Verkauf",
-   "shares": 500,
-   "price": 607.75,
-   "value": 303875,
-   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326010283/",
-   "source": "SEC",
-   "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-17",
    "insider": "Schorn Patrick",
    "role": "Director",
@@ -6208,74 +6278,6 @@
   },
   {
    "date": "2026-06-15",
-   "insider": "Olivan Javier",
-   "role": "Chief Operating Officer",
-   "code": "S",
-   "kind": "Verkauf",
-   "shares": 140,
-   "price": 600.0,
-   "value": 84000,
-   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326009164/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
-   "insider": "Olivan Javier",
-   "role": "Chief Operating Officer",
-   "code": "S",
-   "kind": "Verkauf",
-   "shares": 164,
-   "price": 600.0,
-   "value": 98400,
-   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326009164/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
-   "insider": "Olivan Javier",
-   "role": "Chief Operating Officer",
-   "code": "S",
-   "kind": "Verkauf",
-   "shares": 114,
-   "price": 600.0,
-   "value": 68400,
-   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326009164/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
-   "insider": "Olivan Javier",
-   "role": "Chief Operating Officer",
-   "code": "S",
-   "kind": "Verkauf",
-   "shares": 164,
-   "price": 600.0,
-   "value": 98400,
-   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326009164/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-15",
    "insider": "Stuart Cormac",
    "role": "Chief Accounting Officer",
    "code": "S",
@@ -6340,23 +6342,6 @@
    "companyId": 4,
    "company": "Borr",
    "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-08",
-   "insider": "Numoto Takeshi",
-   "role": "EVP, Chief Marketing Officer",
-   "code": "S",
-   "kind": "Verkauf",
-   "shares": 2500,
-   "price": 412.45,
-   "value": 1031125,
-   "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000109/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 20,
-   "company": "Microsoft",
-   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -7123,23 +7108,6 @@
    "company": "BAWAG",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-04-29",
-   "insider": "CHEUNG MARTINA",
-   "role": "CEO & President",
-   "code": "P",
-   "kind": "Kauf",
-   "shares": 2322,
-   "price": 429.93,
-   "value": 998297,
-   "url": "https://www.sec.gov/Archives/edgar/data/64040/000165789026000008/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   },
   {
    "date": "2026-04-22",
