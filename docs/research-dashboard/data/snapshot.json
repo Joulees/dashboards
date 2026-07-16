@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-16T03:38:29+00:00",
+ "generatedAt": "2026-07-16T05:21:41+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -1872,19 +1872,6 @@
      "company": "MTY Food",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-02",
-     "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
-     "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkp4a0JWZEU2cW9aLWh2Y1RmYU5ob25TaXctcF9wdWNhblJSSDBRQWJrVHNBamlZcVUwd3BtRnItQk5XRUtadTVSWl9qRm9seHpZbFNCOGFGVzNKdmRURGtCUzNoTW5jNEtkVkttQkpaczlGSU1EM3BRTmRheFc4LU90dGJ2YkZ5bkktSTdFc3BoVW9pLU5nRnVnX2pMbGFmRFRTdWpTWXp1dzItSkx4ZGVaZFkwWFZQVmtCYmFrNWNId2hFekp2YU9scktZZUlwTVBQOWhVS3ROczhBbVQtVWhiajA3eHVJMmpUaDJQanJHZlk?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-11T05:23:27+00:00",
-     "companyId": 19,
-     "company": "MTY Food",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
    "events": [
@@ -2024,21 +2011,7 @@
      "firstSeen": "2026-06-17T13:12:03+00:00"
     }
    ],
-   "insider": [
-    {
-     "date": "2026-06-10",
-     "insider": "Numoto Takeshi",
-     "role": "EVP, Chief Marketing Officer",
-     "code": "S",
-     "kind": "Verkauf",
-     "shares": 4500,
-     "price": 402.84,
-     "value": 1812780,
-     "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000121/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
-    }
-   ],
+   "insider": [],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -2195,12 +2168,12 @@
     },
     {
      "date": "2026-07-14",
-     "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
-     "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
+     "title": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs",
+     "summary": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs WSJ",
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVkTzJUaFB0YWgzQmpaRXAtWUU3R1FUeW1lenFuMTBNd0plUE40ZkpRNGpJeGYzSkxRUEc0N0pjamFYOFdkNEhHTk9yR3lJNkJDMWJ1bC1lS19IUmhFWXNRZUNrTHN3SHpKN3pZLW9rU0FZZklELTlHS3MybEFNNm5vTkJtTXNSWVNyTzZMLTV6X3ByR2dLVThJbEEwdGVmbGNfVzlxWFo?oc=5",
      "category": "Markt",
-     "firstSeen": "2026-07-15T03:36:00+00:00",
+     "firstSeen": "2026-07-16T03:38:29+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -2208,12 +2181,12 @@
     },
     {
      "date": "2026-07-14",
-     "title": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs",
-     "summary": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVkTzJUaFB0YWgzQmpaRXAtWUU3R1FUeW1lenFuMTBNd0plUE40ZkpRNGpJeGYzSkxRUEc0N0pjamFYOFdkNEhHTk9yR3lJNkJDMWJ1bC1lS19IUmhFWXNRZUNrTHN3SHpKN3pZLW9rU0FZZklELTlHS3MybEFNNm5vTkJtTXNSWVNyTzZMLTV6X3ByR2dLVThJbEEwdGVmbGNfVzlxWFo?oc=5",
+     "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
+     "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
      "category": "Markt",
-     "firstSeen": "2026-07-16T03:38:29+00:00",
+     "firstSeen": "2026-07-15T03:36:00+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -2797,19 +2770,6 @@
      "url": "https://www.sec.gov/Archives/edgar/data/1378789/000095015726000607/",
      "source": "SEC",
      "firstSeen": "2026-06-17T12:50:24+00:00"
-    },
-    {
-     "date": "2026-05-07",
-     "insider": "Drouillard Vincent",
-     "role": "General Counsel",
-     "code": "S",
-     "kind": "Verkauf",
-     "shares": 4504,
-     "price": 150.0,
-     "value": 675600,
-     "url": "https://www.sec.gov/Archives/edgar/data/1378789/000095015726000587/",
-     "source": "SEC",
-     "firstSeen": "2026-06-20T06:39:41+00:00"
     },
     {
      "date": "2026-05-06",
@@ -3734,34 +3694,7 @@
      "firstSeen": "2026-07-06T04:40:01+00:00"
     }
    ],
-   "insider": [
-    {
-     "date": "2026-05-01",
-     "insider": "Clay Catherine R",
-     "role": "CEO, S&P Dow Jones Indices",
-     "code": "P",
-     "kind": "Kauf",
-     "shares": 2500,
-     "price": 431.39,
-     "value": 1078475,
-     "url": "https://www.sec.gov/Archives/edgar/data/64040/000185349726000004/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
-    },
-    {
-     "date": "2026-04-30",
-     "insider": "Moritz Robert Edward Jr.",
-     "role": "Director",
-     "code": "P",
-     "kind": "Kauf",
-     "shares": 1151,
-     "price": 434.03,
-     "value": 500000,
-     "url": "https://www.sec.gov/Archives/edgar/data/64040/000203383426000014/",
-     "source": "SEC",
-     "firstSeen": "2026-06-29T07:02:57+00:00"
-    }
-   ],
+   "insider": [],
    "tech": null,
    "profile": {
     "businessModel": "",
@@ -3962,12 +3895,12 @@
   },
   {
    "date": "2026-07-14",
-   "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
-   "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
+   "title": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs",
+   "summary": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs WSJ",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVkTzJUaFB0YWgzQmpaRXAtWUU3R1FUeW1lenFuMTBNd0plUE40ZkpRNGpJeGYzSkxRUEc0N0pjamFYOFdkNEhHTk9yR3lJNkJDMWJ1bC1lS19IUmhFWXNRZUNrTHN3SHpKN3pZLW9rU0FZZklELTlHS3MybEFNNm5vTkJtTXNSWVNyTzZMLTV6X3ByR2dLVThJbEEwdGVmbGNfVzlxWFo?oc=5",
    "category": "Markt",
-   "firstSeen": "2026-07-15T03:36:00+00:00",
+   "firstSeen": "2026-07-16T03:38:29+00:00",
    "companyId": 22,
    "company": "Meta",
    "asset": "Aktien",
@@ -3975,12 +3908,12 @@
   },
   {
    "date": "2026-07-14",
-   "title": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs",
-   "summary": "Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVkTzJUaFB0YWgzQmpaRXAtWUU3R1FUeW1lenFuMTBNd0plUE40ZkpRNGpJeGYzSkxRUEc0N0pjamFYOFdkNEhHTk9yR3lJNkJDMWJ1bC1lS19IUmhFWXNRZUNrTHN3SHpKN3pZLW9rU0FZZklELTlHS3MybEFNNm5vTkJtTXNSWVNyTzZMLTV6X3ByR2dLVThJbEEwdGVmbGNfVzlxWFo?oc=5",
+   "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
+   "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
    "category": "Markt",
-   "firstSeen": "2026-07-16T03:38:29+00:00",
+   "firstSeen": "2026-07-15T03:36:00+00:00",
    "companyId": 22,
    "company": "Meta",
    "asset": "Aktien",
@@ -4504,19 +4437,6 @@
    "companyId": 12,
    "company": "Post Holdings",
    "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-02",
-   "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
-   "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkp4a0JWZEU2cW9aLWh2Y1RmYU5ob25TaXctcF9wdWNhblJSSDBRQWJrVHNBamlZcVUwd3BtRnItQk5XRUtadTVSWl9qRm9seHpZbFNCOGFGVzNKdmRURGtCUzNoTW5jNEtkVkttQkpaczlGSU1EM3BRTmRheFc4LU90dGJ2YkZ5bkktSTdFc3BoVW9pLU5nRnVnX2pMbGFmRFRTdWpTWXp1dzItSkx4ZGVaZFkwWFZQVmtCYmFrNWNId2hFekp2YU9scktZZUlwTVBQOWhVS3ROczhBbVQtVWhiajA3eHVJMmpUaDJQanJHZlk?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-11T05:23:27+00:00",
-   "companyId": 19,
-   "company": "MTY Food",
-   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -6294,23 +6214,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-06-10",
-   "insider": "Numoto Takeshi",
-   "role": "EVP, Chief Marketing Officer",
-   "code": "S",
-   "kind": "Verkauf",
-   "shares": 4500,
-   "price": 402.84,
-   "value": 1812780,
-   "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000121/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 20,
-   "company": "Microsoft",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-06-09",
    "insider": "Troim Tor Olav",
    "role": "Director",
@@ -6821,23 +6724,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-05-07",
-   "insider": "Drouillard Vincent",
-   "role": "General Counsel",
-   "code": "S",
-   "kind": "Verkauf",
-   "shares": 4504,
-   "price": 150.0,
-   "value": 675600,
-   "url": "https://www.sec.gov/Archives/edgar/data/1378789/000095015726000587/",
-   "source": "SEC",
-   "firstSeen": "2026-06-20T06:39:41+00:00",
-   "companyId": 25,
-   "company": "AerCap Holdings",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-05-06",
    "insider": "HEARTY JAMES O",
    "role": "Chief Compliance Officer",
@@ -7040,40 +6926,6 @@
    "company": "BAWAG",
    "asset": "Aktien",
    "status": "Portfolio"
-  },
-  {
-   "date": "2026-05-01",
-   "insider": "Clay Catherine R",
-   "role": "CEO, S&P Dow Jones Indices",
-   "code": "P",
-   "kind": "Kauf",
-   "shares": 2500,
-   "price": 431.39,
-   "value": 1078475,
-   "url": "https://www.sec.gov/Archives/edgar/data/64040/000185349726000004/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
-  },
-  {
-   "date": "2026-04-30",
-   "insider": "Moritz Robert Edward Jr.",
-   "role": "Director",
-   "code": "P",
-   "kind": "Kauf",
-   "shares": 1151,
-   "price": 434.03,
-   "value": 500000,
-   "url": "https://www.sec.gov/Archives/edgar/data/64040/000203383426000014/",
-   "source": "SEC",
-   "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 34,
-   "company": "S&P Global",
-   "asset": "Aktien",
-   "status": "Watchlist"
   },
   {
    "date": "2026-04-29",
