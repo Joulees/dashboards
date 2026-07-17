@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-17T03:38:32+00:00",
+ "generatedAt": "2026-07-17T05:23:59+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -1334,19 +1334,6 @@
   },
   "17": {
    "news": [
-    {
-     "date": "2026-07-14",
-     "title": "Watch the Kaspi Event: Mikheil Lomtadze Unveils Kasper",
-     "summary": "Watch the Kaspi Event: Mikheil Lomtadze Unveils Kasper GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0dYVnUwQmRQODNZaVl6YzZuQzZ1VF9KWmtTTGhNc1N3LXFYblMwVDhBaWlhYlhNSnJVM3ZLU3VCd0tPa3RaN01pamQ3UE5mQjJaUG56dmFxY3FYYVJsUk5PUnY3ZzlhckVRT3doaE5qenhSQlVHaWNQcG9Zb2pNeTNSdEV6ZGlZNTExOGk4R3lYNmp3WEIyeGpEVU1xeGpzRWdGbU15SFozZEpxdWx0aDVyNlRKdUJuWTduQmhhc2ZTaGM?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-15T03:36:00+00:00",
-     "companyId": 17,
-     "company": "Kaspi.kz",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-07-14",
      "title": "Kaspi.kz to Announce 2nd Quarter & 1st Half 2026 Financial Results on 10th August",
@@ -3917,19 +3904,6 @@
    "firstSeen": "2026-07-15T05:11:01+00:00",
    "companyId": 31,
    "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-14",
-   "title": "Watch the Kaspi Event: Mikheil Lomtadze Unveils Kasper",
-   "summary": "Watch the Kaspi Event: Mikheil Lomtadze Unveils Kasper GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0dYVnUwQmRQODNZaVl6YzZuQzZ1VF9KWmtTTGhNc1N3LXFYblMwVDhBaWlhYlhNSnJVM3ZLU3VCd0tPa3RaN01pamQ3UE5mQjJaUG56dmFxY3FYYVJsUk5PUnY3ZzlhckVRT3doaE5qenhSQlVHaWNQcG9Zb2pNeTNSdEV6ZGlZNTExOGk4R3lYNmp3WEIyeGpEVU1xeGpzRWdGbU15SFozZEpxdWx0aDVyNlRKdUJuWTduQmhhc2ZTaGM?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-15T03:36:00+00:00",
-   "companyId": 17,
-   "company": "Kaspi.kz",
    "asset": "Aktien",
    "status": "Portfolio"
   },
