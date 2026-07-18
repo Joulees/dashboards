@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-18T03:33:07+00:00",
+ "generatedAt": "2026-07-18T05:06:14+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -387,6 +387,19 @@
     },
     {
      "date": "2026-06-29",
+     "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
+     "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
+     "source": "WirtschaftsWoche",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-18T03:33:07+00:00",
+     "companyId": 8,
+     "company": "Prosus",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-29",
      "title": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth",
      "summary": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth WSJ",
      "source": "WSJ",
@@ -406,19 +419,6 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2JlUmUtLVJBQTI2RDkyN3lFdDUyalVRTmVKaWx3TWVGRkpiZWptWExWTGRUU25qVW9EUFo4a010VHd0b1VXRGZrYlV3VUpsQUtRYUpJc2U5bVlzeVU3WG9NS0F5czhKWEFXeFpGUEg4NUJDaWJqT3EyWHF3TTBNZkJ5RlJaOWxvUFBaNl9OblN4VmtCYWRnMi1TbG5iUzFJNmMwZzlpZ0pqbzRjQ0hOTkNCUQ?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-06-30T04:33:28+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-29",
-     "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
-     "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
-     "source": "WirtschaftsWoche",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-18T03:33:07+00:00",
      "companyId": 8,
      "company": "Prosus",
      "asset": "Anleihen",
@@ -687,13 +687,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-01",
-     "title": "GRAPHIC PACKAGING HOLDING COMPANY INVESTORS WITH LOSSES",
-     "summary": "GRAPHIC PACKAGING HOLDING COMPANY INVESTORS WITH LOSSES GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNQjdRV1pKaktiN1N3cFpyZk9sVEQ0YU82ejBQSmMweHFGVWp1NnNkazlfQ1pSUkF2RHUtMWZ5eTdQS0VxTHJjNV9najNpWjBRdDF3aE1YUm5xZkRwNXkyNS0wbVNhRXlOemJGMDg1QTQ3Z0o5Mk5iX2laTHd5VG5YREh3TjVGOExPVExUTFRlRTJYeVJEWWFiWjk4NS01Vko5dFdIVmk1bGpVQllfUjRCT3R0ZEFlY0lSaDBkQ05HeGZ3ZWMxRkc4ZmdCajRGNzZ2Zy16ZW14NDdNQUdXYktVVFRVMmJKeG9HUk4yeFhzeDRhYWU5UmZCbWxwQTFHZGJyMThMWUUwRzBqQmxJLXowVG1tM0ZhTEwzVXFTdDR4YzE3dDRNQkdOcC1xZEJ3am1wRGpCekNHVlJCTzZGVWVOaFlfMVB0Vnc?oc=5",
+     "date": "2026-07-02",
+     "title": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
+     "summary": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQendtQ25rSXl2TTFsTVBVYUh5aHMta0NiQ3NuSVpMbDM0SWRnbWZja0ZGQ1dFNThWdFlFTEEyUUwzMWNGSFl0ZGhyRzJiYmFUQjIxVEdnMDNYV2JucFpmRHJVWXhNR21QRVNhcEdVX0JPMnhDNno3TW9tc29ZeV82WHFRekpLWUZ0SmJIclNSbGQ0MDV0YVFuakNhQUhxbzF0ZGg0VVlRMUFsOUhINFRJNE5pSDZhamR2UHlOaExieVJIeUZEdV9TVTFaYnVJVjZObjdRNTJVRFBFZ0hQd3BsUVJURjRVOWxaTVEwbldDY1FKYm8tbldGVXgxWUR3Ni01UDNhdmplNUd1WUJiWWlIV0FLODd3RGpkNzNnOFZ1TDctdw?oc=5",
      "category": "Earnings",
-     "firstSeen": "2026-07-18T03:33:07+00:00",
+     "firstSeen": "2026-07-18T05:06:14+00:00",
      "companyId": 11,
      "company": "Graphic Packaging",
      "asset": "Anleihen",
@@ -2661,7 +2661,21 @@
    }
   },
   "25": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-06-29",
+     "title": "AerCap Holdings N.V. Announces Pricing of $900 Million Aggregate Principal Amount of Senior Notes",
+     "summary": "AerCap Holdings N.V. Announces Pricing of $900 Million Aggregate Principal Amount of Senior Notes PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeFFmbmRHLXVraGZvVWJpdFhmdWRKcGtKZVkwemk3T3AxOUlGak1NNjF0VWkxeGRpaDF0cEZ4bjVoRDdxMEtzY0JJUmY4UmtWdmJpUU4zZm00RWdfRnFxeWxCV3g3SU5EYjVHRVB4QldsR015UElaTnlidmxTbDl3eEJ1Q05zbE9UOHNOcFNPdlJZMDRySGowUGNtVUdDd1BLc21DaXhoNkxnUGpDUHhKWHY4WTNkNG44ZHFFZ2ZkZzRjLVB4ODF3SmIycVR5cGNYYWpDb2RIZzhpVXowanVvc2JVZHY?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-18T05:06:14+00:00",
+     "companyId": 25,
+     "company": "AerCap Holdings",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-07-29",
@@ -4463,6 +4477,19 @@
   },
   {
    "date": "2026-07-02",
+   "title": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit",
+   "summary": "GPK Deadline: GPK Investors with Losses in Excess of $100K Have Opportunity to Lead Graphic Packaging Holding Company Securities Fraud Lawsuit PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQendtQ25rSXl2TTFsTVBVYUh5aHMta0NiQ3NuSVpMbDM0SWRnbWZja0ZGQ1dFNThWdFlFTEEyUUwzMWNGSFl0ZGhyRzJiYmFUQjIxVEdnMDNYV2JucFpmRHJVWXhNR21QRVNhcEdVX0JPMnhDNno3TW9tc29ZeV82WHFRekpLWUZ0SmJIclNSbGQ0MDV0YVFuakNhQUhxbzF0ZGg0VVlRMUFsOUhINFRJNE5pSDZhamR2UHlOaExieVJIeUZEdV9TVTFaYnVJVjZObjdRNTJVRFBFZ0hQd3BsUVJURjRVOWxaTVEwbldDY1FKYm8tbldGVXgxWUR3Ni01UDNhdmplNUd1WUJiWWlIV0FLODd3RGpkNzNnOFZ1TDctdw?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-18T05:06:14+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-02",
    "title": "Post Holdings Reports Higher Profit, Revenue",
    "summary": "Post Holdings Reports Higher Profit, Revenue WSJ",
    "source": "WSJ",
@@ -4471,19 +4498,6 @@
    "firstSeen": "2026-07-15T03:36:00+00:00",
    "companyId": 12,
    "company": "Post Holdings",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-01",
-   "title": "GRAPHIC PACKAGING HOLDING COMPANY INVESTORS WITH LOSSES",
-   "summary": "GRAPHIC PACKAGING HOLDING COMPANY INVESTORS WITH LOSSES GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNQjdRV1pKaktiN1N3cFpyZk9sVEQ0YU82ejBQSmMweHFGVWp1NnNkazlfQ1pSUkF2RHUtMWZ5eTdQS0VxTHJjNV9najNpWjBRdDF3aE1YUm5xZkRwNXkyNS0wbVNhRXlOemJGMDg1QTQ3Z0o5Mk5iX2laTHd5VG5YREh3TjVGOExPVExUTFRlRTJYeVJEWWFiWjk4NS01Vko5dFdIVmk1bGpVQllfUjRCT3R0ZEFlY0lSaDBkQ05HeGZ3ZWMxRkc4ZmdCajRGNzZ2Zy16ZW14NDdNQUdXYktVVFRVMmJKeG9HUk4yeFhzeDRhYWU5UmZCbWxwQTFHZGJyMThMWUUwRzBqQmxJLXowVG1tM0ZhTEwzVXFTdDR4YzE3dDRNQkdOcC1xZEJ3am1wRGpCekNHVlJCTzZGVWVOaFlfMVB0Vnc?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-18T03:33:07+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
    "asset": "Anleihen",
    "status": "Portfolio"
   },
@@ -4554,6 +4568,19 @@
   },
   {
    "date": "2026-06-29",
+   "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
+   "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
+   "source": "WirtschaftsWoche",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
+   "category": "Earnings",
+   "firstSeen": "2026-07-18T03:33:07+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
    "title": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth",
    "summary": "Prosus Targets $5 Billion Buyback, More Acquisitions to Drive Growth WSJ",
    "source": "WSJ",
@@ -4573,19 +4600,6 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2JlUmUtLVJBQTI2RDkyN3lFdDUyalVRTmVKaWx3TWVGRkpiZWptWExWTGRUU25qVW9EUFo4a010VHd0b1VXRGZrYlV3VUpsQUtRYUpJc2U5bVlzeVU3WG9NS0F5czhKWEFXeFpGUEg4NUJDaWJqT3EyWHF3TTBNZkJ5RlJaOWxvUFBaNl9OblN4VmtCYWRnMi1TbG5iUzFJNmMwZzlpZ0pqbzRjQ0hOTkNCUQ?oc=5",
    "category": "Earnings",
    "firstSeen": "2026-06-30T04:33:28+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
-   "title": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn",
-   "summary": "Delivery-Hero-Großaktionär Prosus steigert Umsatz und Gewinn WirtschaftsWoche",
-   "source": "WirtschaftsWoche",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanFDM3NmYnF0MVpSQ253WDZjWnc5ZUIyYUFSVEd1anpaUUFvdVJUSUg5WE41RThkbU1Zak0xQjJNQklmV3RfNXkwOXhzcTFPendvcVFBUmF1R3VfYkJZRlNVNzVUUk9fN0gwMDZueDNHQ2Y4aVNPV3N4V2VuVzhVbThpSmdJN3lZd1EzbVJVODJZZUN4Y192Wnd2blU2a21HaE40SEt4Q1VHWnZWU3gxcU1KS0dvaW1CWmdqYUt1TkI?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-18T03:33:07+00:00",
    "companyId": 8,
    "company": "Prosus",
    "asset": "Anleihen",
@@ -4614,6 +4628,19 @@
    "firstSeen": "2026-06-30T04:33:28+00:00",
    "companyId": 24,
    "company": "Amcor",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-29",
+   "title": "AerCap Holdings N.V. Announces Pricing of $900 Million Aggregate Principal Amount of Senior Notes",
+   "summary": "AerCap Holdings N.V. Announces Pricing of $900 Million Aggregate Principal Amount of Senior Notes PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeFFmbmRHLXVraGZvVWJpdFhmdWRKcGtKZVkwemk3T3AxOUlGak1NNjF0VWkxeGRpaDF0cEZ4bjVoRDdxMEtzY0JJUmY4UmtWdmJpUU4zZm00RWdfRnFxeWxCV3g3SU5EYjVHRVB4QldsR015UElaTnlidmxTbDl3eEJ1Q05zbE9UOHNOcFNPdlJZMDRySGowUGNtVUdDd1BLc21DaXhoNkxnUGpDUHhKWHY4WTNkNG44ZHFFZ2ZkZzRjLVB4ODF3SmIycVR5cGNYYWpDb2RIZzhpVXowanVvc2JVZHY?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-18T05:06:14+00:00",
+   "companyId": 25,
+   "company": "AerCap Holdings",
    "asset": "Aktien",
    "status": "Portfolio"
   },
