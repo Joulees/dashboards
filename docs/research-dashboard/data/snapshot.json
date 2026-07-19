@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-19T03:55:19+00:00",
+ "generatedAt": "2026-07-19T05:32:46+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -1359,19 +1359,6 @@
      "company": "Kaspi.kz",
      "asset": "Aktien",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-24",
-     "title": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye",
-     "summary": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU1IVW8xeEJsaC1NTWVQTGw0YjdTVE5oNS1WWkJzTXNPMGlnY2Y5MFlOQ3pkVW1EMElfb0FSRVdCVDJNUWU4Z0ZrREwyMFlXa3B5dzFtc1g2c3cxQmZkYTN2OE01R2FINl9QcTNLcGRUajQ0Tm5RMzlXUXZpWTVuMmhJaXBwZndINDZTVlBhMl8tbjZIcUJCZFQ1bzlJLTNTcGFCUHBzOGdscUlzMl9Fd0ZDcG9lVHZsOGxTTmZHVDhPZ1VsYTRiSUxITDdUbVZUOWhIRFd5UUFHRzduUzVBcEN5M1FQejNXb0E?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-19T03:55:19+00:00",
-     "companyId": 17,
-     "company": "Kaspi.kz",
-     "asset": "Aktien",
-     "status": "Portfolio"
     }
    ],
    "events": [
@@ -1460,12 +1447,12 @@
     },
     {
      "date": "2026-07-07",
-     "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
-     "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
+     "title": "Amazon aims to raise $25 billion from bond sale",
+     "summary": "Amazon aims to raise $25 billion from bond sale Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
      "category": "Rating",
-     "firstSeen": "2026-07-17T03:38:32+00:00",
+     "firstSeen": "2026-07-19T03:55:19+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -1473,12 +1460,12 @@
     },
     {
      "date": "2026-07-07",
-     "title": "Amazon aims to raise $25 billion from bond sale",
-     "summary": "Amazon aims to raise $25 billion from bond sale Reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
+     "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
+     "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
      "category": "Rating",
-     "firstSeen": "2026-07-19T03:55:19+00:00",
+     "firstSeen": "2026-07-17T03:38:32+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -1982,7 +1969,21 @@
      "firstSeen": "2026-06-17T13:12:03+00:00"
     }
    ],
-   "insider": [],
+   "insider": [
+    {
+     "date": "2026-06-10",
+     "insider": "Numoto Takeshi",
+     "role": "EVP, Chief Marketing Officer",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 4500,
+     "price": 402.84,
+     "value": 1812780,
+     "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000121/",
+     "source": "SEC",
+     "firstSeen": "2026-07-19T05:32:46+00:00"
+    }
+   ],
    "tech": {
     "currency": "USD",
     "closes": [
@@ -2701,6 +2702,19 @@
      "firstSeen": "2026-06-17T12:50:24+00:00"
     },
     {
+     "date": "2026-05-07",
+     "insider": "Drouillard Vincent",
+     "role": "General Counsel",
+     "code": "S",
+     "kind": "Verkauf",
+     "shares": 4504,
+     "price": 150.0,
+     "value": 675600,
+     "url": "https://www.sec.gov/Archives/edgar/data/1378789/000095015726000587/",
+     "source": "SEC",
+     "firstSeen": "2026-07-19T05:32:46+00:00"
+    },
+    {
      "date": "2026-05-06",
      "insider": "Kelly Aengus",
      "role": "Chief Executive Officer",
@@ -3372,6 +3386,19 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PakZpQThHSTFpVExQS0tXbDI3TG02VFJTc3JHcmhMRUJzNXNKenJWcERvNkdZc2JpcW1oMEwyUmx2c0FzSzVCcTkyT18wcmdFVFEwNnA3a2NwZk1Ec2xzTnB2bnRGLVRFSEltYmFQVlo3U052cUJ2S0lnbnlNdFU?oc=5",
      "category": "Rating",
      "firstSeen": "2026-07-10T04:15:25+00:00",
+     "companyId": 32,
+     "company": "Salesforce",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-09",
+     "title": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade",
+     "summary": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade CNBC",
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalhPOFFvUURxeXp4ZjVMMkUtSnU4ejh4QjB3ay1WZE9qME9kdE5KM29KQ2tZYi1ONGJFYWdsbHdteXJvOGY5UnF2endfVFFMeG1PbHhRU1lhVU9pNDY1RHhQc2NSRmpOcldLYXR2VmY3ejhPVVdUOXNRN1dOSnVfa1FicVF3a01aX1RGWm1sSF9xTHBCS25OM0VPRndCS1lhTW43ZHJ3VDhnUmM5VjRXMFE2S0Y?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-19T05:32:46+00:00",
      "companyId": 32,
      "company": "Salesforce",
      "asset": "Aktien",
@@ -4083,6 +4110,19 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-07-09",
+   "title": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade",
+   "summary": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade CNBC",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalhPOFFvUURxeXp4ZjVMMkUtSnU4ejh4QjB3ay1WZE9qME9kdE5KM29KQ2tZYi1ONGJFYWdsbHdteXJvOGY5UnF2endfVFFMeG1PbHhRU1lhVU9pNDY1RHhQc2NSRmpOcldLYXR2VmY3ejhPVVdUOXNRN1dOSnVfa1FicVF3a01aX1RGWm1sSF9xTHBCS25OM0VPRndCS1lhTW43ZHJ3VDhnUmM5VjRXMFE2S0Y?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-19T05:32:46+00:00",
+   "companyId": 32,
+   "company": "Salesforce",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-07-08",
    "title": "Amazon’s $25B ‘surprise’ bond sale lured buyers in with extra yield—flashing an AI boom warning sign",
    "summary": "Amazon’s $25B ‘surprise’ bond sale lured buyers in with extra yield—flashing an AI boom warning sign Fortune",
@@ -4175,12 +4215,12 @@
   },
   {
    "date": "2026-07-07",
-   "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
-   "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
+   "title": "Amazon aims to raise $25 billion from bond sale",
+   "summary": "Amazon aims to raise $25 billion from bond sale Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
    "category": "Rating",
-   "firstSeen": "2026-07-17T03:38:32+00:00",
+   "firstSeen": "2026-07-19T03:55:19+00:00",
    "companyId": 18,
    "company": "Amazon",
    "asset": "Aktien",
@@ -4188,12 +4228,12 @@
   },
   {
    "date": "2026-07-07",
-   "title": "Amazon aims to raise $25 billion from bond sale",
-   "summary": "Amazon aims to raise $25 billion from bond sale Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
+   "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
+   "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
    "category": "Rating",
-   "firstSeen": "2026-07-19T03:55:19+00:00",
+   "firstSeen": "2026-07-17T03:38:32+00:00",
    "companyId": 18,
    "company": "Amazon",
    "asset": "Aktien",
@@ -4497,19 +4537,6 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-24",
-   "title": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye",
-   "summary": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU1IVW8xeEJsaC1NTWVQTGw0YjdTVE5oNS1WWkJzTXNPMGlnY2Y5MFlOQ3pkVW1EMElfb0FSRVdCVDJNUWU4Z0ZrREwyMFlXa3B5dzFtc1g2c3cxQmZkYTN2OE01R2FINl9QcTNLcGRUajQ0Tm5RMzlXUXZpWTVuMmhJaXBwZndINDZTVlBhMl8tbjZIcUJCZFQ1bzlJLTNTcGFCUHBzOGdscUlzMl9Fd0ZDcG9lVHZsOGxTTmZHVDhPZ1VsYTRiSUxITDdUbVZUOWhIRFd5UUFHRzduUzVBcEN5M1FQejNXb0E?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-19T03:55:19+00:00",
-   "companyId": 17,
-   "company": "Kaspi.kz",
-   "asset": "Aktien",
-   "status": "Portfolio"
   },
   {
    "date": "2026-06-23",
@@ -6052,6 +6079,23 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-06-10",
+   "insider": "Numoto Takeshi",
+   "role": "EVP, Chief Marketing Officer",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 4500,
+   "price": 402.84,
+   "value": 1812780,
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000121/",
+   "source": "SEC",
+   "firstSeen": "2026-07-19T05:32:46+00:00",
+   "companyId": 20,
+   "company": "Microsoft",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-06-09",
    "insider": "Troim Tor Olav",
    "role": "Director",
@@ -6559,6 +6603,23 @@
    "companyId": 13,
    "company": "Da Vita",
    "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-05-07",
+   "insider": "Drouillard Vincent",
+   "role": "General Counsel",
+   "code": "S",
+   "kind": "Verkauf",
+   "shares": 4504,
+   "price": 150.0,
+   "value": 675600,
+   "url": "https://www.sec.gov/Archives/edgar/data/1378789/000095015726000587/",
+   "source": "SEC",
+   "firstSeen": "2026-07-19T05:32:46+00:00",
+   "companyId": 25,
+   "company": "AerCap Holdings",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
