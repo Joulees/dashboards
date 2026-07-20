@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-20T04:05:34+00:00",
+ "generatedAt": "2026-07-20T05:50:25+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -362,19 +362,6 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVZ0LXBla3phQmFpa2NtYTFNTHV1WHc5MWNFRUdjbGlKQmVEeTNsQV9YclZjQ1NPWnprRWpQOU10N1ZLOVdZZDl4eEx6QUVyTHRSOFdTdnQ0d1lPdHJWa1ZhOFVvR0RtdlBsSHo3a2VnUHRWOFBwRnFxTl9sVENzX3VJRFZ0NG9ET1dlelNYbVNYYkxrTnlMWlJMTWxKd3g1MUhiUjNMM0Q0NUtlVUpwSEhoMA?oc=5",
      "category": "M&A",
      "firstSeen": "2026-06-29T07:02:57+00:00",
-     "companyId": 8,
-     "company": "Prosus",
-     "asset": "Anleihen",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-29",
-     "title": "Prosus Profit Jumps as Bets on E-Commerce Businesses Pay Off",
-     "summary": "Prosus Profit Jumps as Bets on E-Commerce Businesses Pay Off Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2JlUmUtLVJBQTI2RDkyN3lFdDUyalVRTmVKaWx3TWVGRkpiZWptWExWTGRUU25qVW9EUFo4a010VHd0b1VXRGZrYlV3VUpsQUtRYUpJc2U5bVlzeVU3WG9NS0F5czhKWEFXeFpGUEg4NUJDaWJqT3EyWHF3TTBNZkJ5RlJaOWxvUFBaNl9OblN4VmtCYWRnMi1TbG5iUzFJNmMwZzlpZ0pqbzRjQ0hOTkNCUQ?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-06-30T04:33:28+00:00",
      "companyId": 8,
      "company": "Prosus",
      "asset": "Anleihen",
@@ -3062,19 +3049,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-08",
-     "title": "CICC Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
-     "summary": "CICC Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWhJTldiLXZfakRKb1ZLRjJ4cHBkeFNfdEVWNlFpV25jQUt5Um9Ba1hkNFI2YWJzUUI4X1NZWGlZVkdWR1pEYkpCUUhKTWt1QzZ6TXZab3lQMHVpdnQ2RVdud204T0dpenlEaVdINTd4R1lYRUc1c1ktaFNmdHJ6T1ZXWGVpS2xaRm8wUFlZOTlSRWxtZTN4NVFaRmtlVHdGdkZnVThMX25oTUgwNzNnMzFUazBwY2s0c0lyWnZDSFI0NU14MjB1NXlSRzB6Zk45STNYY3NuME5jR0k?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-20T04:05:34+00:00",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-07-07",
      "title": "Tencent Cuts Kuaishou Stake as Video Platform Presses Ahead With Share Buybacks",
      "summary": "Tencent Cuts Kuaishou Stake as Video Platform Presses Ahead With Share Buybacks The Globe and Mail",
@@ -3095,6 +3069,19 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUY5S2ROTmhyZWVFcWY2Rm9VR2k2enM0SzUxakFPMzREVkFxMXp2RHFUcVZFS0UwZkNPRGsxTThyLUZuLWhiWWtIcktrV2ZXYmxONXl1SDdCN0NnaVZITG9RckEtYy01S2lNNzNybEwxZUdsbFBlcTVxSXFFZ0tzSEoybzRCU2YtVURhaFYzdm5rY2l3TTNQSWpHcG1OTVEzalRTSjdsSXNKVTFmWlFPdlFmV2ZCczY3S2VNT1dsWGl1djg?oc=5",
      "category": "Guidance",
      "firstSeen": "2026-07-07T04:17:16+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-07-06",
+     "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
+     "summary": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou Bloomberg.com",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFFOG5FWGhfQm5EZTIyNS1Ccm1fQk1KRnJpOVBiWXljWGQ4Q2w1UFFIT3FINm9Cd3lPSzhLM0FzTjMyb1ZjRkJ0RDJ4QmdRQzhCc1lpYkx0eW1saVZFd1JHNk5BMnFhNDhwZHRId3VUZUs2Q1B0a3ZpVUpQT2Zmb19KRDhwQ09SeWwwU2RIRmNUOEppNkFqdWtCYW85NlBoblJoWTJIVEFnLU1Y?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-20T05:50:25+00:00",
      "companyId": 31,
      "company": "Tencent",
      "asset": "Aktien",
@@ -3992,19 +3979,6 @@
    "status": "Portfolio"
   },
   {
-   "date": "2026-07-08",
-   "title": "CICC Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
-   "summary": "CICC Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWhJTldiLXZfakRKb1ZLRjJ4cHBkeFNfdEVWNlFpV25jQUt5Um9Ba1hkNFI2YWJzUUI4X1NZWGlZVkdWR1pEYkpCUUhKTWt1QzZ6TXZab3lQMHVpdnQ2RVdud204T0dpenlEaVdINTd4R1lYRUc1c1ktaFNmdHJ6T1ZXWGVpS2xaRm8wUFlZOTlSRWxtZTN4NVFaRmtlVHdGdkZnVThMX25oTUgwNzNnMzFUazBwY2s0c0lyWnZDSFI0NU14MjB1NXlSRzB6Zk45STNYY3NuME5jR0k?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-20T04:05:34+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
    "date": "2026-07-07",
    "title": "A.I.S. Resources Announces Geophysical and Mineral",
    "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
@@ -4077,6 +4051,19 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUY5S2ROTmhyZWVFcWY2Rm9VR2k2enM0SzUxakFPMzREVkFxMXp2RHFUcVZFS0UwZkNPRGsxTThyLUZuLWhiWWtIcktrV2ZXYmxONXl1SDdCN0NnaVZITG9RckEtYy01S2lNNzNybEwxZUdsbFBlcTVxSXFFZ0tzSEoybzRCU2YtVURhaFYzdm5rY2l3TTNQSWpHcG1OTVEzalRTSjdsSXNKVTFmWlFPdlFmV2ZCczY3S2VNT1dsWGl1djg?oc=5",
    "category": "Guidance",
    "firstSeen": "2026-07-07T04:17:16+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-06",
+   "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
+   "summary": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFFOG5FWGhfQm5EZTIyNS1Ccm1fQk1KRnJpOVBiWXljWGQ4Q2w1UFFIT3FINm9Cd3lPSzhLM0FzTjMyb1ZjRkJ0RDJ4QmdRQzhCc1lpYkx0eW1saVZFd1JHNk5BMnFhNDhwZHRId3VUZUs2Q1B0a3ZpVUpQT2Zmb19KRDhwQ09SeWwwU2RIRmNUOEppNkFqdWtCYW85NlBoblJoWTJIVEFnLU1Y?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-20T05:50:25+00:00",
    "companyId": 31,
    "company": "Tencent",
    "asset": "Aktien",
@@ -4259,19 +4246,6 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVZ0LXBla3phQmFpa2NtYTFNTHV1WHc5MWNFRUdjbGlKQmVEeTNsQV9YclZjQ1NPWnprRWpQOU10N1ZLOVdZZDl4eEx6QUVyTHRSOFdTdnQ0d1lPdHJWa1ZhOFVvR0RtdlBsSHo3a2VnUHRWOFBwRnFxTl9sVENzX3VJRFZ0NG9ET1dlelNYbVNYYkxrTnlMWlJMTWxKd3g1MUhiUjNMM0Q0NUtlVUpwSEhoMA?oc=5",
    "category": "M&A",
    "firstSeen": "2026-06-29T07:02:57+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-29",
-   "title": "Prosus Profit Jumps as Bets on E-Commerce Businesses Pay Off",
-   "summary": "Prosus Profit Jumps as Bets on E-Commerce Businesses Pay Off Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2JlUmUtLVJBQTI2RDkyN3lFdDUyalVRTmVKaWx3TWVGRkpiZWptWExWTGRUU25qVW9EUFo4a010VHd0b1VXRGZrYlV3VUpsQUtRYUpJc2U5bVlzeVU3WG9NS0F5czhKWEFXeFpGUEg4NUJDaWJqT3EyWHF3TTBNZkJ5RlJaOWxvUFBaNl9OblN4VmtCYWRnMi1TbG5iUzFJNmMwZzlpZ0pqbzRjQ0hOTkNCUQ?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-06-30T04:33:28+00:00",
    "companyId": 8,
    "company": "Prosus",
    "asset": "Anleihen",
