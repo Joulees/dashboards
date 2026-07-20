@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-19T05:32:46+00:00",
+ "generatedAt": "2026-07-20T04:05:34+00:00",
  "companies": {
   "1": {
    "news": [],
@@ -25,17 +25,6 @@
   "2": {
    "news": [],
    "events": [
-    {
-     "date": "2026-07-14",
-     "type": "Earnings",
-     "title": "Vitec Software: Quartalszahlen (Wettbewerber)",
-     "company": "Vitec Software",
-     "companyId": 2,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Chapters",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
     {
      "date": "2026-08-05",
      "type": "Earnings",
@@ -69,28 +58,6 @@
   "3": {
    "news": [],
    "events": [
-    {
-     "date": "2026-07-15",
-     "type": "Earnings",
-     "title": "Aker BP: Quartalszahlen (Wettbewerber)",
-     "company": "Aker BP",
-     "companyId": 3,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "International Petroleum",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-07-29",
-     "type": "Earnings",
-     "title": "Vermilion Energy: Quartalszahlen (Wettbewerber)",
-     "company": "Vermilion Energy",
-     "companyId": 3,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "International Petroleum",
-     "firstSeen": "2026-07-13T04:02:22+00:00"
-    },
     {
      "date": "2026-08-04",
      "type": "Earnings",
@@ -138,18 +105,7 @@
      "firstSeen": "2026-07-13T04:02:22+00:00"
     },
     {
-     "date": "2026-08-05",
-     "type": "Earnings",
-     "title": "Transocean: Quartalszahlen (Wettbewerber)",
-     "company": "Transocean",
-     "companyId": 4,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Borr",
-     "firstSeen": "2026-07-13T04:02:22+00:00"
-    },
-    {
-     "date": "2026-08-05",
+     "date": "2026-08-10",
      "type": "Earnings",
      "title": "Seadrill: Quartalszahlen (Wettbewerber)",
      "company": "Seadrill",
@@ -157,17 +113,17 @@
      "source": "Yahoo Finance",
      "peer": true,
      "peerOf": "Borr",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     },
     {
-     "date": "2026-08-12",
+     "date": "2026-08-11",
      "type": "Earnings",
      "title": "Borr: Quartalszahlen",
      "company": "Borr",
      "companyId": 4,
      "source": "Yahoo Finance",
      "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     }
    ],
    "insider": [
@@ -233,6 +189,19 @@
   "5": {
    "news": [
     {
+     "date": "2026-07-07",
+     "title": "A.I.S. Resources Announces Geophysical and Mineral",
+     "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLV9TalN5aVJqNEJUdGpmZWh5OEU1NUNfbldmbHdlWm9CYVpBeTBTNjBsazJlSEJNb3pNUHRqek43dUNXNEVxeTFlTzBCMkRfcUF6S2xId1d2YV9OOTB5SFE3WjVoeks1bVFQekFBTUNRX21ib01BMXJDdmgwc0hUMUtidmQ0ZGh3T09oRGNEaEt1YjlreTFDQXZHbGdLcHZvWV9Nd0NEdkh3X1RWVGJSdTZxeldTckpmNHhZdXd0OTdBa2U0M0FlSkVoRDkta0xWRUdPcnJmc3JYa2VVZG1lQWFZM3NYZGtUbmFNM0NiTG4yMEhlRUJqUkw3N1k5YzM0Yk1GQ0FnNlRvT1Ixdm9rbnh5OFYzUjA0WEhaX0s5eU1yQ2JFbVdMZjV6OS1KTC1tZlZmbldtazFMbmpUNmlvZzlmZ0poY29WYlAyTA?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-06-29",
      "title": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache",
      "summary": "Temas Resources Confirms Extensive High-Grade Mineralisation and Multiple Critical Mineral Credits at La Blache Newswire.com",
@@ -270,6 +239,17 @@
      "peer": true,
      "peerOf": "Mineral Resources",
      "firstSeen": "2026-07-13T04:02:22+00:00"
+    },
+    {
+     "date": "2026-08-24",
+     "type": "Earnings",
+     "title": "Pilbara Minerals: Quartalszahlen (Wettbewerber)",
+     "company": "Pilbara Minerals",
+     "companyId": 5,
+     "source": "Yahoo Finance",
+     "peer": true,
+     "peerOf": "Mineral Resources",
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     }
    ],
    "insider": [],
@@ -283,17 +263,6 @@
    "news": [],
    "events": [
     {
-     "date": "2026-07-28",
-     "type": "Earnings",
-     "title": "Electronic Arts: Quartalszahlen (Wettbewerber)",
-     "company": "Electronic Arts",
-     "companyId": 6,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Ubisoft",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
      "date": "2026-08-07",
      "type": "Earnings",
      "title": "Take-Two Interactive: Quartalszahlen (Wettbewerber)",
@@ -305,7 +274,7 @@
      "firstSeen": "2026-07-13T04:02:22+00:00"
     },
     {
-     "date": "2026-08-27",
+     "date": "2026-09-02",
      "type": "Earnings",
      "title": "CD Projekt: Quartalszahlen (Wettbewerber)",
      "company": "CD Projekt",
@@ -313,7 +282,7 @@
      "source": "Yahoo Finance",
      "peer": true,
      "peerOf": "Ubisoft",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     }
    ],
    "insider": [],
@@ -412,13 +381,13 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-06-19",
-     "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
-     "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-19T03:55:19+00:00",
+     "date": "2026-06-24",
+     "title": "Prosus launches ToqanClaw to help businesses build AI tools through conversation",
+     "summary": "Prosus launches ToqanClaw to help businesses build AI tools through conversation Fortune India",
+     "source": "Fortune India",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUVULUxia3RTcjRnYjNjWmtOWUZMLXMwSW1KRWdiaW1WaEIzZEJtUDduUXNRUHZ1ODZXc2kyWGtYOFBacERRR3BWUmRfaEg1aWFzQzhZdzVNM2pXOEVUa3U5OTlPNm8tWGJIc19xajh5b21BeExtZ0pTSEJVNzJBVkhsZThfTGVDb1NTS3R0bG94TTlXSHFGdjlFbUhYNnlOejNWd2FjdHRaN1JfeGRHd0pIaW5fUndJTE1OQjVwS25fRklRM0VRadIB1gFBVV95cUxPS1hhSjVzb3VqRnZTRVg5OXNXc3dJdTEwMXA4OGhMcUFqRTd4OXFtSDBKb0ZFb1BrUTBYcXE2ckxnSGRtRi1HeDU4ODFIeTkzYnNJWHBFY1RMQkV3cE45R2dNd2RXZGxmYzFEZUd1Z2lGbDBUbUh5cHc5YlF5NC16Q3pDdVMxS1lEeldFVWZEVUUzZ09ud3Yzd1VJQ3otUHF0TThBYXA0ODRzYmRuazhCZUlfYUphSW9KeGk0UlBPODBtOW8zakllMF9OR1V0MldIMVF6TlhR?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
      "companyId": 8,
      "company": "Prosus",
      "asset": "Anleihen",
@@ -471,7 +440,7 @@
      "firstSeen": "2026-06-17T13:12:03+00:00"
     },
     {
-     "date": "2026-08-13",
+     "date": "2026-08-18",
      "type": "Earnings",
      "title": "Klar: Quartalszahlen (Wettbewerber)",
      "company": "Klar",
@@ -479,7 +448,7 @@
      "source": "Yahoo Finance",
      "peer": true,
      "peerOf": "Banco Plato",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     }
    ],
    "insider": [],
@@ -568,16 +537,6 @@
     {
      "date": "2026-07-30",
      "type": "Earnings",
-     "title": "XPO: Quartalszahlen",
-     "company": "XPO",
-     "companyId": 10,
-     "source": "Yahoo Finance",
-     "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-07-30",
-     "type": "Earnings",
      "title": "Saia: Quartalszahlen (Wettbewerber)",
      "company": "Saia",
      "companyId": 10,
@@ -635,6 +594,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-07-05",
+     "title": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today",
+     "summary": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today ACCESS Newswire",
+     "source": "ACCESS Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLXhNYWpoVmEtTTRXYWludlp5ekFtcnYwZ2dRTlBZMERja0JERktleDBKbnQ0T3dGU0dPbFpOMW1sU2ExbkxlN0JHVjVQSzhUUkI1bnUwZldJV19lQ1JwVmg3eFJnMWFhd05DOVNaX29rd2VYYlhmbVdSbUlFbUdJa0Y2ckNtWTlXc25kQmRaOU9jSUdjNTg4cHl6aFJmdTkyckp5c0tndzZ3TjlpcHV2TERnQ1ZuZzdaamNNS1ByckNHNGhKeW9NQk1CQTVPNGk3MEhoc1J4eGpwWjNPNUN4STZFRXE?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
+     "companyId": 11,
+     "company": "Graphic Packaging",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-02",
      "title": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript",
      "summary": "Graphic Packaging Holding (GPK) Q1 2026 Earnings Call Transcript Fortune",
@@ -685,19 +657,6 @@
      "company": "Graphic Packaging",
      "asset": "Anleihen",
      "status": "Portfolio"
-    },
-    {
-     "date": "2026-06-25",
-     "title": "GRAPHIC PACKAGING DEADLINE REMINDER: Bragar Eagel & Squire,",
-     "summary": "GRAPHIC PACKAGING DEADLINE REMINDER: Bragar Eagel & Squire, GlobeNewswire",
-     "source": "GlobeNewswire",
-     "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNZGZ6WWlSb09lMXgzOEhFRzBMRGJMSUVldTNORzlSeTBQeS1mMXhLcnJWc0R3UjVwVUplNUxMYXFkbE1taUROSDFvbFNtbnhKSWxYTEZldk9BSEtYMmdfR3Qxc3ltb3VSMk9oWUtaZHdSbXUtUnFsWkRUOW5pX0R1VmpqUi1ZSkpKVUVoMVZxRFcwT3hWMlZVdFBSVkNUcm1JcE1Ubjl3TEYwMVhJSjZZV0JEQl8xVXJrWmRLalFrRXp1d2JxMjZfVlA5NUFVaENXeTA5X3ZDOHo2STBla1J6eGlPcEtyQ3BkWEtCV0M2WmpvVG9zOG9EX050NzA4MG4zdzEtM3doQ2xxVnF2dkhBdEtYNXBXZ0o3R1hBQmNJdGFlczRDYUNQSE9aVmIybjhkQ2xVQklfQXk2XzZMbzJtRWk2bUtXTFZCb25Db2hzelVOaEJIMGNuZkZwUFNYaXZzcVdMZjl0VTd6U3pq?oc=5",
-     "category": "Sonstiges",
-     "firstSeen": "2026-07-19T03:55:19+00:00",
-     "companyId": 11,
-     "company": "Graphic Packaging",
-     "asset": "Anleihen",
-     "status": "Portfolio"
     }
    ],
    "events": [
@@ -733,27 +692,6 @@
      "peer": true,
      "peerOf": "Graphic Packaging",
      "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-07-30",
-     "type": "Earnings",
-     "title": "International Paper: Quartalszahlen (Wettbewerber)",
-     "company": "International Paper",
-     "companyId": 11,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Graphic Packaging",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-08-04",
-     "type": "Earnings",
-     "title": "Graphic Packaging: Quartalszahlen",
-     "company": "Graphic Packaging",
-     "companyId": 11,
-     "source": "Yahoo Finance",
-     "peer": false,
-     "firstSeen": "2026-07-06T04:40:01+00:00"
     }
    ],
    "insider": [
@@ -806,13 +744,13 @@
   "12": {
    "news": [
     {
-     "date": "2026-07-02",
-     "title": "Post Holdings Reports Higher Profit, Revenue",
-     "summary": "Post Holdings Reports Higher Profit, Revenue WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnd6RU4zMzhJTTM1RFVEZmhQSXozYjhlZkRtLW5wNE4xWG9pcThPNktqYmRqU0p5Rm54UUt5cDhSUXhQcHNGd2ktWWFZc3lTMzNmNXgtaTkyS2tFbnltSkpJak96ZEg4dTkyV2tHdVdVaEc5RGJuYW1OVnlFZzN5Yld6cU1uMkk4NWpVcFo1Q3BuOGhGZ0p4X2JNblpDVHU5RjFuWHZFRzdrVHVsckYyTFZTSmZ2X1Q5OGtSMkNOdw?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-15T03:36:00+00:00",
+     "date": "2026-07-16",
+     "title": "Post Holdings Schedules Third Quarter Fiscal Year 2026 Conference Call – Company Announcement",
+     "summary": "Post Holdings Schedules Third Quarter Fiscal Year 2026 Conference Call – Company Announcement Financial Times",
+     "source": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDg4TUFaWGJPTWp1NVhvZEtMSlByUzRRQV9BUmxETXBqUG9JajA3YVYybzkxUW50THBzVE80eGc0a1hiYnoyUlhZaUFHMDJaS2x1WlVPLUQ4NlpXTk9sRkVXRGZHVHVGN00zVm1xU2IwdkVWNG96cS1Zbjg2Tkk1SEU3SGx6NHYzVHdPeHFQV3VGVWxWdkNqOA?oc=5",
+     "category": "Conference",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
      "companyId": 12,
      "company": "Post Holdings",
      "asset": "Anleihen",
@@ -820,17 +758,6 @@
     }
    ],
    "events": [
-    {
-     "date": "2026-07-15",
-     "type": "Earnings",
-     "title": "Conagra Brands: Quartalszahlen (Wettbewerber)",
-     "company": "Conagra Brands",
-     "companyId": 12,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Post Holdings",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
     {
      "date": "2026-08-06",
      "type": "Earnings",
@@ -840,17 +767,6 @@
      "source": "Yahoo Finance",
      "peer": false,
      "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-09-23",
-     "type": "Earnings",
-     "title": "General Mills: Quartalszahlen (Wettbewerber)",
-     "company": "General Mills",
-     "companyId": 12,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Post Holdings",
-     "firstSeen": "2026-07-06T04:40:01+00:00"
     }
    ],
    "insider": [],
@@ -863,17 +779,6 @@
   "13": {
    "news": [],
    "events": [
-    {
-     "date": "2026-08-04",
-     "type": "Earnings",
-     "title": "Fresenius Medical Care: Quartalszahlen (Wettbewerber)",
-     "company": "Fresenius Medical Care",
-     "companyId": 13,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Da Vita",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
     {
      "date": "2026-08-05",
      "type": "Earnings",
@@ -1039,29 +944,7 @@
      "status": "Portfolio"
     }
    ],
-   "events": [
-    {
-     "date": "2026-07-23",
-     "type": "Earnings",
-     "title": "Eurofins Scientific: Quartalszahlen",
-     "company": "Eurofins Scientific",
-     "companyId": 14,
-     "source": "Yahoo Finance",
-     "peer": false,
-     "firstSeen": "2026-07-13T04:02:22+00:00"
-    },
-    {
-     "date": "2026-07-30",
-     "type": "Earnings",
-     "title": "Labcorp: Quartalszahlen (Wettbewerber)",
-     "company": "Labcorp",
-     "companyId": 14,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Eurofins Scientific",
-     "firstSeen": "2026-07-06T04:40:01+00:00"
-    }
-   ],
+   "events": [],
    "insider": [],
    "tech": null,
    "profile": {
@@ -1117,25 +1000,14 @@
      "firstSeen": "2026-06-17T13:12:03+00:00"
     },
     {
-     "date": "2026-08-04",
-     "type": "Earnings",
-     "title": "The Carlyle Group: Quartalszahlen (Wettbewerber)",
-     "company": "The Carlyle Group",
-     "companyId": 15,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Brookfield Corp",
-     "firstSeen": "2026-07-13T04:02:22+00:00"
-    },
-    {
-     "date": "2026-08-06",
+     "date": "2026-08-13",
      "type": "Earnings",
      "title": "Brookfield Corp: Quartalszahlen",
      "company": "Brookfield Corp",
      "companyId": 15,
      "source": "Yahoo Finance",
      "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     }
    ],
    "insider": [],
@@ -1156,28 +1028,6 @@
      "companyId": 16,
      "source": "Yahoo Finance",
      "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-07-30",
-     "type": "Earnings",
-     "title": "Erste Group: Quartalszahlen (Wettbewerber)",
-     "company": "Erste Group",
-     "companyId": 16,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "BAWAG",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-07-31",
-     "type": "Earnings",
-     "title": "Raiffeisen Bank International: Quartalszahlen (Wettbewerber)",
-     "company": "Raiffeisen Bank International",
-     "companyId": 16,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "BAWAG",
      "firstSeen": "2026-06-17T13:12:03+00:00"
     }
    ],
@@ -1359,6 +1209,19 @@
      "company": "Kaspi.kz",
      "asset": "Aktien",
      "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-24",
+     "title": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye",
+     "summary": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU1IVW8xeEJsaC1NTWVQTGw0YjdTVE5oNS1WWkJzTXNPMGlnY2Y5MFlOQ3pkVW1EMElfb0FSRVdCVDJNUWU4Z0ZrREwyMFlXa3B5dzFtc1g2c3cxQmZkYTN2OE01R2FINl9QcTNLcGRUajQ0Tm5RMzlXUXZpWTVuMmhJaXBwZndINDZTVlBhMl8tbjZIcUJCZFQ1bzlJLTNTcGFCUHBzOGdscUlzMl9Fd0ZDcG9lVHZsOGxTTmZHVDhPZ1VsYTRiSUxITDdUbVZUOWhIRFd5UUFHRzduUzVBcEN5M1FQejNXb0E?oc=5",
+     "category": "M&A",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
+     "companyId": 17,
+     "company": "Kaspi.kz",
+     "asset": "Aktien",
+     "status": "Portfolio"
     }
    ],
    "events": [
@@ -1393,6 +1256,19 @@
   },
   "18": {
    "news": [
+    {
+     "date": "2026-07-15",
+     "title": "Amazon AWS executive and CEO advisor Dave Brown to leave after 19 years",
+     "summary": "Amazon AWS executive and CEO advisor Dave Brown to leave after 19 years Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGNaR0NoY0k3eTV6TmRkbUJxbllqaFVMY3lxazgySERyc1hzQVdSbHI0cF9aYlgzcTFLUFVvRC15NFdrc1Z3T1QzbnpsZU9JM0RBdjJTVlRLR25zeHlZM1VtYS1kQV9xdDg2UHJ5ZkNURkxuTTNUeC11c1V5WHhtaURyblFmMWFRdjdNNGZJZy04QkU5aVR2aGlQR09kWkIxYzNUcGNDbHE4dWp4N3pkbQ?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
+     "companyId": 18,
+     "company": "Amazon",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
     {
      "date": "2026-07-14",
      "title": "SpaceX and Amazon look like tech twins—but their financials tell a very different story",
@@ -1453,19 +1329,6 @@
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
      "category": "Rating",
      "firstSeen": "2026-07-19T03:55:19+00:00",
-     "companyId": 18,
-     "company": "Amazon",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-07",
-     "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
-     "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-17T03:38:32+00:00",
      "companyId": 18,
      "company": "Amazon",
      "asset": "Aktien",
@@ -1844,35 +1707,27 @@
    }
   },
   "19": {
-   "news": [],
-   "events": [
+   "news": [
     {
-     "date": "2026-07-20",
-     "type": "Earnings",
-     "title": "Domino's Pizza: Quartalszahlen (Wettbewerber)",
-     "company": "Domino's Pizza",
+     "date": "2026-07-02",
+     "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
+     "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkp4a0JWZEU2cW9aLWh2Y1RmYU5ob25TaXctcF9wdWNhblJSSDBRQWJrVHNBamlZcVUwd3BtRnItQk5XRUtadTVSWl9qRm9seHpZbFNCOGFGVzNKdmRURGtCUzNoTW5jNEtkVkttQkpaczlGSU1EM3BRTmRheFc4LU90dGJ2YkZ5bkktSTdFc3BoVW9pLU5nRnVnX2pMbGFmRFRTdWpTWXp1dzItSkx4ZGVaZFkwWFZQVmtCYmFrNWNId2hFekp2YU9scktZZUlwTVBQOWhVS3ROczhBbVQtVWhiajA3eHVJMmpUaDJQanJHZlk?oc=5",
+     "category": "Earnings",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
      "companyId": 19,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "MTY Food",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
+     "company": "MTY Food",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    }
+   ],
+   "events": [
     {
      "date": "2026-07-30",
      "type": "Earnings",
      "title": "Yum! Brands: Quartalszahlen (Wettbewerber)",
      "company": "Yum! Brands",
-     "companyId": 19,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "MTY Food",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-08-06",
-     "type": "Earnings",
-     "title": "Restaurant Brands International: Quartalszahlen (Wettbewerber)",
-     "company": "Restaurant Brands International",
      "companyId": 19,
      "source": "Yahoo Finance",
      "peer": true,
@@ -1940,17 +1795,6 @@
      "type": "Earnings",
      "title": "Apple: Quartalszahlen (Wettbewerber)",
      "company": "Apple",
-     "companyId": 20,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Microsoft",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-09-02",
-     "type": "Earnings",
-     "title": "Salesforce: Quartalszahlen (Wettbewerber)",
-     "company": "Salesforce",
      "companyId": 20,
      "source": "Yahoo Finance",
      "peer": true,
@@ -2225,6 +2069,17 @@
      "peer": true,
      "peerOf": "Meta",
      "firstSeen": "2026-07-13T04:02:22+00:00"
+    },
+    {
+     "date": "2026-08-04",
+     "type": "Earnings",
+     "title": "Pinterest: Quartalszahlen (Wettbewerber)",
+     "company": "Pinterest",
+     "companyId": 22,
+     "source": "Yahoo Finance",
+     "peer": true,
+     "peerOf": "Meta",
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     }
    ],
    "insider": [
@@ -2544,29 +2399,7 @@
   },
   "23": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-07-14",
-     "type": "Earnings",
-     "title": "Watches of Switzerland: Quartalszahlen",
-     "company": "Watches of Switzerland",
-     "companyId": 23,
-     "source": "Yahoo Finance",
-     "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-09-01",
-     "type": "Earnings",
-     "title": "Signet Jewelers: Quartalszahlen (Wettbewerber)",
-     "company": "Signet Jewelers",
-     "companyId": 23,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Watches of Switzerland",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    }
-   ],
+   "events": [],
    "insider": [],
    "tech": null,
    "profile": {
@@ -2623,18 +2456,7 @@
   },
   "25": {
    "news": [],
-   "events": [
-    {
-     "date": "2026-07-29",
-     "type": "Earnings",
-     "title": "AerCap Holdings: Quartalszahlen",
-     "company": "AerCap Holdings",
-     "companyId": 25,
-     "source": "Yahoo Finance",
-     "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    }
-   ],
+   "events": [],
    "insider": [
     {
      "date": "2026-06-15",
@@ -2860,17 +2682,6 @@
      "peer": true,
      "peerOf": "Linamar Corp",
      "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-08-05",
-     "type": "Earnings",
-     "title": "BorgWarner: Quartalszahlen (Wettbewerber)",
-     "company": "BorgWarner",
-     "companyId": 27,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "Linamar Corp",
-     "firstSeen": "2026-06-29T04:58:56+00:00"
     }
    ],
    "insider": [],
@@ -2898,27 +2709,6 @@
    ],
    "events": [
     {
-     "date": "2026-07-16",
-     "type": "Earnings",
-     "title": "GE Aerospace: Quartalszahlen (Wettbewerber)",
-     "company": "GE Aerospace",
-     "companyId": 28,
-     "source": "Yahoo Finance",
-     "peer": true,
-     "peerOf": "MTU Aero Engines",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-07-30",
-     "type": "Earnings",
-     "title": "MTU Aero Engines: Quartalszahlen",
-     "company": "MTU Aero Engines",
-     "companyId": 28,
-     "source": "Yahoo Finance",
-     "peer": false,
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
      "date": "2026-07-30",
      "type": "Earnings",
      "title": "Rolls-Royce: Quartalszahlen (Wettbewerber)",
@@ -2928,6 +2718,17 @@
      "peer": true,
      "peerOf": "MTU Aero Engines",
      "firstSeen": "2026-06-17T13:12:03+00:00"
+    },
+    {
+     "date": "2026-08-05",
+     "type": "Earnings",
+     "title": "Honeywell Aerospace: Quartalszahlen (Wettbewerber)",
+     "company": "Honeywell Aerospace",
+     "companyId": 28,
+     "source": "Yahoo Finance",
+     "peer": true,
+     "peerOf": "MTU Aero Engines",
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     }
    ],
    "insider": [],
@@ -2939,19 +2740,6 @@
   },
   "29": {
    "news": [
-    {
-     "date": "2026-07-15",
-     "title": "Vistry Non-Executive Director Boosts Stake with Share Purchase",
-     "summary": "Vistry Non-Executive Director Boosts Stake with Share Purchase The Globe and Mail",
-     "source": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdHRST0pzdURCNlpEcWI3UldfTXRvTUxTNzlaODQ2RF96TzRxc1BUZjRSUXdzZHBDUTEzSHVUcGdfTlBsWmpxTVhVMzRsQnZFNjNfNExpTjFOd09GS2FIclN5bThaNGFncXZWWURmRHdvVTluN3pQUHpPdVFqRjgxc1NDYTNYOHh6ZGx0VlZJMXNleGwwX3NOYTZiOUtzZ01JTlltdVdOeTRBMlA5ZVNreTJoWFJtUXpkbUl4OFpoby1GODUzRFM3WFk4S3V6Uzl5TklHZzF5Y2lVYTQ?oc=5",
-     "category": "M&A",
-     "firstSeen": "2026-07-16T03:38:29+00:00",
-     "companyId": 29,
-     "company": "Vistry",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
     {
      "date": "2026-07-08",
      "title": "Housebuilder Vistry warns of losses amid heavy discounting on unsold homes",
@@ -3274,6 +3062,19 @@
      "status": "Portfolio"
     },
     {
+     "date": "2026-07-08",
+     "title": "CICC Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
+     "summary": "CICC Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWhJTldiLXZfakRKb1ZLRjJ4cHBkeFNfdEVWNlFpV25jQUt5Um9Ba1hkNFI2YWJzUUI4X1NZWGlZVkdWR1pEYkpCUUhKTWt1QzZ6TXZab3lQMHVpdnQ2RVdud204T0dpenlEaVdINTd4R1lYRUc1c1ktaFNmdHJ6T1ZXWGVpS2xaRm8wUFlZOTlSRWxtZTN4NVFaRmtlVHdGdkZnVThMX25oTUgwNzNnMzFUazBwY2s0c0lyWnZDSFI0NU14MjB1NXlSRzB6Zk45STNYY3NuME5jR0k?oc=5",
+     "category": "Rating",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
+     "companyId": 31,
+     "company": "Tencent",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
      "date": "2026-07-07",
      "title": "Tencent Cuts Kuaishou Stake as Video Platform Presses Ahead With Share Buybacks",
      "summary": "Tencent Cuts Kuaishou Stake as Video Platform Presses Ahead With Share Buybacks The Globe and Mail",
@@ -3293,19 +3094,6 @@
      "source": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUY5S2ROTmhyZWVFcWY2Rm9VR2k2enM0SzUxakFPMzREVkFxMXp2RHFUcVZFS0UwZkNPRGsxTThyLUZuLWhiWWtIcktrV2ZXYmxONXl1SDdCN0NnaVZITG9RckEtYy01S2lNNzNybEwxZUdsbFBlcTVxSXFFZ0tzSEoybzRCU2YtVURhaFYzdm5rY2l3TTNQSWpHcG1OTVEzalRTSjdsSXNKVTFmWlFPdlFmV2ZCczY3S2VNT1dsWGl1djg?oc=5",
      "category": "Guidance",
-     "firstSeen": "2026-07-07T04:17:16+00:00",
-     "companyId": 31,
-     "company": "Tencent",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-06",
-     "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
-     "summary": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou Bloomberg.com",
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFFOG5FWGhfQm5EZTIyNS1Ccm1fQk1KRnJpOVBiWXljWGQ4Q2w1UFFIT3FINm9Cd3lPSzhLM0FzTjMyb1ZjRkJ0RDJ4QmdRQzhCc1lpYkx0eW1saVZFd1JHNk5BMnFhNDhwZHRId3VUZUs2Q1B0a3ZpVUpQT2Zmb19KRDhwQ09SeWwwU2RIRmNUOEppNkFqdWtCYW85NlBoblJoWTJIVEFnLU1Y?oc=5",
-     "category": "M&A",
      "firstSeen": "2026-07-07T04:17:16+00:00",
      "companyId": 31,
      "company": "Tencent",
@@ -3392,19 +3180,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-09",
-     "title": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade",
-     "summary": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade CNBC",
-     "source": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalhPOFFvUURxeXp4ZjVMMkUtSnU4ejh4QjB3ay1WZE9qME9kdE5KM29KQ2tZYi1ONGJFYWdsbHdteXJvOGY5UnF2endfVFFMeG1PbHhRU1lhVU9pNDY1RHhQc2NSRmpOcldLYXR2VmY3ejhPVVdUOXNRN1dOSnVfa1FicVF3a01aX1RGWm1sSF9xTHBCS25OM0VPRndCS1lhTW43ZHJ3VDhnUmM5VjRXMFE2S0Y?oc=5",
-     "category": "Rating",
-     "firstSeen": "2026-07-19T05:32:46+00:00",
-     "companyId": 32,
-     "company": "Salesforce",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-06-25",
      "title": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares",
      "summary": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares CNBC",
@@ -3450,16 +3225,6 @@
      "source": "Yahoo Finance",
      "peer": true,
      "peerOf": "Salesforce",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
-    },
-    {
-     "date": "2026-09-02",
-     "type": "Earnings",
-     "title": "Salesforce: Quartalszahlen",
-     "company": "Salesforce",
-     "companyId": 32,
-     "source": "Yahoo Finance",
-     "peer": false,
      "firstSeen": "2026-06-17T13:12:03+00:00"
     },
     {
@@ -3547,6 +3312,19 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3J4b25XWGprZkhqcXJicmVDZ1ZQU2ViUVlZSG40YzVPMG5HeE9jRzd6NWQ0c0xLOUt1djVRQUt1NUtDbTlROXBOcVZ2T01vcFlvSi10YmFDR3l0cFhWQzRpTXBpNTdPQXRucHFmRVhsbDI0c3B1OWFtZGszazNoNjBlR3JfaUdmb196YVE3QlFrYW51YzYtaGl5X2xMSGNPdkVtN2JVZThfRDc0dTN3dQ?oc=5",
      "category": "Sonstiges",
      "firstSeen": "2026-07-17T03:38:32+00:00",
+     "companyId": 34,
+     "company": "S&P Global",
+     "asset": "Aktien",
+     "status": "Watchlist"
+    },
+    {
+     "date": "2026-07-09",
+     "title": "Benzinga Partners With S&P Global Market Intelligence to Bring WIIM to ChartIQ as a Premium Add-On",
+     "summary": "Benzinga Partners With S&P Global Market Intelligence to Bring WIIM to ChartIQ as a Premium Add-On PR Newswire",
+     "source": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVWI2d1d1dmM0MEtYNmhTU0NMRDY4S0JxNG1yQzRrdHZxSHZhTFlZZWN4RUZXM1JPNnFNVTZialVXbmhwZWdmZjExVDZyVlNqWDg4eExOamtfM0oyQ09HYnpPYWxFNGpuMF9sbmVuNTZhOTRHNERHSDB5MHgyelhGQThtZGJwRGVUeGI5cy1tTlY3Uk4tUG5pSlZZRFdFYnptaE5hNjkwWU50b21OSEtLeUUtMGlTM0kxbHFFdjh5ZUxYR09TMlFKWWR4aUpua2NScFppOTNmMl9aXzZ2Nm40NERZY0dSeWh4?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-20T04:05:34+00:00",
      "companyId": 34,
      "company": "S&P Global",
      "asset": "Aktien",
@@ -3685,7 +3463,7 @@
    ],
    "events": [
     {
-     "date": "2026-07-22",
+     "date": "2026-08-06",
      "type": "Earnings",
      "title": "Fiserv: Quartalszahlen (Wettbewerber)",
      "company": "Fiserv",
@@ -3693,7 +3471,7 @@
      "source": "Yahoo Finance",
      "peer": true,
      "peerOf": "Adyen",
-     "firstSeen": "2026-06-17T13:12:03+00:00"
+     "firstSeen": "2026-07-20T04:05:34+00:00"
     },
     {
      "date": "2026-08-13",
@@ -3786,6 +3564,19 @@
   },
   {
    "date": "2026-07-16",
+   "title": "Post Holdings Schedules Third Quarter Fiscal Year 2026 Conference Call – Company Announcement",
+   "summary": "Post Holdings Schedules Third Quarter Fiscal Year 2026 Conference Call – Company Announcement Financial Times",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDg4TUFaWGJPTWp1NVhvZEtMSlByUzRRQV9BUmxETXBqUG9JajA3YVYybzkxUW50THBzVE80eGc0a1hiYnoyUlhZaUFHMDJaS2x1WlVPLUQ4NlpXTk9sRkVXRGZHVHVGN00zVm1xU2IwdkVWNG96cS1Zbjg2Tkk1SEU3SGx6NHYzVHdPeHFQV3VGVWxWdkNqOA?oc=5",
+   "category": "Conference",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 12,
+   "company": "Post Holdings",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-16",
    "title": "S&P Global Ratings vergibt Investment-Grade-Rating „BBB“ an ista",
    "summary": "S&P Global Ratings vergibt Investment-Grade-Rating „BBB“ an ista Presseportal",
    "source": "Presseportal",
@@ -3851,6 +3642,19 @@
   },
   {
    "date": "2026-07-15",
+   "title": "Amazon AWS executive and CEO advisor Dave Brown to leave after 19 years",
+   "summary": "Amazon AWS executive and CEO advisor Dave Brown to leave after 19 years Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGNaR0NoY0k3eTV6TmRkbUJxbllqaFVMY3lxazgySERyc1hzQVdSbHI0cF9aYlgzcTFLUFVvRC15NFdrc1Z3T1QzbnpsZU9JM0RBdjJTVlRLR25zeHlZM1VtYS1kQV9xdDg2UHJ5ZkNURkxuTTNUeC11c1V5WHhtaURyblFmMWFRdjdNNGZJZy04QkU5aVR2aGlQR09kWkIxYzNUcGNDbHE4dWp4N3pkbQ?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 18,
+   "company": "Amazon",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-15",
    "title": "Meta Workers Sue Over How the Company Carried Out Layoffs",
    "summary": "Meta Workers Sue Over How the Company Carried Out Layoffs WSJ",
    "source": "WSJ",
@@ -3859,19 +3663,6 @@
    "firstSeen": "2026-07-17T03:38:32+00:00",
    "companyId": 22,
    "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-15",
-   "title": "Vistry Non-Executive Director Boosts Stake with Share Purchase",
-   "summary": "Vistry Non-Executive Director Boosts Stake with Share Purchase The Globe and Mail",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdHRST0pzdURCNlpEcWI3UldfTXRvTUxTNzlaODQ2RF96TzRxc1BUZjRSUXdzZHBDUTEzSHVUcGdfTlBsWmpxTVhVMzRsQnZFNjNfNExpTjFOd09GS2FIclN5bThaNGFncXZWWURmRHdvVTluN3pQUHpPdVFqRjgxc1NDYTNYOHh6ZGx0VlZJMXNleGwwX3NOYTZiOUtzZ01JTlltdVdOeTRBMlA5ZVNreTJoWFJtUXpkbUl4OFpoby1GODUzRFM3WFk4S3V6Uzl5TklHZzF5Y2lVYTQ?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-16T03:38:29+00:00",
-   "companyId": 29,
-   "company": "Vistry",
    "asset": "Aktien",
    "status": "Portfolio"
   },
@@ -4111,16 +3902,16 @@
   },
   {
    "date": "2026-07-09",
-   "title": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade",
-   "summary": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade CNBC",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalhPOFFvUURxeXp4ZjVMMkUtSnU4ejh4QjB3ay1WZE9qME9kdE5KM29KQ2tZYi1ONGJFYWdsbHdteXJvOGY5UnF2endfVFFMeG1PbHhRU1lhVU9pNDY1RHhQc2NSRmpOcldLYXR2VmY3ejhPVVdUOXNRN1dOSnVfa1FicVF3a01aX1RGWm1sSF9xTHBCS25OM0VPRndCS1lhTW43ZHJ3VDhnUmM5VjRXMFE2S0Y?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-19T05:32:46+00:00",
-   "companyId": 32,
-   "company": "Salesforce",
+   "title": "Benzinga Partners With S&P Global Market Intelligence to Bring WIIM to ChartIQ as a Premium Add-On",
+   "summary": "Benzinga Partners With S&P Global Market Intelligence to Bring WIIM to ChartIQ as a Premium Add-On PR Newswire",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVWI2d1d1dmM0MEtYNmhTU0NMRDY4S0JxNG1yQzRrdHZxSHZhTFlZZWN4RUZXM1JPNnFNVTZialVXbmhwZWdmZjExVDZyVlNqWDg4eExOamtfM0oyQ09HYnpPYWxFNGpuMF9sbmVuNTZhOTRHNERHSDB5MHgyelhGQThtZGJwRGVUeGI5cy1tTlY3Uk4tUG5pSlZZRFdFYnptaE5hNjkwWU50b21OSEtLeUUtMGlTM0kxbHFFdjh5ZUxYR09TMlFKWWR4aUpua2NScFppOTNmMl9aXzZ2Nm40NERZY0dSeWh4?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 34,
+   "company": "S&P Global",
    "asset": "Aktien",
-   "status": "Portfolio"
+   "status": "Watchlist"
   },
   {
    "date": "2026-07-08",
@@ -4201,6 +3992,32 @@
    "status": "Portfolio"
   },
   {
+   "date": "2026-07-08",
+   "title": "CICC Reaffirms Their Buy Rating on Tencent Holdings (TCTZF)",
+   "summary": "CICC Reaffirms Their Buy Rating on Tencent Holdings (TCTZF) The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWhJTldiLXZfakRKb1ZLRjJ4cHBkeFNfdEVWNlFpV25jQUt5Um9Ba1hkNFI2YWJzUUI4X1NZWGlZVkdWR1pEYkpCUUhKTWt1QzZ6TXZab3lQMHVpdnQ2RVdud204T0dpenlEaVdINTd4R1lYRUc1c1ktaFNmdHJ6T1ZXWGVpS2xaRm8wUFlZOTlSRWxtZTN4NVFaRmtlVHdGdkZnVThMX25oTUgwNzNnMzFUazBwY2s0c0lyWnZDSFI0NU14MjB1NXlSRzB6Zk45STNYY3NuME5jR0k?oc=5",
+   "category": "Rating",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 31,
+   "company": "Tencent",
+   "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
+   "title": "A.I.S. Resources Announces Geophysical and Mineral",
+   "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLV9TalN5aVJqNEJUdGpmZWh5OEU1NUNfbldmbHdlWm9CYVpBeTBTNjBsazJlSEJNb3pNUHRqek43dUNXNEVxeTFlTzBCMkRfcUF6S2xId1d2YV9OOTB5SFE3WjVoeks1bVFQekFBTUNRX21ib01BMXJDdmgwc0hUMUtidmQ0ZGh3T09oRGNEaEt1YjlreTFDQXZHbGdLcHZvWV9Nd0NEdkh3X1RWVGJSdTZxeldTckpmNHhZdXd0OTdBa2U0M0FlSkVoRDkta0xWRUdPcnJmc3JYa2VVZG1lQWFZM3NYZGtUbmFNM0NiTG4yMEhlRUJqUkw3N1k5YzM0Yk1GQ0FnNlRvT1Ixdm9rbnh5OFYzUjA0WEhaX0s5eU1yQ2JFbVdMZjV6OS1KTC1tZlZmbldtazFMbmpUNmlvZzlmZ0poY29WYlAyTA?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
    "date": "2026-07-07",
    "title": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
    "summary": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026 CNBC",
@@ -4221,19 +4038,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3Q0MjREWGpzSllLaFpWNXdtOFRHcy1sQjlNOUFzUHVCRzBXRDMtLW1wWnpBRkt6amFubXd5aEhsLVBxYVJxSDFlOFZQVHFKeHRzRGxDa3BocHVkTFM4dWRvQkxQYWN2TTgyOWRFMkttaVhUckdsa1FYcnJOUUtqaEJ2b3p0V3NKREVteTNGRV9ZU2txc2J4aWFKb2pTUlJrM2lDZm1ZckdiVkdjZEF0NUxac09aRXlx?oc=5",
    "category": "Rating",
    "firstSeen": "2026-07-19T03:55:19+00:00",
-   "companyId": 18,
-   "company": "Amazon",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-07",
-   "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
-   "summary": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
-   "category": "Rating",
-   "firstSeen": "2026-07-17T03:38:32+00:00",
    "companyId": 18,
    "company": "Amazon",
    "asset": "Aktien",
@@ -4280,19 +4084,6 @@
   },
   {
    "date": "2026-07-06",
-   "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
-   "summary": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou Bloomberg.com",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFFOG5FWGhfQm5EZTIyNS1Ccm1fQk1KRnJpOVBiWXljWGQ4Q2w1UFFIT3FINm9Cd3lPSzhLM0FzTjMyb1ZjRkJ0RDJ4QmdRQzhCc1lpYkx0eW1saVZFd1JHNk5BMnFhNDhwZHRId3VUZUs2Q1B0a3ZpVUpQT2Zmb19KRDhwQ09SeWwwU2RIRmNUOEppNkFqdWtCYW85NlBoblJoWTJIVEFnLU1Y?oc=5",
-   "category": "M&A",
-   "firstSeen": "2026-07-07T04:17:16+00:00",
-   "companyId": 31,
-   "company": "Tencent",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-06",
    "title": "S&P Global Evolves Market Intelligence Operating Model to Accelerate Agentic Solutions, Platform Capabilities and Innovation; Announces Executive Leadership Changes",
    "summary": "S&P Global Evolves Market Intelligence Operating Model to Accelerate Agentic Solutions, Platform Capabilities and Innovation; Announces Executive Leadership Changes PR Newswire",
    "source": "PR Newswire",
@@ -4303,6 +4094,19 @@
    "company": "S&P Global",
    "asset": "Aktien",
    "status": "Watchlist"
+  },
+  {
+   "date": "2026-07-05",
+   "title": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today",
+   "summary": "GPK DEADLINE REMINDER: Bronstein, Gewirtz & Grossman LLC Reminds Graphic Packaging Holding Company Investors to Join the Class Action Lawsuit Today ACCESS Newswire",
+   "source": "ACCESS Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLXhNYWpoVmEtTTRXYWludlp5ekFtcnYwZ2dRTlBZMERja0JERktleDBKbnQ0T3dGU0dPbFpOMW1sU2ExbkxlN0JHVjVQSzhUUkI1bnUwZldJV19lQ1JwVmg3eFJnMWFhd05DOVNaX29rd2VYYlhmbVdSbUlFbUdJa0Y2ckNtWTlXc25kQmRaOU9jSUdjNTg4cHl6aFJmdTkyckp5c0tndzZ3TjlpcHV2TERnQ1ZuZzdaamNNS1ByckNHNGhKeW9NQk1CQTVPNGk3MEhoc1J4eGpwWjNPNUN4STZFRXE?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 11,
+   "company": "Graphic Packaging",
+   "asset": "Anleihen",
+   "status": "Portfolio"
   },
   {
    "date": "2026-07-02",
@@ -4358,15 +4162,15 @@
   },
   {
    "date": "2026-07-02",
-   "title": "Post Holdings Reports Higher Profit, Revenue",
-   "summary": "Post Holdings Reports Higher Profit, Revenue WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnd6RU4zMzhJTTM1RFVEZmhQSXozYjhlZkRtLW5wNE4xWG9pcThPNktqYmRqU0p5Rm54UUt5cDhSUXhQcHNGd2ktWWFZc3lTMzNmNXgtaTkyS2tFbnltSkpJak96ZEg4dTkyV2tHdVdVaEc5RGJuYW1OVnlFZzN5Yld6cU1uMkk4NWpVcFo1Q3BuOGhGZ0p4X2JNblpDVHU5RjFuWHZFRzdrVHVsckYyTFZTSmZ2X1Q5OGtSMkNOdw?oc=5",
+   "title": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results",
+   "summary": "MTY Food Group Inc Will Hold a Conference Call to Discuss Its 2026 Second Quarter Results GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkp4a0JWZEU2cW9aLWh2Y1RmYU5ob25TaXctcF9wdWNhblJSSDBRQWJrVHNBamlZcVUwd3BtRnItQk5XRUtadTVSWl9qRm9seHpZbFNCOGFGVzNKdmRURGtCUzNoTW5jNEtkVkttQkpaczlGSU1EM3BRTmRheFc4LU90dGJ2YkZ5bkktSTdFc3BoVW9pLU5nRnVnX2pMbGFmRFRTdWpTWXp1dzItSkx4ZGVaZFkwWFZQVmtCYmFrNWNId2hFekp2YU9scktZZUlwTVBQOWhVS3ROczhBbVQtVWhiajA3eHVJMmpUaDJQanJHZlk?oc=5",
    "category": "Earnings",
-   "firstSeen": "2026-07-15T03:36:00+00:00",
-   "companyId": 12,
-   "company": "Post Holdings",
-   "asset": "Anleihen",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 19,
+   "company": "MTY Food",
+   "asset": "Aktien",
    "status": "Portfolio"
   },
   {
@@ -4501,19 +4305,6 @@
   },
   {
    "date": "2026-06-25",
-   "title": "GRAPHIC PACKAGING DEADLINE REMINDER: Bragar Eagel & Squire,",
-   "summary": "GRAPHIC PACKAGING DEADLINE REMINDER: Bragar Eagel & Squire, GlobeNewswire",
-   "source": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNZGZ6WWlSb09lMXgzOEhFRzBMRGJMSUVldTNORzlSeTBQeS1mMXhLcnJWc0R3UjVwVUplNUxMYXFkbE1taUROSDFvbFNtbnhKSWxYTEZldk9BSEtYMmdfR3Qxc3ltb3VSMk9oWUtaZHdSbXUtUnFsWkRUOW5pX0R1VmpqUi1ZSkpKVUVoMVZxRFcwT3hWMlZVdFBSVkNUcm1JcE1Ubjl3TEYwMVhJSjZZV0JEQl8xVXJrWmRLalFrRXp1d2JxMjZfVlA5NUFVaENXeTA5X3ZDOHo2STBla1J6eGlPcEtyQ3BkWEtCV0M2WmpvVG9zOG9EX050NzA4MG4zdzEtM3doQ2xxVnF2dkhBdEtYNXBXZ0o3R1hBQmNJdGFlczRDYUNQSE9aVmIybjhkQ2xVQklfQXk2XzZMbzJtRWk2bUtXTFZCb25Db2hzelVOaEJIMGNuZkZwUFNYaXZzcVdMZjl0VTd6U3pq?oc=5",
-   "category": "Sonstiges",
-   "firstSeen": "2026-07-19T03:55:19+00:00",
-   "companyId": 11,
-   "company": "Graphic Packaging",
-   "asset": "Anleihen",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-06-25",
    "title": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares",
    "summary": "Bill Nygren: Salesforce is not done growing, now redirecting cash flow to purchase shares CNBC",
    "source": "CNBC",
@@ -4537,6 +4328,32 @@
    "company": "Adyen",
    "asset": "Aktien",
    "status": "Watchlist"
+  },
+  {
+   "date": "2026-06-24",
+   "title": "Prosus launches ToqanClaw to help businesses build AI tools through conversation",
+   "summary": "Prosus launches ToqanClaw to help businesses build AI tools through conversation Fortune India",
+   "source": "Fortune India",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUVULUxia3RTcjRnYjNjWmtOWUZMLXMwSW1KRWdiaW1WaEIzZEJtUDduUXNRUHZ1ODZXc2kyWGtYOFBacERRR3BWUmRfaEg1aWFzQzhZdzVNM2pXOEVUa3U5OTlPNm8tWGJIc19xajh5b21BeExtZ0pTSEJVNzJBVkhsZThfTGVDb1NTS3R0bG94TTlXSHFGdjlFbUhYNnlOejNWd2FjdHRaN1JfeGRHd0pIaW5fUndJTE1OQjVwS25fRklRM0VRadIB1gFBVV95cUxPS1hhSjVzb3VqRnZTRVg5OXNXc3dJdTEwMXA4OGhMcUFqRTd4OXFtSDBKb0ZFb1BrUTBYcXE2ckxnSGRtRi1HeDU4ODFIeTkzYnNJWHBFY1RMQkV3cE45R2dNd2RXZGxmYzFEZUd1Z2lGbDBUbUh5cHc5YlF5NC16Q3pDdVMxS1lEeldFVWZEVUUzZ09ud3Yzd1VJQ3otUHF0TThBYXA0ODRzYmRuazhCZUlfYUphSW9KeGk0UlBPODBtOW8zakllMF9OR1V0MldIMVF6TlhR?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 8,
+   "company": "Prosus",
+   "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-24",
+   "title": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye",
+   "summary": "Kaspi.kz receives regulatory approval to acquire Rabobank A.Ş. in Türkiye GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU1IVW8xeEJsaC1NTWVQTGw0YjdTVE5oNS1WWkJzTXNPMGlnY2Y5MFlOQ3pkVW1EMElfb0FSRVdCVDJNUWU4Z0ZrREwyMFlXa3B5dzFtc1g2c3cxQmZkYTN2OE01R2FINl9QcTNLcGRUajQ0Tm5RMzlXUXZpWTVuMmhJaXBwZndINDZTVlBhMl8tbjZIcUJCZFQ1bzlJLTNTcGFCUHBzOGdscUlzMl9Fd0ZDcG9lVHZsOGxTTmZHVDhPZ1VsYTRiSUxITDdUbVZUOWhIRFd5UUFHRzduUzVBcEN5M1FQejNXb0E?oc=5",
+   "category": "M&A",
+   "firstSeen": "2026-07-20T04:05:34+00:00",
+   "companyId": 17,
+   "company": "Kaspi.kz",
+   "asset": "Aktien",
+   "status": "Portfolio"
   },
   {
    "date": "2026-06-23",
@@ -4563,87 +4380,9 @@
    "company": "S&P Global",
    "asset": "Aktien",
    "status": "Watchlist"
-  },
-  {
-   "date": "2026-06-19",
-   "title": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent",
-   "summary": "Tech Investor Prosus Posts Core Earnings Rise on Growth Across Units, Tencent WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHVKTVJSX0ozNnFldkEwSERtN0E0TG1Pc25GaF94S016cVNod3JJcGtJMFNoMHR3Z3Z4TWkzek9rc1Rzc0d0aWYwQ1p6OTFvOGFya0QwaE9KWnBYWkZQaWVuU3ppSnZ0QXRVVHVWRG9aeDBqSFpIdm1VTFNfaXBtNS14NlBHUnlXY3JyRmxZeVV5MXFJcWl6dko5b050NnZjeE8wMDhn?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-19T03:55:19+00:00",
-   "companyId": 8,
-   "company": "Prosus",
-   "asset": "Anleihen",
-   "status": "Portfolio"
   }
  ],
  "events": [
-  {
-   "date": "2026-07-14",
-   "type": "Earnings",
-   "title": "Vitec Software: Quartalszahlen (Wettbewerber)",
-   "company": "Vitec Software",
-   "companyId": 2,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Chapters",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-14",
-   "type": "Earnings",
-   "title": "Watches of Switzerland: Quartalszahlen",
-   "company": "Watches of Switzerland",
-   "companyId": 23,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-15",
-   "type": "Earnings",
-   "title": "Aker BP: Quartalszahlen (Wettbewerber)",
-   "company": "Aker BP",
-   "companyId": 3,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "International Petroleum",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-15",
-   "type": "Earnings",
-   "title": "Conagra Brands: Quartalszahlen (Wettbewerber)",
-   "company": "Conagra Brands",
-   "companyId": 12,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Post Holdings",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-16",
-   "type": "Earnings",
-   "title": "GE Aerospace: Quartalszahlen (Wettbewerber)",
-   "company": "GE Aerospace",
-   "companyId": 28,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "MTU Aero Engines",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-20",
-   "type": "Earnings",
-   "title": "Domino's Pizza: Quartalszahlen (Wettbewerber)",
-   "company": "Domino's Pizza",
-   "companyId": 19,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "MTY Food",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
   {
    "date": "2026-07-21",
    "type": "Earnings",
@@ -4743,27 +4482,6 @@
    "firstSeen": "2026-07-13T04:02:22+00:00"
   },
   {
-   "date": "2026-07-22",
-   "type": "Earnings",
-   "title": "Fiserv: Quartalszahlen (Wettbewerber)",
-   "company": "Fiserv",
-   "companyId": 36,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Adyen",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-23",
-   "type": "Earnings",
-   "title": "Eurofins Scientific: Quartalszahlen",
-   "company": "Eurofins Scientific",
-   "companyId": 14,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-07-13T04:02:22+00:00"
-  },
-  {
    "date": "2026-07-23",
    "type": "Earnings",
    "title": "Blackstone: Quartalszahlen (Wettbewerber)",
@@ -4820,33 +4538,11 @@
   {
    "date": "2026-07-28",
    "type": "Earnings",
-   "title": "Electronic Arts: Quartalszahlen (Wettbewerber)",
-   "company": "Electronic Arts",
-   "companyId": 6,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Ubisoft",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-28",
-   "type": "Earnings",
    "title": "S&P Global: Quartalszahlen",
    "company": "S&P Global",
    "companyId": 34,
    "source": "Yahoo Finance",
    "peer": false,
-   "firstSeen": "2026-07-13T04:02:22+00:00"
-  },
-  {
-   "date": "2026-07-29",
-   "type": "Earnings",
-   "title": "Vermilion Energy: Quartalszahlen (Wettbewerber)",
-   "company": "Vermilion Energy",
-   "companyId": 3,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "International Petroleum",
    "firstSeen": "2026-07-13T04:02:22+00:00"
   },
   {
@@ -4925,26 +4621,6 @@
    "firstSeen": "2026-06-17T13:12:03+00:00"
   },
   {
-   "date": "2026-07-29",
-   "type": "Earnings",
-   "title": "AerCap Holdings: Quartalszahlen",
-   "company": "AerCap Holdings",
-   "companyId": 25,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-30",
-   "type": "Earnings",
-   "title": "XPO: Quartalszahlen",
-   "company": "XPO",
-   "companyId": 10,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
    "date": "2026-07-30",
    "type": "Earnings",
    "title": "Saia: Quartalszahlen (Wettbewerber)",
@@ -4958,45 +4634,12 @@
   {
    "date": "2026-07-30",
    "type": "Earnings",
-   "title": "International Paper: Quartalszahlen (Wettbewerber)",
-   "company": "International Paper",
-   "companyId": 11,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Graphic Packaging",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-30",
-   "type": "Earnings",
-   "title": "Labcorp: Quartalszahlen (Wettbewerber)",
-   "company": "Labcorp",
-   "companyId": 14,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Eurofins Scientific",
-   "firstSeen": "2026-07-06T04:40:01+00:00"
-  },
-  {
-   "date": "2026-07-30",
-   "type": "Earnings",
    "title": "KKR: Quartalszahlen (Wettbewerber)",
    "company": "KKR",
    "companyId": 15,
    "source": "Yahoo Finance",
    "peer": true,
    "peerOf": "Brookfield Corp",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-30",
-   "type": "Earnings",
-   "title": "Erste Group: Quartalszahlen (Wettbewerber)",
-   "company": "Erste Group",
-   "companyId": 16,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "BAWAG",
    "firstSeen": "2026-06-17T13:12:03+00:00"
   },
   {
@@ -5055,16 +4698,6 @@
   {
    "date": "2026-07-30",
    "type": "Earnings",
-   "title": "MTU Aero Engines: Quartalszahlen",
-   "company": "MTU Aero Engines",
-   "companyId": 28,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-07-30",
-   "type": "Earnings",
    "title": "Rolls-Royce: Quartalszahlen (Wettbewerber)",
    "company": "Rolls-Royce",
    "companyId": 28,
@@ -5083,17 +4716,6 @@
    "peer": true,
    "peerOf": "Brookfield Corp",
    "firstSeen": "2026-07-06T04:40:01+00:00"
-  },
-  {
-   "date": "2026-07-31",
-   "type": "Earnings",
-   "title": "Raiffeisen Bank International: Quartalszahlen (Wettbewerber)",
-   "company": "Raiffeisen Bank International",
-   "companyId": 16,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "BAWAG",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
   },
   {
    "date": "2026-07-31",
@@ -5140,27 +4762,6 @@
   {
    "date": "2026-08-04",
    "type": "Earnings",
-   "title": "Graphic Packaging: Quartalszahlen",
-   "company": "Graphic Packaging",
-   "companyId": 11,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-07-06T04:40:01+00:00"
-  },
-  {
-   "date": "2026-08-04",
-   "type": "Earnings",
-   "title": "Fresenius Medical Care: Quartalszahlen (Wettbewerber)",
-   "company": "Fresenius Medical Care",
-   "companyId": 13,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Da Vita",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-08-04",
-   "type": "Earnings",
    "title": "Apollo Global Management: Quartalszahlen (Wettbewerber)",
    "company": "Apollo Global Management",
    "companyId": 15,
@@ -5172,13 +4773,13 @@
   {
    "date": "2026-08-04",
    "type": "Earnings",
-   "title": "The Carlyle Group: Quartalszahlen (Wettbewerber)",
-   "company": "The Carlyle Group",
-   "companyId": 15,
+   "title": "Pinterest: Quartalszahlen (Wettbewerber)",
+   "company": "Pinterest",
+   "companyId": 22,
    "source": "Yahoo Finance",
    "peer": true,
-   "peerOf": "Brookfield Corp",
-   "firstSeen": "2026-07-13T04:02:22+00:00"
+   "peerOf": "Meta",
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-08-04",
@@ -5227,28 +4828,6 @@
   {
    "date": "2026-08-05",
    "type": "Earnings",
-   "title": "Transocean: Quartalszahlen (Wettbewerber)",
-   "company": "Transocean",
-   "companyId": 4,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Borr",
-   "firstSeen": "2026-07-13T04:02:22+00:00"
-  },
-  {
-   "date": "2026-08-05",
-   "type": "Earnings",
-   "title": "Seadrill: Quartalszahlen (Wettbewerber)",
-   "company": "Seadrill",
-   "companyId": 4,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Borr",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-08-05",
-   "type": "Earnings",
    "title": "Albemarle: Quartalszahlen (Wettbewerber)",
    "company": "Albemarle",
    "companyId": 5,
@@ -5292,13 +4871,13 @@
   {
    "date": "2026-08-05",
    "type": "Earnings",
-   "title": "BorgWarner: Quartalszahlen (Wettbewerber)",
-   "company": "BorgWarner",
-   "companyId": 27,
+   "title": "Honeywell Aerospace: Quartalszahlen (Wettbewerber)",
+   "company": "Honeywell Aerospace",
+   "companyId": 28,
    "source": "Yahoo Finance",
    "peer": true,
-   "peerOf": "Linamar Corp",
-   "firstSeen": "2026-06-29T04:58:56+00:00"
+   "peerOf": "MTU Aero Engines",
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-08-05",
@@ -5367,33 +4946,23 @@
   {
    "date": "2026-08-06",
    "type": "Earnings",
-   "title": "Brookfield Corp: Quartalszahlen",
-   "company": "Brookfield Corp",
-   "companyId": 15,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-08-06",
-   "type": "Earnings",
-   "title": "Restaurant Brands International: Quartalszahlen (Wettbewerber)",
-   "company": "Restaurant Brands International",
-   "companyId": 19,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "MTY Food",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-08-06",
-   "type": "Earnings",
    "title": "goeasy: Quartalszahlen",
    "company": "goeasy",
    "companyId": 33,
    "source": "Yahoo Finance",
    "peer": false,
    "firstSeen": "2026-06-17T13:12:03+00:00"
+  },
+  {
+   "date": "2026-08-06",
+   "type": "Earnings",
+   "title": "Fiserv: Quartalszahlen (Wettbewerber)",
+   "company": "Fiserv",
+   "companyId": 36,
+   "source": "Yahoo Finance",
+   "peer": true,
+   "peerOf": "Adyen",
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-08-07",
@@ -5405,6 +4974,17 @@
    "peer": true,
    "peerOf": "Ubisoft",
    "firstSeen": "2026-07-13T04:02:22+00:00"
+  },
+  {
+   "date": "2026-08-10",
+   "type": "Earnings",
+   "title": "Seadrill: Quartalszahlen (Wettbewerber)",
+   "company": "Seadrill",
+   "companyId": 4,
+   "source": "Yahoo Finance",
+   "peer": true,
+   "peerOf": "Borr",
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-08-10",
@@ -5439,14 +5019,14 @@
    "firstSeen": "2026-07-13T04:02:22+00:00"
   },
   {
-   "date": "2026-08-12",
+   "date": "2026-08-11",
    "type": "Earnings",
    "title": "Borr: Quartalszahlen",
    "company": "Borr",
    "companyId": 4,
    "source": "Yahoo Finance",
    "peer": false,
-   "firstSeen": "2026-06-17T13:12:03+00:00"
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-08-12",
@@ -5482,13 +5062,12 @@
   {
    "date": "2026-08-13",
    "type": "Earnings",
-   "title": "Klar: Quartalszahlen (Wettbewerber)",
-   "company": "Klar",
-   "companyId": 9,
+   "title": "Brookfield Corp: Quartalszahlen",
+   "company": "Brookfield Corp",
+   "companyId": 15,
    "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Banco Plato",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
+   "peer": false,
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-08-13",
@@ -5510,6 +5089,17 @@
    "source": "Yahoo Finance",
    "peer": false,
    "firstSeen": "2026-06-22T05:30:24+00:00"
+  },
+  {
+   "date": "2026-08-18",
+   "type": "Earnings",
+   "title": "Klar: Quartalszahlen (Wettbewerber)",
+   "company": "Klar",
+   "companyId": 9,
+   "source": "Yahoo Finance",
+   "peer": true,
+   "peerOf": "Banco Plato",
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-08-19",
@@ -5534,15 +5124,15 @@
    "firstSeen": "2026-06-17T13:12:03+00:00"
   },
   {
-   "date": "2026-08-27",
+   "date": "2026-08-24",
    "type": "Earnings",
-   "title": "CD Projekt: Quartalszahlen (Wettbewerber)",
-   "company": "CD Projekt",
-   "companyId": 6,
+   "title": "Pilbara Minerals: Quartalszahlen (Wettbewerber)",
+   "company": "Pilbara Minerals",
+   "companyId": 5,
    "source": "Yahoo Finance",
    "peer": true,
-   "peerOf": "Ubisoft",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
+   "peerOf": "Mineral Resources",
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-08-27",
@@ -5589,36 +5179,15 @@
    "firstSeen": "2026-06-17T13:12:03+00:00"
   },
   {
-   "date": "2026-09-01",
-   "type": "Earnings",
-   "title": "Signet Jewelers: Quartalszahlen (Wettbewerber)",
-   "company": "Signet Jewelers",
-   "companyId": 23,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Watches of Switzerland",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
    "date": "2026-09-02",
    "type": "Earnings",
-   "title": "Salesforce: Quartalszahlen (Wettbewerber)",
-   "company": "Salesforce",
-   "companyId": 20,
+   "title": "CD Projekt: Quartalszahlen (Wettbewerber)",
+   "company": "CD Projekt",
+   "companyId": 6,
    "source": "Yahoo Finance",
    "peer": true,
-   "peerOf": "Microsoft",
-   "firstSeen": "2026-06-17T13:12:03+00:00"
-  },
-  {
-   "date": "2026-09-02",
-   "type": "Earnings",
-   "title": "Salesforce: Quartalszahlen",
-   "company": "Salesforce",
-   "companyId": 32,
-   "source": "Yahoo Finance",
-   "peer": false,
-   "firstSeen": "2026-06-17T13:12:03+00:00"
+   "peerOf": "Ubisoft",
+   "firstSeen": "2026-07-20T04:05:34+00:00"
   },
   {
    "date": "2026-09-08",
@@ -5662,17 +5231,6 @@
    "source": "Yahoo Finance",
    "peer": true,
    "peerOf": "S&P Global",
-   "firstSeen": "2026-07-06T04:40:01+00:00"
-  },
-  {
-   "date": "2026-09-23",
-   "type": "Earnings",
-   "title": "General Mills: Quartalszahlen (Wettbewerber)",
-   "company": "General Mills",
-   "companyId": 12,
-   "source": "Yahoo Finance",
-   "peer": true,
-   "peerOf": "Post Holdings",
    "firstSeen": "2026-07-06T04:40:01+00:00"
   },
   {
@@ -6929,7 +6487,7 @@
    "status": "Portfolio"
   }
  ],
- "eventsRefreshedAt": "2026-07-13T04:02:22+00:00",
+ "eventsRefreshedAt": "2026-07-20T04:05:34+00:00",
  "peerSymbols": {
   "OSB Group": "OSB.L",
   "Constellation Software": "CSU.TO",
