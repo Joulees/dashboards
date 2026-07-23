@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-23T03:45:29+00:00",
+ "generatedAt": "2026-07-23T05:35:10+00:00",
  "companies": {
   "1": {
    "news": [
@@ -227,7 +227,21 @@
    }
   },
   "5": {
-   "news": [],
+   "news": [
+    {
+     "date": "2026-07-07",
+     "title": "A.I.S. Resources Announces Geophysical and Mineral",
+     "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLV9TalN5aVJqNEJUdGpmZWh5OEU1NUNfbldmbHdlWm9CYVpBeTBTNjBsazJlSEJNb3pNUHRqek43dUNXNEVxeTFlTzBCMkRfcUF6S2xId1d2YV9OOTB5SFE3WjVoeks1bVFQekFBTUNRX21ib01BMXJDdmgwc0hUMUtidmQ0ZGh3T09oRGNEaEt1YjlreTFDQXZHbGdLcHZvWV9Nd0NEdkh3X1RWVGJSdTZxeldTckpmNHhZdXd0OTdBa2U0M0FlSkVoRDkta0xWRUdPcnJmc3JYa2VVZG1lQWFZM3NYZGtUbmFNM0NiTG4yMEhlRUJqUkw3N1k5YzM0Yk1GQ0FnNlRvT1Ixdm9rbnh5OFYzUjA0WEhaX0s5eU1yQ2JFbVdMZjV6OS1KTC1tZlZmbldtazFMbmpUNmlvZzlmZ0poY29WYlAyTA?oc=5",
+     "category": "Sonstiges",
+     "firstSeen": "2026-07-23T05:35:10+00:00",
+     "companyId": 5,
+     "company": "Mineral Resources",
+     "asset": "Anleihen",
+     "status": "Portfolio"
+    }
+   ],
    "events": [
     {
      "date": "2026-08-05",
@@ -2061,19 +2075,6 @@
      "status": "Portfolio"
     },
     {
-     "date": "2026-07-15",
-     "title": "Meta Workers Sue Over How the Company Carried Out Layoffs",
-     "summary": "Meta Workers Sue Over How the Company Carried Out Layoffs WSJ",
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUNfRFRNZ0JheGxHQWVqV3pVdkJENU12QnFVNWxaRkQ0MUhMQnBIUEN5ZFg0ZDNtdVRqOUExN0lrems5RjFKbkdmYzJaTGVtSXdIREVxd01ycldncXJTRm44aVlEREU2aFYxNlJiRk9SazFoRk9JZmw0VWg4QTU0cUMyak54a20xTHlycFo2X2FNTkdmOW1qTzBKUE1FMmxjeHRfN3ZNMA?oc=5",
-     "category": "Markt",
-     "firstSeen": "2026-07-17T03:38:32+00:00",
-     "companyId": 22,
-     "company": "Meta",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
      "date": "2026-07-14",
      "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
      "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
@@ -2120,6 +2121,19 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXBQMm9ScVdBVnREd2ZwZXhvd09nSUdlMVNqaFZHQXN1cFNreDVUQy1kb2JBSGhyQ1U2TTdfNTRHdmxjNUdBdFF5NHBxdWlRSWZ6eGsxYzR2QW13ek1iOXRVcnd5cGlTeWRkSUZIMzU3RlZfYVhYSVBrWE1udm5pRUtBeXRINW41WUJSUG1DaGhlYmZtdXl3YzF0NmF5eXY3RjVvZm4tNzg1RmFLS2N3enBZbDBTZw?oc=5",
      "category": "Markt",
      "firstSeen": "2026-07-22T03:47:41+00:00",
+     "companyId": 22,
+     "company": "Meta",
+     "asset": "Aktien",
+     "status": "Portfolio"
+    },
+    {
+     "date": "2026-06-23",
+     "title": "Meta launches cheaper range of AI smart glasses starting at $299",
+     "summary": "Meta launches cheaper range of AI smart glasses starting at $299 Reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHdqWktPUlFDUEx5WmktWHhqVkxzVlloYUpWYXVzRGlWdlA5RXZfUE1yT1VWbU9pRU84U1BpdUFoUUl2Y3pxX0g0cTlRckdwYXllSVJkNndsYTMyd3RGNWh1RGtSYk4tUUQwcTQtcU5nQkRISU5CMmhSMUJjUkE4cEtnVlRuWXNJSmp5YkJpSHhzWkh4WEtpUzJ2SUpYVDg?oc=5",
+     "category": "Markt",
+     "firstSeen": "2026-07-23T05:35:10+00:00",
      "companyId": 22,
      "company": "Meta",
      "asset": "Aktien",
@@ -2732,19 +2746,6 @@
      "summary": "Vistry Expects £30 Million Pretax Loss, CFO Steps Down Bloomberg.com",
      "source": "Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSU5SaEdMTS03bUVrUUYzWEV5X21KZmJScjZNMkNmdEMzWkFESGNQV1ZaQ2xJYVVHLVVWMGdpbkJmSmhmS1YtWE1tNEEzNGJNZHlrbUFJYjJpdmoySVlfVXFzMFU4eHMySm1BSThVTTRuZk5LSVhCcHNaNWZxTWczQnJwM3IxNjNBVjJXVHdZc1k2VHE4WG1CaVRZQm1janVCcTlfdW13?oc=5",
-     "category": "Earnings",
-     "firstSeen": "2026-07-09T04:19:41+00:00",
-     "companyId": 29,
-     "company": "Vistry",
-     "asset": "Aktien",
-     "status": "Portfolio"
-    },
-    {
-     "date": "2026-07-08",
-     "title": "Vistry woes continue as housing giant posts surprise loss",
-     "summary": "Vistry woes continue as housing giant posts surprise loss The Times",
-     "source": "The Times",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVF4eWV5NGx6SVFKQU1iUnBrWjlwbU9rLW9fUUZlbWpxcnhXSjlqYm5NTm0tQ0FxbEVlZjd1a1hMZGowNnBYUjdPejM1UEhQUzd1amJzekp2T3JWTHNGWERodERnQm9ZaVNrWlZZRGVyRU43T3VjRnNPQmVocGZ2V2tDNXZwa3FLSXRCVzh2SlRmSHk4Um44RjE3NTRiSVQxT2Q1RXNMMGZ5STQ?oc=5",
      "category": "Earnings",
      "firstSeen": "2026-07-09T04:19:41+00:00",
      "companyId": 29,
@@ -3719,19 +3720,6 @@
   },
   {
    "date": "2026-07-15",
-   "title": "Meta Workers Sue Over How the Company Carried Out Layoffs",
-   "summary": "Meta Workers Sue Over How the Company Carried Out Layoffs WSJ",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUNfRFRNZ0JheGxHQWVqV3pVdkJENU12QnFVNWxaRkQ0MUhMQnBIUEN5ZFg0ZDNtdVRqOUExN0lrems5RjFKbkdmYzJaTGVtSXdIREVxd01ycldncXJTRm44aVlEREU2aFYxNlJiRk9SazFoRk9JZmw0VWg4QTU0cUMyak54a20xTHlycFo2X2FNTkdmOW1qTzBKUE1FMmxjeHRfN3ZNMA?oc=5",
-   "category": "Markt",
-   "firstSeen": "2026-07-17T03:38:32+00:00",
-   "companyId": 22,
-   "company": "Meta",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-15",
    "title": "Vistry Non-Executive Director Boosts Stake with Share Purchase",
    "summary": "Vistry Non-Executive Director Boosts Stake with Share Purchase The Globe and Mail",
    "source": "The Globe and Mail",
@@ -3992,19 +3980,6 @@
   },
   {
    "date": "2026-07-08",
-   "title": "Vistry woes continue as housing giant posts surprise loss",
-   "summary": "Vistry woes continue as housing giant posts surprise loss The Times",
-   "source": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVF4eWV5NGx6SVFKQU1iUnBrWjlwbU9rLW9fUUZlbWpxcnhXSjlqYm5NTm0tQ0FxbEVlZjd1a1hMZGowNnBYUjdPejM1UEhQUzd1amJzekp2T3JWTHNGWERodERnQm9ZaVNrWlZZRGVyRU43T3VjRnNPQmVocGZ2V2tDNXZwa3FLSXRCVzh2SlRmSHk4Um44RjE3NTRiSVQxT2Q1RXNMMGZ5STQ?oc=5",
-   "category": "Earnings",
-   "firstSeen": "2026-07-09T04:19:41+00:00",
-   "companyId": 29,
-   "company": "Vistry",
-   "asset": "Aktien",
-   "status": "Portfolio"
-  },
-  {
-   "date": "2026-07-08",
    "title": "Vistry’s New CEO Targets Cost Cuts as CFO Exits",
    "summary": "Vistry’s New CEO Targets Cost Cuts as CFO Exits Bloomberg.com",
    "source": "Bloomberg.com",
@@ -4014,6 +3989,19 @@
    "companyId": 29,
    "company": "Vistry",
    "asset": "Aktien",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-07-07",
+   "title": "A.I.S. Resources Announces Geophysical and Mineral",
+   "summary": "A.I.S. Resources Announces Geophysical and Mineral GlobeNewswire",
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLV9TalN5aVJqNEJUdGpmZWh5OEU1NUNfbldmbHdlWm9CYVpBeTBTNjBsazJlSEJNb3pNUHRqek43dUNXNEVxeTFlTzBCMkRfcUF6S2xId1d2YV9OOTB5SFE3WjVoeks1bVFQekFBTUNRX21ib01BMXJDdmgwc0hUMUtidmQ0ZGh3T09oRGNEaEt1YjlreTFDQXZHbGdLcHZvWV9Nd0NEdkh3X1RWVGJSdTZxeldTckpmNHhZdXd0OTdBa2U0M0FlSkVoRDkta0xWRUdPcnJmc3JYa2VVZG1lQWFZM3NYZGtUbmFNM0NiTG4yMEhlRUJqUkw3N1k5YzM0Yk1GQ0FnNlRvT1Ixdm9rbnh5OFYzUjA0WEhaX0s5eU1yQ2JFbVdMZjV6OS1KTC1tZlZmbldtazFMbmpUNmlvZzlmZ0poY29WYlAyTA?oc=5",
+   "category": "Sonstiges",
+   "firstSeen": "2026-07-23T05:35:10+00:00",
+   "companyId": 5,
+   "company": "Mineral Resources",
+   "asset": "Anleihen",
    "status": "Portfolio"
   },
   {
@@ -4352,6 +4340,19 @@
    "companyId": 11,
    "company": "Graphic Packaging",
    "asset": "Anleihen",
+   "status": "Portfolio"
+  },
+  {
+   "date": "2026-06-23",
+   "title": "Meta launches cheaper range of AI smart glasses starting at $299",
+   "summary": "Meta launches cheaper range of AI smart glasses starting at $299 Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHdqWktPUlFDUEx5WmktWHhqVkxzVlloYUpWYXVzRGlWdlA5RXZfUE1yT1VWbU9pRU84U1BpdUFoUUl2Y3pxX0g0cTlRckdwYXllSVJkNndsYTMyd3RGNWh1RGtSYk4tUUQwcTQtcU5nQkRISU5CMmhSMUJjUkE4cEtnVlRuWXNJSmp5YkJpSHhzWkh4WEtpUzJ2SUpYVDg?oc=5",
+   "category": "Markt",
+   "firstSeen": "2026-07-23T05:35:10+00:00",
+   "companyId": 22,
+   "company": "Meta",
+   "asset": "Aktien",
    "status": "Portfolio"
   }
  ],
